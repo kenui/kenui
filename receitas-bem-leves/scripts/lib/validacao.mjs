@@ -1,8 +1,8 @@
 // Regras de validação das receitas. Retorna erros (bloqueiam) e avisos (revisar à mão).
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { RAIZ } from './fontes.mjs';
-import { calcularNutricao } from './nutricao.mjs';
+import { RAIZ, ingredientesRepetidos } from './fontes.mjs';
+import { calcularNutricao, valoresPor100g } from './nutricao.mjs';
 import { normalizar, slugificar } from './texto.mjs';
 
 const escapar = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -136,8 +136,10 @@ export function validarReceita(r, { ingredientes, regras }) {
 
   // Ilustração
   const il = r.ilustracao ?? {};
-  if (!il.prato_base) erro('ilustração sem prato_base');
-  if (il.massa && !['clara', 'chocolate', 'cenoura', 'banana', 'integral', 'queijo'].includes(il.massa)) erro(`cor de massa inválida: ${il.massa}`);
+  const listas = regras.ilustracao;
+  if (!listas.pratos_base.includes(il.prato_base)) erro(`prato_base inválido: ${il.prato_base}`);
+  if (il.massa && !listas.massas.includes(il.massa)) erro(`cor de massa inválida: ${il.massa}`);
+  if (il.cobertura && !listas.coberturas.includes(il.cobertura)) erro(`cobertura inválida: ${il.cobertura}`);
   for (const e of il.enfeites ?? []) {
     if (!enfeitesDisponiveis.has(e)) erro(`ilustração desenha "${e}", mas a receita não tem ingrediente com esse enfeite`);
   }
@@ -149,6 +151,28 @@ export function validarReceita(r, { ingredientes, regras }) {
   }
 
   return { erros, avisos, calculo };
+}
+
+// Confere o cadastro de ingredientes: fonte existente, valores presentes, medidas com fonte, listas válidas.
+export function validarCadastro({ ingredientes, regras }) {
+  const erros = ingredientesRepetidos.map((m) => `ingrediente repetido: ${m}`);
+  for (const c of Object.values(ingredientes)) {
+    const onde = `${c.id} (${c._arquivo})`;
+    if (!c.nome) erros.push(`${onde}: sem nome`);
+    if (!regras.secoes_mercado[c.secao_mercado]) erros.push(`${onde}: seção de mercado inválida "${c.secao_mercado}"`);
+    if (c.enfeite && !regras.ilustracao.enfeites.includes(c.enfeite)) erros.push(`${onde}: enfeite inválido "${c.enfeite}"`);
+    if (c.adocante && !regras.adocantes_aceitos.includes(c.adocante)) erros.push(`${onde}: adoçante não aceito "${c.adocante}"`);
+    if (c.alternativa_padrao && !ingredientes[c.alternativa_padrao]) erros.push(`${onde}: alternativa_padrao "${c.alternativa_padrao}" não existe`);
+    for (const [m, v] of Object.entries(c.gramas_por_medida ?? {})) {
+      if (!regras.medidas.includes(m)) erros.push(`${onde}: medida inválida "${m}"`);
+      if (!(v?.g > 0) || !v?.fonte) erros.push(`${onde}: medida "${m}" sem gramas ou sem fonte`);
+    }
+    if (!c.proibido) {
+      const v = valoresPor100g(c);
+      if (v.erro) erros.push(`${onde}: ${v.erro}`);
+    }
+  }
+  return erros;
 }
 
 function jaccard(a, b) {

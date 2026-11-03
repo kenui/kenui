@@ -32,7 +32,11 @@ export function carregarFontes() {
     };
   }
 
-  const usda = lerJson(join(pastaFontes, 'usda-sr-legacy.json')).alimentos;
+  // Todos os arquivos usda*.json da pasta de fontes (o principal e os extras de cada lote).
+  const usda = {};
+  for (const f of readdirSync(pastaFontes).filter((n) => /^usda.*\.json$/.test(n)).sort()) {
+    Object.assign(usda, lerJson(join(pastaFontes, f)).alimentos);
+  }
   const especiais = lerJson(join(pastaFontes, 'especiais.json')).alimentos;
   cache = { taco, usda, especiais };
   return cache;
@@ -48,9 +52,28 @@ export function buscarNaFonte(referencia) {
   return { ...alimento, rotulo: `${nomeTabela} ${tabela === 'especial' ? '' : codigo + ' '}${alimento.descricao}`.trim() };
 }
 
+// O cadastro fica em conteudo/ingredientes/*.json (base.json e um arquivo por lote).
+// Um id repetido entre arquivos vale o primeiro e é apontado como erro por validarCadastro.
+export const ingredientesRepetidos = [];
 export function carregarIngredientes() {
-  const lista = lerJson(join(PASTA_CONTEUDO, 'ingredientes.json')).ingredientes;
-  return Object.fromEntries(lista.map((i) => [i.id, i]));
+  const pasta = join(PASTA_CONTEUDO, 'ingredientes');
+  const todos = {};
+  ingredientesRepetidos.length = 0;
+  for (const f of readdirSync(pasta).filter((n) => n.endsWith('.json')).sort()) {
+    for (const i of lerJson(join(pasta, f)).ingredientes) {
+      if (todos[i.id]) { ingredientesRepetidos.push(`${i.id} cadastrado em ${todos[i.id]._arquivo} e em ${f}`); continue; }
+      todos[i.id] = { ...i, _arquivo: f };
+    }
+  }
+  return todos;
+}
+
+// Filtro por faixa de id: argumentos --de rbl-0021 --ate rbl-0068
+export function faixaDosArgumentos(args) {
+  const valor = (nome) => { const i = args.indexOf(nome); return i >= 0 ? args[i + 1] : null; };
+  const de = valor('--de');
+  const ate = valor('--ate');
+  return (id) => (!de || id >= de) && (!ate || id <= ate);
 }
 
 export function carregarProibidos() {

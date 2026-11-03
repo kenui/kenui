@@ -1,17 +1,19 @@
 // Recalcula a nutrição de todas as receitas e grava:
 // - conteudo/nutricao/<id>.json (cálculo linha por linha, para conferência)
 // - na receita: nutricao.por_porcao e etiquetas.low_carb
-// Uso: node scripts/calcular-nutricao.mjs
+// Uso: node scripts/calcular-nutricao.mjs [--de rbl-0021] [--ate rbl-0068]
 import { writeFileSync } from 'node:fs';
 import { join, relative } from 'node:path';
-import { carregarIngredientes, carregarProibidos, carregarReceitas, PASTA_NUTRICAO, RAIZ } from './lib/fontes.mjs';
+import { carregarIngredientes, carregarProibidos, carregarReceitas, faixaDosArgumentos, PASTA_NUTRICAO, RAIZ } from './lib/fontes.mjs';
 import { calcularNutricao } from './lib/nutricao.mjs';
 
 const ingredientes = carregarIngredientes();
 const { low_carb_max_carboidratos_g: limite } = carregarProibidos();
 let falhas = 0;
+const naFaixa = faixaDosArgumentos(process.argv.slice(2));
 
 for (const { arquivo, receita } of carregarReceitas()) {
+  if (!naFaixa(receita.id)) continue;
   const { erros, calculo } = calcularNutricao(receita, ingredientes);
   if (erros.length || !calculo.por_porcao) {
     falhas++;

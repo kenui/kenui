@@ -1,7 +1,8 @@
 // Extrai da base USDA FoodData Central (SR Legacy, abril/2018) só os alimentos usados no app.
-// Uso: node scripts/fontes/extrair-usda.mjs <pasta-descompactada-do-sr-legacy>
+// Uso: node scripts/fontes/extrair-usda.mjs <pasta-do-sr-legacy> [--saida conteudo/fontes/usda-extra-X.json] <fdc_id> ...
+// Sem --saida, acrescenta ao arquivo principal conteudo/fontes/usda-sr-legacy.json.
 // Download: https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_sr_legacy_food_csv_2018-04.zip
-import { readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { lerCsv } from '../lib/csv.mjs';
@@ -13,10 +14,14 @@ if (!pasta) {
 }
 
 const raiz = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
-const destino = join(raiz, 'conteudo', 'fontes', 'usda-sr-legacy.json');
-const atual = JSON.parse(readFileSync(destino, 'utf8'));
+const args = process.argv.slice(3);
+const iSaida = args.indexOf('--saida');
+const destino = iSaida >= 0 ? join(raiz, args[iSaida + 1]) : join(raiz, 'conteudo', 'fontes', 'usda-sr-legacy.json');
+const novos = args.filter((a, i) => i !== iSaida && i !== iSaida + 1);
+const vazio = { fonte: 'USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.', url: 'https://fdc.nal.usda.gov/', alimentos: {} };
+const atual = existsSync(destino) ? JSON.parse(readFileSync(destino, 'utf8')) : vazio;
 const ids = new Set(Object.keys(atual.alimentos));
-for (const extra of process.argv.slice(3)) ids.add(extra);
+for (const extra of novos) ids.add(extra);
 
 const NUTRIENTES = { 1008: 'kcal', 1005: 'carboidratos_g', 1079: 'fibra_g', 1003: 'proteina_g', 1004: 'lipidios_g' };
 
