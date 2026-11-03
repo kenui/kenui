@@ -1,0 +1,199 @@
+{
+  "id": "rbl-0011",
+  "slug": "panqueca-salgada-de-frango",
+  "nome": "Panqueca salgada de frango",
+  "descricao": "Panquecas finas recheadas com frango ao molho de tomate caseiro e gratinadas com queijo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 35,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "panquecas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 panquecas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo, mais um pouco para untar"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal (metade na massa, metade no molho)"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "300 g de peito de frango cozido e desfiado (cerca de 2 xícaras)"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates maduros picados"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio e molho",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Massa: bata no liquidificador o leite, os ovos, a farinha, o óleo e metade do sal por 1 minuto. Deixe descansar 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente de 20 cm, untada com um pouco de óleo, em fogo médio. Coloque meia concha de massa e gire para cobrir o fundo."
+    },
+    {
+      "texto": "Quando a borda soltar, cerca de 1 minuto, vire e deixe mais 30 segundos. Repita até acabar a massa.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Molho: refogue a cebola e o alho no azeite por 3 minutos. Junte os tomates e o restante do sal e cozinhe em fogo baixo por 10 minutos, amassando, até virar um molho.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Misture o frango e a salsinha com metade do molho."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Recheie cada panqueca com 2 colheres (sopa) de frango e enrole."
+    },
+    {
+      "texto": "Arrume numa travessa, cubra com o restante do molho e espalhe o queijo."
+    },
+    {
+      "texto": "Leve ao forno por 10 minutos, só para derreter o queijo.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 10,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por 1 xícara de aveia em flocos finos batida e use 1/4 de xícara a mais de leite: a massa fica um pouco mais firme."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por carne moída refogada ou por ricota com espinafre."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "As panquecas sem recheio podem ser congeladas, separadas por papel-manteiga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 435,
+      "carboidratos_g": 31.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0011.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_enrolada",
+    "massa": "clara",
+    "cobertura": "molho_tomate",
+    "recheio": "frango",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/panqueca-salgada.jpg",
+  "busca": {
+    "termos_extras": [
+      "panqueca de frango",
+      "panqueca recheada"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

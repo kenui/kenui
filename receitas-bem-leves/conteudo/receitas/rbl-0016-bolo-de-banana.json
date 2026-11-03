@@ -1,0 +1,175 @@
+{
+  "id": "rbl-0016",
+  "slug": "bolo-de-banana",
+  "nome": "Bolo de banana",
+  "descricao": "Bolo de banana com aveia e canela, adoçado só com a fruta, com rodelas de banana por cima.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "banana-nanica",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 bananas nanicas bem maduras"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de eritritol, se gostar de bolo mais doce",
+      "opcional": true
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica em rodelas"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte uma forma de bolo inglês de 25 cm e forre o fundo com papel-manteiga."
+    },
+    {
+      "texto": "No liquidificador, bata as 3 bananas, os ovos e o óleo até ficar liso.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Numa tigela, misture a aveia, a canela e, se for usar, o eritritol."
+    },
+    {
+      "texto": "Junte o creme de banana e misture bem. Por último, misture o fermento."
+    },
+    {
+      "texto": "Despeje na forma, arrume as rodelas de banana por cima e polvilhe a pitada de canela."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere 15 minutos antes de desenformar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da aveia por farinha de trigo integral para um bolo mais fofinho."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Use bananas com a casca bem pintadinha: quanto mais madura, mais doce o bolo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberto por 3 dias, ou na geladeira por 5."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 194,
+      "carboidratos_g": 23.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0016.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/bolo-de-banana.jpg",
+  "busca": {
+    "termos_extras": [
+      "bolo de banana com aveia",
+      "bolo de banana fit"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

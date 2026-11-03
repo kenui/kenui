@@ -1,0 +1,185 @@
+{
+  "id": "rbl-0019",
+  "slug": "salpicao-de-frango",
+  "nome": "Salpicão de frango",
+  "descricao": "Salpicão de ceia com frango, cenoura, maçã e salsão, num molho leve de iogurte.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 0,
+    "descanso_min": 30,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "xícaras"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote (170 g) de iogurte natural integral"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de creme de leite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango cozido e desfiado"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras médias raladas"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã fuji média em cubinhos, com casca (150 g)"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "salsao",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "2 talos de salsão picados (80 g)"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Salada",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Molho: misture o iogurte, o creme de leite, o azeite, o suco de limão, o sal e a pimenta."
+    },
+    {
+      "texto": "Pique a maçã e misture logo com um pouco do molho, para não escurecer."
+    },
+    {
+      "texto": "Numa tigela grande, junte o frango, a cenoura, o salsão e a maçã."
+    },
+    {
+      "texto": "Despeje o restante do molho e misture bem. Acerte o sal."
+    },
+    {
+      "texto": "Junte a salsinha e a cebolinha e leve à geladeira por pelo menos 30 minutos antes de servir.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o salsão por pepino em cubinhos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para ter 500 g de frango desfiado, cozinhe cerca de 700 g de peito cru em água com sal e 1 folha de louro por 25 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se quiser batata palha por cima, confira no rótulo se é sem açúcar e coloque só na hora de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 211,
+      "carboidratos_g": 7.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0019.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salpicao",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "frango_desfiado",
+      "cenoura",
+      "maca",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salpicao",
+      "salada de frango",
+      "salpicao de natal"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

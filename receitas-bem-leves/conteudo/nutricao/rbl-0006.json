@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0006",
+  "nome": "Crepioca de queijo",
+  "porcoes": 1,
+  "porcao": "1 crepioca",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "2 colheres (sopa) de polvilho doce",
+      "gramas": 16,
+      "kcal": 56.2,
+      "carboidratos_g": 13.89,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 colher (sopa) de leite",
+      "gramas": 15,
+      "kcal": 9.2,
+      "carboidratos_g": 0.72,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "2 colheres (sopa) de queijo minas frescal esfarelado (30 g)",
+      "gramas": 30,
+      "kcal": 79.2,
+      "carboidratos_g": 0.96,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 236.6,
+    "carboidratos_g": 16.4
+  },
+  "por_porcao": {
+    "kcal": 237,
+    "carboidratos_g": 16.4
+  }
+}

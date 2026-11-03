@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0006",
+  "slug": "crepioca-de-queijo",
+  "nome": "Crepioca de queijo",
+  "descricao": "Massa fininha de ovo e polvilho dobrada com queijo minas e orégano.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 5,
+    "total_min": 8
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "crepioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 crepioca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de polvilho doce"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de leite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de queijo minas frescal esfarelado (30 g)"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num prato fundo, bata o ovo com o polvilho, o leite e o sal até não ter grumos."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente com o azeite e aqueça em fogo médio-baixo."
+    },
+    {
+      "texto": "Despeje a massa e espalhe girando a frigideira. Deixe 1 a 2 minutos, até soltar do fundo.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Vire, espalhe o queijo e o orégano em metade e dobre ao meio."
+    },
+    {
+      "texto": "Deixe mais 1 minuto de cada lado para o queijo amolecer e sirva.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Se usar goma de tapioca pronta (hidratada) no lugar do polvilho, use 3 colheres (sopa) e tire o leite."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por mussarela ou por frango desfiado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Mexa a massa de novo logo antes de despejar: o polvilho assenta no fundo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 237,
+      "carboidratos_g": 16.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0006.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "crepioca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "queijo",
+    "enfeites": [
+      "queijo_branco",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tapioca com ovo",
+      "crepe de tapioca"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

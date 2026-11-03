@@ -1,0 +1,164 @@
+{
+  "id": "rbl-0004",
+  "slug": "pao-de-aveia-de-forma",
+  "nome": "Pão de aveia de forma",
+  "descricao": "Pão caseiro de forma com aveia, macio e bom para torrar, com massa sem açúcar.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 35,
+    "descanso_min": 100,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 sachê (10 g) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 300,
+      "medida": "ml",
+      "texto": "1 e 1/4 xícara (300 ml) de água morna"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para finalizar",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de aveia para polvilhar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela grande, misture a farinha, a aveia e o fermento."
+    },
+    {
+      "texto": "Junte a água morna e o azeite e misture com uma colher até a massa juntar.",
+      "aviso": "A água deve estar morna, não quente, para não matar o fermento."
+    },
+    {
+      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Volte a massa para a tigela, cubra com um pano e deixe crescer por cerca de 1 hora, até dobrar de tamanho.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Unte uma forma de bolo inglês de cerca de 25 cm. Abra a massa, enrole como um rocambole e coloque na forma com a emenda para baixo."
+    },
+    {
+      "texto": "Pincele um pouco de água por cima, polvilhe a aveia e deixe crescer mais 40 minutos, coberta.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Nos últimos 15 minutos de crescimento, preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até dourar e soar oco quando você bater embaixo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Desenforme e espere esfriar sobre uma grade antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral e acrescente 2 colheres (sopa) de água."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sem açúcar o fermento trabalha um pouco mais devagar: é normal levar 1 hora para a massa crescer."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde fatiado em saco fechado por 3 dias, ou congele as fatias e torre direto do congelador."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 143,
+      "carboidratos_g": 24.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0004.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao caseiro",
+      "pao de forma caseiro",
+      "pao integral"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

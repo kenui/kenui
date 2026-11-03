@@ -1,0 +1,121 @@
+{
+  "receita": "rbl-0013",
+  "nome": "Sopa de abóbora com gengibre",
+  "porcoes": 4,
+  "porcao": "1 prato fundo (cerca de 400 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "texto": "1 colher (chá) de gengibre fresco ralado",
+      "gramas": 2,
+      "kcal": 1.6,
+      "carboidratos_g": 0.36,
+      "fonte": "USDA SR Legacy 169231 Ginger root, raw",
+      "por_100g": {
+        "kcal": 80,
+        "carboidratos_g": 17.77
+      }
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "800 g de abóbora cabotiá descascada, em cubos",
+      "gramas": 800,
+      "kcal": 312,
+      "carboidratos_g": 67.2,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água quente",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "2 colheres (sopa) de creme de leite para servir (opcional)",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 485.1,
+    "carboidratos_g": 79.2
+  },
+  "por_porcao": {
+    "kcal": 121,
+    "carboidratos_g": 19.8
+  }
+}

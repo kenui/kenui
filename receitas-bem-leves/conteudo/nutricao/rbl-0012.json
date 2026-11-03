@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0012",
+  "nome": "Frango assado com legumes",
+  "porcoes": 4,
+  "porcao": "2 sobrecoxas com legumes",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "texto": "8 sobrecoxas de frango sem pele (cerca de 800 g)",
+      "gramas": 800,
+      "kcal": 1296,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 414 Frango, sobrecoxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 162,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "4 dentes de alho amassados",
+      "gramas": 12,
+      "kcal": 13.6,
+      "carboidratos_g": 2.87,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1 colher (chá) de páprica doce",
+      "gramas": 2.3,
+      "kcal": 6.5,
+      "carboidratos_g": 1.24,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "1 colher (chá) de alecrim seco",
+      "gramas": 1.2,
+      "kcal": 4,
+      "carboidratos_g": 0.77,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "abobrinha",
+      "texto": "2 abobrinhas médias",
+      "gramas": 392,
+      "kcal": 74.5,
+      "carboidratos_g": 16.86,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras médias",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1728.4,
+    "carboidratos_g": 44.5
+  },
+  "por_porcao": {
+    "kcal": 432,
+    "carboidratos_g": 11.1
+  }
+}

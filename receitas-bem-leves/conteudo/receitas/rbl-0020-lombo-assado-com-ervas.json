@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0020",
+  "slug": "lombo-assado-com-ervas",
+  "nome": "Lombo assado com ervas",
+  "descricao": "Lombo suíno marinado em alho, limão e alecrim, assado até dourar.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 75,
+    "descanso_min": 120,
+    "total_min": 210
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 fatias (1/8 da peça)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lombo-suino",
+      "quantidade": 1200,
+      "medida": "g",
+      "texto": "1 peça de lombo suíno (1,2 kg)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 5,
+      "medida": "dente",
+      "texto": "5 dentes de alho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de alecrim seco"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Amasse o alho com o sal até virar uma pasta. Misture o suco de limão, o azeite, o alecrim, a páprica e a pimenta."
+    },
+    {
+      "texto": "Faça furos no lombo com uma faca e espalhe o tempero por toda a peça. Deixe na geladeira por pelo menos 2 horas, virando uma vez.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Coloque o lombo numa assadeira com o tempero, cubra com papel-alumínio e asse por 50 minutos.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Retire o papel, regue com o caldo da assadeira e asse mais 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Deixe descansar 10 minutos antes de fatiar, para a carne não perder o suco.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 75,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por tomilho ou orégano."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o lombo por pernil suíno: asse 1 hora coberto e 40 minutos descoberto."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O ideal é temperar na véspera: a carne fica mais saborosa por dentro."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 301,
+      "carboidratos_g": 1.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0020.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lombo de porco",
+      "lombo de natal",
+      "carne de ceia"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

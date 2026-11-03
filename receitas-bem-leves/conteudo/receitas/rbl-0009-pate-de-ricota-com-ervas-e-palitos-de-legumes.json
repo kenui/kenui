@@ -1,0 +1,161 @@
+{
+  "id": "rbl-0009",
+  "slug": "pate-de-ricota-com-ervas-e-palitos-de-legumes",
+  "nome": "Patê de ricota com ervas e palitos de legumes",
+  "descricao": "Patê cremoso de ricota com alho, limão e cheiro-verde, servido com palitos de cenoura e pepino.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 colheres (sopa) de patê e 1/4 dos palitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 pedaço de ricota (250 g)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de iogurte natural integral"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho bem amassado"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Palitos",
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras médias em palitos"
+    },
+    {
+      "grupo": "Palitos",
+      "ingrediente": "pepino",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pepino grande em palitos (200 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Amasse a ricota com um garfo até ficar sem pedaços."
+    },
+    {
+      "texto": "Junte o iogurte, o azeite, o alho, o suco de limão e o sal e misture até ficar cremoso."
+    },
+    {
+      "texto": "Acrescente a cebolinha e a salsinha e acerte o sal."
+    },
+    {
+      "texto": "Corte as cenouras e o pepino em palitos de cerca de 8 cm."
+    },
+    {
+      "texto": "Sirva o patê numa tigelinha, com os palitos em volta."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por queijo cottage ou por queijo minas frescal amassado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pepino por salsão ou pimentão em tiras."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O patê dura 3 dias na geladeira, em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 141,
+      "carboidratos_g": 6.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0009.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "pepino",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pate de ricota",
+      "pasta de ricota",
+      "palitinhos de legumes"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "low_carb_max_carboidratos_g": 15,
+  "categorias": {
+    "cafe_da_manha": "Café da manhã",
+    "paes_substitutos": "Pães e substitutos do pão",
+    "lanches": "Lanches",
+    "almoco_jantar": "Almoço e jantar",
+    "doces_bolos": "Doces e bolos",
+    "ceia": "Ceia"
+  },
+  "destaques": {
+    "cafe_sem_pao": "Café da manhã sem pão",
+    "substitutos_do_pao": "Substitutos do pão",
+    "doces_e_bolos": "Doces e bolos",
+    "rapidas_15min": "Receitas rápidas até 15 min"
+  },
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "almoco",
+    "jantar"
+  ],
+  "medidas": [
+    "unidade",
+    "xicara",
+    "colher_sopa",
+    "colher_cha",
+    "pitada",
+    "dente",
+    "g",
+    "ml"
+  ],
+  "secoes_mercado": {
+    "hortifruti": "Hortifrúti",
+    "padaria_cereais": "Padaria e cereais",
+    "laticinios_frios": "Laticínios e frios",
+    "carnes_ovos": "Carnes e ovos",
+    "mercearia": "Mercearia",
+    "temperos": "Temperos",
+    "congelados": "Congelados",
+    "bebidas": "Bebidas"
+  },
+  "adocantes_aceitos": [
+    "eritritol",
+    "xilitol",
+    "stevia",
+    "sucralose",
+    "fruta"
+  ],
+  "forno": {
+    "temperatura_min_c": 140,
+    "temperatura_max_c": 240,
+    "tempo_max_min": 180
+  },
+  "termos_proibidos": [
+    "açúcar",
+    "acucar",
+    "mel",
+    "melado",
+    "rapadura",
+    "xarope",
+    "glucose de milho",
+    "leite condensado",
+    "achocolatado",
+    "doce de leite",
+    "chocolate ao leite",
+    "caramelo",
+    "maltodextrina",
+    "dextrose",
+    "frutose",
+    "agave",
+    "ketchup",
+    "granola"
+  ],
+  "expressoes_permitidas_com_termo_proibido": [
+    "sem açúcar",
+    "sem acucar",
+    "0 açúcar adicionado",
+    "zero açúcar",
+    "açúcar adicionado",
+    "sem leite condensado",
+    "sem mel"
+  ],
+  "termos_promessa_de_saude": [
+    "glicemia",
+    "glicose",
+    "insulina",
+    "diabetes",
+    "diabético",
+    "diabética",
+    "pré-diabetes",
+    "cura",
+    "curar",
+    "emagrece",
+    "emagrecer",
+    "emagrecimento",
+    "perder peso",
+    "queima gordura",
+    "detox",
+    "desintoxica",
+    "previne",
+    "controla",
+    "remédio",
+    "tratamento"
+  ],
+  "expressoes_permitidas_com_termo_de_saude": [
+    "meia cura",
+    "meia-cura"
+  ],
+  "observacao": "Os termos proibidos são procurados em nomes, textos de ingredientes, passos e dicas, com e sem acento e como palavra inteira. As expressões permitidas são retiradas do texto antes da busca."
+}

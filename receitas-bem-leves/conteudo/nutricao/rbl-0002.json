@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0002",
+  "nome": "Misto quente sem pão",
+  "porcoes": 1,
+  "porcao": "1 misto",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1 colher (sopa) de queijo parmesão ralado",
+      "gramas": 5,
+      "kcal": 22.7,
+      "carboidratos_g": 0.09,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "presunto",
+      "texto": "2 fatias de presunto magro (30 g)",
+      "gramas": 30,
+      "kcal": 28.2,
+      "carboidratos_g": 0.63,
+      "fonte": "TACO 4ª ed. 439 Presunto, sem capa de gordura",
+      "por_100g": {
+        "kcal": 94,
+        "carboidratos_g": 2.1
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "2 fatias finas de queijo mussarela (40 g)",
+      "gramas": 40,
+      "kcal": 132,
+      "carboidratos_g": 1.2,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 rodelas finas de tomate",
+      "gramas": 30.8,
+      "kcal": 4.6,
+      "carboidratos_g": 0.95,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1/2 colher (chá) de manteiga para untar",
+      "gramas": 2.4,
+      "kcal": 17.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 348.2,
+    "carboidratos_g": 4.5
+  },
+  "por_porcao": {
+    "kcal": 348,
+    "carboidratos_g": 4.5
+  }
+}

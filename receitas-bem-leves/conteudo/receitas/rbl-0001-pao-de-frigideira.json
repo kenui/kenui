@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0001",
+  "slug": "pao-de-frigideira",
+  "nome": "Pão de frigideira",
+  "descricao": "Pão macio feito na frigideira em 10 minutos, bom para sanduíche.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 6,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de requeijão cremoso",
+      "alternativa": {
+        "ingrediente": "iogurte-natural",
+        "texto": "ou 1 colher (sopa) de iogurte natural"
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata o ovo com um garfo por 1 minuto."
+    },
+    {
+      "texto": "Junte a aveia, o requeijão e o sal e misture até ficar uma massa lisa."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para misturar."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena (cerca de 15 cm) com o azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje a massa, tampe e deixe 3 minutos, até a borda soltar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Vire com uma espátula e deixe mais 2 a 3 minutos, até dourar.",
+      "aviso": "Fogo baixo para não queimar por fora e ficar cru por dentro.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Corte ao meio na horizontal e recheie como quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Use 2 colheres (sopa) de farelo de aveia ou de farinha de amêndoas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para um pão mais alto, use uma frigideira menor."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 173,
+      "carboidratos_g": 9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0001.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/pao-de-frigideira.jpg",
+  "busca": {
+    "termos_extras": [
+      "pao rapido",
+      "pao de caneca",
+      "pao sem trigo"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

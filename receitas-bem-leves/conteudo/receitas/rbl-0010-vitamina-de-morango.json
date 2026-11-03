@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0010",
+  "slug": "vitamina-de-morango",
+  "nome": "Vitamina de morango",
+  "descricao": "Vitamina cremosa de leite, morango e aveia, pronta em 5 minutos.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 200 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos (cerca de 12)"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de eritritol, se quiser mais doce",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave os morangos e tire as folhinhas."
+    },
+    {
+      "texto": "Bata no liquidificador o leite, os morangos e a aveia por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Prove e, se quiser mais doce, junte o eritritol e bata de novo."
+    },
+    {
+      "texto": "Sirva na hora, bem gelada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use morangos congelados: a vitamina fica mais cremosa e gelada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por iogurte natural para uma vitamina mais grossa."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Banana madura também adoça a vitamina sem precisar de adoçante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 106,
+      "carboidratos_g": 12.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0010.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina",
+      "smoothie de morango",
+      "batida de morango"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

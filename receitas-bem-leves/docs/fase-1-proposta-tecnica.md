@@ -1,6 +1,6 @@
 # Receitas Bem Leves — Fase 1: proposta técnica
 
-Status: **aguardando aprovação**. Nenhum código foi escrito.
+Status: **aprovada em 03/11/2026** (ver "Decisões aprovadas" no fim).
 
 ---
 
@@ -352,3 +352,16 @@ README.md
 6. **Eventos da Hotmart**: além de reembolso, chargeback e cancelamento, bloquear também em **pedido de reembolso em análise** (`PURCHASE_PROTEST`)? Recomendo **não bloquear** nesse caso, só quando o reembolso for concluído.
 7. **Telas de referência**: o arquivo `telas.jpg` não chegou até mim. Ele não está no repositório nem na conversa. Pode enviar de novo ou colocar no repositório?
 8. **Repositório**: este repositório (`kenui/kenui`) é o seu **repositório de perfil do GitHub**. O README dele aparece na sua página pública, e o repositório provavelmente é público, o que deixaria todas as receitas visíveis. Recomendo criar um repositório **privado** só para o app (ex.: `kenui/receitas-bem-leves`) e trabalhar nele a partir da fase 2. Se preferir continuar aqui, aviso que o README do app vai substituir o do seu perfil.
+
+---
+
+## Decisões aprovadas
+
+1. Receitas protegidas atrás do login: **sim**.
+2. Supabase: **plano grátis**, com consulta automática diária para não pausar.
+3. Domínio: **app.dividaclara.com.br**, com e-mails saindo do mesmo domínio.
+4. Carboidrato dos adoçantes: **eritritol, stevia e sucralose contam 0 g e 0 kcal; xilitol conta cheio** (2,4 kcal/g).
+5. Favoritos e trocas do plano: **no aparelho e com cópia na conta**.
+6. Pedido de reembolso em análise: **não bloqueia**; bloqueia só reembolso concluído, chargeback e cancelamento.
+7. Telas de referência (`telas.jpg`): **ainda não recebidas**.
+8. Repositório: não foi possível criar um repositório novo a partir desta sessão; o projeto fica na pasta `receitas-bem-leves/` do repositório `kenui/kenui`, sem alterar o README do perfil.

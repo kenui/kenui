@@ -1,0 +1,207 @@
+{
+  "id": "rbl-0015",
+  "slug": "bolo-de-chocolate",
+  "nome": "Bolo de chocolate",
+  "descricao": "Bolo de chocolate fofinho de liquidificador, feito com aveia e cacau 100%, com calda de chocolate.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 44,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte uma forma redonda de 22 cm com óleo e polvilhe cacau."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador até virar farinha. Passe para uma tigela."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o óleo, o leite, o eritritol e a baunilha por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Despeje sobre a farinha de aveia, junte o cacau e o sal e misture com um batedor até ficar liso."
+    },
+    {
+      "texto": "Por último, misture o fermento com delicadeza e despeje na forma."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até um palito sair com migalhas secas.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Calda: numa panela pequena, em fogo baixo, misture o cacau, o leite, o eritritol e a manteiga e mexa por 3 a 4 minutos, até engrossar e brilhar.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Espere o bolo amornar, desenforme e espalhe a calda por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Use 1 e 1/2 xícara (chá) de farinha de trigo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O eritritol deixa uma sensação de frescor na boca. A calda morna ajuda a disfarçar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 188,
+      "carboidratos_g": 13.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0015.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "chocolate",
+    "cobertura": "calda_chocolate",
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/bolo-de-chocolate.jpg",
+  "busca": {
+    "termos_extras": [
+      "bolo de cacau",
+      "bolo de chocolate fit",
+      "bolo de liquidificador"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

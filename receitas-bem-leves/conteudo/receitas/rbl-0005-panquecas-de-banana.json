@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0005",
+  "slug": "panquecas-de-banana",
+  "nome": "Panquecas de banana",
+  "descricao": "Panquequinhas fofas de banana, ovo e aveia, adoçadas só com a fruta.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 12,
+    "total_min": 17
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "panquecas pequenas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "4 panquecas pequenas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas nanicas bem maduras"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "Morangos para servir (opcional)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Amasse as bananas com um garfo até virar um purê."
+    },
+    {
+      "texto": "Junte os ovos e bata com o garfo até misturar."
+    },
+    {
+      "texto": "Acrescente a aveia, a canela e o fermento e mexa bem. Deixe descansar 2 minutos para a aveia hidratar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente com um pouco do óleo e aqueça em fogo médio-baixo."
+    },
+    {
+      "texto": "Coloque 2 colheres (sopa) de massa para cada panqueca, sem encostar uma na outra."
+    },
+    {
+      "texto": "Quando aparecerem furinhos em cima, cerca de 2 minutos, vire e deixe mais 1 minuto.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Repita até acabar a massa. Sirva com morangos, se quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Use 3 colheres (sopa) de farinha de trigo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais madura a banana, mais doce fica a panqueca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por 2 dias e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 243,
+      "carboidratos_g": 36.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0005.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_pilha",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "morango",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/panquecas-de-banana.jpg",
+  "busca": {
+    "termos_extras": [
+      "panqueca doce",
+      "panqueca de aveia",
+      "pancake"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

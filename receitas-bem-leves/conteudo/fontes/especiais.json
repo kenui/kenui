@@ -1,0 +1,35 @@
+{
+  "descricao": "Valores que não estão na TACO nem na USDA SR Legacy, ou que seguem a regra do app aprovada na fase 1. Valores por 100 g.",
+  "alimentos": {
+    "eritritol": {
+      "descricao": "Eritritol",
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "justificativa": "Regra do app aprovada na fase 1: o eritritol é contado como 0 kcal e 0 g de carboidrato porque o corpo praticamente não o absorve."
+    },
+    "stevia": {
+      "descricao": "Stevia (adoçante)",
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "justificativa": "Regra do app aprovada na fase 1: stevia contada como 0 kcal e 0 g de carboidrato. Usada em quantidades muito pequenas."
+    },
+    "sucralose": {
+      "descricao": "Sucralose (adoçante)",
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "justificativa": "Regra do app aprovada na fase 1: sucralose contada como 0 kcal e 0 g de carboidrato. Usada em quantidades muito pequenas."
+    },
+    "xilitol": {
+      "descricao": "Xilitol",
+      "kcal": 240,
+      "carboidratos_g": 100,
+      "justificativa": "Regra do app aprovada na fase 1: o xilitol é contado com o carboidrato cheio (100 g por 100 g) e com 2,4 kcal por grama, o fator usado para polióis na rotulagem nutricional."
+    },
+    "agua": {
+      "descricao": "Água",
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "justificativa": "Água não tem calorias nem carboidrato."
+    }
+  }
+}

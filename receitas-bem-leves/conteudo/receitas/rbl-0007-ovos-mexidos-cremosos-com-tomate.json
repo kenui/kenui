@@ -1,0 +1,138 @@
+{
+  "id": "rbl-0007",
+  "slug": "ovos-mexidos-cremosos-com-tomate",
+  "nome": "Ovos mexidos cremosos com tomate",
+  "descricao": "Ovos mexidos macios com tomate refogado, requeijão e cebolinha.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 4,
+    "cozimento_min": 5,
+    "total_min": 9
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "prato"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 prato"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 tomate picado, sem sementes"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata os ovos com o sal e a pimenta, só até misturar a gema e a clara."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira em fogo baixo e refogue o tomate por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Junte os ovos e mexa devagar com uma espátula, puxando do fundo para o centro."
+    },
+    {
+      "texto": "Quando estiverem quase firmes e ainda brilhantes, desligue o fogo e misture o requeijão."
+    },
+    {
+      "texto": "Salpique a cebolinha e sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por 1 colher (sopa) de queijo minas frescal esfarelado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Desligar o fogo um pouco antes do ponto deixa o ovo cremoso, porque ele termina de cozinhar no calor da panela."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 226,
+      "carboidratos_g": 4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0007.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "ovos_mexidos",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo mexido",
+      "ovos com tomate"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

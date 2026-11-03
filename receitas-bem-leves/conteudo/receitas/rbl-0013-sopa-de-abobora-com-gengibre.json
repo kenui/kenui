@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0013",
+  "slug": "sopa-de-abobora-com-gengibre",
+  "nome": "Sopa de abóbora com gengibre",
+  "descricao": "Sopa cremosa de abóbora cabotiá com um toque de gengibre, sem farinha para engrossar.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 400 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre fresco ralado"
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de abóbora cabotiá descascada, em cubos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de creme de leite para servir (opcional)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, refogue a cebola e o alho no azeite por 3 minutos, até murchar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o gengibre e mexa por 30 segundos."
+    },
+    {
+      "texto": "Acrescente a abóbora, a água e o sal. Tampe e cozinhe em fogo médio por 20 minutos, até a abóbora desmanchar com o garfo.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Desligue o fogo e espere 5 minutos. Bata no liquidificador em duas vezes.",
+      "aviso": "Segure a tampa do liquidificador com um pano: a sopa quente faz pressão.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Volte a sopa para a panela, acerte o sal e aqueça."
+    },
+    {
+      "texto": "Sirva com salsinha e, se quiser, um fio de creme de leite."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora cabotiá por abóbora moranga ou de pescoço."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem gengibre? Use 1 pitada de noz-moscada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congela bem por até 3 meses, em potes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 121,
+      "carboidratos_g": 19.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0013.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "creme de abobora",
+      "caldo de abobora",
+      "sopa de abobora cabotia"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

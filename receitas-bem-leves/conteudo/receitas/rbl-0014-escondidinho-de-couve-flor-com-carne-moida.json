@@ -1,0 +1,196 @@
+{
+  "id": "rbl-0014",
+  "slug": "escondidinho-de-couve-flor-com-carne-moida",
+  "nome": "Escondidinho de couve-flor com carne moída",
+  "descricao": "Carne moída refogada com tomate, coberta com purê de couve-flor e queijo gratinado.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 pedaço (1/5 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Purê",
+      "ingrediente": "couve-flor",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "1 couve-flor média, só os buquês (600 g)"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal (metade no purê, metade na carne)"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe os buquês de couve-flor em água fervente por 12 minutos, até ficarem bem macios. Escorra muito bem.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Amasse ou bata a couve-flor com o requeijão, metade do sal e a noz-moscada até virar um purê. Reserve."
+    },
+    {
+      "texto": "Numa frigideira grande, refogue a cebola e o alho no azeite por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a carne moída e o restante do sal e mexa até a carne soltar e perder a cor rosada, cerca de 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente os tomates e cozinhe mais 5 minutos. Desligue e misture a salsinha.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe a carne numa travessa média e cubra com o purê."
+    },
+    {
+      "texto": "Salpique a mussarela e o parmesão e asse por 20 minutos, até gratinar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne moída por frango desfiado ou por atum em lata escorrido."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da couve-flor por mandioquinha cozida para um purê mais encorpado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se o purê ficar aguado, leve à panela por 3 minutos mexendo para secar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 272,
+      "carboidratos_g": 9.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0014.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": "carne_moida",
+    "enfeites": [
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "escondidinho",
+      "escondidinho de carne",
+      "pure de couve flor"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0012",
+  "slug": "frango-assado-com-legumes",
+  "nome": "Frango assado com legumes",
+  "descricao": "Sobrecoxas temperadas com alho, limão e páprica, assadas na mesma assadeira que os legumes.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 50,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 sobrecoxas com legumes"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "8 sobrecoxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 abobrinhas médias"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras médias"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o frango com o alho, o suco de limão, a páprica, o alecrim, o sal e a pimenta. Se tiver tempo, deixe 20 minutos na geladeira."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Corte a abobrinha em meias-luas grossas, a cenoura em rodelas e a cebola em gomos."
+    },
+    {
+      "texto": "Numa assadeira grande, espalhe os legumes, regue com o azeite e coloque o frango por cima, sem amontoar."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 25 minutos.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o papel, vire o frango e asse mais 20 a 25 minutos, até dourar e os legumes ficarem macios.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por chuchu, berinjela ou brócolis."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Pode usar coxas no lugar das sobrecoxas: asse 10 minutos a mais."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não amontoe na assadeira: com espaço, o frango doura em vez de cozinhar no vapor."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 432,
+      "carboidratos_g": 11.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0012.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobrinha",
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango de forno",
+      "sobrecoxa assada",
+      "frango com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

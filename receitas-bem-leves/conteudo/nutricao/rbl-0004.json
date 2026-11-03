@@ -1,0 +1,97 @@
+{
+  "receita": "rbl-0004",
+  "nome": "Pão de aveia de forma",
+  "porcoes": 12,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "gramas": 312.5,
+      "kcal": 1125,
+      "carboidratos_g": 234.69,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 xícara (chá) de aveia em flocos",
+      "gramas": 81,
+      "kcal": 319.1,
+      "carboidratos_g": 53.95,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "1 sachê (10 g) de fermento biológico seco",
+      "gramas": 10,
+      "kcal": 32.5,
+      "carboidratos_g": 4.12,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/4 xícara (300 ml) de água morna",
+      "gramas": 300,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 colher (sopa) de aveia para polvilhar",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 1715.3,
+    "carboidratos_g": 292.8
+  },
+  "por_porcao": {
+    "kcal": 143,
+    "carboidratos_g": 24.4
+  }
+}

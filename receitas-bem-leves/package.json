@@ -1,0 +1,15 @@
+{
+  "name": "receitas-bem-leves",
+  "private": true,
+  "version": "0.2.0",
+  "description": "App Receitas Bem Leves: receitas sem açúcar adicionado.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "nutricao": "node scripts/calcular-nutricao.mjs",
+    "validar": "node scripts/validar.mjs",
+    "revisao": "node scripts/gerar-revisao.mjs",
+    "test": "node --test testes/*.test.mjs",
+    "checar": "npm run nutricao && npm run validar && npm test"
+  }
+}

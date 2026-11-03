@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0002",
+  "slug": "misto-quente-sem-pao",
+  "nome": "Misto quente sem pão",
+  "descricao": "Massa fininha de ovo e queijo dobrada com presunto e mussarela, dourada na frigideira.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 7,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "misto"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 misto"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    },
+    {
+      "ingrediente": "presunto",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "2 fatias de presunto magro (30 g)"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "2 fatias finas de queijo mussarela (40 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "2 rodelas finas de tomate"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de manteiga para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num prato fundo, bata os ovos com o parmesão e o orégano."
+    },
+    {
+      "texto": "Aqueça a manteiga numa frigideira antiaderente média (20 a 22 cm) em fogo baixo."
+    },
+    {
+      "texto": "Despeje os ovos e gire a frigideira para formar uma camada fina. Tampe e deixe 2 minutos, até firmar por cima.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Sobre metade da massa, coloque uma fatia de queijo, o presunto, o tomate e a outra fatia de queijo."
+    },
+    {
+      "texto": "Dobre a outra metade por cima, como um pastel, e aperte de leve com a espátula."
+    },
+    {
+      "texto": "Deixe 1 a 2 minutos de cada lado, até o queijo derreter e a massa dourar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Corte ao meio e sirva quente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o presunto por peito de peru ou por frango desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem parmesão? Use 1 colher (sopa) de queijo minas ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Uma frigideira de bom antiaderente faz toda a diferença para virar sem rasgar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 348,
+      "carboidratos_g": 4.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0002.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "misto_quente",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "presunto_queijo",
+    "enfeites": [
+      "queijo_derretido",
+      "presunto",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "foto": "fotos/misto-quente-sem-pao.jpg",
+  "busca": {
+    "termos_extras": [
+      "misto quente",
+      "queijo quente",
+      "omelete recheada"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

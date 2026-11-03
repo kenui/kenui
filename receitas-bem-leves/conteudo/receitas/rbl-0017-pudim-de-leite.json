@@ -1,0 +1,182 @@
+{
+  "id": "rbl-0017",
+  "slug": "pudim-de-leite",
+  "nome": "Pudim de leite",
+  "descricao": "Pudim de forno cremoso, feito sem leite condensado, com calda de morango.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 68,
+    "descanso_min": 240,
+    "total_min": 330
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos picados"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com o óleo uma forma de pudim de 20 cm, com furo no meio."
+    },
+    {
+      "texto": "Bata no liquidificador o leite, o leite em pó, os ovos, o eritritol e a baunilha por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Deixe descansar 5 minutos e tire a espuma de cima com uma colher. Despeje na forma.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Cubra a forma com papel-alumínio e coloque dentro de uma assadeira maior com 3 dedos de água quente (banho-maria)."
+    },
+    {
+      "texto": "Asse por 50 a 60 minutos, até o centro firmar e tremer só um pouco quando você balançar a forma.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por pelo menos 4 horas."
+    },
+    {
+      "texto": "Calda: cozinhe os morangos com a água e o eritritol em fogo baixo por 8 minutos, amassando, até engrossar. Deixe esfriar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Passe uma faca na borda do pudim, vire sobre um prato e sirva com a calda por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango da calda por frutas vermelhas congeladas ou por maracujá."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tirar a espuma antes de assar deixa o pudim liso, sem furinhos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 164,
+      "carboidratos_g": 10.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0017.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim sem leite condensado",
+      "pudim de forno",
+      "pudim caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

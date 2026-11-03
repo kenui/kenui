@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0008",
+  "slug": "muffin-salgado-de-legumes",
+  "nome": "Muffin salgado de legumes",
+  "descricao": "Bolinhos de forno com aveia, cenoura, abobrinha e queijo, bons para levar na bolsa.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "muffins"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "2 muffins"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos, batida no liquidificador"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média ralada"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 abobrinha média ralada"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Esprema a abobrinha ralada com as mãos para tirar o excesso de água."
+    },
+    {
+      "texto": "Com um batedor, misture bem os ovos, o leite e o óleo."
+    },
+    {
+      "texto": "Numa tigela, junte a aveia batida, o sal e o orégano. Despeje os líquidos e misture."
+    },
+    {
+      "texto": "Acrescente a cenoura, a abobrinha e o queijo. Por último, misture o fermento."
+    },
+    {
+      "texto": "Distribua a massa nas forminhas até 3/4 da altura."
+    },
+    {
+      "texto": "Asse por 22 a 25 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por 1/2 xícara de espinafre picado ou de brócolis cozido picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira. Aqueça 1 minuto no micro-ondas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 282,
+      "carboidratos_g": 20.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0008.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho salgado",
+      "muffin de legumes",
+      "lanche para levar"
+    ]
+  },
+  "revisao": {
+    "status": "piloto",
+    "observacoes": ""
+  }
+}

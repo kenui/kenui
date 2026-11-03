@@ -1,0 +1,1366 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "167747": {
+      "descricao": "Lemon juice, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 244
+        },
+        {
+          "quantidade": 1,
+          "medida": "fl oz",
+          "gramas": 30.5
+        },
+        {
+          "quantidade": 1,
+          "medida": "lemon yields",
+          "gramas": 48
+        },
+        {
+          "quantidade": 1,
+          "medida": "wedge yields",
+          "gramas": 5.9
+        }
+      ],
+      "proteina_g": 0.35,
+      "fibra_g": 0.3,
+      "lipidios_g": 0.24,
+      "carboidratos_g": 6.9,
+      "kcal": 22
+    },
+    "167762": {
+      "descricao": "Strawberries, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, halves",
+          "gramas": 152
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, pureed",
+          "gramas": 232
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, sliced",
+          "gramas": 166
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, whole",
+          "gramas": 144
+        },
+        {
+          "quantidade": 1,
+          "medida": "extra large (1-5/8\" dia)",
+          "gramas": 27
+        },
+        {
+          "quantidade": 1,
+          "medida": "large (1-3/8\" dia)",
+          "gramas": 18
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium (1-1/4\" dia)",
+          "gramas": 12
+        },
+        {
+          "quantidade": 1,
+          "medida": "pint as purchased, yields",
+          "gramas": 357
+        },
+        {
+          "quantidade": 1,
+          "medida": "small (1\" dia)",
+          "gramas": 7
+        },
+        {
+          "quantidade": 1,
+          "medida": "NLEA serving",
+          "gramas": 147
+        }
+      ],
+      "lipidios_g": 0.3,
+      "fibra_g": 2,
+      "proteina_g": 0.67,
+      "carboidratos_g": 7.68,
+      "kcal": 32
+    },
+    "168448": {
+      "descricao": "Pumpkin, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup (1\" cubes)",
+          "gramas": 116
+        }
+      ],
+      "carboidratos_g": 6.5,
+      "fibra_g": 0.5,
+      "kcal": 26,
+      "lipidios_g": 0.1,
+      "proteina_g": 1
+    },
+    "168894": {
+      "descricao": "Wheat flour, white, all-purpose, enriched, bleached",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 125
+        }
+      ],
+      "fibra_g": 2.7,
+      "proteina_g": 10.33,
+      "lipidios_g": 0.98,
+      "carboidratos_g": 76.31,
+      "kcal": 364
+    },
+    "169230": {
+      "descricao": "Garlic, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 136
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2.8
+        },
+        {
+          "quantidade": 1,
+          "medida": "clove",
+          "gramas": 3
+        },
+        {
+          "quantidade": 3,
+          "medida": "cloves",
+          "gramas": 9
+        }
+      ],
+      "carboidratos_g": 33.06,
+      "kcal": 149,
+      "fibra_g": 2.1,
+      "proteina_g": 6.36,
+      "lipidios_g": 0.5
+    },
+    "169231": {
+      "descricao": "Ginger root, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2
+        },
+        {
+          "quantidade": 0.25,
+          "medida": "cup slices (1\" dia)",
+          "gramas": 24
+        },
+        {
+          "quantidade": 5,
+          "medida": "slices (1\" dia)",
+          "gramas": 11
+        }
+      ],
+      "lipidios_g": 0.75,
+      "proteina_g": 1.82,
+      "carboidratos_g": 17.77,
+      "kcal": 80,
+      "fibra_g": 2
+    },
+    "169249": {
+      "descricao": "Lettuce, green leaf, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup shredded",
+          "gramas": 36
+        },
+        {
+          "quantidade": 1,
+          "medida": "head",
+          "gramas": 360
+        },
+        {
+          "quantidade": 1,
+          "medida": "leaf inner",
+          "gramas": 4.8
+        },
+        {
+          "quantidade": 1,
+          "medida": "leaf outer",
+          "gramas": 24
+        }
+      ],
+      "fibra_g": 1.3,
+      "carboidratos_g": 2.87,
+      "kcal": 15,
+      "proteina_g": 1.36,
+      "lipidios_g": 0.15
+    },
+    "169291": {
+      "descricao": "Squash, summer, zucchini, includes skin, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, chopped",
+          "gramas": 124
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, sliced",
+          "gramas": 113
+        },
+        {
+          "quantidade": 1,
+          "medida": "large",
+          "gramas": 323
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium",
+          "gramas": 196
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice",
+          "gramas": 9.9
+        },
+        {
+          "quantidade": 1,
+          "medida": "small",
+          "gramas": 118
+        }
+      ],
+      "lipidios_g": 0.32,
+      "carboidratos_g": 3.11,
+      "kcal": 17,
+      "fibra_g": 1,
+      "proteina_g": 1.21
+    },
+    "169593": {
+      "descricao": "Cocoa, dry powder, unsweetened",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 86
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 5.4
+        }
+      ],
+      "carboidratos_g": 57.9,
+      "kcal": 228,
+      "fibra_g": 37,
+      "proteina_g": 19.6,
+      "lipidios_g": 13.7
+    },
+    "169599": {
+      "descricao": "Gelatins, dry powder, unsweetened",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "envelope (1 tbsp)",
+          "gramas": 7
+        },
+        {
+          "quantidade": 1,
+          "medida": "package (1 oz)",
+          "gramas": 28
+        }
+      ],
+      "proteina_g": 85.6,
+      "fibra_g": 0,
+      "lipidios_g": 0.1,
+      "carboidratos_g": 0,
+      "kcal": 335
+    },
+    "169698": {
+      "descricao": "Cornstarch",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 128
+        }
+      ],
+      "lipidios_g": 0.05,
+      "carboidratos_g": 91.27,
+      "kcal": 381,
+      "proteina_g": 0.26,
+      "fibra_g": 0.9
+    },
+    "169717": {
+      "descricao": "Tapioca, pearl, dry",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 152
+        }
+      ],
+      "proteina_g": 0.19,
+      "fibra_g": 0.9,
+      "lipidios_g": 0.02,
+      "carboidratos_g": 88.69,
+      "kcal": 358
+    },
+    "169986": {
+      "descricao": "Cauliflower, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup chopped (1/2\" pieces)",
+          "gramas": 107
+        },
+        {
+          "quantidade": 1,
+          "medida": "floweret",
+          "gramas": 13
+        },
+        {
+          "quantidade": 1,
+          "medida": "head large (6-7\" dia.)",
+          "gramas": 840
+        },
+        {
+          "quantidade": 1,
+          "medida": "head medium (5-6\" dia.)",
+          "gramas": 588
+        },
+        {
+          "quantidade": 1,
+          "medida": "head small (4\" dia.)",
+          "gramas": 265
+        }
+      ],
+      "carboidratos_g": 4.97,
+      "kcal": 25,
+      "proteina_g": 1.92,
+      "fibra_g": 2,
+      "lipidios_g": 0.28
+    },
+    "169988": {
+      "descricao": "Celery, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup chopped",
+          "gramas": 101
+        },
+        {
+          "quantidade": 1,
+          "medida": "NLEA serving",
+          "gramas": 110
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 7.5
+        },
+        {
+          "quantidade": 1,
+          "medida": "stalk, large (11\"-12\" long)",
+          "gramas": 64
+        },
+        {
+          "quantidade": 1,
+          "medida": "stalk, medium (7-1/2\" - 8\" long)",
+          "gramas": 40
+        },
+        {
+          "quantidade": 1,
+          "medida": "stalk, small (5\" long)",
+          "gramas": 17
+        },
+        {
+          "quantidade": 1,
+          "medida": "strip (4\" long)",
+          "gramas": 4
+        }
+      ],
+      "kcal": 14,
+      "carboidratos_g": 2.97,
+      "lipidios_g": 0.17,
+      "fibra_g": 1.6,
+      "proteina_g": 0.69
+    },
+    "169994": {
+      "descricao": "Chives, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp chopped",
+          "gramas": 3
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp chopped",
+          "gramas": 1
+        }
+      ],
+      "kcal": 30,
+      "proteina_g": 3.27,
+      "fibra_g": 2.5,
+      "lipidios_g": 0.73,
+      "carboidratos_g": 4.35
+    },
+    "170000": {
+      "descricao": "Onions, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, chopped",
+          "gramas": 160
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, sliced",
+          "gramas": 115
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp chopped",
+          "gramas": 10
+        },
+        {
+          "quantidade": 1,
+          "medida": "large",
+          "gramas": 150
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, large (1/4\" thick)",
+          "gramas": 38
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium (2-1/2\" dia)",
+          "gramas": 110
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, medium (1/8\" thick)",
+          "gramas": 14
+        },
+        {
+          "quantidade": 1,
+          "medida": "small",
+          "gramas": 70
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, thin",
+          "gramas": 9
+        },
+        {
+          "quantidade": 10,
+          "medida": "rings",
+          "gramas": 60
+        }
+      ],
+      "lipidios_g": 0.1,
+      "carboidratos_g": 9.34,
+      "kcal": 40,
+      "proteina_g": 1.1,
+      "fibra_g": 1.7
+    },
+    "170150": {
+      "descricao": "Seeds, sesame seeds, whole, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 144
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 9
+        }
+      ],
+      "proteina_g": 17.73,
+      "fibra_g": 11.8,
+      "lipidios_g": 49.67,
+      "carboidratos_g": 23.45,
+      "kcal": 573
+    },
+    "170257": {
+      "descricao": "Sweeteners, tabletop, sucralose, SPLENDA packets",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "serving 1 packet",
+          "gramas": 1
+        }
+      ],
+      "proteina_g": 0,
+      "fibra_g": 0,
+      "lipidios_g": 0,
+      "carboidratos_g": 91.17,
+      "kcal": 336
+    },
+    "170393": {
+      "descricao": "Carrots, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup chopped",
+          "gramas": 128
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup grated",
+          "gramas": 110
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup strips or slices",
+          "gramas": 122
+        },
+        {
+          "quantidade": 1,
+          "medida": "large (7-1/4\" to 8-/1/2\" long)",
+          "gramas": 72
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium",
+          "gramas": 61
+        },
+        {
+          "quantidade": 1,
+          "medida": "small (5-1/2\" long)",
+          "gramas": 50
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice",
+          "gramas": 3
+        },
+        {
+          "quantidade": 1,
+          "medida": "strip large (3\" long)",
+          "gramas": 7
+        },
+        {
+          "quantidade": 1,
+          "medida": "strip medium",
+          "gramas": 4
+        }
+      ],
+      "proteina_g": 0.93,
+      "lipidios_g": 0.24,
+      "carboidratos_g": 9.58,
+      "kcal": 41,
+      "fibra_g": 2.8
+    },
+    "170416": {
+      "descricao": "Parsley, fresh",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup chopped",
+          "gramas": 60
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 3.8
+        },
+        {
+          "quantidade": 10,
+          "medida": "sprigs",
+          "gramas": 10
+        }
+      ],
+      "carboidratos_g": 6.33,
+      "kcal": 36,
+      "lipidios_g": 0.79,
+      "proteina_g": 2.97,
+      "fibra_g": 3.3
+    },
+    "170457": {
+      "descricao": "Tomatoes, red, ripe, raw, year round average",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup cherry tomatoes",
+          "gramas": 149
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, chopped or sliced",
+          "gramas": 180
+        },
+        {
+          "quantidade": 1,
+          "medida": "Italian tomato",
+          "gramas": 62
+        },
+        {
+          "quantidade": 1,
+          "medida": "cherry",
+          "gramas": 17
+        },
+        {
+          "quantidade": 1,
+          "medida": "large whole (3\" dia)",
+          "gramas": 182
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium whole (2-3/5\" dia)",
+          "gramas": 123
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, medium (1/4\" thick)",
+          "gramas": 20
+        },
+        {
+          "quantidade": 1,
+          "medida": "plum tomato",
+          "gramas": 62
+        },
+        {
+          "quantidade": 1,
+          "medida": "small whole (2-2/5\" dia)",
+          "gramas": 91
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, thick/large (1/2\" thick)",
+          "gramas": 27
+        },
+        {
+          "quantidade": 1,
+          "medida": "wedge (1/4 of medium tomato)",
+          "gramas": 31
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice, thin/small",
+          "gramas": 15
+        },
+        {
+          "quantidade": 1,
+          "medida": "NLEA serving",
+          "gramas": 148
+        }
+      ],
+      "carboidratos_g": 3.89,
+      "kcal": 18,
+      "lipidios_g": 0.2,
+      "fibra_g": 1.2,
+      "proteina_g": 0.88
+    },
+    "170679": {
+      "descricao": "Sweetener, herbal extract powder from Stevia leaf",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "package",
+          "gramas": 1
+        }
+      ],
+      "proteina_g": 0,
+      "fibra_g": 0,
+      "lipidios_g": 0,
+      "kcal": 0,
+      "carboidratos_g": 100
+    },
+    "170845": {
+      "descricao": "Cheese, mozzarella, whole milk",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, shredded",
+          "gramas": 112
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        },
+        {
+          "quantidade": 6,
+          "medida": "slices",
+          "gramas": 170
+        }
+      ],
+      "proteina_g": 22.17,
+      "lipidios_g": 22.14,
+      "carboidratos_g": 2.4,
+      "kcal": 299,
+      "fibra_g": 0
+    },
+    "170851": {
+      "descricao": "Cheese, ricotta, whole milk",
+      "porcoes": [
+        {
+          "quantidade": 0.5,
+          "medida": "cup",
+          "gramas": 124
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 246
+        }
+      ],
+      "proteina_g": 7.54,
+      "lipidios_g": 10.18,
+      "carboidratos_g": 7.27,
+      "kcal": 150,
+      "fibra_g": 0
+    },
+    "170858": {
+      "descricao": "Cream, fluid, light whipping",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, whipped",
+          "gramas": 120
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, fluid (yields 2 cups whipped)",
+          "gramas": 239
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 15
+        }
+      ],
+      "kcal": 292,
+      "fibra_g": 0,
+      "proteina_g": 2.17,
+      "lipidios_g": 30.91,
+      "carboidratos_g": 2.96
+    },
+    "170917": {
+      "descricao": "Spices, bay leaf",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, crumbled",
+          "gramas": 0.6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, crumbled",
+          "gramas": 1.8
+        }
+      ],
+      "fibra_g": 26.3,
+      "proteina_g": 7.61,
+      "lipidios_g": 8.36,
+      "carboidratos_g": 74.97,
+      "kcal": 313
+    },
+    "170931": {
+      "descricao": "Spices, pepper, black",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, ground",
+          "gramas": 2.3
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, ground",
+          "gramas": 6.9
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp, whole",
+          "gramas": 2.9
+        },
+        {
+          "quantidade": 1,
+          "medida": "dash",
+          "gramas": 0.1
+        }
+      ],
+      "lipidios_g": 3.26,
+      "carboidratos_g": 63.95,
+      "kcal": 251,
+      "proteina_g": 10.39,
+      "fibra_g": 25.3
+    },
+    "171247": {
+      "descricao": "Cheese, parmesan, grated",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 100
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 5
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "lipidios_g": 27.84,
+      "carboidratos_g": 13.91,
+      "kcal": 420,
+      "proteina_g": 28.42,
+      "fibra_g": 0
+    },
+    "171265": {
+      "descricao": "Milk, whole, 3.25% milkfat, with added vitamin D",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 244
+        },
+        {
+          "quantidade": 1,
+          "medida": "fl oz",
+          "gramas": 30.5
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 15
+        },
+        {
+          "quantidade": 1,
+          "medida": "quart",
+          "gramas": 976
+        }
+      ],
+      "lipidios_g": 3.25,
+      "carboidratos_g": 4.8,
+      "kcal": 61,
+      "fibra_g": 0,
+      "proteina_g": 3.15
+    },
+    "171284": {
+      "descricao": "Yogurt, plain, whole milk",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "container (6 oz)",
+          "gramas": 170
+        },
+        {
+          "quantidade": 1,
+          "medida": "container (8 oz)",
+          "gramas": 227
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "container (4 oz)",
+          "gramas": 113
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup (8 fl oz)",
+          "gramas": 245
+        }
+      ],
+      "kcal": 61,
+      "proteina_g": 3.47,
+      "fibra_g": 0,
+      "lipidios_g": 3.25,
+      "carboidratos_g": 4.66
+    },
+    "171287": {
+      "descricao": "Egg, whole, raw, fresh",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "large",
+          "gramas": 50
+        },
+        {
+          "quantidade": 1,
+          "medida": "extra large",
+          "gramas": 56
+        },
+        {
+          "quantidade": 1,
+          "medida": "jumbo",
+          "gramas": 63
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup (4.86 large eggs)",
+          "gramas": 243
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium",
+          "gramas": 44
+        },
+        {
+          "quantidade": 1,
+          "medida": "small",
+          "gramas": 38
+        }
+      ],
+      "kcal": 143,
+      "proteina_g": 12.56,
+      "lipidios_g": 9.51,
+      "carboidratos_g": 0.72,
+      "fibra_g": 0
+    },
+    "171320": {
+      "descricao": "Spices, cinnamon, ground",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2.6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 7.8
+        }
+      ],
+      "fibra_g": 53.1,
+      "proteina_g": 3.99,
+      "lipidios_g": 1.24,
+      "carboidratos_g": 80.59,
+      "kcal": 247
+    },
+    "171326": {
+      "descricao": "Spices, nutmeg, ground",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2.2
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 7
+        }
+      ],
+      "proteina_g": 5.84,
+      "lipidios_g": 36.31,
+      "carboidratos_g": 49.29,
+      "kcal": 525,
+      "fibra_g": 20.8
+    },
+    "171328": {
+      "descricao": "Spices, oregano, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, leaves",
+          "gramas": 1
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp, ground",
+          "gramas": 1.8
+        }
+      ],
+      "lipidios_g": 4.28,
+      "carboidratos_g": 68.92,
+      "kcal": 265,
+      "fibra_g": 42.5,
+      "proteina_g": 9
+    },
+    "171329": {
+      "descricao": "Spices, paprika",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2.3
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 6.8
+        }
+      ],
+      "fibra_g": 34.9,
+      "proteina_g": 14.14,
+      "lipidios_g": 12.89,
+      "carboidratos_g": 53.99,
+      "kcal": 282
+    },
+    "171333": {
+      "descricao": "Spices, rosemary, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 1.2
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 3.3
+        }
+      ],
+      "proteina_g": 4.88,
+      "lipidios_g": 15.22,
+      "carboidratos_g": 64.06,
+      "kcal": 331,
+      "fibra_g": 42.6
+    },
+    "171411": {
+      "descricao": "Oil, soybean, salad or cooking",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 13.6
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 218
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4.5
+        }
+      ],
+      "proteina_g": 0,
+      "fibra_g": 0,
+      "lipidios_g": 100,
+      "carboidratos_g": 0,
+      "kcal": 884
+    },
+    "171413": {
+      "descricao": "Oil, olive, salad or cooking",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tablespoon",
+          "gramas": 13.5
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 216
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4.5
+        }
+      ],
+      "lipidios_g": 100,
+      "carboidratos_g": 0,
+      "kcal": 884,
+      "proteina_g": 0,
+      "fibra_g": 0
+    },
+    "172179": {
+      "descricao": "Cheese, cottage, creamed, large or small curd",
+      "porcoes": [
+        {
+          "quantidade": 4,
+          "medida": "oz",
+          "gramas": 113
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, large curd (not packed)",
+          "gramas": 210
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, small curd (not packed)",
+          "gramas": 225
+        }
+      ],
+      "carboidratos_g": 3.38,
+      "kcal": 98,
+      "proteina_g": 11.12,
+      "lipidios_g": 4.3,
+      "fibra_g": 0
+    },
+    "172804": {
+      "descricao": "Leavening agents, baking powder, double-acting, straight phosphate",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4.6
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "tsp",
+          "gramas": 2.3
+        }
+      ],
+      "fibra_g": 0.2,
+      "lipidios_g": 0,
+      "carboidratos_g": 24.1,
+      "kcal": 51,
+      "proteina_g": 0.1
+    },
+    "173430": {
+      "descricao": "Butter, without salt",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "pat (1\" sq, 1/3\" high)",
+          "gramas": 5
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 14.2
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 227
+        },
+        {
+          "quantidade": 1,
+          "medida": "stick",
+          "gramas": 113
+        }
+      ],
+      "kcal": 717,
+      "lipidios_g": 81.11,
+      "carboidratos_g": 0.06,
+      "proteina_g": 0.85,
+      "fibra_g": 0
+    },
+    "173454": {
+      "descricao": "Milk, dry, whole, without added vitamin D",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 128
+        },
+        {
+          "quantidade": 0.25,
+          "medida": "cup",
+          "gramas": 32
+        }
+      ],
+      "lipidios_g": 26.71,
+      "carboidratos_g": 38.42,
+      "kcal": 496,
+      "proteina_g": 26.32,
+      "fibra_g": 0
+    },
+    "173468": {
+      "descricao": "Salt, table",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 18
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 292
+        },
+        {
+          "quantidade": 1,
+          "medida": "dash",
+          "gramas": 0.4
+        }
+      ],
+      "fibra_g": 0,
+      "proteina_g": 0,
+      "lipidios_g": 0,
+      "carboidratos_g": 0,
+      "kcal": 0
+    },
+    "173471": {
+      "descricao": "Vanilla extract",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4.2
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 13
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 208
+        }
+      ],
+      "lipidios_g": 0.06,
+      "carboidratos_g": 12.65,
+      "kcal": 288,
+      "proteina_g": 0.06,
+      "fibra_g": 0
+    },
+    "173864": {
+      "descricao": "Ham, sliced, regular (approximately 11% fat)",
+      "porcoes": [
+        {
+          "quantidade": 56,
+          "medida": "grams 1 serving",
+          "gramas": 56
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice",
+          "gramas": 28
+        }
+      ],
+      "fibra_g": 1.3,
+      "lipidios_g": 8.8,
+      "carboidratos_g": 3.63,
+      "kcal": 164,
+      "proteina_g": 16.6
+    },
+    "173904": {
+      "descricao": "Cereals, oats, regular and quick, not fortified, dry",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 81
+        },
+        {
+          "quantidade": 0.33,
+          "medida": "cup",
+          "gramas": 27
+        }
+      ],
+      "fibra_g": 10.1,
+      "lipidios_g": 6.52,
+      "carboidratos_g": 67.7,
+      "kcal": 379,
+      "proteina_g": 13.15
+    },
+    "173944": {
+      "descricao": "Bananas, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, mashed",
+          "gramas": 225
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, sliced",
+          "gramas": 150
+        },
+        {
+          "quantidade": 1,
+          "medida": "extra small (less than 6\" long)",
+          "gramas": 81
+        },
+        {
+          "quantidade": 1,
+          "medida": "small (6\" to 6-7/8\" long)",
+          "gramas": 101
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium (7\" to 7-7/8\" long)",
+          "gramas": 118
+        },
+        {
+          "quantidade": 1,
+          "medida": "large (8\" to 8-7/8\" long)",
+          "gramas": 136
+        },
+        {
+          "quantidade": 1,
+          "medida": "extra large (9\" or longer)",
+          "gramas": 152
+        },
+        {
+          "quantidade": 1,
+          "medida": "NLEA serving",
+          "gramas": 126
+        }
+      ],
+      "carboidratos_g": 22.84,
+      "kcal": 89,
+      "fibra_g": 2.6,
+      "proteina_g": 1.09,
+      "lipidios_g": 0.33
+    },
+    "175040": {
+      "descricao": "Leavening agents, baking soda",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4.6
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "tsp",
+          "gramas": 2.3
+        }
+      ],
+      "fibra_g": 0,
+      "lipidios_g": 0,
+      "carboidratos_g": 0,
+      "kcal": 0,
+      "proteina_g": 0
+    },
+    "175043": {
+      "descricao": "Leavening agents, yeast, baker's, active dry",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 4
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 12
+        },
+        {
+          "quantidade": 1,
+          "medida": "packet",
+          "gramas": 7.2
+        }
+      ],
+      "lipidios_g": 7.61,
+      "carboidratos_g": 41.22,
+      "kcal": 325,
+      "proteina_g": 40.44,
+      "fibra_g": 26.9
+    }
+  }
+}

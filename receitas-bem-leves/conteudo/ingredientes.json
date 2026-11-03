@@ -1,0 +1,1491 @@
+{
+  "descricao": "Cadastro único de ingredientes. Nutrição por 100 g vem de fonte_nutricao (taco:<id>, usda:<fdc_id> ou especial:<id>). gramas_por_medida diz quantos gramas tem cada medida caseira e de onde veio o número.",
+  "ingredientes": [
+    {
+      "id": "ovo",
+      "nome": "ovo",
+      "nome_plural": "ovos",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:489",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 50,
+          "fonte": "USDA 171287: 1 large = 50 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "aveia-em-flocos",
+      "nome": "aveia em flocos",
+      "sinonimos": [
+        "farinha de aveia",
+        "aveia em flocos finos"
+      ],
+      "fonte_nutricao": "taco:7",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 81,
+          "fonte": "USDA 173904: 1 cup = 81 g"
+        },
+        "colher_sopa": {
+          "g": 5.1,
+          "fonte": "USDA 173904: 1 cup = 81 g ÷ 16"
+        },
+        "colher_cha": {
+          "g": 1.7,
+          "fonte": "USDA 173904: 1 cup = 81 g ÷ 48"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "aveia"
+    },
+    {
+      "id": "farinha-de-trigo",
+      "nome": "farinha de trigo",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:35",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 125,
+          "fonte": "USDA 168894: 1 cup = 125 g"
+        },
+        "colher_sopa": {
+          "g": 7.8,
+          "fonte": "USDA 168894: 1 cup = 125 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "fermento-quimico",
+      "nome": "fermento químico em pó",
+      "sinonimos": [
+        "fermento em pó",
+        "fermento para bolo"
+      ],
+      "fonte_nutricao": "taco:513",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 4.6,
+          "fonte": "USDA 172804: 1 tsp = 4,6 g"
+        },
+        "colher_sopa": {
+          "g": 13.8,
+          "fonte": "USDA 172804: 1 tsp = 4,6 g × 3"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "fermento-biologico-seco",
+      "nome": "fermento biológico seco",
+      "sinonimos": [
+        "fermento de pão",
+        "fermento instantâneo"
+      ],
+      "fonte_nutricao": "usda:175043",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 4,
+          "fonte": "USDA 175043: 1 tsp = 4 g"
+        },
+        "colher_sopa": {
+          "g": 12,
+          "fonte": "USDA 175043: 1 tbsp = 12 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "sal",
+      "nome": "sal",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:173468",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 6,
+          "fonte": "USDA 173468: 1 tsp = 6 g"
+        },
+        "colher_sopa": {
+          "g": 18,
+          "fonte": "USDA 173468: 1 tbsp = 18 g"
+        },
+        "pitada": {
+          "g": 0.4,
+          "fonte": "USDA 173468: 1 dash = 0,4 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "pimenta-do-reino",
+      "nome": "pimenta-do-reino",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:170931",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2.3,
+          "fonte": "USDA 170931: 1 tsp = 2,3 g"
+        },
+        "pitada": {
+          "g": 0.1,
+          "fonte": "USDA 170931: 1 dash = 0,1 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "oregano",
+      "nome": "orégano",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:171328",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 1,
+          "fonte": "USDA 171328: 1 tsp leaves = 1 g"
+        },
+        "colher_sopa": {
+          "g": 3,
+          "fonte": "USDA 171328: 1 tsp leaves = 1 g × 3"
+        },
+        "pitada": {
+          "g": 0.1,
+          "fonte": "pitada de erva seca, igual à da pimenta (USDA 170931: 1 dash = 0,1 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "ervas"
+    },
+    {
+      "id": "canela",
+      "nome": "canela em pó",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:171320",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2.6,
+          "fonte": "USDA 171320: 1 tsp = 2,6 g"
+        },
+        "colher_sopa": {
+          "g": 7.8,
+          "fonte": "USDA 171320: 1 tbsp = 7,8 g"
+        },
+        "pitada": {
+          "g": 0.1,
+          "fonte": "pitada de especiaria em pó (USDA 170931: 1 dash = 0,1 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "canela"
+    },
+    {
+      "id": "noz-moscada",
+      "nome": "noz-moscada",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:171326",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2.2,
+          "fonte": "USDA 171326: 1 tsp = 2,2 g"
+        },
+        "pitada": {
+          "g": 0.1,
+          "fonte": "pitada de especiaria em pó (USDA 170931: 1 dash = 0,1 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "paprica",
+      "nome": "páprica doce",
+      "sinonimos": [
+        "paprica"
+      ],
+      "fonte_nutricao": "usda:171329",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2.3,
+          "fonte": "USDA 171329: 1 tsp = 2,3 g"
+        },
+        "colher_sopa": {
+          "g": 6.8,
+          "fonte": "USDA 171329: 1 tbsp = 6,8 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "alecrim-seco",
+      "nome": "alecrim seco",
+      "sinonimos": [
+        "alecrim"
+      ],
+      "fonte_nutricao": "usda:171333",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 1.2,
+          "fonte": "USDA 171333: 1 tsp = 1,2 g"
+        },
+        "colher_sopa": {
+          "g": 3.3,
+          "fonte": "USDA 171333: 1 tbsp = 3,3 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "ervas"
+    },
+    {
+      "id": "baunilha",
+      "nome": "essência de baunilha",
+      "sinonimos": [
+        "extrato de baunilha"
+      ],
+      "fonte_nutricao": "usda:173471",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 4.2,
+          "fonte": "USDA 173471: 1 tsp = 4,2 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cacau-em-po",
+      "nome": "cacau em pó 100%",
+      "sinonimos": [
+        "cacau em po",
+        "cacau 100%"
+      ],
+      "fonte_nutricao": "usda:169593",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 86,
+          "fonte": "USDA 169593: 1 cup = 86 g"
+        },
+        "colher_sopa": {
+          "g": 5.4,
+          "fonte": "USDA 169593: 1 tbsp = 5,4 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "eritritol",
+      "nome": "eritritol",
+      "sinonimos": [
+        "adoçante eritritol"
+      ],
+      "fonte_nutricao": "especial:eritritol",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "alternativa_padrao": "xilitol",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 200,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "colher_sopa": {
+          "g": 12.5,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "colher_cha": {
+          "g": 4.2,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "eritritol",
+      "enfeite": null
+    },
+    {
+      "id": "xilitol",
+      "nome": "xilitol",
+      "sinonimos": [],
+      "fonte_nutricao": "especial:xilitol",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "alternativa_padrao": "eritritol",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 200,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "colher_sopa": {
+          "g": 12.5,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "colher_cha": {
+          "g": 4.2,
+          "fonte": "densidade igual à do açúcar granulado (USDA 169655: 1 cup = 200 g); não altera a nutrição, que é zero"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "xilitol",
+      "enfeite": null
+    },
+    {
+      "id": "leite-integral",
+      "nome": "leite integral",
+      "sinonimos": [
+        "leite"
+      ],
+      "fonte_nutricao": "usda:171265",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 244,
+          "fonte": "USDA 171265: 1 cup = 244 g"
+        },
+        "colher_sopa": {
+          "g": 15,
+          "fonte": "USDA 171265: 1 tbsp = 15 g"
+        },
+        "ml": {
+          "g": 1.03,
+          "fonte": "USDA 171265: 1 cup (240 ml) = 244 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "leite-em-po-integral",
+      "nome": "leite em pó integral",
+      "sinonimos": [
+        "leite em po"
+      ],
+      "fonte_nutricao": "taco:459",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 128,
+          "fonte": "USDA 173454: 1 cup = 128 g"
+        },
+        "colher_sopa": {
+          "g": 8,
+          "fonte": "USDA 173454: 1 cup = 128 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "requeijao-cremoso",
+      "nome": "requeijão cremoso",
+      "sinonimos": [
+        "requeijao"
+      ],
+      "fonte_nutricao": "taco:468",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 15,
+          "fonte": "laticínio pastoso, mesma medida do creme de leite (USDA 170858: 1 tbsp = 15 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "creme-de-leite",
+      "nome": "creme de leite",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:447",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 15,
+          "fonte": "USDA 170858: 1 tbsp = 15 g"
+        },
+        "xicara": {
+          "g": 239,
+          "fonte": "USDA 170858: 1 cup = 239 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "iogurte-natural",
+      "nome": "iogurte natural integral",
+      "sinonimos": [
+        "iogurte natural",
+        "iogurte sem açúcar"
+      ],
+      "fonte_nutricao": "taco:448",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 245,
+          "fonte": "USDA 171284: 1 cup = 245 g"
+        },
+        "colher_sopa": {
+          "g": 15.3,
+          "fonte": "USDA 171284: 1 cup = 245 g ÷ 16"
+        },
+        "unidade": {
+          "g": 170,
+          "fonte": "USDA 171284: 1 container (6 oz) = 170 g; mesmo peso do pote comum no Brasil"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "ricota",
+      "nome": "ricota",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:469",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 246,
+          "fonte": "USDA 170851: 1 cup = 246 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "queijo-mussarela",
+      "nome": "queijo mussarela",
+      "sinonimos": [
+        "mussarela",
+        "muçarela",
+        "mozarela"
+      ],
+      "fonte_nutricao": "taco:463",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 112,
+          "fonte": "USDA 170845: 1 cup, shredded = 112 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "queijo_derretido"
+    },
+    {
+      "id": "queijo-parmesao",
+      "nome": "queijo parmesão ralado",
+      "sinonimos": [
+        "parmesao"
+      ],
+      "fonte_nutricao": "taco:464",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 5,
+          "fonte": "USDA 171247: 1 tbsp grated = 5 g"
+        },
+        "xicara": {
+          "g": 100,
+          "fonte": "USDA 171247: 1 cup grated = 100 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "queijo_ralado"
+    },
+    {
+      "id": "queijo-minas-frescal",
+      "nome": "queijo minas frescal",
+      "sinonimos": [
+        "queijo branco"
+      ],
+      "fonte_nutricao": "taco:461",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "queijo_branco"
+    },
+    {
+      "id": "queijo-minas-meia-cura",
+      "nome": "queijo minas meia cura",
+      "sinonimos": [
+        "queijo meia cura"
+      ],
+      "fonte_nutricao": "taco:462",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "alternativa_padrao": "queijo-parmesao",
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "presunto",
+      "nome": "presunto magro",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:439",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "presunto"
+    },
+    {
+      "id": "manteiga",
+      "nome": "manteiga com sal",
+      "sinonimos": [
+        "manteiga"
+      ],
+      "fonte_nutricao": "taco:261",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 14.2,
+          "fonte": "USDA 173430: 1 tbsp = 14,2 g"
+        },
+        "colher_cha": {
+          "g": 4.7,
+          "fonte": "USDA 173430: 1 tbsp = 14,2 g ÷ 3"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "azeite",
+      "nome": "azeite de oliva",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:260",
+      "ajuste_nutricao": {
+        "carboidratos_g": 0,
+        "motivo": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+      },
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 13.5,
+          "fonte": "USDA 171413: 1 tablespoon = 13,5 g"
+        },
+        "colher_cha": {
+          "g": 4.5,
+          "fonte": "USDA 171413: 1 tsp = 4,5 g"
+        },
+        "xicara": {
+          "g": 216,
+          "fonte": "USDA 171413: 1 cup = 216 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "oleo",
+      "nome": "óleo de soja",
+      "sinonimos": [
+        "óleo",
+        "oleo vegetal",
+        "óleo de girassol",
+        "óleo de canola"
+      ],
+      "fonte_nutricao": "taco:272",
+      "ajuste_nutricao": {
+        "carboidratos_g": 0,
+        "motivo": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+      },
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 13.6,
+          "fonte": "USDA 171411: 1 tbsp = 13,6 g"
+        },
+        "colher_cha": {
+          "g": 4.5,
+          "fonte": "USDA 171411: 1 tsp = 4,5 g"
+        },
+        "xicara": {
+          "g": 218,
+          "fonte": "USDA 171411: 1 cup = 218 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "polvilho-doce",
+      "nome": "polvilho doce",
+      "sinonimos": [
+        "goma de tapioca seca",
+        "fécula de mandioca",
+        "polvilho"
+      ],
+      "fonte_nutricao": "taco:146",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 128,
+          "fonte": "densidade de amido em pó (USDA 169698 amido de milho: 1 cup = 128 g)"
+        },
+        "colher_sopa": {
+          "g": 8,
+          "fonte": "densidade de amido em pó (USDA 169698 amido de milho: 1 cup = 128 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "banana-nanica",
+      "nome": "banana nanica madura",
+      "nome_plural": "bananas nanicas maduras",
+      "sinonimos": [
+        "banana",
+        "banana caturra"
+      ],
+      "fonte_nutricao": "taco:179",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 118,
+          "fonte": "USDA 173944: 1 medium = 118 g sem casca"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "banana_rodelas"
+    },
+    {
+      "id": "morango",
+      "nome": "morango",
+      "nome_plural": "morangos",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:239",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 144,
+          "fonte": "USDA 167762: 1 cup, whole = 144 g"
+        },
+        "unidade": {
+          "g": 12,
+          "fonte": "USDA 167762: 1 medium = 12 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "morango"
+    },
+    {
+      "id": "tomate",
+      "nome": "tomate",
+      "nome_plural": "tomates",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:157",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 123,
+          "fonte": "USDA 170457: 1 medium whole = 123 g"
+        },
+        "xicara": {
+          "g": 180,
+          "fonte": "USDA 170457: 1 cup chopped = 180 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "tomate"
+    },
+    {
+      "id": "cebola",
+      "nome": "cebola",
+      "nome_plural": "cebolas",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:107",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 110,
+          "fonte": "USDA 170000: 1 medium = 110 g"
+        },
+        "xicara": {
+          "g": 160,
+          "fonte": "USDA 170000: 1 cup chopped = 160 g"
+        },
+        "colher_sopa": {
+          "g": 10,
+          "fonte": "USDA 170000: 1 tbsp chopped = 10 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "alho",
+      "nome": "alho",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:82",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "dente": {
+          "g": 3,
+          "fonte": "USDA 169230: 1 clove = 3 g"
+        },
+        "colher_cha": {
+          "g": 2.8,
+          "fonte": "USDA 169230: 1 tsp = 2,8 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cebolinha",
+      "nome": "cebolinha",
+      "sinonimos": [
+        "cheiro-verde"
+      ],
+      "fonte_nutricao": "taco:108",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 3,
+          "fonte": "USDA 169994: 1 tbsp chopped = 3 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "ervas"
+    },
+    {
+      "id": "salsa",
+      "nome": "salsinha",
+      "sinonimos": [
+        "salsa",
+        "cheiro-verde"
+      ],
+      "fonte_nutricao": "taco:153",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 3.8,
+          "fonte": "USDA 170416: 1 tbsp = 3,8 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "ervas"
+    },
+    {
+      "id": "cenoura",
+      "nome": "cenoura",
+      "nome_plural": "cenouras",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:110",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 61,
+          "fonte": "USDA 170393: 1 medium = 61 g"
+        },
+        "xicara": {
+          "g": 110,
+          "fonte": "USDA 170393: 1 cup grated = 110 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "cenoura"
+    },
+    {
+      "id": "abobrinha",
+      "nome": "abobrinha",
+      "nome_plural": "abobrinhas",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:71",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 196,
+          "fonte": "USDA 169291: 1 medium = 196 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "abobrinha"
+    },
+    {
+      "id": "abobora-cabotia",
+      "nome": "abóbora cabotiá",
+      "sinonimos": [
+        "abóbora japonesa",
+        "abóbora kabotiá"
+      ],
+      "fonte_nutricao": "taco:65",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "abobora"
+    },
+    {
+      "id": "couve-flor",
+      "nome": "couve-flor",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:117",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 107,
+          "fonte": "USDA 169986: 1 cup chopped = 107 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "pepino",
+      "nome": "pepino",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:142",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "pepino"
+    },
+    {
+      "id": "gengibre",
+      "nome": "gengibre fresco",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:169231",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2,
+          "fonte": "USDA 169231: 1 tsp = 2 g"
+        },
+        "colher_sopa": {
+          "g": 6,
+          "fonte": "USDA 169231: 1 tsp = 2 g × 3"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "limao",
+      "nome": "limão (suco)",
+      "nome_plural": "limões",
+      "sinonimos": [
+        "suco de limão",
+        "limão taiti"
+      ],
+      "fonte_nutricao": "taco:219",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 48,
+          "fonte": "USDA 167747: 1 lemon yields = 48 g de suco"
+        },
+        "colher_sopa": {
+          "g": 15.2,
+          "fonte": "USDA 167747: 1 cup = 244 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "maca",
+      "nome": "maçã fuji",
+      "sinonimos": [
+        "maçã"
+      ],
+      "fonte_nutricao": "taco:222",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "maca"
+    },
+    {
+      "id": "salsao",
+      "nome": "salsão",
+      "sinonimos": [
+        "aipo"
+      ],
+      "fonte_nutricao": "usda:169988",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "ervas"
+    },
+    {
+      "id": "peito-de-frango-cozido",
+      "nome": "peito de frango cozido e desfiado",
+      "sinonimos": [
+        "frango desfiado",
+        "peito de frango"
+      ],
+      "fonte_nutricao": "taco:408",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "frango_desfiado"
+    },
+    {
+      "id": "sobrecoxa-de-frango",
+      "nome": "sobrecoxa de frango sem pele",
+      "sinonimos": [
+        "sobrecoxa"
+      ],
+      "fonte_nutricao": "taco:414",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "carne-moida-patinho",
+      "nome": "carne moída de patinho",
+      "sinonimos": [
+        "carne moída",
+        "patinho moído"
+      ],
+      "fonte_nutricao": "taco:376",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "lombo-suino",
+      "nome": "lombo suíno",
+      "sinonimos": [
+        "lombo de porco"
+      ],
+      "fonte_nutricao": "taco:433",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "castanha-do-para",
+      "nome": "castanha-do-pará",
+      "sinonimos": [
+        "castanha-do-brasil",
+        "castanha"
+      ],
+      "fonte_nutricao": "taco:589",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "castanhas"
+    },
+    {
+      "id": "agua",
+      "nome": "água",
+      "sinonimos": [],
+      "fonte_nutricao": "especial:agua",
+      "secao_mercado": "bebidas",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 240,
+          "fonte": "líquido com densidade ≈ 1 g/ml (xícara = 240 ml, colher de sopa = 15 ml)"
+        },
+        "colher_sopa": {
+          "g": 15,
+          "fonte": "líquido com densidade ≈ 1 g/ml (xícara = 240 ml, colher de sopa = 15 ml)"
+        },
+        "ml": {
+          "g": 1,
+          "fonte": "líquido com densidade ≈ 1 g/ml (xícara = 240 ml, colher de sopa = 15 ml)"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "acucar",
+      "nome": "açúcar",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:494",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "acucar-mascavo",
+      "nome": "açúcar mascavo",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:493",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "mel",
+      "nome": "mel",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:507",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "melado",
+      "nome": "melado",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:508",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "rapadura",
+      "nome": "rapadura",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:510",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "leite-condensado",
+      "nome": "leite condensado",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:453",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "achocolatado",
+      "nome": "achocolatado",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:455",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "doce-de-leite",
+      "nome": "doce de leite",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:501",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "chocolate-ao-leite",
+      "nome": "chocolate ao leite",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:495",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": true,
+      "adocante": null,
+      "enfeite": null
+    }
+  ]
+}
