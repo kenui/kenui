@@ -40,5 +40,7 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  e.respondWith(caches.match(req, { ignoreSearch: url.pathname.startsWith('/_next/static/') }).then((achado) => achado || fetch(req)));
+  // Dados das telas (.txt, pedidos com ?_rsc=) e arquivos versionados: o parâmetro de busca não muda o arquivo.
+  const semBusca = url.pathname.startsWith('/_next/static/') || url.pathname.endsWith('.txt');
+  e.respondWith(caches.match(req, { ignoreSearch: semBusca }).then((achado) => achado || fetch(req)));
 });

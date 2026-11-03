@@ -52,7 +52,7 @@ function Plano() {
       <h2 className="so-imprimir">Semana {semana + 1}</h2>
       {DIAS.map((dia, d) => (
         <section key={dia} className="dia">
-          <h3>{dia}</h3>
+          <h2 className="titulo-dia">{dia}</h2>
           {REFEICOES.map(([k, nome]) => {
             const id = receitaDoPlano(pacote, trocas, semana, d, k);
             const r = pacote.porId[id];

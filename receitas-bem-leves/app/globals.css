@@ -97,7 +97,7 @@ img { max-width: 100%; }
 @media (min-width: 560px) { .lista-receitas { grid-template-columns: 1fr 1fr; } }
 .cartao { background: var(--branco); border: 1px solid var(--borda); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; color: inherit; text-decoration: none; }
 .cartao .corpo { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 6px; }
-.cartao h3 { font-size: 22px; }
+.cartao .titulo-cartao { font-size: 22px; color: var(--texto); }
 .meta { font-size: 17px; color: var(--texto-suave); }
 .imagem { position: relative; aspect-ratio: 4 / 3; max-width: 100%; background: var(--creme-forte); overflow: hidden; }
 .imagem svg, .imagem img { display: block; width: 100%; height: 100%; object-fit: cover; }
@@ -146,7 +146,7 @@ img { max-width: 100%; }
 .semanas { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
 .semanas .chip { padding: 0 8px; }
 .dia { background: var(--branco); border: 1px solid var(--borda); border-radius: 16px; padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; }
-.dia h3 { font-size: 22px; color: var(--vinho); }
+.dia .titulo-dia { font-size: 22px; color: var(--vinho); }
 .refeicao { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; border-top: 1px solid var(--borda); padding-top: 8px; }
 .refeicao small { display: block; font-size: 15px; color: var(--texto-suave); text-transform: uppercase; letter-spacing: .04em; }
 .refeicao a { font-weight: 700; color: var(--texto); min-height: 44px; display: inline-flex; align-items: center; }

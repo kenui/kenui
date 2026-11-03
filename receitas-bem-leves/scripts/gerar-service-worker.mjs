@@ -17,7 +17,7 @@ const andar = (pasta) => {
 };
 andar(OUT);
 
-const ignorar = (r) => r === 'sw.js' || r.endsWith('.txt') || r.startsWith('fotos/') || r === 'pacote-demo.json' || r === '.htaccess' || r === '404.html';
+const ignorar = (r) => r === 'sw.js' || r.startsWith('fotos/') || r === 'pacote-demo.json' || r === '.htaccess' || r === '404.html';
 const urls = [];
 const hash = createHash('sha256');
 for (const p of arquivos.sort()) {

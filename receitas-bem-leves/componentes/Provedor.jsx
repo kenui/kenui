@@ -39,8 +39,17 @@ export function Provedor({ children }) {
   const carregar = useCallback(async () => {
     setDados(dadosIniciais());
     if (MODO_DEMO) {
-      const r = await fetch('/pacote-demo.json');
-      setPacote(prepararPacote(await r.json()));
+      // Mesmo caminho do modo real: guarda o pacote no aparelho e usa a cópia quando estiver sem internet.
+      let bruto = null;
+      try {
+        const r = await fetch('/pacote-demo.json', { cache: 'no-cache' });
+        bruto = await r.json();
+        await gravarGrande('pacote', bruto);
+      } catch {
+        bruto = await lerGrande('pacote');
+      }
+      if (!bruto) { setStatus('sem_internet'); return; }
+      setPacote(prepararPacote(bruto));
       setEmail('demonstracao@receitasbemleves');
       setStatus('pronto');
       return;

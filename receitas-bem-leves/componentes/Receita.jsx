@@ -36,7 +36,7 @@ export function CartaoReceita({ receita }) {
     <Link className="cartao" href={`/receita/?id=${receita.id}`}>
       <ImagemReceita receita={receita} />
       <div className="corpo">
-        <h3>{receita.nome}</h3>
+        <h2 className="titulo-cartao">{receita.nome}</h2>
         <p className="meta">{receita.tempo.total_min} min · {receita.nutricao.kcal} kcal · {numero(receita.nutricao.carboidratos_g)} g de carboidratos por porção</p>
       </div>
     </Link>
