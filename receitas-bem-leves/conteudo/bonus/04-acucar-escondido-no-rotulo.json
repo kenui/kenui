@@ -1,0 +1,54 @@
+{
+  "slug": "acucar-escondido-no-rotulo",
+  "titulo": "O Açúcar Escondido no Rótulo",
+  "resumo": "Os outros nomes do açúcar na lista de ingredientes e como ler a tabela nutricional em 1 minuto.",
+  "blocos": [
+    { "t": "p", "texto": "Muito produto que não parece doce leva açúcar: molho de tomate, ketchup, maionese, pão de forma, granola, iogurte com sabor, tempero pronto. E o açúcar nem sempre aparece com esse nome. Este guia ajuda você a reconhecer o açúcar no rótulo." },
+    { "t": "h", "texto": "Os outros nomes do açúcar" },
+    { "t": "p", "texto": "Se algum destes nomes aparecer na lista de ingredientes, o produto tem açúcar adicionado:" },
+    { "t": "lista", "itens": [
+      "Açúcar, açúcar refinado, cristal, demerara, mascavo, orgânico, invertido",
+      "Açúcar de coco, rapadura, melado, caldo de cana",
+      "Mel",
+      "Xarope de glicose, xarope de milho, xarope de frutose, xarope de malte, xarope de agave, xarope de arroz",
+      "Glicose, frutose, dextrose, sacarose, maltose",
+      "Maltodextrina, dextrina",
+      "Malte, extrato de malte",
+      "Suco de fruta concentrado (quando usado para adoçar)",
+      "Leite condensado, doce de leite, açúcar de confeiteiro"
+    ] },
+    { "t": "p", "texto": "A lactose é o açúcar natural do leite e aparece em leite, iogurte natural e queijo. Ela não é açúcar adicionado." },
+    { "t": "h", "texto": "Leia a lista de ingredientes primeiro" },
+    { "t": "lista", "itens": [
+      "Os ingredientes aparecem em ordem: o primeiro é o que tem em maior quantidade.",
+      "Se um nome de açúcar estiver entre os três primeiros, o produto é bem doce.",
+      "Fique atento quando vários nomes de açúcar aparecem espalhados pela lista: somados, podem ser muito."
+    ] },
+    { "t": "h", "texto": "Como ler a tabela nutricional" },
+    { "t": "p", "texto": "Desde outubro de 2022, as embalagens no Brasil seguem um modelo novo de rótulo. Três pontos ajudam a decidir rápido:" },
+    { "t": "lista", "itens": [
+      "Lupa na frente da embalagem: o aviso “ALTO EM AÇÚCAR ADICIONADO” aparece quando o produto tem muito açúcar adicionado. Se tiver a lupa, deixe na prateleira.",
+      "Linha “Açúcares adicionados” na tabela: mostra só o açúcar colocado pela fábrica. O que você procura é 0 g.",
+      "Linha “Açúcares totais”: soma o açúcar adicionado com o açúcar natural da fruta ou do leite. Em iogurte natural e leite, por exemplo, não é zero, e tudo bem.",
+      "A tabela mostra os valores por 100 g (ou 100 ml) e por porção. Para comparar dois produtos, use a coluna de 100 g.",
+      "“Carboidratos” inclui amido, fibras e açúcares. Para as receitas deste app, use os valores de carboidrato da receita, que já consideram todos os ingredientes."
+    ] },
+    { "t": "h", "texto": "Frases da embalagem que confundem" },
+    { "t": "tabela", "cabecalho": ["Frase", "O que quer dizer"], "linhas": [
+      ["Zero açúcar ou sem açúcares", "O produto quase não tem açúcar, nem natural nem adicionado."],
+      ["Sem adição de açúcar", "A fábrica não colocou açúcar, mas pode haver açúcar natural (da fruta ou do leite)."],
+      ["Diet", "Foi retirado algum ingrediente, que nem sempre é o açúcar. Leia a tabela."],
+      ["Light", "Tem menos de algum item que a versão comum (gordura, sal ou açúcar). Não quer dizer que não tenha açúcar."],
+      ["Integral", "Fala da farinha ou do grão, não do açúcar. Pão integral pode levar açúcar."]
+    ] },
+    { "t": "h", "texto": "Produtos que pedem atenção no mercado" },
+    { "t": "lista", "itens": [
+      "Molho e extrato de tomate prontos: escolha os que têm só tomate e sal, ou use tomate pelado ou passata.",
+      "Pão de forma, torrada e biscoito salgado: quase todos levam açúcar. As receitas de pão do app resolvem isso.",
+      "Iogurte: prefira o natural integral e adoce em casa com fruta.",
+      "Granola e cereal matinal: costumam ter açúcar e mel. Faça a sua com aveia, castanhas e coco sem açúcar.",
+      "Leite de coco, coco ralado e frutas secas: procure as versões “sem açúcar”.",
+      "Temperos prontos, maionese e ketchup: leia a lista; muitos levam açúcar."
+    ] }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0250",
+  "slug": "hamburguer-de-frango-caseiro",
+  "nome": "Hambúrguer de frango caseiro",
+  "descricao": "Hambúrgueres de frango temperados com cebola e cebolinha, dourados na frigideira, para comer no prato com salada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 12,
+    "descanso_min": 20,
+    "total_min": 47
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "hambúrgueres"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 hambúrguer (cerca de 100 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango moído"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o frango, a cebola, o alho, a cebolinha, a aveia, a páprica, o sal e a pimenta até ficar uma massa homogênea."
+    },
+    {
+      "texto": "Com as mãos molhadas, divida em 5 bolas e achate em discos de 1,5 cm de altura."
+    },
+    {
+      "texto": "Leve à geladeira por 20 minutos para firmar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente em fogo médio e coloque os hambúrgueres sem amontoar."
+    },
+    {
+      "texto": "Doure por 5 a 6 minutos de cada lado, até o centro ficar branco e firme.",
+      "temporizador_min": 12
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de amêndoas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1/2 cenoura ralada fininha à massa para um hambúrguer mais úmido."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os discos crus, separados por papel-manteiga, por até 3 meses. Frite ainda congelados, em fogo mais baixo, por 8 minutos de cada lado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 161,
+      "carboidratos_g": 3.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0250.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "hamburguer de frango",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "hamburguer de frango",
+      "burger de frango",
+      "hamburguer caseiro de frango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

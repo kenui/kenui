@@ -1,0 +1,155 @@
+{
+  "id": "rbl-0165",
+  "slug": "ovos-de-codorna-temperados",
+  "nome": "Ovos de codorna temperados",
+  "descricao": "Ovos de codorna cozidos e marinados em azeite, alho, páprica, limão e salsinha.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 8,
+    "descanso_min": 30,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 24,
+    "unidade": "ovos de codorna"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "6 ovos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo-de-codorna",
+      "quantidade": 24,
+      "medida": "unidade",
+      "texto": "24 ovos de codorna"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os ovos numa panela, cubra com água e leve ao fogo. Quando ferver, conte 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Escorra e cubra com água gelada por 3 minutos.",
+      "aviso": "Cuidado ao escorrer a água fervente.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Descasque os ovos batendo de leve na pia e rolando entre as mãos."
+    },
+    {
+      "texto": "Numa tigela, misture o azeite, o alho, a páprica, o orégano, o limão, a salsinha e o sal."
+    },
+    {
+      "texto": "Junte os ovos, misture bem e deixe na geladeira por 30 minutos, mexendo uma vez.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Sirva em palitos ou numa tigelinha com o molho."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica por cúrcuma ou por pimenta calabresa, para um sabor mais picante."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por cebolinha ou orégano fresco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Ovos de codorna cozidos em conserva, prontos, também servem: escorra bem antes de temperar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira em pote fechado, com o tempero."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 1.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0165.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo de codorna",
+      "ovinho de codorna temperado",
+      "petisco de ovo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

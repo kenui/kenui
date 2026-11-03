@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0488",
+  "nome": "Legumes assados de ceia",
+  "porcoes": 8,
+  "porcao": "1 xícara (chá) de legumes",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "1/4 de abóbora cabotiá em cubos grandes (500 g)",
+      "gramas": 500,
+      "kcal": 195,
+      "carboidratos_g": 42,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "3 cenouras em palitos grossos",
+      "gramas": 183,
+      "kcal": 62.2,
+      "carboidratos_g": 14.09,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "batata-doce",
+      "texto": "2 batatas-doces médias em cubos",
+      "gramas": 260,
+      "kcal": 306.8,
+      "carboidratos_g": 73.32,
+      "fonte": "TACO 4ª ed. 89 Batata, doce, crua",
+      "por_100g": {
+        "kcal": 118,
+        "carboidratos_g": 28.2
+      }
+    },
+    {
+      "ingrediente": "abobrinha",
+      "texto": "1 abobrinha em meias-luas grossas",
+      "gramas": 196,
+      "kcal": 37.2,
+      "carboidratos_g": 8.43,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1 pimentão vermelho em tiras largas",
+      "gramas": 119,
+      "kcal": 27.4,
+      "carboidratos_g": 6.55,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas em 4",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "8 dentes de alho com casca",
+      "gramas": 24,
+      "kcal": 27.1,
+      "carboidratos_g": 5.74,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "5 colheres (sopa) de azeite",
+      "gramas": 67.5,
+      "kcal": 596.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "2 colheres (chá) de alecrim seco",
+      "gramas": 2.4,
+      "kcal": 7.9,
+      "carboidratos_g": 1.54,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "2 pitadas de pimenta-do-reino",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1346.7,
+    "carboidratos_g": 171.4
+  },
+  "por_porcao": {
+    "kcal": 168,
+    "carboidratos_g": 21.4
+  }
+}

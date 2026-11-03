@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0078",
+  "nome": "Frittata de milho verde e queijo minas",
+  "porcoes": 2,
+  "porcao": "1/2 frittata",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "4 ovos",
+      "gramas": 200,
+      "kcal": 286,
+      "carboidratos_g": 3.2,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "milho-verde",
+      "texto": "1/2 xícara (chá) de milho-verde em lata escorrido",
+      "gramas": 82,
+      "kcal": 80.4,
+      "carboidratos_g": 14.02,
+      "fonte": "TACO 4ª ed. 45 Milho, verde, enlatado, drenado",
+      "por_100g": {
+        "kcal": 98,
+        "carboidratos_g": 17.1
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 fatia de queijo minas frescal em cubinhos (60 g)",
+      "gramas": 60,
+      "kcal": 158.4,
+      "carboidratos_g": 1.92,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 pitadas de sal",
+      "gramas": 0.8,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 560.1,
+    "carboidratos_g": 19.4
+  },
+  "por_porcao": {
+    "kcal": 280,
+    "carboidratos_g": 9.7
+  }
+}

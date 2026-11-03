@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0309",
+  "slug": "camarao-ao-alho-e-oleo",
+  "nome": "Camarão ao alho e óleo",
+  "descricao": "Camarões salteados rapidinho no azeite com bastante alho, limão e salsinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 5,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "porções"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "camarao",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de camarão médio limpo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 6,
+      "medida": "dente",
+      "texto": "6 dentes de alho fatiados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "pimenta-calabresa",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta calabresa",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Seque bem os camarões com papel-toalha e tempere com o sal e a pimenta."
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite em fogo médio e doure o alho por 1 minuto, até ficar levemente dourado.",
+      "aviso": "Alho queimado amarga: tire a frigideira do fogo se escurecer rápido."
+    },
+    {
+      "texto": "Aumente o fogo, junte os camarões numa camada só e salteie por 2 a 3 minutos, mexendo, até ficarem rosados.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Desligue, regue com o suco de limão e espalhe a salsinha e a pimenta calabresa, se quiser. Sirva na hora."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com lulas em anéis ou com cubos de tilápia, do mesmo jeito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por coentro."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Camarão amontoado solta água e cozinha em vez de dourar: se a frigideira for pequena, faça em duas vezes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 209,
+      "carboidratos_g": 2.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0309.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "camarao alho e oleo",
+      "camarao na frigideira",
+      "camarao com alho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

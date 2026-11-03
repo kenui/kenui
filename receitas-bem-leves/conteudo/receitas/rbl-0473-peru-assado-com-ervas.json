@@ -1,0 +1,198 @@
+{
+  "id": "rbl-0473",
+  "slug": "peru-assado-com-ervas",
+  "nome": "Peru assado com ervas",
+  "descricao": "Peru inteiro temperado na véspera com alho, limão e ervas, assado até a pele dourar, sem glaçagem doce.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 165,
+    "descanso_min": 720,
+    "total_min": 945
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 a 3 fatias com pele (1/10 do peru)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peru-inteiro",
+      "quantidade": 4000,
+      "medida": "g",
+      "texto": "1 peru natural, sem tempero pronto, descongelado (cerca de 4 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_sopa",
+      "texto": "2 e 1/2 colheres (sopa) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 8,
+      "medida": "dente",
+      "texto": "8 dentes de alho"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de alecrim seco"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 3,
+      "medida": "pitada",
+      "texto": "3 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas cortadas em 4"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Retire os miúdos de dentro do peru, lave por dentro e por fora e seque bem com papel-toalha."
+    },
+    {
+      "texto": "Amasse o alho com o sal até virar uma pasta. Misture o suco de limão, o azeite, o alecrim, a salsinha, a páprica e a pimenta."
+    },
+    {
+      "texto": "Solte a pele do peito com os dedos, sem rasgar, e espalhe a manteiga por baixo dela."
+    },
+    {
+      "texto": "Esfregue o tempero por todo o peru, por dentro e por fora. Cubra e deixe na geladeira de um dia para o outro.",
+      "temporizador_min": 720
+    },
+    {
+      "texto": "Tire o peru da geladeira 30 minutos antes e preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Coloque as cebolas e a água no fundo da assadeira e o peru por cima, com o peito para cima. Amarre as coxas com barbante."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 2 horas, regando com o caldo da assadeira a cada 40 minutos.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Retire o papel e asse mais 40 a 45 minutos, até a pele dourar e o caldo que sai ao furar a coxa ficar claro, sem sinal de sangue.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Deixe descansar 15 minutos antes de fatiar.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 165,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o peru por um chester de 3,5 kg: asse 1 hora e 40 minutos coberto e 30 minutos descoberto."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem alecrim? Use 1 colher (chá) de tomilho seco ou de orégano."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Peru temperado de fábrica costuma vir com tempero adoçado: prefira o natural e confira o rótulo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O caldo da assadeira, coado, vira um molho simples para regar as fatias."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde as sobras fatiadas na geladeira por até 3 dias ou no congelador por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 659,
+      "carboidratos_g": 4.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0473.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "ceia_peru",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "peru de natal",
+      "peru assado",
+      "chester assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

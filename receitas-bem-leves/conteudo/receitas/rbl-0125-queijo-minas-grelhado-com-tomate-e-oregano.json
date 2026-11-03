@@ -1,0 +1,138 @@
+{
+  "id": "rbl-0125",
+  "slug": "queijo-minas-grelhado-com-tomate-e-oregano",
+  "nome": "Queijo minas grelhado com tomate e orégano",
+  "descricao": "Fatias grossas de queijo minas douradas na frigideira, com tomate temperado e orégano.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 6,
+    "total_min": 9
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "fatias"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "2 fatias com tomate"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "2 fatias grossas (1,5 cm) de queijo minas frescal (100 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate em rodelas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Seque bem as fatias de queijo com papel-toalha."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente em fogo médio-alto, sem óleo, e coloque o queijo."
+    },
+    {
+      "texto": "Deixe 2 a 3 minutos sem mexer, até formar uma casquinha dourada. Vire e doure o outro lado.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Tempere as rodelas de tomate com o azeite, o sal e a pimenta."
+    },
+    {
+      "texto": "Sirva o queijo com o tomate e salpique o orégano."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo coalho ou queijo minas padrão: douram ainda mais."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o orégano por manjericão fresco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não mexa o queijo antes da casquinha formar: é ela que faz ele soltar da frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 323,
+      "carboidratos_g": 7.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0125.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "queijo grelhado",
+      "queijo branco na chapa",
+      "queijo minas na frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

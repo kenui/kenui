@@ -1,0 +1,79 @@
+{
+  "receita": "rbl-0150",
+  "nome": "Chips de couve no forno",
+  "porcoes": 3,
+  "porcao": "1 e 1/3 xícara",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve",
+      "texto": "1 maço de couve-manteiga (150 g de folhas, sem os talos)",
+      "gramas": 150,
+      "kcal": 40.5,
+      "carboidratos_g": 6.45,
+      "fonte": "TACO 4ª ed. 115 Couve, manteiga, crua",
+      "por_100g": {
+        "kcal": 27,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1/2 colher (chá) de páprica doce",
+      "gramas": 1.2,
+      "kcal": 3.2,
+      "carboidratos_g": 0.62,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado fino",
+      "gramas": 10,
+      "kcal": 45.3,
+      "carboidratos_g": 0.17,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 pitadas de sal",
+      "gramas": 0.8,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 208.5,
+    "carboidratos_g": 7.3
+  },
+  "por_porcao": {
+    "kcal": 70,
+    "carboidratos_g": 2.4
+  }
+}

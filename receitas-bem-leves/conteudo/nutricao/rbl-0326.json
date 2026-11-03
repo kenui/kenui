@@ -1,0 +1,199 @@
+{
+  "receita": "rbl-0326",
+  "nome": "Lasanha de abobrinha",
+  "porcoes": 6,
+  "porcao": "1 pedaço (1/6 da travessa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobrinha",
+      "texto": "3 abobrinhas grandes em lâminas finas, no comprimento",
+      "gramas": 588,
+      "kcal": 111.7,
+      "carboidratos_g": 25.28,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ricota",
+      "texto": "1 pedaço de ricota (250 g)",
+      "gramas": 250,
+      "kcal": 350,
+      "carboidratos_g": 9.5,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "100 g de folhas de espinafre picadas",
+      "gramas": 100,
+      "kcal": 16,
+      "carboidratos_g": 2.6,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "5 tomates maduros picados",
+      "gramas": 615,
+      "kcal": 92.3,
+      "carboidratos_g": 19.07,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "150 g de mussarela ralada",
+      "gramas": 150,
+      "kcal": 495,
+      "carboidratos_g": 4.5,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 15,
+      "kcal": 68,
+      "carboidratos_g": 0.26,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1376.6,
+    "carboidratos_g": 74
+  },
+  "por_porcao": {
+    "kcal": 229,
+    "carboidratos_g": 12.3
+  }
+}

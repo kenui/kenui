@@ -1,0 +1,201 @@
+{
+  "id": "rbl-0258",
+  "slug": "escondidinho-de-mandioca-com-carne-desfiada",
+  "nome": "Escondidinho de mandioca com carne desfiada",
+  "descricao": "Acém cozido e desfiado num refogado de tomate, coberto com purê cremoso de mandioca e mussarela gratinada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 80,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 pedaço (1/8 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Carne",
+      "ingrediente": "acem",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de acém em pedaços"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "agua",
+      "quantidade": 720,
+      "medida": "ml",
+      "texto": "3 xícaras (chá) de água (720 ml)"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "mandioca",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de mandioca descascada"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite quente"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de queijo mussarela ralado (cerca de 1 xícara)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a carne com o sal e cozinhe na panela de pressão com a água por 40 minutos depois de pegar pressão, até desmanchar.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Enquanto isso, cozinhe a mandioca em água por 20 a 25 minutos, até ficar bem macia. Escorra, tire o fio do meio e amasse ainda quente com o leite, a manteiga e o sal.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Desfie a carne com dois garfos e guarde 1/2 xícara do caldo."
+    },
+    {
+      "texto": "Refogue a cebola e o alho no óleo por 3 minutos, junte o tomate e cozinhe 3 minutos. Acrescente a carne e o caldo reservado e cozinhe 5 minutos. Misture a cebolinha.",
+      "temporizador_min": 11
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe a carne numa travessa, cubra com o purê e com a mussarela."
+    },
+    {
+      "texto": "Asse por 20 minutos, até gratinar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o acém por carne-seca dessalgada ou por frango desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mandioca por batata ou mandioquinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele já montado, em porções, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 380,
+      "carboidratos_g": 39.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0258.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "carne desfiada",
+    "enfeites": [
+      "queijo_derretido",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "escondidinho de mandioca",
+      "escondidinho de carne",
+      "escondidinho de aipim"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

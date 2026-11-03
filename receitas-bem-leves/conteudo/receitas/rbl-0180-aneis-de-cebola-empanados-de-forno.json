@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0180",
+  "slug": "aneis-de-cebola-empanados-de-forno",
+  "nome": "Anéis de cebola empanados de forno",
+  "descricao": "Anéis de cebola empanados em aveia, parmesão e páprica, assados até ficarem crocantes.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 20,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "anéis"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "10 anéis"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cebola",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 cebolas grandes (300 g)"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.66,
+      "medida": "xicara",
+      "texto": "2/3 de xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga untado com metade do azeite."
+    },
+    {
+      "texto": "Descasque as cebolas, corte em rodelas de 1 cm e separe os anéis.",
+      "aviso": "Use faca afiada com cuidado."
+    },
+    {
+      "texto": "Monte 3 pratos: um com a farinha e o sal; outro com o ovo batido com o leite; outro com a aveia, o parmesão e a páprica."
+    },
+    {
+      "texto": "Passe cada anel na farinha, depois no ovo e por último na mistura de aveia, apertando bem."
+    },
+    {
+      "texto": "Arrume na assadeira sem encostar e pincele com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 10 minutos, vire e asse mais 8 a 10 minutos, até dourar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por farinha de milho ou por farelo de aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça do mesmo jeito com palitos de abobrinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma logo que sair do forno, quando estão mais crocantes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 232,
+      "carboidratos_g": 27.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0180.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "onion rings",
+      "cebola empanada",
+      "aneis de cebola assados"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

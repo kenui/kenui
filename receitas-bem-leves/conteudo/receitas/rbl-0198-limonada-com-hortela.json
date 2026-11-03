@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0198",
+  "slug": "limonada-com-hortela",
+  "nome": "Limonada com hortelã",
+  "descricao": "Limonada gelada e perfumada com folhas de hortelã batidas.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "limao",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "suco de 3 limões"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de folhas de hortelã"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 10 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão em rodelas para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema os limões."
+    },
+    {
+      "texto": "Bata no liquidificador o suco de limão, a hortelã, a água e o eritritol por 30 segundos."
+    },
+    {
+      "texto": "Coe e sirva com gelo e rodelas de limão."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por manjericão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use água com gás gelada no lugar de metade da água: bata a outra metade e junte a água com gás no copo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 1 dia na geladeira. Mexa antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 9,
+      "carboidratos_g": 2.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0198.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas",
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "limonada",
+      "limonada de hortela",
+      "suco de limao com hortela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

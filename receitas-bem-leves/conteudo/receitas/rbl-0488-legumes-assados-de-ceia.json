@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0488",
+  "slug": "legumes-assados-de-ceia",
+  "nome": "Legumes assados de ceia",
+  "descricao": "Abóbora, cenoura, batata-doce, abobrinha e cebola assadas com alho e alecrim até dourar nas bordas.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 xícara (chá) de legumes"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "1/4 de abóbora cabotiá em cubos grandes (500 g)"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 cenouras em palitos grossos"
+    },
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas-doces médias em cubos"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em meias-luas grossas"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras largas"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em 4"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 8,
+      "medida": "dente",
+      "texto": "8 dentes de alho com casca"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 220 °C."
+    },
+    {
+      "texto": "Numa tigela grande, misture todos os legumes, o alho, o azeite, o alecrim, o sal e a pimenta."
+    },
+    {
+      "texto": "Espalhe em 2 assadeiras grandes, numa camada só, sem amontoar."
+    },
+    {
+      "texto": "Asse por 20 minutos, vire os legumes com uma espátula e asse mais 15 a 20 minutos, até dourarem nas bordas e ficarem macios.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Aperte os dentes de alho assados para tirar da casca e misture aos legumes."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por batata inglesa ou mandioquinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem alecrim? Use tomilho ou orégano."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Legume amontoado cozinha no vapor e não doura: se precisar, use 3 assadeiras."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias. Sobras ficam ótimas batidas como sopa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 168,
+      "carboidratos_g": 21.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0488.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "cenoura",
+      "abobrinha",
+      "pimentao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "legumes assados",
+      "legumes de natal",
+      "acompanhamento de ceia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

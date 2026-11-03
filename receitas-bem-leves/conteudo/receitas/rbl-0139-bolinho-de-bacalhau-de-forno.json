@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0139",
+  "slug": "bolinho-de-bacalhau-de-forno",
+  "nome": "Bolinho de bacalhau de forno",
+  "descricao": "Bolinho de bacalhau com batata e salsinha, moldado na colher e assado com azeite até dourar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 55,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 21,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 7,
+  "porcao": {
+    "descricao": "3 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "bacalhau-salgado",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 posta de bacalhau salgado (300 g), já dessalgado"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 640,
+      "medida": "g",
+      "texto": "3 batatas médias (640 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque o bacalhau já dessalgado numa panela com água, ferva por 10 minutos e escorra.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Quando amornar, tire a pele e as espinhas e desfie bem fino com as mãos."
+    },
+    {
+      "texto": "Cozinhe as batatas descascadas em água por 20 a 25 minutos, até ficarem macias. Escorra e esprema.",
+      "aviso": "Cuidado com a água fervente.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Numa tigela, misture a batata, o bacalhau, o ovo, a cebola, o alho, a salsinha, 1 colher (sopa) de azeite e a pimenta. Prove: o bacalhau já dá sal."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com 1 colher (sopa) de azeite."
+    },
+    {
+      "texto": "Modele os bolinhos com duas colheres e arrume na assadeira. Pincele com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, virando na metade do tempo, até dourar dos dois lados.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o bacalhau por 2 latas de atum escorrido; aí acrescente 1/2 colher (chá) de sal."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para dessalgar, deixe o bacalhau de molho na geladeira por 24 horas, trocando a água 4 vezes."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os bolinhos crus por até 2 meses e asse sem descongelar, com 10 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 182,
+      "carboidratos_g": 14.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0139.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "bacalhau",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho de bacalhau assado",
+      "bolinho de bacalhau sem fritura",
+      "petisco de bacalhau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

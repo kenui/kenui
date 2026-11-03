@@ -1,0 +1,222 @@
+{
+  "id": "rbl-0476",
+  "slug": "frango-assado-recheado-com-farofa",
+  "nome": "Frango assado recheado com farofa",
+  "descricao": "Frango inteiro temperado com limão e alho, recheado com farofa de cenoura e assado até a pele ficar crocante.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 90,
+    "descanso_min": 120,
+    "total_min": 240
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço de frango com 2 colheres (sopa) de farofa"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "ingrediente": "frango-inteiro",
+      "quantidade": 2000,
+      "medida": "g",
+      "texto": "1 frango inteiro (cerca de 2 kg)"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de sal"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média ralada"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "farinha-de-mandioca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de farinha de mandioca torrada (cerca de 1 xícara)"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o sal, o alho amassado, o suco de limão, a páprica, a pimenta e o azeite."
+    },
+    {
+      "texto": "Espalhe o tempero pelo frango, por dentro e por fora, e deixe na geladeira por 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Farofa: derreta a manteiga numa frigideira, refogue a cebola e o alho por 3 minutos, até murchar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a cenoura e refogue mais 2 minutos. Acrescente a farinha e o sal e mexa por 3 minutos, até soltar. Desligue e misture a salsinha.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Recheie a cavidade do frango com a farofa, sem apertar demais. Prenda as coxas com barbante."
+    },
+    {
+      "texto": "Coloque numa assadeira com o tempero, cubra com papel-alumínio e asse por 50 minutos.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Retire o papel e asse mais 30 minutos, regando com o caldo, até a pele dourar e o caldo da coxa sair claro.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Retire a farofa de dentro com uma colher e sirva junto com o frango em pedaços."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 80,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango inteiro por 1,5 kg de coxa e sobrecoxa: asse 40 minutos coberto e 25 descoberto, com a farofa servida à parte."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farinha de mandioca? Use farinha de milho em flocos na mesma quantidade."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sobrou farofa? Toste numa frigideira e sirva junto."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde o frango e a farofa separados na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 938,
+      "carboidratos_g": 26.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0476.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "farofa",
+    "enfeites": [
+      "ervas",
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango recheado",
+      "frango de natal",
+      "frango inteiro assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0286",
+  "nome": "Fritada de abobrinha com queijo",
+  "porcoes": 2,
+  "porcao": "2 fatias (meia fritada)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola picada",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho picado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "abobrinha",
+      "texto": "1 abobrinha média em rodelas finas",
+      "gramas": 196,
+      "kcal": 37.2,
+      "carboidratos_g": 8.43,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "5 ovos",
+      "gramas": 250,
+      "kcal": 357.5,
+      "carboidratos_g": 4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 10,
+      "kcal": 45.3,
+      "carboidratos_g": 0.17,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "80 g de queijo minas frescal em cubinhos",
+      "gramas": 80,
+      "kcal": 211.2,
+      "carboidratos_g": 2.56,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 796.7,
+    "carboidratos_g": 21
+  },
+  "por_porcao": {
+    "kcal": 398,
+    "carboidratos_g": 10.5
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "169251": {
+      "descricao": "Mushrooms, white, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, pieces or slices",
+          "gramas": 70
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, whole",
+          "gramas": 96
+        },
+        {
+          "quantidade": 1,
+          "medida": "large",
+          "gramas": 23
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium",
+          "gramas": 18
+        },
+        {
+          "quantidade": 1,
+          "medida": "slice",
+          "gramas": 6
+        },
+        {
+          "quantidade": 1,
+          "medida": "small",
+          "gramas": 10
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "cup pieces",
+          "gramas": 35
+        }
+      ],
+      "fibra_g": 1,
+      "lipidios_g": 0.34,
+      "proteina_g": 3.09,
+      "carboidratos_g": 3.26,
+      "kcal": 22
+    },
+    "170917": {
+      "descricao": "Spices, bay leaf",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, crumbled",
+          "gramas": 0.6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, crumbled",
+          "gramas": 1.8
+        }
+      ],
+      "fibra_g": 26.3,
+      "proteina_g": 7.61,
+      "lipidios_g": 8.36,
+      "carboidratos_g": 74.97,
+      "kcal": 313
+    },
+    "170932": {
+      "descricao": "Spices, pepper, red or cayenne",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 1.8
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 5.3
+        }
+      ],
+      "lipidios_g": 17.27,
+      "carboidratos_g": 56.63,
+      "kcal": 318,
+      "proteina_g": 12.01,
+      "fibra_g": 27.2
+    },
+    "173709": {
+      "descricao": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        },
+        {
+          "quantidade": 3,
+          "medida": "oz",
+          "gramas": 85
+        },
+        {
+          "quantidade": 1,
+          "medida": "can",
+          "gramas": 165
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, solid or chunks",
+          "gramas": 154
+        },
+        {
+          "quantidade": 1,
+          "medida": "can (12.5 oz), drained",
+          "gramas": 315
+        }
+      ],
+      "lipidios_g": 0.96,
+      "kcal": 86,
+      "proteina_g": 19.44,
+      "fibra_g": 0,
+      "carboidratos_g": 0
+    },
+    "173757": {
+      "descricao": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 164
+        }
+      ],
+      "fibra_g": 7.6,
+      "carboidratos_g": 27.42,
+      "kcal": 164,
+      "lipidios_g": 2.59,
+      "proteina_g": 8.86
+    },
+    "175176": {
+      "descricao": "Fish, tilapia, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "fillet",
+          "gramas": 116
+        }
+      ],
+      "lipidios_g": 1.7,
+      "proteina_g": 20.08,
+      "fibra_g": 0,
+      "carboidratos_g": 0,
+      "kcal": 96
+    }
+  }
+}

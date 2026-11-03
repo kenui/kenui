@@ -1,0 +1,91 @@
+{
+  "receita": "rbl-0088",
+  "nome": "Ninho de batata-doce ralada com ovos",
+  "porcoes": 1,
+  "porcao": "1 ninho com 2 ovos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "batata-doce",
+      "texto": "1 batata-doce pequena ralada no ralo grosso",
+      "gramas": 130,
+      "kcal": 153.4,
+      "carboidratos_g": 36.66,
+      "fonte": "TACO 4ª ed. 89 Batata, doce, crua",
+      "por_100g": {
+        "kcal": 118,
+        "carboidratos_g": 28.2
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 pitadas de sal",
+      "gramas": 0.8,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (chá) de azeite",
+      "gramas": 9,
+      "kcal": 79.6,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "1 colher (sopa) de cebolinha picada",
+      "gramas": 3,
+      "kcal": 0.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 376.8,
+    "carboidratos_g": 38.4
+  },
+  "por_porcao": {
+    "kcal": 377,
+    "carboidratos_g": 38.4
+  }
+}

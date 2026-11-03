@@ -1,0 +1,96 @@
+{
+  "receita": "rbl-0430",
+  "nome": "Creme de cacau de colher",
+  "porcoes": 4,
+  "porcao": "1 potinho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-integral",
+      "texto": "2 xícaras (chá) de leite",
+      "gramas": 488,
+      "kcal": 297.7,
+      "carboidratos_g": 23.42,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "texto": "2 colheres (sopa) de amido de milho",
+      "gramas": 16,
+      "kcal": 57.8,
+      "carboidratos_g": 13.94,
+      "fonte": "TACO 4ª ed. 42 Milho, amido, cru",
+      "por_100g": {
+        "kcal": 361,
+        "carboidratos_g": 87.1
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "3 colheres (sopa) de cacau em pó 100%",
+      "gramas": 16.2,
+      "kcal": 36.9,
+      "carboidratos_g": 9.38,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "gramas": 66,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1/2 caixinha de creme de leite (100 g)",
+      "gramas": 100,
+      "kcal": 221,
+      "carboidratos_g": 4.5,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "castanha-do-para",
+      "texto": "2 castanhas-do-pará picadas para enfeitar (20 g)",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 716.5,
+    "carboidratos_g": 51.3
+  },
+  "por_porcao": {
+    "kcal": 179,
+    "carboidratos_g": 12.8
+  }
+}

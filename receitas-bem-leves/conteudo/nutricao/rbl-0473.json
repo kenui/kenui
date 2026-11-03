@@ -1,0 +1,163 @@
+{
+  "receita": "rbl-0473",
+  "nome": "Peru assado com ervas",
+  "porcoes": 10,
+  "porcao": "2 a 3 fatias com pele (1/10 do peru)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "peru-inteiro",
+      "texto": "1 peru natural, sem tempero pronto, descongelado (cerca de 4 kg)",
+      "gramas": 4000,
+      "kcal": 5760,
+      "carboidratos_g": 5.6,
+      "fonte": "USDA SR Legacy 171081 Turkey, whole, meat and skin, raw",
+      "por_100g": {
+        "kcal": 144,
+        "carboidratos_g": 0.14
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 e 1/2 colheres (sopa) de sal",
+      "gramas": 45,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "8 dentes de alho",
+      "gramas": 24,
+      "kcal": 27.1,
+      "carboidratos_g": 5.74,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 2 limões",
+      "gramas": 96,
+      "kcal": 21.1,
+      "carboidratos_g": 7.01,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente",
+      "gramas": 42.6,
+      "kcal": 309.3,
+      "carboidratos_g": 0.04,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "1 colher (sopa) de alecrim seco",
+      "gramas": 3.3,
+      "kcal": 10.9,
+      "carboidratos_g": 2.11,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "4 colheres (sopa) de salsinha picada",
+      "gramas": 15.2,
+      "kcal": 5,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "2 colheres (chá) de páprica doce",
+      "gramas": 4.6,
+      "kcal": 13,
+      "carboidratos_g": 2.48,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "3 pitadas de pimenta-do-reino",
+      "gramas": 0.3,
+      "kcal": 0.8,
+      "carboidratos_g": 0.19,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas cortadas em 4",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 6591,
+    "carboidratos_g": 43.6
+  },
+  "por_porcao": {
+    "kcal": 659,
+    "carboidratos_g": 4.4
+  }
+}

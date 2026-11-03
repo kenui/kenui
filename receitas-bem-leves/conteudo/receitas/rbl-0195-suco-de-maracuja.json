@@ -1,0 +1,117 @@
+{
+  "id": "rbl-0195",
+  "slug": "suco-de-maracuja",
+  "nome": "Suco de maracujá",
+  "descricao": "Suco de maracujá azedinho e refrescante, adoçado com eritritol.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maracuja",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "polpa de 2 maracujás (cerca de 1/2 xícara)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 10 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte os maracujás ao meio e tire a polpa com uma colher.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata a polpa com a água no liquidificador, pulsando 3 ou 4 vezes, só para soltar as sementes."
+    },
+    {
+      "texto": "Coe numa peneira, junte o eritritol e mexa bem até dissolver."
+    },
+    {
+      "texto": "Sirva com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 100 g de polpa de maracujá congelada sem adição no lugar da fruta."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pulse rápido: se bater muito, as sementes quebram e o suco fica amargo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 1 dia na geladeira em jarra fechada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 27,
+      "carboidratos_g": 4.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0195.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maracuja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de maracuja",
+      "maracuja natural",
+      "refresco de maracuja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0345",
+  "slug": "salada-de-tomate-com-queijo-minas-e-manjericao",
+  "nome": "Salada de tomate com queijo minas e manjericão",
+  "descricao": "Salada caprese do jeito brasileiro, com queijo minas frescal, tomate maduro, rúcula e azeitonas.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "pratos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros em rodelas"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 queijo minas frescal (300 g) em fatias"
+    },
+    {
+      "ingrediente": "rucula",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de rúcula"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 azeitonas verdes"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de folhas de manjericão"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "vinagre",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de vinagre"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Forre os pratos com a rúcula."
+    },
+    {
+      "texto": "Arrume as rodelas de tomate e as fatias de queijo intercaladas por cima."
+    },
+    {
+      "texto": "Distribua as azeitonas e as folhas de manjericão."
+    },
+    {
+      "texto": "Tempere com o sal, o orégano e a pimenta e regue com o azeite e o vinagre na hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por mussarela de búfala ou ricota fresca."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um prato mais completo, junte 1 lata de atum ou 2 ovos cozidos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tempere o tomate só na hora, para não soltar água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 434,
+      "carboidratos_g": 9.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0345.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "queijo_branco",
+      "azeitona",
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada caprese",
+      "salada de tomate com queijo",
+      "caprese com queijo minas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

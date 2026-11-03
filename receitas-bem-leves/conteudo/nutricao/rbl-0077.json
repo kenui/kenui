@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0077",
+  "nome": "Frittata de brócolis com mussarela",
+  "porcoes": 4,
+  "porcao": "1 quadrado (1/4)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "brocolis",
+      "texto": "2 xícaras (chá) de brócolis em floretes pequenos",
+      "gramas": 182,
+      "kcal": 45.5,
+      "carboidratos_g": 7.28,
+      "fonte": "TACO 4ª ed. 101 Brócolis, cru",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 4
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "6 ovos",
+      "gramas": 300,
+      "kcal": 429,
+      "carboidratos_g": 4.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "4 colheres (sopa) de leite",
+      "gramas": 60,
+      "kcal": 36.6,
+      "carboidratos_g": 2.88,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1/2 xícara (chá) de mussarela ralada",
+      "gramas": 56,
+      "kcal": 184.8,
+      "carboidratos_g": 1.68,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite para untar",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 815.8,
+    "carboidratos_g": 16.7
+  },
+  "por_porcao": {
+    "kcal": 204,
+    "carboidratos_g": 4.2
+  }
+}

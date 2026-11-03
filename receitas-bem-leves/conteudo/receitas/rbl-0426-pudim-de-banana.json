@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0426",
+  "slug": "pudim-de-banana",
+  "nome": "Pudim de banana",
+  "descricao": "Pudim de forno de banana madura com canela, com rodelas de banana no fundo que viram cobertura.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 60,
+    "descanso_min": 180,
+    "total_min": 260
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga para untar"
+    },
+    {
+      "grupo": "Fundo",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica em rodelas, para o fundo da forma"
+    },
+    {
+      "grupo": "Fundo",
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "banana-nanica",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 bananas nanicas bem maduras"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com a manteiga uma forma de pudim de 20 cm."
+    },
+    {
+      "texto": "Arrume as rodelas de banana no fundo da forma e polvilhe a canela."
+    },
+    {
+      "texto": "Bata no liquidificador as bananas, o leite, os ovos, o leite em pó e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Despeje com cuidado sobre as rodelas, cubra com papel-alumínio e asse em banho-maria por 50 a 60 minutos, até firmar.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por pelo menos 3 horas.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Desenforme sobre um prato: as rodelas ficam por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol, ou deixe de fora se as bananas estiverem bem maduras."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use banana-prata no lugar da nanica: fica menos doce."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bananas com a casca bem pintadinha deixam o pudim mais doce e perfumado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 162,
+      "carboidratos_g": 19.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0426.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de banana sem acucar",
+      "pudim de banana de forno",
+      "sobremesa de banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

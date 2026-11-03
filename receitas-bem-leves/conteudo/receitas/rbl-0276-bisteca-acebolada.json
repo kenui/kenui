@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0276",
+  "slug": "bisteca-acebolada",
+  "nome": "Bisteca acebolada",
+  "descricao": "Bistecas de porco marinadas no limão com alho, fritas até dourar e servidas com cebola na frigideira.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "descanso_min": 15,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "bistecas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 bisteca com cebola"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "bisteca-suina",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "4 bistecas suínas (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as bistecas com o limão, o alho, o sal e a pimenta e deixe 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Aqueça o óleo numa frigideira grande em fogo médio-alto."
+    },
+    {
+      "texto": "Frite as bistecas 5 a 6 minutos de cada lado, até dourarem e o caldo sair transparente perto do osso.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Tire as bistecas e, na mesma frigideira, doure a cebola por 6 minutos, raspando o fundo.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Volte as bistecas por 1 minuto, cubra com a cebola e sirva com a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a bisteca por bife de lombo ou de pernil."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1 pimentão em tiras junto com a cebola."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Faça pequenos cortes na gordura da borda: assim a bisteca não entorta na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 385,
+      "carboidratos_g": 6.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0276.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bisteca acebolada",
+      "bisteca de porco",
+      "bisteca na frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

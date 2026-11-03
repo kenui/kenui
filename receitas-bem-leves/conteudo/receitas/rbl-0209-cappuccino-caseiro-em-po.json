@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0209",
+  "slug": "cappuccino-caseiro-em-po",
+  "nome": "Cappuccino caseiro em pó",
+  "descricao": "Mistura de cappuccino feita em casa com leite em pó, café solúvel e cacau, pronta para guardar no pote.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "xícaras"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 xícara (2 colheres (sopa) de mistura e 180 ml de água)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Mistura",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Mistura",
+      "ingrediente": "cafe-soluvel",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de café solúvel"
+    },
+    {
+      "grupo": "Mistura",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Mistura",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Mistura",
+      "ingrediente": "eritritol",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "agua",
+      "quantidade": 180,
+      "medida": "ml",
+      "texto": "180 ml de água quente para cada xícara"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture bem numa tigela o leite em pó, o café solúvel, o cacau, a canela e o eritritol, desmanchando as bolinhas com um garfo."
+    },
+    {
+      "texto": "Guarde num pote bem fechado."
+    },
+    {
+      "texto": "Para cada xícara, coloque 2 colheres (sopa) da mistura e vá juntando 180 ml de água quente aos poucos, mexendo bem até dissolver.",
+      "aviso": "Cuidado com o líquido quente."
+    },
+    {
+      "texto": "Bata com um batedor de leite ou com um garfo para fazer espuma e sirva."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Prepare com leite quente no lugar da água para um cappuccino mais cremoso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a mistura em pote de vidro bem fechado, longe da umidade, por até 1 mês."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata a mistura no liquidificador seco por alguns segundos para ela ficar fininha e dissolver melhor."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 70,
+      "carboidratos_g": 6.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0209.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "xicara_bebida",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cappuccino",
+      "cappuccino caseiro",
+      "cappuccino em po",
+      "capuccino"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

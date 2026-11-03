@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0043",
+  "slug": "paozinho-de-abobora",
+  "nome": "Pãozinho de abóbora",
+  "descricao": "Pãozinho alaranjado e fofinho de abóbora, ótimo para o café com queijo branco.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 35,
+    "cozimento_min": 45,
+    "descanso_min": 90,
+    "total_min": 170
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 pedaço de abóbora cabotiá sem casca (300 g)"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3.5,
+      "medida": "xicara",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de leite morno"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de óleo"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora em cubos no vapor por cerca de 15 minutos, até ficar macia. Amasse até virar um purê e espere amornar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa tigela, misture o purê, o ovo, o leite e o óleo."
+    },
+    {
+      "texto": "Junte o fermento, o sal e a farinha aos poucos, misturando até a massa desgrudar das mãos. Pode sobrar ou faltar um pouco de farinha, conforme a umidade da abóbora."
+    },
+    {
+      "texto": "Sove por 8 minutos, até ficar lisa e macia.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 12 partes, faça bolinhas e coloque numa assadeira untada."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora cabotiá por abóbora moranga: a massa fica mais clara."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para brilho, pincele os pãezinhos com um pouco de leite antes de assar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 183,
+      "carboidratos_g": 30.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0043.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de abobora",
+      "pao de jerimum",
+      "pao caseiro de abobora"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

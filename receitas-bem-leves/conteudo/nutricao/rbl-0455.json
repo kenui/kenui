@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0455",
+  "nome": "Geleia de frutas vermelhas com chia",
+  "porcoes": 14,
+  "porcao": "1 colher (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "frutas-vermelhas-congeladas",
+      "texto": "2 xícaras (chá) de frutas vermelhas congeladas sem açúcar",
+      "gramas": 302,
+      "kcal": 193.3,
+      "carboidratos_g": 47.32,
+      "fonte": "USDA SR Legacy 171710 Blackberries, frozen, unsweetened",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 15.67
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "chia",
+      "texto": "2 colheres (sopa) de semente de chia (20 g)",
+      "gramas": 20,
+      "kcal": 97.2,
+      "carboidratos_g": 8.42,
+      "fonte": "USDA SR Legacy 170554 Seeds, chia seeds, dried",
+      "por_100g": {
+        "kcal": 486,
+        "carboidratos_g": 42.12
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 295.8,
+    "carboidratos_g": 57.5
+  },
+  "por_porcao": {
+    "kcal": 21,
+    "carboidratos_g": 4.1
+  }
+}

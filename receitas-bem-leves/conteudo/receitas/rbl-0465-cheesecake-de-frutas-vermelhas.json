@@ -1,0 +1,216 @@
+{
+  "id": "rbl-0465",
+  "slug": "cheesecake-de-frutas-vermelhas",
+  "nome": "Cheesecake de frutas vermelhas",
+  "descricao": "Cheesecake assado de cream cheese e iogurte, com base de aveia e calda de frutas vermelhas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 70,
+    "descanso_min": 300,
+    "total_min": 400
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Base",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Base",
+      "ingrediente": "manteiga",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Base",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cream-cheese",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 potes de cream cheese (300 g), em temperatura ambiente"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de raspas de limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "frutas-vermelhas-congeladas",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de frutas vermelhas congeladas sem açúcar",
+      "alternativa": {
+        "ingrediente": "morango",
+        "texto": "ou a mesma medida de morangos picados"
+      }
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 160 °C."
+    },
+    {
+      "texto": "Misture a aveia, a manteiga e o eritritol e aperte no fundo de uma forma de 22 cm com fundo removível. Asse por 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Bata o cream cheese com o iogurte e o eritritol só até ficar liso. Junte os ovos um a um, depois o amido, as raspas e a baunilha, sem bater demais."
+    },
+    {
+      "texto": "Despeje sobre a base e asse por 45 a 50 minutos, até a borda firmar e o centro ainda tremer um pouco.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Desligue o forno e deixe o cheesecake lá dentro, com a porta entreaberta, por 1 hora. Depois leve à geladeira por 4 horas.",
+      "temporizador_min": 300
+    },
+    {
+      "texto": "Calda: cozinhe as frutas vermelhas com o eritritol e a água em fogo baixo por 8 a 10 minutos. Deixe esfriar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Desenforme e cubra com a calda."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 160,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cream cheese por ricota bem amassada: a torta fica mais leve e menos lisa."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use só morangos se não encontrar frutas vermelhas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Esfriar devagar dentro do forno evita que o cheesecake rache."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 206,
+      "carboidratos_g": 13.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0465.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "clara",
+    "cobertura": "calda_frutas_vermelhas",
+    "recheio": "creme de queijo",
+    "enfeites": [
+      "frutas_vermelhas",
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cheesecake sem acucar",
+      "torta de queijo",
+      "cheesecake caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

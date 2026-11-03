@@ -1,0 +1,163 @@
+{
+  "id": "rbl-0042",
+  "slug": "pao-de-centeio",
+  "nome": "Pão de centeio",
+  "descricao": "Pão redondo de centeio, escuro e aromático, com casca firme e um toque de erva-doce.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 35,
+    "descanso_min": 100,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (12 fatias)"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-centeio",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de centeio",
+      "alternativa": {
+        "ingrediente": "farinha-de-trigo-integral",
+        "texto": "ou 1 e 1/2 xícara de farinha de trigo integral"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "erva-doce",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de erva-doce"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1.25,
+      "medida": "xicara",
+      "texto": "1 e 1/4 de xícara (chá) de água morna"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture as farinhas, o fermento, o sal e a erva-doce."
+    },
+    {
+      "texto": "Junte o azeite e a água morna e misture até formar uma massa pesada e grudenta."
+    },
+    {
+      "texto": "Sove por 8 a 10 minutos com as mãos untadas. A massa de centeio é menos elástica que a de trigo: isso é normal.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até aumentar bem de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Modele uma bola, coloque numa assadeira polvilhada com farinha e faça 3 cortes rasos por cima com uma faca."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até a casca escurecer e o pão soar oco ao bater por baixo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Deixe esfriar sobre uma grade antes de cortar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a erva-doce por cominho em grão, como nos pães do leste europeu."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte em fatias finas: o pão de centeio é denso e rende bem."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Embrulhado num pano, dura 3 dias. Também pode congelar fatiado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 134,
+      "carboidratos_g": 24
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0042.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de centeio",
+      "pao preto",
+      "pao alemao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

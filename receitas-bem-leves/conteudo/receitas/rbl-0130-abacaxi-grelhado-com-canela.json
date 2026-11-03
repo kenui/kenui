@@ -1,0 +1,133 @@
+{
+  "id": "rbl-0130",
+  "slug": "abacaxi-grelhado-com-canela",
+  "nome": "Abacaxi grelhado com canela",
+  "descricao": "Rodelas de abacaxi douradas na frigideira com canela, servidas com iogurte e coco.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 8,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "rodelas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 rodelas com iogurte"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 320,
+      "medida": "g",
+      "texto": "4 rodelas de abacaxi de 1 cm (320 g)"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de iogurte natural"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 8,
+      "medida": "g",
+      "texto": "1 colher (sopa) de coco ralado seco sem açúcar (8 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque o abacaxi, corte 4 rodelas de 1 cm e retire o miolo duro.",
+      "aviso": "Faca afiada: corte o abacaxi deitado na tábua."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira antiaderente em fogo médio e coloque as rodelas."
+    },
+    {
+      "texto": "Grelhe por 3 a 4 minutos de cada lado, até dourarem.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Polvilhe a canela e sirva com o iogurte e o coco por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o coco por castanha picada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use manga em fatias grossas no lugar do abacaxi."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Uma frigideira de ferro ou bistequeira deixa as marquinhas de grelha."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 137,
+      "carboidratos_g": 21.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0130.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi",
+      "canela",
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "abacaxi grelhado",
+      "abacaxi na frigideira",
+      "abacaxi com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

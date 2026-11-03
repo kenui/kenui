@@ -1,0 +1,167 @@
+{
+  "id": "rbl-0490",
+  "slug": "couve-flor-gratinada",
+  "nome": "Couve-flor gratinada",
+  "descricao": "Couve-flor cozida coberta com molho branco e queijo, gratinada no forno até dourar.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1/8 da travessa"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve-flor",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "1 couve-flor grande em buquês (800 g)"
+    },
+    {
+      "grupo": "Molho branco",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "grupo": "Molho branco",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "grupo": "Molho branco",
+      "ingrediente": "leite-integral",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Molho branco",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho branco",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/3 xícara (chá) de mussarela ralada (150 g)"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a couve-flor em água fervente com uma pitada de sal por 6 a 8 minutos, até ficar macia mas firme. Escorra bem.",
+      "aviso": "Cuidado com a água fervente ao escorrer.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Acrescente o leite frio aos poucos, mexendo sem parar com um batedor, e cozinhe por 5 a 6 minutos, até engrossar. Tempere com o sal e a noz-moscada.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Espalhe a couve-flor numa travessa, cubra com o molho e polvilhe a mussarela e o parmesão."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até o queijo dourar e borbulhar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da couve-flor por brócolis."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farinha de trigo? Engrosse o molho com 2 colheres (sopa) de amido de milho dissolvidas no leite frio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Escorra muito bem a couve-flor: se ficar com água, o molho fica ralo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 179,
+      "carboidratos_g": 11
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0490.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": "queijo",
+    "cobertura": "molho_branco",
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "couve flor gratinada",
+      "couve flor ao forno",
+      "gratinado de natal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

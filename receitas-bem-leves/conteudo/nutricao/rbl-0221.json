@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0221",
+  "nome": "Mix de castanhas e uva-passa",
+  "porcoes": 12,
+  "porcao": "1/4 de xícara (cerca de 30 g)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "amendoim",
+      "texto": "1 xícara (chá) de amendoim cru sem pele",
+      "gramas": 146,
+      "kcal": 794.2,
+      "carboidratos_g": 29.64,
+      "fonte": "TACO 4ª ed. 557 Amendoim, grão, cru",
+      "por_100g": {
+        "kcal": 544,
+        "carboidratos_g": 20.3
+      }
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "texto": "1/2 xícara (chá) de castanha-de-caju (70 g)",
+      "gramas": 70,
+      "kcal": 399,
+      "carboidratos_g": 20.37,
+      "fonte": "TACO 4ª ed. 588 Castanha-de-caju, torrada, salgada",
+      "por_100g": {
+        "kcal": 570,
+        "carboidratos_g": 29.1
+      }
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "texto": "1 xícara (chá) de castanha-do-pará picada grosseiramente (100 g)",
+      "gramas": 100,
+      "kcal": 643,
+      "carboidratos_g": 15.1,
+      "fonte": "TACO 4ª ed. 589 Castanha-do-Brasil, crua",
+      "por_100g": {
+        "kcal": 643,
+        "carboidratos_g": 15.1
+      }
+    },
+    {
+      "ingrediente": "uva-passa",
+      "texto": "1/2 xícara (chá) de uva-passa",
+      "gramas": 72.5,
+      "kcal": 216.8,
+      "carboidratos_g": 57.51,
+      "fonte": "USDA SR Legacy 168165 Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 299,
+        "carboidratos_g": 79.32
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2053,
+    "carboidratos_g": 122.6
+  },
+  "por_porcao": {
+    "kcal": 171,
+    "carboidratos_g": 10.2
+  }
+}

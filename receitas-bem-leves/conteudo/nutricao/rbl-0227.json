@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0227",
+  "nome": "Vitamina verde de couve, banana e abacaxi",
+  "porcoes": 2,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve",
+      "texto": "1 folha grande de couve-manteiga sem o talo (1 xícara picada)",
+      "gramas": 36,
+      "kcal": 9.7,
+      "carboidratos_g": 1.55,
+      "fonte": "TACO 4ª ed. 115 Couve, manteiga, crua",
+      "por_100g": {
+        "kcal": 27,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1 banana-nanica madura congelada em rodelas",
+      "gramas": 118,
+      "kcal": 108.6,
+      "carboidratos_g": 28.08,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "1/2 xícara (chá) de abacaxi picado",
+      "gramas": 82.5,
+      "kcal": 39.6,
+      "carboidratos_g": 10.15,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "agua-de-coco",
+      "texto": "1 xícara (chá) de água de coco gelada",
+      "gramas": 240,
+      "kcal": 52.8,
+      "carboidratos_g": 12.72,
+      "fonte": "TACO 4ª ed. 478 Coco, água de",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 5.3
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água gelada",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 210.7,
+    "carboidratos_g": 52.5
+  },
+  "por_porcao": {
+    "kcal": 105,
+    "carboidratos_g": 26.2
+  }
+}

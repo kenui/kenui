@@ -1,0 +1,181 @@
+{
+  "descricao": "Cardápio de 4 semanas gerado por scripts/gerar-plano.mjs",
+  "semanas": [
+    [
+      {
+        "cafe_da_manha": "rbl-0006",
+        "lanche": "rbl-0387",
+        "almoco": "rbl-0256",
+        "jantar": "rbl-0327"
+      },
+      {
+        "cafe_da_manha": "rbl-0005",
+        "lanche": "rbl-0098",
+        "almoco": "rbl-0336",
+        "jantar": "rbl-0070"
+      },
+      {
+        "cafe_da_manha": "rbl-0090",
+        "lanche": "rbl-0030",
+        "almoco": "rbl-0282",
+        "jantar": "rbl-0247"
+      },
+      {
+        "cafe_da_manha": "rbl-0214",
+        "lanche": "rbl-0472",
+        "almoco": "rbl-0289",
+        "jantar": "rbl-0178"
+      },
+      {
+        "cafe_da_manha": "rbl-0054",
+        "lanche": "rbl-0051",
+        "almoco": "rbl-0307",
+        "jantar": "rbl-0264"
+      },
+      {
+        "cafe_da_manha": "rbl-0404",
+        "lanche": "rbl-0401",
+        "almoco": "rbl-0305",
+        "jantar": "rbl-0293"
+      },
+      {
+        "cafe_da_manha": "rbl-0101",
+        "lanche": "rbl-0069",
+        "almoco": "rbl-0248",
+        "jantar": "rbl-0100"
+      }
+    ],
+    [
+      {
+        "cafe_da_manha": "rbl-0372",
+        "lanche": "rbl-0079",
+        "almoco": "rbl-0299",
+        "jantar": "rbl-0330"
+      },
+      {
+        "cafe_da_manha": "rbl-0002",
+        "lanche": "rbl-0164",
+        "almoco": "rbl-0281",
+        "jantar": "rbl-0076"
+      },
+      {
+        "cafe_da_manha": "rbl-0370",
+        "lanche": "rbl-0158",
+        "almoco": "rbl-0331",
+        "jantar": "rbl-0279"
+      },
+      {
+        "cafe_da_manha": "rbl-0097",
+        "lanche": "rbl-0115",
+        "almoco": "rbl-0306",
+        "jantar": "rbl-0245"
+      },
+      {
+        "cafe_da_manha": "rbl-0106",
+        "lanche": "rbl-0157",
+        "almoco": "rbl-0103",
+        "jantar": "rbl-0258"
+      },
+      {
+        "cafe_da_manha": "rbl-0016",
+        "lanche": "rbl-0386",
+        "almoco": "rbl-0269",
+        "jantar": "rbl-0173"
+      },
+      {
+        "cafe_da_manha": "rbl-0119",
+        "lanche": "rbl-0095",
+        "almoco": "rbl-0242",
+        "jantar": "rbl-0337"
+      }
+    ],
+    [
+      {
+        "cafe_da_manha": "rbl-0078",
+        "lanche": "rbl-0122",
+        "almoco": "rbl-0304",
+        "jantar": "rbl-0326"
+      },
+      {
+        "cafe_da_manha": "rbl-0088",
+        "lanche": "rbl-0141",
+        "almoco": "rbl-0345",
+        "jantar": "rbl-0136"
+      },
+      {
+        "cafe_da_manha": "rbl-0117",
+        "lanche": "rbl-0064",
+        "almoco": "rbl-0244",
+        "jantar": "rbl-0235"
+      },
+      {
+        "cafe_da_manha": "rbl-0041",
+        "lanche": "rbl-0087",
+        "almoco": "rbl-0329",
+        "jantar": "rbl-0283"
+      },
+      {
+        "cafe_da_manha": "rbl-0189",
+        "lanche": "rbl-0408",
+        "almoco": "rbl-0344",
+        "jantar": "rbl-0286"
+      },
+      {
+        "cafe_da_manha": "rbl-0045",
+        "lanche": "rbl-0049",
+        "almoco": "rbl-0241",
+        "jantar": "rbl-0278"
+      },
+      {
+        "cafe_da_manha": "rbl-0186",
+        "lanche": "rbl-0400",
+        "almoco": "rbl-0267",
+        "jantar": "rbl-0253"
+      }
+    ],
+    [
+      {
+        "cafe_da_manha": "rbl-0085",
+        "lanche": "rbl-0420",
+        "almoco": "rbl-0275",
+        "jantar": "rbl-0280"
+      },
+      {
+        "cafe_da_manha": "rbl-0358",
+        "lanche": "rbl-0142",
+        "almoco": "rbl-0268",
+        "jantar": "rbl-0266"
+      },
+      {
+        "cafe_da_manha": "rbl-0094",
+        "lanche": "rbl-0147",
+        "almoco": "rbl-0290",
+        "jantar": "rbl-0234"
+      },
+      {
+        "cafe_da_manha": "rbl-0379",
+        "lanche": "rbl-0153",
+        "almoco": "rbl-0314",
+        "jantar": "rbl-0303"
+      },
+      {
+        "cafe_da_manha": "rbl-0055",
+        "lanche": "rbl-0043",
+        "almoco": "rbl-0301",
+        "jantar": "rbl-0313"
+      },
+      {
+        "cafe_da_manha": "rbl-0044",
+        "lanche": "rbl-0174",
+        "almoco": "rbl-0011",
+        "jantar": "rbl-0295"
+      },
+      {
+        "cafe_da_manha": "rbl-0167",
+        "lanche": "rbl-0369",
+        "almoco": "rbl-0255",
+        "jantar": "rbl-0252"
+      }
+    ]
+  ]
+}

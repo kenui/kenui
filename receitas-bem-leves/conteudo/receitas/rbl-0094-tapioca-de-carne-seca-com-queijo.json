@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0094",
+  "slug": "tapioca-de-carne-seca-com-queijo",
+  "nome": "Tapioca de carne-seca com queijo",
+  "descricao": "Tapioca recheada com carne-seca acebolada e mussarela derretida, ótima para aproveitar sobras.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 8,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tapioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tapioca"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de água"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebola em tiras finas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "carne-seca-cozida",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de carne-seca dessalgada, cozida e desfiada (40 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "1 fatia de mussarela (20 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o polvilho com o sal. Pingue a água aos poucos, esfregando com as pontas dos dedos, até virar uma farofa úmida que forma um bolinho quando apertada e esfarela ao soltar."
+    },
+    {
+      "texto": "Passe essa farofa por uma peneira, apertando com a mão, para ficar fininha e solta."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente de cerca de 20 cm em fogo médio, sem untar. Espalhe a goma peneirada por todo o fundo, apertando de leve com a colher."
+    },
+    {
+      "texto": "Deixe 1 a 2 minutos, até a massa grudar como um disco e a borda começar a soltar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Antes da tapioca, aqueça o azeite numa frigideira e doure a cebola por 2 minutos. Junte a carne-seca e mexa por 1 minuto. Reserve.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Sobre metade da tapioca, coloque a mussarela e a carne-seca, dobre e deixe 1 minuto de cada lado, até o queijo derreter.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne-seca por frango desfiado ou carne de panela."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para dessalgar a carne-seca, deixe de molho na geladeira por 24 horas, trocando a água 3 vezes, e cozinhe na pressão por 30 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se usar goma de tapioca pronta (já hidratada), use 5 colheres (sopa) cheias e pule as duas primeiras etapas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 359,
+      "carboidratos_g": 37.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0094.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tapioca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne-seca com queijo",
+    "enfeites": [
+      "queijo_derretido"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tapioca de carne seca",
+      "tapioca nordestina",
+      "tapioca de jaba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

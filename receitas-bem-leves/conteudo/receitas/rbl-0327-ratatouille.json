@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0327",
+  "slug": "ratatouille",
+  "nome": "Ratatouille",
+  "descricao": "Ensopado francês de berinjela, abobrinha, pimentões e tomate, cozidos devagar com ervas.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "berinjela",
+      "quantidade": 350,
+      "medida": "g",
+      "texto": "1 berinjela grande em cubos (350 g)"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 abobrinhas em cubos"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em cubos"
+    },
+    {
+      "ingrediente": "pimentao-amarelo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão amarelo em cubos"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros picados"
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de tomilho seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manjericão picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela larga, aqueça 2 colheres (sopa) de azeite e doure a berinjela por 5 minutos, mexendo. Retire e reserve.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Na mesma panela, aqueça o restante do azeite e refogue a cebola e os pimentões por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o alho, a abobrinha e a berinjela reservada e mexa por 2 minutos."
+    },
+    {
+      "texto": "Acrescente o tomate, o tomilho e o sal. Tampe e cozinhe em fogo baixo por 25 minutos, mexendo de vez em quando, até os legumes ficarem macios.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Tempere com a pimenta e junte o manjericão. Sirva quente ou em temperatura ambiente."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pimentão amarelo por mais um vermelho ou por chuchu."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um prato mais completo, abra espaços e quebre 4 ovos por cima nos últimos 8 minutos, com a panela tampada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Fica ainda mais saboroso no dia seguinte. Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 174,
+      "carboidratos_g": 18.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0327.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobrinha",
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ratatouille de legumes",
+      "legumes ensopados",
+      "caponata quente"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

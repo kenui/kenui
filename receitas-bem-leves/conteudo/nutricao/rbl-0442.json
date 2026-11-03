@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0442",
+  "nome": "Sorvete de coco",
+  "porcoes": 8,
+  "porcao": "1 bola",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-de-coco",
+      "texto": "2 vidros de leite de coco (400 ml)",
+      "gramas": 380,
+      "kcal": 630.8,
+      "carboidratos_g": 8.36,
+      "fonte": "TACO 4ª ed. 523 Leite, de coco",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 2.2
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1 caixinha de creme de leite (200 g)",
+      "gramas": 200,
+      "kcal": 442,
+      "carboidratos_g": 9,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "1/2 xícara (chá) de leite em pó integral",
+      "gramas": 64,
+      "kcal": 318.1,
+      "carboidratos_g": 25.09,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1/2 xícara (chá) de coco ralado seco sem açúcar (45 g)",
+      "gramas": 45,
+      "kcal": 297,
+      "carboidratos_g": 10.64,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1687.9,
+    "carboidratos_g": 53.1
+  },
+  "por_porcao": {
+    "kcal": 211,
+    "carboidratos_g": 6.6
+  }
+}

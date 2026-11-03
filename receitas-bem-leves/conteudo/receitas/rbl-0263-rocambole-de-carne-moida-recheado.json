@@ -1,0 +1,197 @@
+{
+  "id": "rbl-0263",
+  "slug": "rocambole-de-carne-moida-recheado",
+  "nome": "Rocambole de carne moída recheado",
+  "descricao": "Massa de carne moída temperada, enrolada com presunto, queijo e cenoura ralada e assada até dourar.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "descanso_min": 10,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 fatia grossa (1/6 do rocambole)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Carne",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de carne moída de patinho"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média ralada"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "presunto",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de presunto fatiado (cerca de 5 fatias)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-prato",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de queijo prato fatiado (cerca de 5 fatias)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média ralada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para pincelar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Misture bem todos os ingredientes da carne até a massa ficar firme e grudar."
+    },
+    {
+      "texto": "Abra um pedaço grande de papel-manteiga e espalhe a carne num retângulo de cerca de 30 x 25 cm, com 1,5 cm de espessura."
+    },
+    {
+      "texto": "Cubra com o presunto, o queijo e a cenoura, deixando 2 cm livres nas bordas."
+    },
+    {
+      "texto": "Com a ajuda do papel, enrole pelo lado maior, apertando bem. Feche as pontas e coloque numa assadeira com a emenda para baixo."
+    },
+    {
+      "texto": "Pincele com o azeite e asse por 40 a 45 minutos, até dourar e firmar.",
+      "aviso": "Use luvas: a gordura que se acumula na assadeira fica muito quente.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere 10 minutos antes de fatiar, para o recheio não escorrer.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o presunto por espinafre refogado e o queijo prato por mussarela."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use frango moído no lugar da carne: asse 35 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Congele em fatias, separadas por papel-manteiga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 324,
+      "carboidratos_g": 8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0263.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "presunto e queijo",
+    "enfeites": [
+      "presunto",
+      "queijo_derretido",
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rocambole de carne",
+      "rocambole de carne moida",
+      "bolo de carne recheado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

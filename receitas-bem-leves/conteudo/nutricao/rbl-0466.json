@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0466",
+  "nome": "Torta de banana com farofa de aveia",
+  "porcoes": 10,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos",
+      "gramas": 121.5,
+      "kcal": 478.7,
+      "carboidratos_g": 80.92,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1/2 xícara (chá) de farinha de trigo",
+      "gramas": 62.5,
+      "kcal": 225,
+      "carboidratos_g": 46.94,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "6 colheres (sopa) de manteiga gelada",
+      "gramas": 85.2,
+      "kcal": 618.6,
+      "carboidratos_g": 0.09,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "6 bananas nanicas maduras, em rodelas",
+      "gramas": 708,
+      "kcal": 651.4,
+      "carboidratos_g": 168.5,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1997,
+    "carboidratos_g": 304.1
+  },
+  "por_porcao": {
+    "kcal": 200,
+    "carboidratos_g": 30.4
+  }
+}

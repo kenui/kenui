@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0345",
+  "nome": "Salada de tomate com queijo minas e manjericão",
+  "porcoes": 3,
+  "porcao": "1 prato raso",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tomate",
+      "texto": "4 tomates maduros em rodelas",
+      "gramas": 492,
+      "kcal": 73.8,
+      "carboidratos_g": 15.25,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 queijo minas frescal (300 g) em fatias",
+      "gramas": 300,
+      "kcal": 792,
+      "carboidratos_g": 9.6,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "rucula",
+      "texto": "2 xícaras (chá) de rúcula",
+      "gramas": 40,
+      "kcal": 10,
+      "carboidratos_g": 1.46,
+      "fonte": "USDA SR Legacy 169387 Arugula, raw",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 3.65
+      }
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "texto": "10 azeitonas verdes",
+      "gramas": 44,
+      "kcal": 60.3,
+      "carboidratos_g": 1.8,
+      "fonte": "TACO 4ª ed. 521 Azeitona, verde, conserva",
+      "por_100g": {
+        "kcal": 137,
+        "carboidratos_g": 4.1
+      }
+    },
+    {
+      "ingrediente": "manjericao",
+      "texto": "1/2 xícara (chá) de folhas de manjericão",
+      "gramas": 12,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 133 Manjericão, cru",
+      "por_100g": {
+        "kcal": 21,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "vinagre",
+      "texto": "1 colher (sopa) de vinagre",
+      "gramas": 14.9,
+      "kcal": 2.7,
+      "carboidratos_g": 0.01,
+      "fonte": "USDA SR Legacy 172237 Vinegar, distilled",
+      "por_100g": {
+        "kcal": 18,
+        "carboidratos_g": 0.04
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1/2 colher (chá) de orégano",
+      "gramas": 0.5,
+      "kcal": 1.3,
+      "carboidratos_g": 0.34,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1300.9,
+    "carboidratos_g": 29
+  },
+  "por_porcao": {
+    "kcal": 434,
+    "carboidratos_g": 9.7
+  }
+}

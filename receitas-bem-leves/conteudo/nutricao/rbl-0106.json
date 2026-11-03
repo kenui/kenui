@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0106",
+  "nome": "Mingau de aveia com banana e canela",
+  "porcoes": 1,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "3 colheres (sopa) de aveia em flocos",
+      "gramas": 15.3,
+      "kcal": 60.3,
+      "carboidratos_g": 10.19,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1 banana nanica madura (metade amassada e metade em rodelas)",
+      "gramas": 118,
+      "kcal": 108.6,
+      "carboidratos_g": 28.08,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/4 de colher (chá) de canela em pó",
+      "gramas": 0.7,
+      "kcal": 1.6,
+      "carboidratos_g": 0.52,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 319.4,
+    "carboidratos_g": 50.5
+  },
+  "por_porcao": {
+    "kcal": 319,
+    "carboidratos_g": 50.5
+  }
+}

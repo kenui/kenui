@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0225",
+  "slug": "grao-de-bico-crocante",
+  "nome": "Grão-de-bico crocante",
+  "descricao": "Grão-de-bico assado até ficar crocante, temperado com páprica e orégano, para petiscar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 35,
+    "descanso_min": 15,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1/3 de xícara"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de grão-de-bico cozido e escorrido (1 lata ou 1 xícara de grão cru cozido)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Escorra bem o grão-de-bico e seque com um pano de prato, tirando as peles que soltarem."
+    },
+    {
+      "texto": "Espalhe numa assadeira em uma camada só e asse por 20 minutos.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Tire do forno, misture o azeite, a páprica, o orégano e o sal e asse por mais 15 minutos, até ficar crocante.",
+      "aviso": "Cuidado: a assadeira está muito quente.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Deixe esfriar por 15 minutos na assadeira antes de servir.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica e o orégano por cominho e alho em pó, ou por curry."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote aberto ou com a tampa solta por até 2 dias: fechado, perde a crocância."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para cozinhar o grão em casa, deixe 1 xícara de molho por 8 horas e cozinhe na panela de pressão por 20 minutos depois de pegar pressão."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 160,
+      "carboidratos_g": 22.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0225.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "grao de bico assado",
+      "grao de bico crocante",
+      "petisco saudavel"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

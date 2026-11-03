@@ -1,0 +1,67 @@
+{
+  "receita": "rbl-0354",
+  "nome": "Couve refogada",
+  "porcoes": 4,
+  "porcao": "1/2 xícara (chá)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve",
+      "texto": "2 maços de couve-manteiga (300 g)",
+      "gramas": 300,
+      "kcal": 81,
+      "carboidratos_g": 12.9,
+      "fonte": "TACO 4ª ed. 115 Couve, manteiga, crua",
+      "por_100g": {
+        "kcal": 27,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 e 1/2 colher (sopa) de azeite",
+      "gramas": 20.3,
+      "kcal": 179,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 270.6,
+    "carboidratos_g": 15.1
+  },
+  "por_porcao": {
+    "kcal": 68,
+    "carboidratos_g": 3.8
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0316",
+  "slug": "creme-de-abobrinha-com-hortela",
+  "nome": "Creme de abobrinha com hortelã",
+  "descricao": "Creme verde-claro de abobrinha com um toque de requeijão e hortelã fresca.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 abobrinhas médias em rodelas"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 batata média em cubos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 700,
+      "medida": "ml",
+      "texto": "700 ml de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola e o alho por 3 minutos."
+    },
+    {
+      "texto": "Junte a abobrinha, a batata, a água e o sal. Tampe e cozinhe por 15 minutos, até a batata ficar macia.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Bata no liquidificador com o requeijão e metade da hortelã até ficar liso.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Volte à panela, tempere com a pimenta e aqueça por 3 minutos."
+    },
+    {
+      "texto": "Sirva com o restante da hortelã por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por manjericão ou salsinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use ricota no lugar do requeijão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 144,
+      "carboidratos_g": 19.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0316.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobrinha",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de abobrinha",
+      "creme de abobrinha",
+      "sopa verde"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

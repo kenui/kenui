@@ -1,0 +1,164 @@
+{
+  "id": "rbl-0155",
+  "slug": "pasta-de-berinjela-com-palitos-de-pimentao",
+  "nome": "Pasta de berinjela com palitos de pimentão",
+  "descricao": "Pasta de berinjela assada com iogurte, alho e limão, servida com palitos de pimentão e pepino.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "descanso_min": 15,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de pasta"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1/3 de xícara de pasta com palitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "berinjela",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "2 berinjelas médias (600 g)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de iogurte natural"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pepino",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pepino médio (200 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Fure as berinjelas com um garfo em vários lugares e asse inteiras numa assadeira por 40 minutos, até ficarem murchas e bem macias.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Deixe esfriar por 15 minutos, corte ao meio e raspe a polpa com uma colher.",
+      "aviso": "A berinjela segura muito calor por dentro.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Pique a polpa com uma faca e misture o iogurte, o alho, o limão, o azeite e o sal."
+    },
+    {
+      "texto": "Junte a salsinha e prove o tempero."
+    },
+    {
+      "texto": "Corte o pimentão e o pepino em palitos e sirva com a pasta."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por 2 colheres (sopa) de tahine, para um sabor mais árabe."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para um sabor defumado, queime a casca da berinjela direto na chama do fogão, virando com uma pinça, antes de levar ao forno."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 74,
+      "carboidratos_g": 6.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0155.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "berinjela",
+    "enfeites": [
+      "pimentao",
+      "pepino",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pasta de berinjela",
+      "babaganuche",
+      "pate de berinjela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0311",
+  "nome": "Canja de galinha",
+  "porcoes": 6,
+  "porcao": "1 prato fundo (cerca de 400 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "texto": "600 g de sobrecoxa de frango sem pele",
+      "gramas": 600,
+      "kcal": 972,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 414 Frango, sobrecoxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 162,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 litros de água",
+      "gramas": 2000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "louro",
+      "texto": "1 folha de louro",
+      "gramas": 0.2,
+      "kcal": 0.6,
+      "carboidratos_g": 0.15,
+      "fonte": "USDA SR Legacy 170917 Spices, bay leaf",
+      "por_100g": {
+        "kcal": 313,
+        "carboidratos_g": 74.97
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura em cubinhos",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "salsao",
+      "texto": "1 talo de salsão picado (40 g)",
+      "gramas": 40,
+      "kcal": 5.6,
+      "carboidratos_g": 1.19,
+      "fonte": "USDA SR Legacy 169988 Celery, raw",
+      "por_100g": {
+        "kcal": 14,
+        "carboidratos_g": 2.97
+      }
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "1/2 xícara (chá) de arroz branco cru, lavado",
+      "gramas": 92.5,
+      "kcal": 331.2,
+      "carboidratos_g": 72.89,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1503.1,
+    "carboidratos_g": 90.9
+  },
+  "por_porcao": {
+    "kcal": 251,
+    "carboidratos_g": 15.1
+  }
+}

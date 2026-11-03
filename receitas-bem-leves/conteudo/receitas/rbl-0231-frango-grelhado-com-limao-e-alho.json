@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0231",
+  "slug": "frango-grelhado-com-limao-e-alho",
+  "nome": "Frango grelhado com limão e alho",
+  "descricao": "Filés de peito de frango marinados no limão com alho, grelhados até ficarem dourados por fora e suculentos por dentro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "descanso_min": 15,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "filés"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé (cerca de 150 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 filés de peito de frango (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada para servir"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Se os filés forem grossos, abra cada um ao meio no sentido do comprimento para ficarem com cerca de 1,5 cm.",
+      "aviso": "Use faca bem afiada e mantenha a mão espalmada sobre o filé, longe da lâmina."
+    },
+    {
+      "texto": "Misture o suco de limão, o alho, o orégano, o sal e a pimenta. Passe nos filés e deixe pegar gosto por 15 minutos na geladeira.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Aqueça uma frigideira ou grelha antiaderente em fogo médio-alto com o azeite."
+    },
+    {
+      "texto": "Coloque os filés sem amontoar e deixe 5 a 6 minutos sem mexer, até dourar embaixo.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Vire e grelhe mais 5 a 6 minutos, até o centro ficar branco e sem partes rosadas.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Sirva com a salsinha por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o limão por 1/2 xícara de suco de laranja para um sabor mais suave."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxa desossada no lugar do peito: fica ainda mais suculenta, só leva 2 minutos a mais de cada lado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não aperte o filé com a espátula enquanto grelha: o caldo sai e o frango fica seco."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 215,
+      "carboidratos_g": 1.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0231.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango grelhado",
+      "file de frango grelhado",
+      "peito de frango na frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "rbl-0445",
+  "slug": "picole-de-limao",
+  "nome": "Picolé de limão",
+  "descricao": "Picolé de limonada bem gelado e azedinho, com raspas de casca, ideal para dia de calor.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "picolés"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 picolé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "limao",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "Suco de 4 limões"
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de raspas de limão"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture a água e o eritritol até dissolver bem."
+    },
+    {
+      "texto": "Junte o suco e as raspas de limão e mexa."
+    },
+    {
+      "texto": "Despeje em 8 forminhas de picolé, coloque os palitos e leve ao congelador por pelo menos 6 horas.",
+      "temporizador_min": 360
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um picolé de limão cremoso, troque 1 xícara da água por 1 pote de iogurte natural."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata no liquidificador com a casca de 1 limão e coe para ter a cor e o sabor de limonada suíça."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 5,
+      "carboidratos_g": 1.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0445.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "picole",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picole de limao caseiro",
+      "picole de limonada",
+      "sorvete de palito de limao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

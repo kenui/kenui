@@ -1,0 +1,177 @@
+{
+  "id": "rbl-0479",
+  "slug": "arroz-a-grega",
+  "nome": "Arroz à grega",
+  "descricao": "Arroz soltinho com cenoura, pimentões coloridos e uva-passa, o acompanhamento clássico da mesa de Natal.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "descanso_min": 5,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "4 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "arroz-branco",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de arroz branco"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em cubinhos"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho em cubinhos"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão verde em cubinhos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de água fervente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de uva-passa sem açúcar"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, aqueça 2 colheres de azeite e refogue a cebola e o alho por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte o arroz e refogue por 2 minutos, mexendo.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a água fervente e o sal, tampe deixando uma fresta e cozinhe em fogo baixo por 15 a 18 minutos, até secar.",
+      "aviso": "Cuidado com o vapor da água fervente.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Enquanto isso, numa frigideira, aqueça o restante do azeite e refogue a cenoura e os pimentões por 5 minutos, até ficarem macios mas ainda firmes.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue o arroz e deixe tampado por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Solte o arroz com um garfo e misture os legumes, a uva-passa e a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Não gosta de uva-passa? Use damasco seco picado ou deixe de fora."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque os pimentões por 1 xícara de vagem picada, cozida por 5 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cozinhe os legumes à parte: assim eles ficam coloridos e não deixam o arroz empapado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 243,
+      "carboidratos_g": 44.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0479.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "arroz a grega",
+      "arroz de natal",
+      "arroz com uva passa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "receita": "rbl-0170",
+  "nome": "Castanha de caju com alecrim no forno",
+  "porcoes": 8,
+  "porcao": "1/4 de xícara",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "castanha-de-caju-crua",
+      "texto": "2 xícaras (chá) de castanha de caju crua sem sal",
+      "gramas": 274,
+      "kcal": 1515.2,
+      "carboidratos_g": 82.72,
+      "fonte": "USDA SR Legacy 170162 Nuts, cashew nuts, raw",
+      "por_100g": {
+        "kcal": 553,
+        "carboidratos_g": 30.19
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "1 colher (chá) de alecrim seco",
+      "gramas": 1.2,
+      "kcal": 4,
+      "carboidratos_g": 0.77,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1/2 colher (chá) de páprica doce",
+      "gramas": 1.2,
+      "kcal": 3.2,
+      "carboidratos_g": 0.62,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1641.9,
+    "carboidratos_g": 84.1
+  },
+  "por_porcao": {
+    "kcal": 205,
+    "carboidratos_g": 10.5
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "receita": "rbl-0495",
+  "nome": "Torta de nozes",
+  "porcoes": 10,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
+      "gramas": 187.5,
+      "kcal": 675,
+      "carboidratos_g": 140.81,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "7 colheres (sopa) de manteiga gelada em cubos (100 g)",
+      "gramas": 99.4,
+      "kcal": 721.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz",
+      "texto": "1 e 1/2 xícara (chá) de nozes picadas",
+      "gramas": 175.5,
+      "kcal": 1088.1,
+      "carboidratos_g": 32.29,
+      "fonte": "TACO 4ª ed. 597 Noz, crua",
+      "por_100g": {
+        "kcal": 620,
+        "carboidratos_g": 18.4
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1 caixinha (200 g) de creme de leite",
+      "gramas": 200,
+      "kcal": 442,
+      "carboidratos_g": 9,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "2 colheres (sopa) de manteiga derretida",
+      "gramas": 28.4,
+      "kcal": 206.2,
+      "carboidratos_g": 0.03,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/2 colher (chá) de canela em pó",
+      "gramas": 1.3,
+      "kcal": 3.2,
+      "carboidratos_g": 1.05,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 3434.2,
+    "carboidratos_g": 187
+  },
+  "por_porcao": {
+    "kcal": 343,
+    "carboidratos_g": 18.7
+  }
+}

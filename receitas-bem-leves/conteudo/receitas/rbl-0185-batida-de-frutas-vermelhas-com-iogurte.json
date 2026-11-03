@@ -1,0 +1,133 @@
+{
+  "id": "rbl-0185",
+  "slug": "batida-de-frutas-vermelhas-com-iogurte",
+  "nome": "Batida de frutas vermelhas com iogurte",
+  "descricao": "Batida grossa e bem gelada de iogurte natural com morango e frutas vermelhas congeladas.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 220 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 220 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "frutas-vermelhas-congeladas",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de frutas vermelhas congeladas (amora, framboesa, mirtilo)",
+      "alternativa": {
+        "ingrediente": "morango",
+        "texto": "ou mais 1/2 xícara de morangos congelados"
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de morangos congelados (cerca de 6)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o iogurte, as frutas congeladas, o leite e o eritritol por 1 minuto, até ficar liso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Se ficar grosso demais, junte mais um pouco de leite e bata de novo."
+    },
+    {
+      "texto": "Sirva na hora, bem gelada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Na falta das frutas vermelhas, use só morango: dobre a quantidade."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por água gelada para uma batida mais leve."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Frutas congeladas dispensam gelo e deixam a batida mais cremosa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 116,
+      "carboidratos_g": 12.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0185.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "frutas_vermelhas",
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "smoothie de frutas vermelhas",
+      "batida de amora",
+      "iogurte com frutas vermelhas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

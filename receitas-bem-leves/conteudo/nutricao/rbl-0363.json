@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0363",
+  "nome": "Bolo de maçã com canela",
+  "porcoes": 12,
+  "porcao": "1 fatia (1/12 do bolo)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "maca",
+      "texto": "2 maçãs médias com casca, picadas (300 g)",
+      "gramas": 300,
+      "kcal": 168,
+      "carboidratos_g": 45.6,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/2 xícara (chá) de óleo",
+      "gramas": 109,
+      "kcal": 963.6,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "gramas": 150,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 xícaras (chá) de farinha de trigo",
+      "gramas": 250,
+      "kcal": 900,
+      "carboidratos_g": 187.75,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "2 colheres (chá) de canela em pó",
+      "gramas": 5.2,
+      "kcal": 12.8,
+      "carboidratos_g": 4.19,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (sopa) de fermento químico em pó",
+      "gramas": 13.8,
+      "kcal": 12.4,
+      "carboidratos_g": 6.06,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média em fatias finas (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol",
+      "gramas": 12.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2361.7,
+    "carboidratos_g": 270.9
+  },
+  "por_porcao": {
+    "kcal": 197,
+    "carboidratos_g": 22.6
+  }
+}

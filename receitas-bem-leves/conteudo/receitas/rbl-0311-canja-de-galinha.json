@@ -1,0 +1,176 @@
+{
+  "id": "rbl-0311",
+  "slug": "canja-de-galinha",
+  "nome": "Canja de galinha",
+  "descricao": "Canja caseira com frango desfiado, arroz, cenoura e cheiro-verde, para dias frios.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 50,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 400 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de sobrecoxa de frango sem pele"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2000,
+      "medida": "ml",
+      "texto": "2 litros de água"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 folha de louro"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em cubinhos"
+    },
+    {
+      "ingrediente": "salsao",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "1 talo de salsão picado (40 g)"
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de arroz branco cru, lavado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, coloque o frango, a água, o louro e metade do sal. Cozinhe em fogo médio por 25 minutos, tirando a espuma que subir.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o frango, deixe amornar e desfie, descartando os ossos. Reserve o caldo e tire o louro."
+    },
+    {
+      "texto": "Em outra panela, aqueça o azeite e refogue a cebola, o alho, a cenoura e o salsão por 3 minutos."
+    },
+    {
+      "texto": "Junte o caldo reservado, o arroz e o restante do sal. Cozinhe por 15 a 18 minutos, até o arroz ficar bem macio.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Volte o frango desfiado à panela, tempere com a pimenta e aqueça por 2 minutos. Desligue e junte a salsinha e a cebolinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use peito de frango no lugar da sobrecoxa: a canja fica mais magra."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o arroz branco por arroz integral: cozinhe 30 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Na geladeira o arroz absorve o caldo. Ao aquecer, junte um pouco de água quente."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 251,
+      "carboidratos_g": 15.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0311.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "canja",
+      "sopa de frango com arroz",
+      "canja caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

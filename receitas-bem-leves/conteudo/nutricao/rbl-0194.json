@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0194",
+  "nome": "Suco de melancia com gengibre",
+  "porcoes": 2,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "melancia",
+      "texto": "3 xícaras (chá) de melancia picada, sem sementes",
+      "gramas": 456,
+      "kcal": 150.5,
+      "carboidratos_g": 36.94,
+      "fonte": "TACO 4ª ed. 235 Melancia, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 8.1
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "texto": "1 colher (chá) de gengibre ralado",
+      "gramas": 2,
+      "kcal": 1.6,
+      "carboidratos_g": 0.36,
+      "fonte": "USDA SR Legacy 169231 Ginger root, raw",
+      "por_100g": {
+        "kcal": 80,
+        "carboidratos_g": 17.77
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água gelada",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "limao-taiti",
+      "texto": "1 limão em rodelas para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 157.4,
+    "carboidratos_g": 39
+  },
+  "por_porcao": {
+    "kcal": 79,
+    "carboidratos_g": 19.5
+  }
+}

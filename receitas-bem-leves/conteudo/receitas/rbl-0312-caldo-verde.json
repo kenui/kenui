@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0312",
+  "slug": "caldo-verde",
+  "nome": "Caldo verde",
+  "descricao": "Caldo cremoso de batata com couve cortada bem fininha, alho e um fio de azeite.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 batatas médias em pedaços"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "couve",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 maço de couve-manteiga cortada bem fininha (200 g)"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, aqueça 2 colheres (sopa) de azeite e refogue a cebola e o alho até ficarem macios."
+    },
+    {
+      "texto": "Junte a batata, a água e o sal. Tampe e cozinhe por 20 minutos, até a batata desmanchar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Bata tudo no liquidificador, em partes, até ficar liso, e volte para a panela.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Ferva, junte a couve e cozinhe por 3 a 5 minutos, só até ela murchar e ficar verde-escura.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Tempere com a pimenta e sirva com o restante do azeite por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Se quiser, doure rodelas de linguiça calabresa à parte e sirva por cima de cada prato."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da batata por mandioquinha para um caldo mais aveludado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Peça na feira para cortar a couve bem fininha, ou enrole as folhas como charuto e fatie com faca afiada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele o creme sem a couve; na hora de servir, aqueça e junte a couve fresca."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 191,
+      "carboidratos_g": 29.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0312.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "caldo verde portugues",
+      "sopa de batata com couve",
+      "caldo de couve"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

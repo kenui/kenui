@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0446",
+  "slug": "picole-de-maracuja-cremoso",
+  "nome": "Picolé de maracujá cremoso",
+  "descricao": "Picolé de maracujá com leite e iogurte, cremoso e com o azedinho da fruta.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "picolés"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 picolé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maracuja",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de suco concentrado de maracujá (polpa de 3 maracujás batida sem água e coada)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o suco de maracujá, o iogurte, o leite e o eritritol por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Despeje em 8 forminhas, coloque os palitos e leve ao congelador por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Para desenformar, passe a forminha rapidamente em água morna."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use polpa de maracujá congelada sem açúcar no lugar da fruta."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por leite de coco."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 50,
+      "carboidratos_g": 5.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0446.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "picole",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maracuja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picole de maracuja",
+      "picole cremoso",
+      "sorvete de palito de maracuja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "171711": {
+      "descricao": "Blueberries, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 148
+        },
+        {
+          "quantidade": 50,
+          "medida": "berries",
+          "gramas": 68
+        }
+      ],
+      "carboidratos_g": 14.49,
+      "kcal": 57,
+      "lipidios_g": 0.33,
+      "fibra_g": 2.4,
+      "proteina_g": 0.74
+    },
+    "172941": {
+      "descricao": "Turkey breast, sliced, prepackaged",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "slice",
+          "gramas": 16
+        }
+      ],
+      "lipidios_g": 3.77,
+      "carboidratos_g": 2.2,
+      "kcal": 106,
+      "proteina_g": 14.81,
+      "fibra_g": 0
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0208",
+  "nome": "Café gelado cremoso",
+  "porcoes": 2,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "cafe-coado",
+      "texto": "1 xícara (chá) de café coado forte, frio",
+      "gramas": 237,
+      "kcal": 21.3,
+      "carboidratos_g": 3.56,
+      "fonte": "TACO 4ª ed. 471 Café, infusão 10%",
+      "por_100g": {
+        "kcal": 9,
+        "carboidratos_g": 1.5
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite gelado",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "2 colheres (sopa) de leite em pó integral",
+      "gramas": 16,
+      "kcal": 79.5,
+      "carboidratos_g": 6.27,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (chá) de eritritol",
+      "gramas": 8.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de gelo",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela para polvilhar",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 249.9,
+    "carboidratos_g": 21.6
+  },
+  "por_porcao": {
+    "kcal": 125,
+    "carboidratos_g": 10.8
+  }
+}

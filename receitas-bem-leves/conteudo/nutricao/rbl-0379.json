@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0379",
+  "nome": "Bolo de tâmara",
+  "porcoes": 10,
+  "porcao": "1 fatia (1/10 do bolo)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tamara",
+      "texto": "20 tâmaras sem caroço (cerca de 1 xícara)",
+      "gramas": 142,
+      "kcal": 400.4,
+      "carboidratos_g": 106.54,
+      "fonte": "USDA SR Legacy 171726 Dates, deglet noor",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 75.03
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água fervente",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/3 de xícara (chá) de óleo",
+      "gramas": 71.9,
+      "kcal": 635.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 180,
+      "kcal": 612,
+      "carboidratos_g": 129.55,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (sopa) de fermento químico em pó",
+      "gramas": 13.8,
+      "kcal": 12.4,
+      "carboidratos_g": 6.06,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1887.1,
+    "carboidratos_g": 245.1
+  },
+  "por_porcao": {
+    "kcal": 189,
+    "carboidratos_g": 24.5
+  }
+}

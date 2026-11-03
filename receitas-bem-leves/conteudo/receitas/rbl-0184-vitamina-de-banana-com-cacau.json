@@ -1,0 +1,119 @@
+{
+  "id": "rbl-0184",
+  "slug": "vitamina-de-banana-com-cacau",
+  "nome": "Vitamina de banana com cacau",
+  "descricao": "Vitamina com gosto de chocolate, feita com banana madura, leite e cacau em pó.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 230 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 230 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas-nanicas maduras (de preferência congeladas em rodelas)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as bananas e corte em rodelas. Se der tempo, congele as rodelas num pote por 2 horas antes."
+    },
+    {
+      "texto": "Bata no liquidificador a banana, o leite, o cacau e a canela por 1 minuto, até ficar liso e espumado.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Se não tiver cacau 100%, faça só com banana e canela: fica uma vitamina de banana clássica."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Deixe sempre algumas bananas maduras congeladas em rodelas: a vitamina fica gelada e cremosa sem gelo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais pintadinha a casca da banana, mais doce a vitamina."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 176,
+      "carboidratos_g": 27.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0184.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina de banana",
+      "banana com chocolate",
+      "shake de cacau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

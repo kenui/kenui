@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0178",
+  "slug": "torta-de-frigideira-de-atum",
+  "nome": "Torta de frigideira de atum",
+  "descricao": "Torta rápida de massa integral feita na frigideira tampada, recheada com atum, tomate e mussarela.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "torta de 22 cm"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1/2 torta"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite para untar"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "atum-em-lata",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "1 lata de atum em óleo escorrido (120 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "1/2 xícara (50 g) de queijo mussarela ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o atum, o tomate, a cebolinha e a mussarela numa tigela."
+    },
+    {
+      "texto": "Noutra tigela, bata os ovos com o leite, o parmesão e o sal. Junte a farinha e mexa até ficar liso. Por último, misture o fermento."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente de 22 cm com o azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje metade da massa, espalhe o recheio e cubra com o restante da massa."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 8 a 10 minutos, até a superfície firmar.",
+      "aviso": "Fogo baixo para não queimar o fundo.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Vire com a ajuda de um prato e deixe mais 4 a 5 minutos, até dourar.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o atum por frango desfiado ou por sardinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por aveia em flocos finos ou por farinha de trigo comum."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 2 dias na geladeira. Aqueça na frigideira tampada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 447,
+      "carboidratos_g": 29.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0178.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "atum",
+    "enfeites": [
+      "tomate",
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de frigideira",
+      "torta rapida de atum",
+      "torta salgada de frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

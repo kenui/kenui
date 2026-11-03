@@ -1,0 +1,135 @@
+{
+  "id": "rbl-0351",
+  "slug": "mandioca-na-manteiga",
+  "nome": "Mandioca na manteiga",
+  "descricao": "Mandioca cozida até ficar macia e dourada na frigideira com manteiga, alho e cheiro-verde.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 35,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mandioca",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de mandioca descascada em pedaços"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioca em água com o sal por 25 a 30 minutos, até ficar macia e começar a abrir. Escorra e retire os fiapos do meio.",
+      "aviso": "Escorra com cuidado: a água está fervendo.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Numa frigideira grande, derreta a manteiga e doure o alho por 30 segundos."
+    },
+    {
+      "texto": "Junte a mandioca e doure por 5 minutos, virando os pedaços, até ficarem levemente dourados.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e espalhe a salsinha e a cebolinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manteiga por azeite."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com mandioquinha ou batata-doce cozidas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Mandioca congelada já descascada economiza tempo e cozinha igual."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a mandioca cozida na geladeira por até 3 dias e doure na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 238,
+      "carboidratos_g": 48.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0351.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mandioca cozida",
+      "aipim na manteiga",
+      "macaxeira na manteiga"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

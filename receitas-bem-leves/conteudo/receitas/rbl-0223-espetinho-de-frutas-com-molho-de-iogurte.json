@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0223",
+  "slug": "espetinho-de-frutas-com-molho-de-iogurte",
+  "nome": "Espetinho de frutas com molho de iogurte",
+  "descricao": "Espetinhos coloridos de frutas com um molhinho de iogurte, canela e limão para mergulhar.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "espetinhos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 espetinhos com molho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Espetinhos",
+      "ingrediente": "morango",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 morangos"
+    },
+    {
+      "grupo": "Espetinhos",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana-nanica em rodelas grossas"
+    },
+    {
+      "grupo": "Espetinhos",
+      "ingrediente": "abacaxi",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de abacaxi em cubos"
+    },
+    {
+      "grupo": "Espetinhos",
+      "ingrediente": "uva",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "20 uvas sem semente (100 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 3 gotas de stevia"
+      }
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "colher_sopa",
+      "texto": "1/2 colher (sopa) de suco de limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as frutas e corte em pedaços do mesmo tamanho.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Espete as frutas em 6 palitos de churrasco, alternando as cores.",
+      "aviso": "Cuidado com a ponta dos palitos, principalmente perto de crianças."
+    },
+    {
+      "texto": "Misture o iogurte, o eritritol, a canela e o suco de limão numa tigelinha."
+    },
+    {
+      "texto": "Sirva os espetinhos com o molho para mergulhar."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use as frutas que tiver em casa: manga, mamão, kiwi e melancia também funcionam."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Monte na hora de servir; frutas cortadas soltam água."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pingue um pouco de suco de limão na banana para ela não escurecer."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 117,
+      "carboidratos_g": 23.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0223.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "banana_rodelas",
+      "abacaxi",
+      "uva"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "espetinho de frutas",
+      "frutas no palito",
+      "fruta com iogurte"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

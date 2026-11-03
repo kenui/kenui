@@ -1,0 +1,137 @@
+{
+  "id": "rbl-0350",
+  "slug": "farofa-de-cenoura",
+  "nome": "Farofa de cenoura",
+  "descricao": "Farofa úmida de farinha de mandioca com cenoura ralada, cebola dourada e salsinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 10,
+    "total_min": 20
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "3 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras raladas no ralo grosso"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 xícara (chá) de farinha de mandioca torrada (150 g)"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, derreta a manteiga e doure a cebola por 4 minutos. Junte o alho e mexa por 1 minuto.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Acrescente a cenoura e o sal e refogue por 3 minutos, até murchar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Abaixe o fogo e junte a farinha aos poucos, mexendo sempre, até ficar soltinha e levemente tostada."
+    },
+    {
+      "texto": "Desligue e misture a salsinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cenoura por abobrinha ralada e espremida ou por couve fatiada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use farinha de milho (flocão) no lugar da farinha de mandioca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde num pote fechado na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 141,
+      "carboidratos_g": 25.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0350.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "farofa de cenoura",
+      "farofa simples",
+      "farofa caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

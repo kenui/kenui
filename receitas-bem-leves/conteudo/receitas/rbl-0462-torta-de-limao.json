@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0462",
+  "slug": "torta-de-limao",
+  "nome": "Torta de limão",
+  "descricao": "Torta gelada de limão com base crocante de aveia e creme firme e azedinho, sem leite condensado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 15,
+    "descanso_min": 260,
+    "total_min": 300
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Base",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Base",
+      "ingrediente": "manteiga",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Base",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Base",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "2 caixinhas de creme de leite (400 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "limao",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "Suco de 4 limões"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de raspas de limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Misture a aveia, a manteiga, o ovo e o eritritol até formar uma farofa úmida. Forre o fundo e a lateral de uma forma de 22 cm com fundo removível, apertando bem."
+    },
+    {
+      "texto": "Asse por 12 a 15 minutos, até dourar a borda. Deixe esfriar por 20 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Bata no liquidificador o creme de leite, o leite em pó e o eritritol por 1 minuto. Com o aparelho ligado, junte o suco de limão e a gelatina derretida."
+    },
+    {
+      "texto": "Despeje o creme sobre a base fria e leve à geladeira por 4 horas, até firmar.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Espalhe as raspas de limão por cima e desenforme na hora de servir."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 15,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia da base por 1 xícara de castanha-de-caju moída e 1/2 xícara de aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Use limões bem verdes e pesados: dão mais suco."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 257,
+      "carboidratos_g": 16.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0462.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "creme de limão",
+    "enfeites": [
+      "limao",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de limao sem acucar",
+      "torta de limao sem leite condensado",
+      "torta gelada de limao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

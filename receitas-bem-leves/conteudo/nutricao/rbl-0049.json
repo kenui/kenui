@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0049",
+  "nome": "Pão de couve-flor",
+  "porcoes": 8,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve-flor",
+      "texto": "4 xícaras (chá) de couve-flor picada (1 couve-flor pequena)",
+      "gramas": 428,
+      "kcal": 98.4,
+      "carboidratos_g": 19.26,
+      "fonte": "TACO 4ª ed. 117 Couve-flor, crua",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "4 ovos",
+      "gramas": 200,
+      "kcal": 286,
+      "carboidratos_g": 3.2,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1 xícara (chá) de queijo mussarela ralado",
+      "gramas": 112,
+      "kcal": 369.6,
+      "carboidratos_g": 3.36,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado",
+      "gramas": 50,
+      "kcal": 226.5,
+      "carboidratos_g": 0.85,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "linhaca-moida",
+      "texto": "3 colheres (sopa) de linhaça moída",
+      "gramas": 21,
+      "kcal": 104,
+      "carboidratos_g": 9.09,
+      "fonte": "TACO 4ª ed. 594 Linhaça, semente",
+      "por_100g": {
+        "kcal": 495,
+        "carboidratos_g": 43.3
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1088.6,
+    "carboidratos_g": 37.8
+  },
+  "por_porcao": {
+    "kcal": 136,
+    "carboidratos_g": 4.7
+  }
+}

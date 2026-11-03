@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0253",
+  "nome": "Carne de panela com legumes",
+  "porcoes": 6,
+  "porcao": "1 prato raso (2 pedaços de carne com legumes)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "acem",
+      "texto": "1 kg de acém em pedaços grandes",
+      "gramas": 1000,
+      "kcal": 1440,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 329 Carne, bovina, acém, sem gordura, cru",
+      "por_100g": {
+        "kcal": 144,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1 colher (chá) de páprica doce",
+      "gramas": 2.3,
+      "kcal": 6.5,
+      "carboidratos_g": 1.24,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "2 colheres (sopa) de óleo",
+      "gramas": 27.2,
+      "kcal": 240.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas médias picadas",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "4 dentes de alho picados",
+      "gramas": 12,
+      "kcal": 13.6,
+      "carboidratos_g": 2.87,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)",
+      "gramas": 16,
+      "kcal": 9.8,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 158 Tomate, extrato",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 15
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água quente (480 ml)",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "2 batatas médias em 4 pedaços",
+      "gramas": 426,
+      "kcal": 272.6,
+      "carboidratos_g": 62.62,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras em pedaços grandes",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2149.8,
+    "carboidratos_g": 106.2
+  },
+  "por_porcao": {
+    "kcal": 358,
+    "carboidratos_g": 17.7
+  }
+}

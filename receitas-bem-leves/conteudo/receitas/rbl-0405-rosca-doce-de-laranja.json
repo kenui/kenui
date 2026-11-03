@@ -1,0 +1,195 @@
+{
+  "id": "rbl-0405",
+  "slug": "rosca-doce-de-laranja",
+  "nome": "Rosca doce de laranja",
+  "descricao": "Rosca trançada de massa fofinha com suco e raspas de laranja, para o café da manhã.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 35,
+    "descanso_min": 100,
+    "total_min": 175
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "fatias"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3.5,
+      "medida": "xicara",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 sachê (10 g) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite morno"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de suco de laranja em temperatura ambiente"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "raspas-de-laranja",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de raspas de casca de laranja"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para pincelar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela grande, misture a farinha, o fermento, o eritritol e as raspas de laranja."
+    },
+    {
+      "texto": "Junte o leite morno, o suco, o ovo e a manteiga e misture até a massa juntar.",
+      "aviso": "O leite deve estar morno, não quente, para não matar o fermento."
+    },
+    {
+      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 10 minutos, até a massa ficar lisa e elástica.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cubra e deixe crescer por cerca de 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 3 partes, faça rolos de 40 cm e trance. Una as pontas formando uma rosca e coloque numa assadeira untada."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Pincele o ovo batido e asse por 30 a 35 minutos, até dourar bem.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Espere esfriar sobre uma grade antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha de trigo por farinha de trigo integral e junte 2 colheres (sopa) de leite."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o suco de laranja por leite para uma rosca simples."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O eritritol não alimenta o fermento: é normal a massa levar 1 hora para crescer."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em saco fechado por 3 dias, ou congele em fatias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 136,
+      "carboidratos_g": 21.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0405.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rosca doce",
+      "rosca trancada",
+      "pao doce caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

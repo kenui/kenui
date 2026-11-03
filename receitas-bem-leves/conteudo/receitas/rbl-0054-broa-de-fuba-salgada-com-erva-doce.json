@@ -1,0 +1,155 @@
+{
+  "id": "rbl-0054",
+  "slug": "broa-de-fuba-salgada-com-erva-doce",
+  "nome": "Broa de fubá salgada com erva-doce",
+  "descricao": "Broa de milho de forma redonda, salgadinha e perfumada com erva-doce, para o café com manteiga.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "broa (12 fatias)"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "fuba",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de fubá"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "erva-doce",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de erva-doce"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte uma forma redonda de 22 cm com óleo e fubá."
+    },
+    {
+      "texto": "Bata no liquidificador os ovos, o leite, o óleo e o sal por 1 minuto."
+    },
+    {
+      "texto": "Numa tigela, misture o fubá, a farinha e a erva-doce. Despeje o líquido e misture bem com um batedor de arame."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para incorporar."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Espere 10 minutos antes de desenformar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem erva-doce? Use 2 colheres (sopa) de queijo parmesão ralado na massa."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fica ótima ainda morna com manteiga ou com queijo minas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 3 dias, fora da geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 221,
+      "carboidratos_g": 25.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0054.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "broa de milho",
+      "broa de fuba",
+      "bolo de fuba salgado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

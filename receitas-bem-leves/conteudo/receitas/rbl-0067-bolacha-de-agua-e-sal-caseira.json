@@ -1,0 +1,141 @@
+{
+  "id": "rbl-0067",
+  "slug": "bolacha-de-agua-e-sal-caseira",
+  "nome": "Bolacha de água e sal caseira",
+  "descricao": "Bolacha fininha e crocante, de sabor neutro, como a de pacote, para comer com queijo e pastas.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 15,
+    "descanso_min": 15,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 40,
+    "unidade": "bolachas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "5 bolachas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+    },
+    {
+      "texto": "Junte o óleo e a água e misture até formar uma massa firme. Se esfarelar, ponha mais 1 colher (sopa) de água."
+    },
+    {
+      "texto": "Sove por 3 minutos, cubra e deixe descansar 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Abra a massa com o rolo, bem fina (1 a 2 mm), sobre a bancada enfarinhada."
+    },
+    {
+      "texto": "Corte quadrados de 5 cm e fure cada um várias vezes com um garfo, para não estufar."
+    },
+    {
+      "texto": "Coloque numa assadeira e asse por 12 a 15 minutos, até dourar de leve.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Deixe esfriar: elas terminam de ficar crocantes fora do forno."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 15,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais fina a massa, mais crocante a bolacha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 158,
+      "carboidratos_g": 23.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0067.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolacha de agua e sal",
+      "cream cracker caseiro",
+      "biscoito de agua e sal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "rbl-0115",
+  "slug": "overnight-oats-de-banana-e-pasta-de-amendoim",
+  "nome": "Overnight oats de banana e pasta de amendoim",
+  "descricao": "Aveia hidratada de um dia para o outro com leite, iogurte, banana e pasta de amendoim.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 240,
+    "total_min": 245
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pote"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pote"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de iogurte natural"
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 banana nanica madura"
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de pasta de amendoim integral (100% amendoim)"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num pote com tampa, amasse metade da banana com um garfo."
+    },
+    {
+      "texto": "Junte a aveia, o leite, o iogurte e a canela e misture bem."
+    },
+    {
+      "texto": "Tampe e leve à geladeira por pelo menos 4 horas ou de um dia para o outro.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Na hora de comer, cubra com o resto da banana em rodelas e a pasta de amendoim."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pasta de amendoim por castanhas picadas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use leite vegetal sem açúcar no lugar do leite."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura até 2 dias na geladeira, bem tampado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 406,
+      "carboidratos_g": 51.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0115.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "amendoim",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "overnight oats",
+      "aveia de geladeira",
+      "aveia dormida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

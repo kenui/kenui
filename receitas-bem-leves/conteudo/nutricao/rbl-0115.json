@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0115",
+  "nome": "Overnight oats de banana e pasta de amendoim",
+  "porcoes": 1,
+  "porcao": "1 pote",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1/2 xícara (chá) de leite",
+      "gramas": 122,
+      "kcal": 74.4,
+      "carboidratos_g": 5.86,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "3 colheres (sopa) de iogurte natural",
+      "gramas": 45.9,
+      "kcal": 23.4,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1/2 banana nanica madura",
+      "gramas": 59,
+      "kcal": 54.3,
+      "carboidratos_g": 14.04,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "texto": "1 colher (sopa) de pasta de amendoim integral (100% amendoim)",
+      "gramas": 16,
+      "kcal": 93.9,
+      "carboidratos_g": 3.4,
+      "fonte": "USDA SR Legacy 173806 Peanuts, all types, dry-roasted, without salt",
+      "por_100g": {
+        "kcal": 587,
+        "carboidratos_g": 21.26
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 405.8,
+    "carboidratos_g": 51.2
+  },
+  "por_porcao": {
+    "kcal": 406,
+    "carboidratos_g": 51.2
+  }
+}

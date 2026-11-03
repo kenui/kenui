@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0410",
+  "nome": "Bolinho de chuva assado",
+  "porcoes": 5,
+  "porcao": "4 bolinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1/2 xícara (chá) de iogurte natural",
+      "gramas": 122.5,
+      "kcal": 62.5,
+      "carboidratos_g": 2.33,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "2 colheres (sopa) de óleo",
+      "gramas": 27.2,
+      "kcal": 240.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "gramas": 66,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
+      "gramas": 187.5,
+      "kcal": 675,
+      "carboidratos_g": 140.81,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (sopa) de fermento químico em pó",
+      "gramas": 13.8,
+      "kcal": 12.4,
+      "carboidratos_g": 6.06,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "2 colheres (sopa) de manteiga derretida",
+      "gramas": 28.4,
+      "kcal": 206.2,
+      "carboidratos_g": 0.03,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "2 colheres (chá) de canela em pó",
+      "gramas": 5.2,
+      "kcal": 12.8,
+      "carboidratos_g": 4.19,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1352.4,
+    "carboidratos_g": 155
+  },
+  "por_porcao": {
+    "kcal": 270,
+    "carboidratos_g": 31
+  }
+}

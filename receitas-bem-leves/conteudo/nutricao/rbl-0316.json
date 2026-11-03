@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0316",
+  "nome": "Creme de abobrinha com hortelã",
+  "porcoes": 4,
+  "porcao": "1 prato fundo (cerca de 350 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "abobrinha",
+      "texto": "4 abobrinhas médias em rodelas",
+      "gramas": 784,
+      "kcal": 149,
+      "carboidratos_g": 33.71,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "1 batata média em cubos",
+      "gramas": 213,
+      "kcal": 136.3,
+      "carboidratos_g": 31.31,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "700 ml de água quente",
+      "gramas": 700,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/4 colher (chá) de sal",
+      "gramas": 7.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "2 colheres (sopa) de hortelã picada",
+      "gramas": 11.4,
+      "kcal": 5,
+      "carboidratos_g": 0.96,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 575.2,
+    "carboidratos_g": 78.3
+  },
+  "por_porcao": {
+    "kcal": 144,
+    "carboidratos_g": 19.6
+  }
+}

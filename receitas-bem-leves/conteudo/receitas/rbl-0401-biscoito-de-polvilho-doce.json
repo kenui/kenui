@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0401",
+  "slug": "biscoito-de-polvilho-doce",
+  "nome": "Biscoito de polvilho doce",
+  "descricao": "Biscoitinhos de polvilho escaldado, levemente adoçados, crocantes e ocos por dentro.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 30,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 40,
+    "unidade": "biscoitos"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "5 biscoitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "2 xícaras (chá) de polvilho doce (250 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o polvilho e o eritritol."
+    },
+    {
+      "texto": "Ferva o leite com o óleo e o sal e despeje sobre o polvilho, mexendo com uma colher até virar uma farofa úmida.",
+      "aviso": "Cuidado: o líquido está fervendo."
+    },
+    {
+      "texto": "Espere amornar, cerca de 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Junte o ovo e sove com as mãos até a massa ficar lisa e mole, que dá para apertar num saco."
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Coloque a massa num saco plástico, corte a ponta e faça rodinhas ou palitos de 6 cm numa assadeira."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até ficarem firmes e levemente dourados embaixo.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 2 colheres (sopa) de coco ralado sem açúcar à massa para biscoitos de coco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não abra o forno nos primeiros 15 minutos, senão o biscoito murcha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado. Se amolecer, volte ao forno por 5 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 188,
+      "carboidratos_g": 28
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0401.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de polvilho",
+      "biscoito de polvilho doce",
+      "rosquinha de polvilho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

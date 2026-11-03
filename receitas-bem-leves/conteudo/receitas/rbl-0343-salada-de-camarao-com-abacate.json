@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0343",
+  "slug": "salada-de-camarao-com-abacate",
+  "nome": "Salada de camarão com abacate",
+  "descricao": "Camarões salteados no alho sobre alface, tomate e abacate, com limão e coentro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 5,
+    "total_min": 20
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "pratos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "camarao",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de camarão limpo"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alface",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de alface rasgada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em cubos"
+    },
+    {
+      "ingrediente": "abacate",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1/2 abacate grande em cubos (250 g de polpa)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1.5,
+      "medida": "unidade",
+      "texto": "Suco de 1 e 1/2 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o camarão com o alho e o sal."
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira e salteie o camarão por 2 a 3 minutos, até ficar rosado. Deixe amornar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Molho: misture o suco de limão, o azeite, o sal e o coentro."
+    },
+    {
+      "texto": "Arrume a alface nos pratos e distribua o tomate, a cebola e o abacate. Regue o abacate logo com um pouco do molho, para não escurecer."
+    },
+    {
+      "texto": "Coloque o camarão por cima, regue com o restante do molho e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o camarão por frango grelhado em tiras."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use salsinha no lugar do coentro."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte o abacate só na hora de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 289,
+      "carboidratos_g": 11
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0343.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de camarao",
+      "salada com abacate",
+      "salada tropical"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

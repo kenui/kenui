@@ -1,0 +1,195 @@
+{
+  "id": "rbl-0302",
+  "slug": "camarao-na-moranga",
+  "nome": "Camarão na moranga",
+  "descricao": "Moranga assada inteira e recheada com camarão num creme de requeijão e tomate.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 70,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 fatia de moranga com recheio"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Moranga",
+      "ingrediente": "abobora-moranga",
+      "quantidade": 2000,
+      "medida": "g",
+      "texto": "1 abóbora moranga média (cerca de 2 kg)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "camarao",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de camarão limpo"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates sem sementes picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 copo de requeijão cremoso (200 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Lave a moranga, corte uma tampa em volta do cabo e retire as sementes com uma colher.",
+      "aviso": "A casca é dura: use faca grande e firme a moranga num pano úmido."
+    },
+    {
+      "texto": "Recoloque a tampa, embrulhe a moranga em papel-alumínio e asse por 50 a 60 minutos, até a polpa ficar macia ao espetar um garfo, mas sem desmanchar.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Enquanto isso, tempere o camarão com o suco de limão e o sal."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola e o alho. Junte o tomate e cozinhe por 3 minutos."
+    },
+    {
+      "texto": "Acrescente o camarão e cozinhe por 3 minutos, só até ficar rosado.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Desligue, misture o creme de leite, metade do requeijão e a salsinha."
+    },
+    {
+      "texto": "Espalhe o restante do requeijão por dentro da moranga, despeje o recheio e leve ao forno sem a tampa por mais 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Sirva raspando a polpa da moranga junto com o recheio."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 70,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use frango desfiado no lugar do camarão para uma versão mais simples."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a moranga por abóbora cabotiá."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não cozinhe demais o camarão: ele termina de cozinhar dentro da moranga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 303,
+      "carboidratos_g": 15.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0302.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "camarão cremoso",
+    "enfeites": [
+      "abobora",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "camarao na abobora",
+      "moranga recheada",
+      "camarao cremoso"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

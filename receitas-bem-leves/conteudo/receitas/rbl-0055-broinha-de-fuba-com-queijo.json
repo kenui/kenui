@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0055",
+  "slug": "broinha-de-fuba-com-queijo",
+  "nome": "Broinha de fubá com queijo",
+  "descricao": "Bolinhas de fubá escaldado com polvilho e parmesão, casquinha crocante e miolo macio, como as das padarias mineiras.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 40,
+    "total_min": 85
+  },
+  "rendimento": {
+    "quantidade": 25,
+    "unidade": "broinhas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "3 broinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de fubá"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de polvilho doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "erva-doce",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de erva-doce"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, leve o leite, a água, o óleo e o sal ao fogo até ferver."
+    },
+    {
+      "texto": "Junte o fubá de uma vez, mexendo sem parar, e cozinhe por 3 a 4 minutos, até a massa soltar do fundo da panela.",
+      "aviso": "A massa espirra: mexa com colher de cabo longo.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Passe para uma tigela e espere amornar, cerca de 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte os ovos, um de cada vez, misturando bem."
+    },
+    {
+      "texto": "Acrescente o polvilho, o parmesão e a erva-doce e sove até a massa ficar lisa e dar para enrolar."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Faça bolinhas de 3 cm com as mãos untadas e coloque numa assadeira untada, com espaço entre elas."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem erva-doce? Use uma pitada de orégano ou deixe sem."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as bolinhas cruas e asse direto do congelador, por 35 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 236,
+      "carboidratos_g": 27.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0055.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_de_queijo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "broinha de fuba",
+      "broa mineira",
+      "biscoito de fuba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

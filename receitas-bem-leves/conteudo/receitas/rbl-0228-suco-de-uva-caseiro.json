@@ -1,0 +1,113 @@
+{
+  "id": "rbl-0228",
+  "slug": "suco-de-uva-caseiro",
+  "nome": "Suco de uva caseiro",
+  "descricao": "Suco de uva fresca batida e coada, encorpado e naturalmente doce.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 200 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "uva",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 xícaras (chá) de uvas roxas sem o cabinho (300 g)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de água gelada"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "suco de 1/2 limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave bem as uvas e tire os cabinhos."
+    },
+    {
+      "texto": "Bata no liquidificador as uvas com a água e o suco de limão por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Coe numa peneira, apertando com uma colher."
+    },
+    {
+      "texto": "Sirva com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Com uva verde (itália), o suco fica clarinho e um pouco mais azedo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 1 dia em jarra fechada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Congele uvas no cacho: viram o gelo do suco."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 55,
+      "carboidratos_g": 14.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0228.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "uva"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de uva",
+      "suco de uva natural",
+      "uva batida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

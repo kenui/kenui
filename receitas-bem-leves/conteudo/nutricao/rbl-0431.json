@@ -1,0 +1,108 @@
+{
+  "receita": "rbl-0431",
+  "nome": "Romeu e julieta de colher",
+  "porcoes": 6,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "goiaba",
+      "texto": "4 goiabas vermelhas maduras (300 g), sem as pontas",
+      "gramas": 300,
+      "kcal": 162,
+      "carboidratos_g": 39,
+      "fonte": "TACO 4ª ed. 200 Goiaba, vermelha, com casca, crua",
+      "por_100g": {
+        "kcal": 54,
+        "carboidratos_g": 13
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/4 de xícara (chá) de eritritol",
+      "gramas": 50,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ricota",
+      "texto": "1 pedaço de ricota fresca (250 g)",
+      "gramas": 250,
+      "kcal": 350,
+      "carboidratos_g": 9.5,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "Cubinhos de queijo minas frescal para enfeitar (60 g)",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 610.8,
+    "carboidratos_g": 52.3
+  },
+  "por_porcao": {
+    "kcal": 102,
+    "carboidratos_g": 8.7
+  }
+}

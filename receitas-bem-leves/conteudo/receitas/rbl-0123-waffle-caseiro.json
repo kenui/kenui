@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0123",
+  "slug": "waffle-caseiro",
+  "nome": "Waffle caseiro",
+  "descricao": "Waffle dourado e crocante por fora, fofo por dentro, servido com morangos.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "waffles"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 waffle"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "baunilha",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos fatiados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ligue a máquina de waffle para esquentar."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+    },
+    {
+      "texto": "Em outra tigela, bata o ovo, o leite, a manteiga e a baunilha."
+    },
+    {
+      "texto": "Junte os líquidos aos secos e mexa só até não ter farinha seca."
+    },
+    {
+      "texto": "Pincele a máquina com um pouco de manteiga, despeje cerca de 1/2 xícara de massa e feche."
+    },
+    {
+      "texto": "Asse por 4 a 5 minutos, até parar de sair vapor e o waffle soltar dourado.",
+      "aviso": "A máquina e o vapor queimam: abra com cuidado.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Repita com o resto da massa e sirva com os morangos."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha por aveia em flocos finos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem máquina de waffle? Faça panquecas com a mesma massa na frigideira."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os waffles por até 1 mês e aqueça na torradeira ou na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 223,
+      "carboidratos_g": 28.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0123.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "waffle",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "waffle",
+      "waffle sem acucar",
+      "waffle de maquina"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

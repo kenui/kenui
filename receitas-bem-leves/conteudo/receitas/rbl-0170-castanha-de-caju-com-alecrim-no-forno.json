@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0170",
+  "slug": "castanha-de-caju-com-alecrim-no-forno",
+  "nome": "Castanha de caju com alecrim no forno",
+  "descricao": "Castanhas de caju tostadas no forno com azeite, alecrim, páprica e sal, para beliscar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 18,
+    "descanso_min": 10,
+    "total_min": 33
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1/4 de xícara"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "castanha-de-caju-crua",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de castanha de caju crua sem sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 160 °C."
+    },
+    {
+      "texto": "Numa tigela, misture as castanhas com o azeite, o alecrim, a páprica e o sal."
+    },
+    {
+      "texto": "Espalhe numa assadeira em camada única."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, mexendo na metade do tempo, até ficarem douradinhas.",
+      "aviso": "Fique de olho no final: castanha passa do ponto rápido.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Deixe esfriar por 10 minutos na assadeira para ficarem crocantes.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 160,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use uma mistura de castanha de caju, castanha-do-pará e amendoim."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim e a páprica por curry ou por orégano e alho em pó."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 2 semanas em pote de vidro bem fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 205,
+      "carboidratos_g": 10.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0170.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "castanha temperada",
+      "castanha de caju assada",
+      "petisco de castanha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

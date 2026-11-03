@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0192",
+  "nome": "Suco verde de couve, maçã e limão",
+  "porcoes": 3,
+  "porcao": "1 copo de 200 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve",
+      "texto": "2 folhas de couve-manteiga sem o talo (1 xícara picada)",
+      "gramas": 36,
+      "kcal": 9.7,
+      "carboidratos_g": 1.55,
+      "fonte": "TACO 4ª ed. 115 Couve, manteiga, crua",
+      "por_100g": {
+        "kcal": 27,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média com casca (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de folhas de hortelã",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água gelada",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 106.8,
+    "carboidratos_g": 28.3
+  },
+  "por_porcao": {
+    "kcal": 36,
+    "carboidratos_g": 9.4
+  }
+}

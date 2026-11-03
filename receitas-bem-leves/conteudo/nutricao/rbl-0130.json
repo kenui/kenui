@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0130",
+  "nome": "Abacaxi grelhado com canela",
+  "porcoes": 2,
+  "porcao": "2 rodelas com iogurte",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abacaxi",
+      "texto": "4 rodelas de abacaxi de 1 cm (320 g)",
+      "gramas": 320,
+      "kcal": 153.6,
+      "carboidratos_g": 39.36,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/2 colher (chá) de canela em pó",
+      "gramas": 1.3,
+      "kcal": 3.2,
+      "carboidratos_g": 1.05,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "4 colheres (sopa) de iogurte natural",
+      "gramas": 61.2,
+      "kcal": 31.2,
+      "carboidratos_g": 1.16,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1 colher (sopa) de coco ralado seco sem açúcar (8 g)",
+      "gramas": 8,
+      "kcal": 52.8,
+      "carboidratos_g": 1.89,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 274.9,
+    "carboidratos_g": 43.5
+  },
+  "por_porcao": {
+    "kcal": 137,
+    "carboidratos_g": 21.7
+  }
+}

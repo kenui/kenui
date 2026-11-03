@@ -1,0 +1,192 @@
+{
+  "id": "rbl-0407",
+  "slug": "pao-doce-de-coco",
+  "nome": "Pão doce de coco",
+  "descricao": "Pãezinhos doces de massa fofa com leite de coco, cobertos com coco ralado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 25,
+    "descanso_min": 100,
+    "total_min": 170
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3.5,
+      "medida": "xicara",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 sachê (10 g) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml), morno"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de água morna"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "1/3 de xícara (chá) de coco ralado sem açúcar (30 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela grande, misture a farinha, o fermento e o eritritol."
+    },
+    {
+      "texto": "Junte o leite de coco, a água, o ovo e a manteiga e misture até juntar.",
+      "aviso": "Os líquidos devem estar mornos, não quentes, para não matar o fermento."
+    },
+    {
+      "texto": "Acrescente o sal e sove por 10 minutos, até a massa ficar lisa.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cubra e deixe crescer por cerca de 1 hora, até dobrar.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 12 bolinhas e arrume numa assadeira untada, com espaço entre elas."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Pincele o ovo batido, polvilhe o coco e asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite de coco? Use leite comum e junte 2 colheres (sopa) de coco ralado à massa."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se o coco ralado é sem açúcar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em saco fechado por 3 dias, ou congele."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 206,
+      "carboidratos_g": 28.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0407.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de coco",
+      "pao doce",
+      "pao de leite de coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

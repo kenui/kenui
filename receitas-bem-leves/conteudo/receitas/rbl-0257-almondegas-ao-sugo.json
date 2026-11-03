@@ -1,0 +1,214 @@
+{
+  "id": "rbl-0257",
+  "slug": "almondegas-ao-sugo",
+  "nome": "Almôndegas ao sugo",
+  "descricao": "Almôndegas de carne com parmesão, assadas e depois cozidas num molho de tomate fresco feito em casa.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 24,
+    "unidade": "almôndegas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "4 almôndegas com molho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de carne moída de patinho"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 tomates bem maduros"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com um fio de azeite."
+    },
+    {
+      "texto": "Misture todos os ingredientes das almôndegas e modele 24 bolinhas com as mãos molhadas."
+    },
+    {
+      "texto": "Asse por 20 minutos, até ficarem firmes e douradas por fora.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Enquanto isso, bata os tomates no liquidificador por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Numa panela larga, refogue a cebola e o alho no restante do azeite por 3 minutos. Junte o tomate batido, o extrato, o orégano e o sal e cozinhe 10 minutos, sem tampa.",
+      "temporizador_min": 13
+    },
+    {
+      "texto": "Coloque as almôndegas no molho e cozinhe em fogo baixo por mais 12 minutos, até o molho encorpar.",
+      "temporizador_min": 12
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar dos tomates frescos, use 3 xícaras de purê de tomate ou tomate pelado (confira no rótulo: sem açúcar)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 3 colheres (sopa) de farinha de amêndoas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele já no molho, em potes, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 249,
+      "carboidratos_g": 11
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0257.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "almondegas",
+    "enfeites": [
+      "tomate",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "almondega",
+      "almondegas ao molho",
+      "almondega ao sugo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

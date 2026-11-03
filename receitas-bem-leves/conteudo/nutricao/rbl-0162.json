@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0162",
+  "nome": "Wrap de frango com massa integral caseira",
+  "porcoes": 4,
+  "porcao": "1 wrap",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 xícara (chá) de farinha de trigo integral",
+      "gramas": 120,
+      "kcal": 408,
+      "carboidratos_g": 86.36,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1/2 xícara (chá) de farinha de trigo",
+      "gramas": 62.5,
+      "kcal": 225,
+      "carboidratos_g": 46.94,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água morna",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "texto": "2 xícaras de peito de frango cozido e desfiado (300 g)",
+      "gramas": 300,
+      "kcal": 489,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 408 Frango, peito, sem pele, cozido",
+      "por_100g": {
+        "kcal": 163,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura ralada",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "alface",
+      "texto": "4 folhas de alface (100 g)",
+      "gramas": 100,
+      "kcal": 11,
+      "carboidratos_g": 1.7,
+      "fonte": "TACO 4ª ed. 78 Alface, crespa, crua",
+      "por_100g": {
+        "kcal": 11,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate em tiras",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1526.5,
+    "carboidratos_g": 144.6
+  },
+  "por_porcao": {
+    "kcal": 382,
+    "carboidratos_g": 36.1
+  }
+}

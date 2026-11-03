@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0229",
+  "slug": "chips-de-maca-com-canela",
+  "nome": "Chips de maçã com canela",
+  "descricao": "Fatias finas de maçã assadas devagar até secar, com canela por cima.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 50,
+    "descanso_min": 15,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 porção (chips de meia maçã)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 maçãs médias (300 g)"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 140 °C. Forre duas assadeiras com papel-manteiga."
+    },
+    {
+      "texto": "Lave as maçãs e corte em fatias bem finas, de 2 mm, com casca. Tire as sementes.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Pincele as fatias com o suco de limão e arrume nas assadeiras sem amontoar. Polvilhe a canela."
+    },
+    {
+      "texto": "Asse por 50 minutos, virando as fatias na metade do tempo, até as bordas secarem e encresparem.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Desligue o forno e deixe as fatias lá dentro com a porta entreaberta por 15 minutos, até ficarem crocantes.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 140,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por pera firme, cortada do mesmo jeito."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 5 dias."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Um fatiador de legumes ajuda a deixar as fatias finas e iguais, o que faz todas secarem juntas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 44,
+      "carboidratos_g": 12.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0229.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chips de maca",
+      "maca desidratada",
+      "maca assada crocante"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

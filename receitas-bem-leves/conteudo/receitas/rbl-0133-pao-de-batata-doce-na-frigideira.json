@@ -1,0 +1,147 @@
+{
+  "id": "rbl-0133",
+  "slug": "pao-de-batata-doce-na-frigideira",
+  "nome": "Pão de batata-doce na frigideira",
+  "descricao": "Disco macio de batata-doce, ovo e polvilho dourado na frigideira, para rechear como pão.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 22,
+    "total_min": 27
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 batata-doce pequena (100 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de polvilho doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a batata-doce, corte em cubos e cozinhe em água por 12 a 15 minutos, até ficar macia. Escorra.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Amasse a batata com um garfo até virar um purê e deixe amornar."
+    },
+    {
+      "texto": "Junte o ovo, o polvilho, o parmesão e o sal e misture até ficar homogêneo. Acrescente o fermento."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena (15 cm) com o azeite, espalhe a massa e tampe."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo por 4 minutos, até a borda soltar. Vire com a ajuda de um prato e deixe mais 3 minutos.",
+      "aviso": "Fogo baixo para cozinhar por dentro sem queimar.",
+      "temporizador_min": 7
+    },
+    {
+      "texto": "Corte ao meio na horizontal e recheie como quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por abóbora cabotiá cozida e bem escorrida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem polvilho? Use 2 colheres (sopa) de aveia em flocos finos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cozinhe batata a mais no almoço e guarde na geladeira: de manhã o pão fica pronto em 10 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 291,
+      "carboidratos_g": 44
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0133.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de batata doce",
+      "pao de frigideira",
+      "pao sem trigo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

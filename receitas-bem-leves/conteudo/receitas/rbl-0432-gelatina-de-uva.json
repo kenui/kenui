@@ -1,0 +1,141 @@
+{
+  "id": "rbl-0432",
+  "slug": "gelatina-de-uva",
+  "nome": "Gelatina de uva",
+  "descricao": "Gelatina caseira feita com suco de uva fresca batida e coada, firme e com cor bonita.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 1,
+    "descanso_min": 240,
+    "total_min": 256
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "taças"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Gelatina",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Gelatina",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Suco",
+      "ingrediente": "uva",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de uvas roxas ou rubi, sem os cabinhos"
+    },
+    {
+      "grupo": "Suco",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água gelada"
+    },
+    {
+      "grupo": "Suco",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol, se as uvas estiverem azedinhas",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata as uvas com a água gelada no liquidificador por 2 minutos e passe por uma peneira fina, apertando bem. Rende cerca de 2 e 1/2 xícaras de suco.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Misture a gelatina derretida a 1 xícara do suco, mexendo bem, e depois junte o resto do suco. Prove e adoce só se precisar."
+    },
+    {
+      "texto": "Distribua em 5 taças e leve à geladeira por 4 horas, até firmar.",
+      "temporizador_min": 240
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 e 1/2 xícaras (chá) de suco de uva integral, sem açúcar e sem água, no lugar das uvas batidas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as uvas por 2 xícaras de morangos ou por manga batida e coada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Misturar a gelatina primeiro com uma parte do suco evita bolinhas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberta na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 56,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0432.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "uva"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "gelatina caseira",
+      "gelatina de suco natural",
+      "gelatina sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

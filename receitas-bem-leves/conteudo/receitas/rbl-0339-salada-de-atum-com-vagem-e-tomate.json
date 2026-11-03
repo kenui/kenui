@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0339",
+  "slug": "salada-de-atum-com-vagem-e-tomate",
+  "nome": "Salada de atum com vagem e tomate",
+  "descricao": "Salada de atum com vagem cozida al dente, tomate, azeitonas e cebola, temperada com azeite e vinagre.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 8,
+    "total_min": 23
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "pratos"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "vagem",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "250 g de vagem sem as pontas, em pedaços"
+    },
+    {
+      "ingrediente": "alface",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de alface rasgada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em gomos"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola em fatias finas"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 8,
+      "medida": "unidade",
+      "texto": "8 azeitonas verdes"
+    },
+    {
+      "ingrediente": "atum-em-agua",
+      "quantidade": 240,
+      "medida": "g",
+      "texto": "2 latas de atum em água, escorrido (cerca de 240 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "vinagre",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de vinagre"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a vagem em água fervente por 6 a 8 minutos, até ficar macia mas ainda firme. Escorra e passe na água gelada.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Deixe a cebola de molho em água fria por 5 minutos, para suavizar. Escorra."
+    },
+    {
+      "texto": "Molho: misture o azeite, o vinagre, o sal e o orégano."
+    },
+    {
+      "texto": "Arrume a alface nos pratos e distribua a vagem, o tomate, a cebola, as azeitonas e o atum em lascas."
+    },
+    {
+      "texto": "Regue com o molho e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a vagem por brócolis ou batata cozida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sardinha em lata no lugar do atum."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A água gelada mantém a vagem verde e crocante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 375,
+      "carboidratos_g": 14.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0339.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "azeitona",
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de atum",
+      "salada com vagem",
+      "salada nicoise"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

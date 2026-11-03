@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0027",
+  "slug": "pao-de-caneca-de-fuba-com-queijo",
+  "nome": "Pão de caneca de fubá com queijo",
+  "descricao": "Pãozinho de milho com queijo meia cura feito na caneca, com gostinho de broa e pronto em minutos.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 6
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de fubá"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo"
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 15,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de queijo minas meia cura ralado (15 g)"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (300 ml), bata o ovo, o leite e o óleo com um garfo."
+    },
+    {
+      "texto": "Junte o fubá, a farinha, o queijo e o sal e misture bem."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para misturar."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, até firmar no centro.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 1 minuto e desenforme.",
+      "aviso": "A caneca sai muito quente: use um pano.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por mais 1 colher (sopa) de fubá: fica mais esfarelado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Uma pitada de erva-doce na massa deixa com sabor de broa mineira."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma na hora: o fubá endurece depois de frio."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 262,
+      "carboidratos_g": 21.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0027.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "broa de caneca",
+      "pao de milho de micro-ondas",
+      "pao de fuba rapido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

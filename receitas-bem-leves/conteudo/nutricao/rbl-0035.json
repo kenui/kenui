@@ -1,0 +1,91 @@
+{
+  "receita": "rbl-0035",
+  "nome": "Wrap de aveia",
+  "porcoes": 1,
+  "porcao": "1 wrap",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "3 colheres (sopa) de aveia em flocos finos",
+      "gramas": 15.3,
+      "kcal": 60.3,
+      "carboidratos_g": 10.19,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "3 colheres (sopa) de leite",
+      "gramas": 45,
+      "kcal": 27.5,
+      "carboidratos_g": 2.16,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 179.8,
+    "carboidratos_g": 13.2
+  },
+  "por_porcao": {
+    "kcal": 180,
+    "carboidratos_g": 13.2
+  }
+}

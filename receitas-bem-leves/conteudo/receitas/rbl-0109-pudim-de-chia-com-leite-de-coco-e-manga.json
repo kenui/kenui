@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0109",
+  "slug": "pudim-de-chia-com-leite-de-coco-e-manga",
+  "nome": "Pudim de chia com leite de coco e manga",
+  "descricao": "Creme de chia que firma na geladeira, com leite de coco e manga picada por cima.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 240,
+    "total_min": 245
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "potinhos"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 potinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "chia",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de chia (30 g)"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite de coco"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manga",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de manga picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num pote, misture a chia, o leite de coco, o leite e o eritritol."
+    },
+    {
+      "texto": "Espere 10 minutos e mexa de novo, para soltar as sementes que grudaram.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Divida em 2 potinhos, tampe e leve à geladeira por pelo menos 4 horas ou de um dia para o outro, até ficar firme como um pudim.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Na hora de servir, cubra com a manga picada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manga por mamão, abacaxi ou morango."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use só leite (1 xícara) se não tiver leite de coco."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, tampado, por até 3 dias. Coloque a fruta só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 225,
+      "carboidratos_g": 15.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0109.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "manga",
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de chia",
+      "creme de chia",
+      "chia pudding"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

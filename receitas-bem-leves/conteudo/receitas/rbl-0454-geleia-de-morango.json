@@ -1,0 +1,125 @@
+{
+  "id": "rbl-0454",
+  "slug": "geleia-de-morango",
+  "nome": "Geleia de morango",
+  "descricao": "Geleia caseira de morango com pedacinhos da fruta, para passar no pão ou rechear doces.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "descanso_min": 30,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "colheres (sopa)"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 colher (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "morango",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de morangos picados"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os morangos, o eritritol e o limão numa panela e deixe 10 minutos, até soltarem suco.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cozinhe em fogo baixo por 20 a 25 minutos, mexendo de vez em quando e amassando parte dos morangos, até engrossar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Para ver o ponto, coloque uma gota num pires frio: ela deve enrugar ao empurrar com o dedo."
+    },
+    {
+      "texto": "Passe para um pote de vidro limpo e espere esfriar por 30 minutos antes de tampar.",
+      "aviso": "A geleia está muito quente: cuidado ao passar para o pote.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por amora ou framboesa."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A geleia engrossa mais depois de fria; não cozinhe demais."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 8,
+      "carboidratos_g": 1.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0454.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "geleia_pote",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "geleia de morango sem acucar",
+      "geleia caseira",
+      "doce de morango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0063",
+  "nome": "Cuscuz de milho nordestino",
+  "porcoes": 4,
+  "porcao": "1 fatia (1/4 do cuscuz)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "flocao-de-milho",
+      "texto": "250 g de flocão de milho (meio pacote)",
+      "gramas": 250,
+      "kcal": 877.5,
+      "carboidratos_g": 197.75,
+      "fonte": "TACO 4ª ed. 33 Farinha, de milho, amarela",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 79.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/4 de xícara (chá) de água em temperatura ambiente",
+      "gramas": 300,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 980.6,
+    "carboidratos_g": 197.8
+  },
+  "por_porcao": {
+    "kcal": 245,
+    "carboidratos_g": 49.4
+  }
+}

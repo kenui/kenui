@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0026",
+  "slug": "pao-de-caneca-integral-com-gergelim",
+  "nome": "Pão de caneca integral com gergelim",
+  "descricao": "Pão integral de micro-ondas, fofinho, com gergelim por cima, pronto em minutos.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 6
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "gergelim",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gergelim"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (300 ml), bata o ovo, o leite e o azeite com um garfo."
+    },
+    {
+      "texto": "Junte a farinha integral e o sal e misture até não ter grumos."
+    },
+    {
+      "texto": "Acrescente o fermento, mexa só para misturar e espalhe o gergelim por cima."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, até a massa crescer e firmar no centro.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 1 minuto, desenforme e corte em 2 ou 3 fatias.",
+      "aviso": "A caneca sai muito quente: use um pano.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por aveia em flocos finos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use linhaça no lugar do gergelim."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Toste as fatias na frigideira por 1 minuto de cada lado para virar torrada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 226,
+      "carboidratos_g": 20.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0026.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "gergelim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de caneca integral",
+      "pao de micro-ondas integral",
+      "pao rapido integral"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

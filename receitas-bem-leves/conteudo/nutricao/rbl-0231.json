@@ -1,0 +1,115 @@
+{
+  "receita": "rbl-0231",
+  "nome": "Frango grelhado com limão e alho",
+  "porcoes": 4,
+  "porcao": "1 filé (cerca de 150 g)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "peito-de-frango",
+      "texto": "4 filés de peito de frango (cerca de 600 g)",
+      "gramas": 600,
+      "kcal": 714,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 409 Frango, peito, sem pele, cru",
+      "por_100g": {
+        "kcal": 119,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho amassados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada para servir",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 858.2,
+    "carboidratos_g": 6.6
+  },
+  "por_porcao": {
+    "kcal": 215,
+    "carboidratos_g": 1.7
+  }
+}

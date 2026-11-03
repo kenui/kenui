@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0236",
+  "slug": "coxas-de-frango-assadas-com-ervas",
+  "nome": "Coxas de frango assadas com ervas",
+  "descricao": "Coxas temperadas com alho, limão, alecrim e tomilho, assadas até a casquinha dourar.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 50,
+    "descanso_min": 30,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 coxas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "8 coxas de frango sem pele (cerca de 1 kg)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de tomilho seco"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Faça 2 cortes rasos em cada coxa, até o osso, para o tempero entrar.",
+      "aviso": "Cuidado com a faca escorregando no osso."
+    },
+    {
+      "texto": "Misture o alho, o limão, o alecrim, o tomilho, a páprica, o sal, a pimenta e o azeite. Esfregue nas coxas e deixe 30 minutos na geladeira.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Arrume as coxas numa assadeira, sem amontoar, e cubra com papel-alumínio. Asse por 25 minutos.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o papel, vire as coxas, regue com o caldo da assadeira e asse mais 25 minutos, até dourar bem.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Sirva com a salsinha por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o tomilho por orégano ou por ervas finas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxas: o tempo é o mesmo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Deixar temperado desde a noite anterior deixa o frango ainda mais saboroso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Desfie o que sobrar para rechear omelete."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 370,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0236.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "coxa assada",
+      "frango assado com ervas",
+      "coxa de frango no forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

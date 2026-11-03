@@ -1,0 +1,188 @@
+{
+  "id": "rbl-0238",
+  "slug": "frango-a-parmegiana-de-forno",
+  "nome": "Frango à parmegiana de forno",
+  "descricao": "Filés de frango empanados na aveia com parmesão, assados, cobertos com molho de tomate caseiro e mussarela gratinada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "filés"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé com molho e queijo"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "ingrediente": "peito-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 bifes de peito de frango, cerca de 1 cm de espessura (600 g)"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal (metade no frango, metade no molho)"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros picados"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de queijo mussarela em fatias (cerca de 8 fatias)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com um fio de azeite."
+    },
+    {
+      "texto": "Tempere os bifes com metade do sal. Misture a aveia, o parmesão e o orégano num prato."
+    },
+    {
+      "texto": "Passe cada bife no ovo e depois na mistura de aveia, apertando para grudar. Arrume na assadeira."
+    },
+    {
+      "texto": "Asse por 20 minutos, virando na metade, até dourar dos dois lados.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Enquanto isso, faça o molho: refogue a cebola e o alho no azeite por 3 minutos, junte os tomates e o restante do sal e cozinhe em fogo baixo por 12 minutos, amassando, até virar um molho grosso.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Cubra cada filé com 2 colheres (sopa) de molho e com as fatias de mussarela."
+    },
+    {
+      "texto": "Volte ao forno por 10 minutos, até o queijo derreter e dourar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por farinha de amêndoas, para uma casquinha mais crocante."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar do tomate fresco, use 1 e 1/2 xícara de purê de tomate (confira no rótulo: sem açúcar)."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Os filés empanados e assados, sem o molho, podem ser congelados por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 447,
+      "carboidratos_g": 17.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0238.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "parmegiana",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "parmegiana",
+      "frango a parmegiana",
+      "parmegiana de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

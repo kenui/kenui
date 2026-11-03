@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0328",
+  "nome": "Cuscuz paulista de legumes",
+  "porcoes": 8,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "4 colheres (sopa) de azeite",
+      "gramas": 54,
+      "kcal": 477.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1 pimentão vermelho picado",
+      "gramas": 119,
+      "kcal": 27.4,
+      "carboidratos_g": 6.55,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "4 tomates picados",
+      "gramas": 492,
+      "kcal": 73.8,
+      "carboidratos_g": 15.25,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "palmito-pupunha",
+      "texto": "200 g de palmito pupunha escorrido, em rodelas",
+      "gramas": 200,
+      "kcal": 58,
+      "carboidratos_g": 11,
+      "fonte": "TACO 4ª ed. 139 Palmito, pupunha, em conserva",
+      "por_100g": {
+        "kcal": 29,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "texto": "12 azeitonas verdes em rodelas",
+      "gramas": 52.8,
+      "kcal": 72.3,
+      "carboidratos_g": 2.16,
+      "fonte": "TACO 4ª ed. 521 Azeitona, verde, conserva",
+      "por_100g": {
+        "kcal": 137,
+        "carboidratos_g": 4.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "600 ml de água quente",
+      "gramas": 600,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "flocao-de-milho",
+      "texto": "2 e 1/2 xícaras (chá) de flocão de milho (300 g)",
+      "gramas": 300,
+      "kcal": 1053,
+      "carboidratos_g": 237.3,
+      "fonte": "TACO 4ª ed. 33 Farinha, de milho, amarela",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 79.1
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos cozidos em rodelas",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate em rodelas",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2051.6,
+    "carboidratos_g": 291.1
+  },
+  "por_porcao": {
+    "kcal": 256,
+    "carboidratos_g": 36.4
+  }
+}

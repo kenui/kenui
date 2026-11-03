@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0375",
+  "slug": "bolo-de-maracuja",
+  "nome": "Bolo de maracujá",
+  "descricao": "Bolo azedinho de maracujá com calda feita da própria polpa, com as sementes.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "maracuja",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de polpa de maracujá (de cerca de 3 maracujás)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "maracuja",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de polpa de maracujá com sementes (de 1 maracujá)"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata a polpa de maracujá da massa só por alguns segundos, para soltar as sementes. Passe numa peneira."
+    },
+    {
+      "texto": "Volte o suco para o liquidificador e bata com os ovos, o óleo e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte a farinha aos poucos e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Calda: ferva a polpa da calda com o eritritol e a água por 3 minutos, até engrossar um pouco.",
+      "aviso": "Cuidado com a calda quente.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Desenforme o bolo morno e regue com a calda, com as sementes."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use polpa de maracujá congelada sem açúcar: 1 pacote de 100 g dá cerca de 1/2 xícara."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 192,
+      "carboidratos_g": 19.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0375.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maracuja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de maracuja",
+      "bolo de maracuja com calda",
+      "bolo azedinho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

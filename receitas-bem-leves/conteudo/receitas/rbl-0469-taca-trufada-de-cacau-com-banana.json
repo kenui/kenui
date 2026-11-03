@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0469",
+  "slug": "taca-trufada-de-cacau-com-banana",
+  "nome": "Taça trufada de cacau com banana",
+  "descricao": "Taça com camada de creme trufado de cacau, creme branco de baunilha e rodelas de banana.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 10,
+    "descanso_min": 120,
+    "total_min": 150
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme branco",
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Creme branco",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Creme branco",
+      "ingrediente": "eritritol",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme branco",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Creme trufado",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Creme trufado",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Creme trufado",
+      "ingrediente": "eritritol",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Creme trufado",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Fruta",
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas nanicas em rodelas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Creme branco: numa panela, fora do fogo, misture o leite, o amido e o eritritol. Leve ao fogo médio, mexendo sem parar, por 6 minutos, até engrossar. Junte a baunilha e deixe amornar.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Creme trufado: aqueça o creme de leite com o cacau, o eritritol e a manteiga em fogo baixo por 3 a 4 minutos, mexendo, até ficar liso e brilhante.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Monte 6 taças: creme trufado, rodelas de banana, creme branco e mais um pouco de creme trufado por cima."
+    },
+    {
+      "texto": "Leve à geladeira por 2 horas.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana por morangos picados."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 201,
+      "carboidratos_g": 20.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0469.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pave",
+    "massa": "chocolate",
+    "cobertura": "calda_chocolate",
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "taca trufada",
+      "pave de chocolate na taca",
+      "sobremesa de cacau com banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

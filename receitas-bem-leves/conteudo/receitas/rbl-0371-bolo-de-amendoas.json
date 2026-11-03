@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0371",
+  "slug": "bolo-de-amendoas",
+  "nome": "Bolo de amêndoas",
+  "descricao": "Bolo baixinho e úmido de farinha de amêndoas com raspas de laranja, quase sem farinha de trigo.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia (1/10 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 xícaras (chá) de farinha de amêndoas (200 g)",
+      "alternativa": {
+        "ingrediente": "farinha-de-trigo",
+        "texto": "ou 1 e 1/2 xícara (chá) de farinha de trigo",
+        "observacao": "Com farinha de trigo, junte 1/4 de xícara de leite à massa."
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "raspas-de-laranja",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de raspas de casca de laranja"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte uma forma redonda de 20 cm e forre o fundo com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o eritritol por 3 minutos, até clarear e espumar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a manteiga derretida, as raspas de laranja e a baunilha e misture."
+    },
+    {
+      "texto": "Acrescente a farinha de amêndoas e o fermento e mexa só até incorporar."
+    },
+    {
+      "texto": "Despeje na forma e asse por 30 a 35 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Espere esfriar na forma: o bolo é delicado quando quente."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farinha de amêndoas? Use farinha de trigo como indicado na lista, ou castanha-do-pará bem moída."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 190,
+      "carboidratos_g": 4.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0371.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de farinha de amendoas",
+      "bolo de amendoa",
+      "bolo sem trigo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

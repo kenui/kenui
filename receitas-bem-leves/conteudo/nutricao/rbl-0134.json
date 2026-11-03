@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0134",
+  "nome": "Coxinha de batata com frango de forno",
+  "porcoes": 8,
+  "porcao": "2 coxinhas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "batata",
+      "texto": "3 batatas médias (640 g)",
+      "gramas": 640,
+      "kcal": 409.6,
+      "carboidratos_g": 94.08,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1/2 xícara (chá) de farinha de trigo",
+      "gramas": 62.5,
+      "kcal": 225,
+      "carboidratos_g": 46.94,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "texto": "2 xícaras de peito de frango cozido e desfiado (300 g)",
+      "gramas": 300,
+      "kcal": 489,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 408 Frango, peito, sem pele, cozido",
+      "por_100g": {
+        "kcal": 163,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola picada",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho picado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo batido",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1720.1,
+    "carboidratos_g": 175.9
+  },
+  "por_porcao": {
+    "kcal": 215,
+    "carboidratos_g": 22
+  }
+}

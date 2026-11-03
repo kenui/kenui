@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0394",
+  "slug": "brownie-de-cacau-com-nozes",
+  "nome": "Brownie de cacau com nozes",
+  "descricao": "Brownie denso e úmido de cacau 100%, com casquinha por cima e nozes picadas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "descanso_min": 30,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "quadrados"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 quadrado"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de manteiga (cerca de 7 colheres de sopa)"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "noz",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de nozes picadas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Forre uma forma quadrada de 20 cm com papel-manteiga."
+    },
+    {
+      "texto": "Derreta a manteiga em fogo baixo, desligue e misture o cacau até ficar liso. Deixe amornar.",
+      "aviso": "Cuidado com a manteiga quente."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o eritritol e a baunilha por 3 minutos, até clarear.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a mistura de cacau e mexa bem."
+    },
+    {
+      "texto": "Acrescente a farinha e o sal e mexa só até sumir a farinha. Misture as nozes."
+    },
+    {
+      "texto": "Espalhe na forma e asse por 20 a 25 minutos, até a casquinha firmar e o centro ainda estar úmido.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere esfriar pelo menos 30 minutos antes de cortar em 16 quadrados.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as nozes por castanha-do-pará ou tire."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por farinha de amêndoas na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tire do forno quando um palito sair com migalhas úmidas: brownie seco é bolo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por 4 dias, ou na geladeira por 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 102,
+      "carboidratos_g": 5.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0394.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "brownie",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "brownie",
+      "brownie de chocolate",
+      "brownie fit"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

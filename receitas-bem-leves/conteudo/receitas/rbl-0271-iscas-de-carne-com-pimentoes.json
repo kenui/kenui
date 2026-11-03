@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0271",
+  "slug": "iscas-de-carne-com-pimentoes",
+  "nome": "Iscas de carne com pimentões",
+  "descricao": "Tiras de patinho salteadas em fogo alto com pimentões coloridos e cebola, num toque de shoyu.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 15,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (cerca de 1 e 1/2 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "patinho",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de patinho em tiras finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em tiras"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "pimentao-amarelo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão amarelo em tiras"
+    },
+    {
+      "ingrediente": "shoyu",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de shoyu (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a carne com o alho, o sal e a pimenta."
+    },
+    {
+      "texto": "Aqueça 1 colher (sopa) do óleo numa frigideira grande em fogo alto. Doure a carne em duas levas, 3 minutos cada, sem mexer muito. Reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma frigideira, junte o restante do óleo, a cebola e os pimentões e salteie por 4 minutos, até murcharem um pouco.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Volte a carne, junte o shoyu e o orégano e mexa por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Prove antes de colocar mais sal: o shoyu já é salgado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o patinho por alcatra ou por peito de frango em tiras."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem pimentão amarelo, use dois vermelhos ou um verde."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte a carne contra as fibras e em tiras finas: fica macia mesmo com cozimento rápido."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 294,
+      "carboidratos_g": 7.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0271.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iscas de carne",
+      "tiras de carne com pimentao",
+      "carne acebolada com pimentao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

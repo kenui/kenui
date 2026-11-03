@@ -1,0 +1,189 @@
+{
+  "id": "rbl-0325",
+  "slug": "berinjela-a-parmegiana-de-forno",
+  "nome": "Berinjela à parmegiana de forno",
+  "descricao": "Rodelas de berinjela assadas, sem empanar, em camadas com molho de tomate caseiro e mussarela.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 55,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "berinjela",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "2 berinjelas grandes em rodelas de 1 cm (cerca de 700 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 tomates maduros picados (cerca de 750 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "manjericao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manjericão picado"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "200 g de mussarela fatiada"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Arrume as rodelas de berinjela em duas assadeiras forradas com papel-manteiga, pincele com o azeite e tempere com o sal. Asse por 15 minutos, até amaciar e dourar levemente.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Molho: aqueça o azeite numa panela, refogue a cebola e o alho, junte o tomate e o sal e cozinhe por 15 minutos, até desmanchar. Desligue e junte o manjericão.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa travessa, faça camadas: molho, berinjela, mussarela. Repita e termine com molho, parmesão e orégano."
+    },
+    {
+      "texto": "Asse por 20 minutos, até borbulhar e gratinar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Espere 10 minutos antes de cortar, para firmar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com abobrinha em lâminas, do mesmo jeito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas meia cura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias. Congela bem já assada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 236,
+      "carboidratos_g": 12.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0325.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "berinjela e molho de tomate",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "parmegiana de berinjela",
+      "berinjela gratinada",
+      "berinjela com queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

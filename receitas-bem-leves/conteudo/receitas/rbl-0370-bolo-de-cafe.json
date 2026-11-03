@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0370",
+  "slug": "bolo-de-cafe",
+  "nome": "Bolo de café",
+  "descricao": "Bolo perfumado de café coado com um toque de canela, regado com calda de café.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "cafe-coado",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de café coado forte, frio"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "cafe-coado",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de café coado"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o óleo, o café e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e a canela. Junte os líquidos e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Calda: misture o café quente com o eritritol até dissolver."
+    },
+    {
+      "texto": "Desenforme o bolo morno, faça furinhos com um garfo e regue com a calda."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use café descafeinado para servir à noite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O café precisa estar frio na massa: quente, ele cozinha os ovos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias coberto."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 177,
+      "carboidratos_g": 17
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0370.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de cafe",
+      "bolo de cafe com canela",
+      "bolo de cafe coado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

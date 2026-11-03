@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0211",
+  "nome": "Chocolate quente cremoso",
+  "porcoes": 2,
+  "porcao": "1 xícara de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-integral",
+      "texto": "2 xícaras (chá) de leite",
+      "gramas": 488,
+      "kcal": 297.7,
+      "carboidratos_g": 23.42,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "2 colheres (sopa) de cacau em pó 100%",
+      "gramas": 10.8,
+      "kcal": 24.6,
+      "carboidratos_g": 6.25,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "texto": "2 colheres (chá) de amido de milho",
+      "gramas": 5.4,
+      "kcal": 19.5,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 42 Milho, amido, cru",
+      "por_100g": {
+        "kcal": 361,
+        "carboidratos_g": 87.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1/2 colher (chá) de essência de baunilha",
+      "gramas": 2.1,
+      "kcal": 6,
+      "carboidratos_g": 0.27,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela em pó",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 348.1,
+    "carboidratos_g": 34.7
+  },
+  "por_porcao": {
+    "kcal": 174,
+    "carboidratos_g": 17.4
+  }
+}

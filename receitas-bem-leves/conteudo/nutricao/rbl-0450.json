@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0450",
+  "nome": "Compota de maçã com canela",
+  "porcoes": 6,
+  "porcao": "1/2 xícara",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "maca",
+      "texto": "4 maçãs fuji (600 g), descascadas e em cubos",
+      "gramas": 600,
+      "kcal": 336,
+      "carboidratos_g": 91.2,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 347.7,
+    "carboidratos_g": 95
+  },
+  "por_porcao": {
+    "kcal": 58,
+    "carboidratos_g": 15.8
+  }
+}

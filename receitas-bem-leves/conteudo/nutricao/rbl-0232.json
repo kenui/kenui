@@ -1,0 +1,163 @@
+{
+  "receita": "rbl-0232",
+  "nome": "Frango ensopado com batata e cenoura",
+  "porcoes": 4,
+  "porcao": "1 prato raso (2 coxas com legumes)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "texto": "8 coxas de frango sem pele (cerca de 800 g)",
+      "gramas": 800,
+      "kcal": 960,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 399 Frango, coxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 120,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho amassados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "texto": "1/2 colher (chá) de açafrão-da-terra (cúrcuma)",
+      "gramas": 1.5,
+      "kcal": 4.7,
+      "carboidratos_g": 1.01,
+      "fonte": "USDA SR Legacy 172231 Spices, turmeric, ground",
+      "por_100g": {
+        "kcal": 312,
+        "carboidratos_g": 67.14
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (sopa) de óleo",
+      "gramas": 13.6,
+      "kcal": 120.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates maduros picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)",
+      "gramas": 16,
+      "kcal": 9.8,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 158 Tomate, extrato",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 15
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água quente (500 ml)",
+      "gramas": 500,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "2 batatas médias em cubos grandes",
+      "gramas": 426,
+      "kcal": 272.6,
+      "carboidratos_g": 62.62,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura média em rodelas",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1479.2,
+    "carboidratos_g": 90.5
+  },
+  "por_porcao": {
+    "kcal": 370,
+    "carboidratos_g": 22.6
+  }
+}

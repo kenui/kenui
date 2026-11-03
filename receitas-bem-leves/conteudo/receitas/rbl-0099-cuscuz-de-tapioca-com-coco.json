@@ -1,0 +1,146 @@
+{
+  "id": "rbl-0099",
+  "slug": "cuscuz-de-tapioca-com-coco",
+  "nome": "Cuscuz de tapioca com coco",
+  "descricao": "Cuscuz doce nordestino de tapioca granulada, coco e leite de coco, firme e cortado em quadrados.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 5,
+    "descanso_min": 120,
+    "total_min": 135
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "refratário de 20 x 20 cm"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 quadrado"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de tapioca granulada"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado seco sem açúcar (40 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.25,
+      "medida": "xicara",
+      "texto": "1 e 1/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite de coco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num refratário de 20 x 20 cm, misture a tapioca granulada, o coco, o eritritol e o sal."
+    },
+    {
+      "texto": "Numa panela, aqueça o leite com o leite de coco até começar a ferver.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Despeje o leite quente sobre a tapioca e misture bem, espalhando por igual.",
+      "aviso": "Leite fervente: despeje devagar e com cuidado."
+    },
+    {
+      "texto": "Deixe descansar 15 minutos, mexa uma vez e alise a superfície com a colher."
+    },
+    {
+      "texto": "Cubra e leve à geladeira por pelo menos 2 horas, até firmar.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Corte em 8 quadrados e sirva gelado ou em temperatura ambiente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por 1 banana bem madura amassada misturada no leite quente."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite de coco? Use só leite, 1 e 3/4 de xícara no total."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberto na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 148,
+      "carboidratos_g": 20.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0099.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cuscuz de tapioca",
+      "cuscuz doce",
+      "cuscuz branco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0285",
+  "slug": "omelete-de-forno-com-legumes",
+  "nome": "Omelete de forno com legumes",
+  "descricao": "Omelete alta e fofinha com abobrinha, tomate, pimentão e espinafre, assada na travessa e cortada em quadrados.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pedaços"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 pedaço e meio"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 8,
+      "medida": "unidade",
+      "texto": "8 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha pequena ralada grossa e espremida"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de espinafre picado"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte uma travessa de cerca de 20 x 30 cm com o azeite."
+    },
+    {
+      "texto": "Bata os ovos com o leite, o sal e a pimenta com um garfo por 1 minuto."
+    },
+    {
+      "texto": "Misture a abobrinha, o tomate, o pimentão, a cebola, o espinafre e metade da mussarela."
+    },
+    {
+      "texto": "Despeje na travessa e espalhe o restante da mussarela por cima."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até crescer, dourar e o centro ficar firme ao tocar.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Espere 5 minutos e corte em 6 quadrados."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use os legumes que tiver: brócolis, cenoura ralada, milho, ervilha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas em cubinhos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Reaqueça na frigideira tampada ou coma fria."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 242,
+      "carboidratos_g": 8.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0285.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "legumes",
+    "enfeites": [
+      "abobrinha",
+      "tomate",
+      "pimentao",
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de forno",
+      "omelete assada",
+      "fritada de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

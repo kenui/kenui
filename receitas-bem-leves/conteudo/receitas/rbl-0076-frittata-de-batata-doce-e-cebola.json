@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0076",
+  "slug": "frittata-de-batata-doce-e-cebola",
+  "nome": "Frittata de batata-doce e cebola",
+  "descricao": "Omelete alta de forno com batata-doce macia, cebola dourada e parmesão.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 30,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "frittata de 22 cm"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/4 da frittata"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 batata-doce média em cubinhos de 1 cm (200 g)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média em tiras finas"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente de 22 cm que possa ir ao forno (cabo de metal). Junte a batata-doce e a cebola, tampe e cozinhe em fogo médio-baixo por 10 minutos, mexendo de vez em quando, até a batata ficar macia.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o parmesão, o sal, a pimenta e a salsinha."
+    },
+    {
+      "texto": "Despeje os ovos sobre a batata e deixe 2 minutos no fogo, até a borda começar a firmar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Leve a frigideira ao forno por 15 a 18 minutos, até o centro ficar firme e a superfície dourar.",
+      "aviso": "O cabo sai do forno muito quente: use luva.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Espere 3 minutos, solte a borda com uma espátula e corte em 4 fatias.",
+      "temporizador_min": 3
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem frigideira que vá ao forno? Passe a batata refogada para um refratário untado de 20 cm, cubra com os ovos e asse por 25 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por abóbora cabotiá em cubinhos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias. Come-se fria ou aquecida."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 219,
+      "carboidratos_g": 17.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0076.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "batata-doce e cebola",
+    "enfeites": [
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frittata",
+      "omelete de forno",
+      "tortilha de batata doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

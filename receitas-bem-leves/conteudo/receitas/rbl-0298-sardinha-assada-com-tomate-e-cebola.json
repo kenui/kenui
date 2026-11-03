@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0298",
+  "slug": "sardinha-assada-com-tomate-e-cebola",
+  "nome": "Sardinha assada com tomate e cebola",
+  "descricao": "Sardinhas frescas assadas com tomate, cebola, alho e orégano, do jeito de casa de praia.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "descanso_min": 15,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 sardinhas com legumes"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sardinha",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "12 sardinhas frescas limpas, sem cabeça (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates em rodelas"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão verde em rodelas"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as sardinhas, seque e tempere com o suco de limão, o alho, o sal e a pimenta. Deixe na geladeira por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Unte uma assadeira com 1 colher (sopa) de azeite e forre com metade da cebola e do tomate."
+    },
+    {
+      "texto": "Arrume as sardinhas lado a lado, cubra com o restante da cebola, do tomate e com o pimentão, salpique o alecrim e regue com o restante do azeite."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Retire o papel e asse mais 15 minutos, até as sardinhas dourarem.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Salpique a salsinha e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use sardinha congelada já limpa: descongele na geladeira antes."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por orégano ou tomilho."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Peça na peixaria para limpar e tirar a espinha central: fica mais fácil de comer."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 366,
+      "carboidratos_g": 10.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0298.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sardinha no forno",
+      "sardinha fresca",
+      "sardinha com tomate"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

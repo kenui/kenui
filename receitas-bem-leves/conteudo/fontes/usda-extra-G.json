@@ -1,0 +1,46 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "169103": {
+      "descricao": "Orange peel, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2
+        }
+      ],
+      "fibra_g": 10.6,
+      "kcal": 97,
+      "proteina_g": 1.5,
+      "lipidios_g": 0.2,
+      "carboidratos_g": 25
+    },
+    "170926": {
+      "descricao": "Spices, ginger, ground",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 1.8
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 5.2
+        }
+      ],
+      "proteina_g": 8.98,
+      "fibra_g": 14.1,
+      "lipidios_g": 4.24,
+      "carboidratos_g": 71.62,
+      "kcal": 335
+    }
+  }
+}

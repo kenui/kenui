@@ -1,0 +1,147 @@
+{
+  "id": "rbl-0400",
+  "slug": "sequilhos-de-maisena",
+  "nome": "Sequilhos de maisena",
+  "descricao": "Sequilhos clássicos de amido de milho, que desmancham na boca.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 15,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 40,
+    "unidade": "sequilhos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "4 sequilhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de amido de milho"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol em pó",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e separe uma assadeira sem untar."
+    },
+    {
+      "texto": "Numa tigela, misture a manteiga com o eritritol até virar um creme. Junte o ovo e a baunilha."
+    },
+    {
+      "texto": "Acrescente o amido e o sal aos poucos, amassando com as mãos, até a massa desgrudar das mãos."
+    },
+    {
+      "texto": "Faça bolinhas de 2 cm e achate com um garfo, deixando as marquinhas."
+    },
+    {
+      "texto": "Asse por 12 a 15 minutos, só até a base ficar levemente dourada. O sequilho deve ficar claro.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Espere esfriar totalmente na assadeira antes de mexer: quentes, eles se desfazem."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 15,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1/2 xícara do amido por coco ralado sem açúcar para sequilhos de coco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa esfarelar, junte 1 colher (sopa) de leite."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 173,
+      "carboidratos_g": 22.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0400.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sequilho",
+      "biscoito de maisena",
+      "biscoito de amido de milho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0322",
+  "slug": "caldo-de-mandioca-com-carne-moida",
+  "nome": "Caldo de mandioca com carne moída",
+  "descricao": "Caldo cremoso de mandioca batida com carne moída refogada e cheiro-verde, do jeito goiano.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mandioca",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de mandioca descascada em pedaços"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de carne moída (patinho)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioca na água por 25 a 30 minutos, até ficar bem macia. Retire os fiapos do meio.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Bata a mandioca com a água do cozimento no liquidificador, em partes, até virar um creme.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e doure a carne moída, soltando com a colher, por 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola, o alho e o tomate e refogue por 3 minutos. Tempere com o sal e a pimenta."
+    },
+    {
+      "texto": "Junte o creme de mandioca e cozinhe em fogo baixo por 5 minutos, mexendo. Se ficar grosso, junte água quente.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e espalhe a salsinha e a cebolinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne moída por frango desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioca congelada já descascada para ganhar tempo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 322,
+      "carboidratos_g": 51
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0322.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "caldo de mandioca",
+      "caldo de aipim",
+      "vaca atolada de caneca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

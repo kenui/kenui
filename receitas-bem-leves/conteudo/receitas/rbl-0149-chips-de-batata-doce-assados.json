@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0149",
+  "slug": "chips-de-batata-doce-assados",
+  "nome": "Chips de batata-doce assados",
+  "descricao": "Fatias finas de batata-doce temperadas com páprica e alecrim, assadas até ficarem crocantes.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 30,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "xícaras de chips"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3/4 de xícara"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "2 batatas-doces médias (400 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre 2 assadeiras com papel-manteiga."
+    },
+    {
+      "texto": "Lave bem as batatas e corte com casca em fatias bem finas, de 2 mm.",
+      "aviso": "Use faca afiada ou fatiador com cuidado."
+    },
+    {
+      "texto": "Numa tigela, misture as fatias com o azeite, a páprica, o alecrim e o sal."
+    },
+    {
+      "texto": "Espalhe nas assadeiras sem sobrepor."
+    },
+    {
+      "texto": "Asse por 15 minutos, vire as fatias e asse mais 10 a 15 minutos, até as bordas dourarem.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Deixe esfriar na assadeira: elas terminam de ficar crocantes fora do forno."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por batata inglesa com casca, com o mesmo tempo de forno."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica e o alecrim por orégano e uma pitada de alho em pó."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 150,
+      "carboidratos_g": 28.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0149.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chips de batata doce",
+      "batata doce crocante",
+      "chips assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "rbl-0211",
+  "slug": "chocolate-quente-cremoso",
+  "nome": "Chocolate quente cremoso",
+  "descricao": "Chocolate quente encorpado de cacau 100%, engrossado com um pouco de amido de milho.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 8,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 xícara de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de amido de milho"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 8 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, misture o cacau, o amido de milho e o eritritol. Junte 1/2 xícara do leite frio e mexa até não ter bolinhas."
+    },
+    {
+      "texto": "Junte o resto do leite e leve ao fogo médio, mexendo sem parar com um batedor de arame."
+    },
+    {
+      "texto": "Cozinhe por 6 a 8 minutos, até engrossar levemente e ferver.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue, junte a baunilha e sirva quente, polvilhado com canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Para um chocolate quente mais ralo, tire o amido de milho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a baunilha por raspas de casca de laranja."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Dissolver o cacau no leite frio antes de aquecer evita os grumos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 174,
+      "carboidratos_g": 17.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0211.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "xicara_bebida",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chocolate quente",
+      "chocolate quente com cacau",
+      "bebida quente de chocolate"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

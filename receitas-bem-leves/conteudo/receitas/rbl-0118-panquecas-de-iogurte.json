@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0118",
+  "slug": "panquecas-de-iogurte",
+  "nome": "Panquecas de iogurte",
+  "descricao": "Panquecas grossinhas e fofas feitas com iogurte natural, servidas com banana e canela.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 16,
+    "total_min": 26
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "panquecas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 panquecas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica em rodelas"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+    },
+    {
+      "texto": "Em outra tigela, bata o iogurte, o ovo, o leite e a manteiga com um garfo."
+    },
+    {
+      "texto": "Junte os líquidos aos secos e mexa só até sumir a farinha seca. A massa fica grossa e com alguns carocinhos."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca, espalhando num círculo de 10 cm."
+    },
+    {
+      "texto": "Deixe 2 minutos, até aparecerem furinhos por cima. Vire e deixe mais 1 a 2 minutos, até dourar.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Repita com o resto da massa e sirva com a banana e a canela por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use farinha de trigo integral no lugar de metade da farinha branca."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana por morangos ou mamão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as panquecas separadas por papel-manteiga por até 1 mês. Aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 216,
+      "carboidratos_g": 33
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0118.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_pilha",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panqueca americana",
+      "panqueca fofinha",
+      "panqueca de iogurte"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "receita": "rbl-0075",
+  "nome": "Rolinho de omelete com peito de peru e cottage",
+  "porcoes": 1,
+  "porcao": "1 rolinho (cerca de 6 rodelas)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-cottage",
+      "texto": "2 colheres (sopa) de queijo cottage",
+      "gramas": 28.2,
+      "kcal": 27.6,
+      "carboidratos_g": 0.95,
+      "fonte": "USDA SR Legacy 172179 Cheese, cottage, creamed, large or small curd",
+      "por_100g": {
+        "kcal": 98,
+        "carboidratos_g": 3.38
+      }
+    },
+    {
+      "ingrediente": "peito-de-peru",
+      "texto": "2 fatias de peito de peru",
+      "gramas": 32,
+      "kcal": 33.9,
+      "carboidratos_g": 0.7,
+      "fonte": "USDA SR Legacy 172941 Turkey breast, sliced, prepackaged",
+      "por_100g": {
+        "kcal": 106,
+        "carboidratos_g": 2.2
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 225.2,
+    "carboidratos_g": 3.3
+  },
+  "por_porcao": {
+    "kcal": 225,
+    "carboidratos_g": 3.3
+  }
+}

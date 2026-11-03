@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0173",
+  "slug": "berinjela-a-pizzaiolo",
+  "nome": "Berinjela à pizzaiolo",
+  "descricao": "Rodelas de berinjela assadas e cobertas com tomate, mussarela, orégano e manjericão, como minipizzas.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "rodelas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 rodelas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "berinjela",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "1 berinjela grande (400 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em rodelas finas"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (150 g) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "manjericao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "10 folhas de manjericão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Corte a berinjela em rodelas de 1 cm e arrume na assadeira.",
+      "aviso": "Use faca afiada com cuidado."
+    },
+    {
+      "texto": "Pincele as rodelas com o azeite dos dois lados e tempere com o sal."
+    },
+    {
+      "texto": "Asse por 15 minutos, até ficarem macias.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Cubra cada rodela com uma fatia de tomate, a mussarela e o orégano."
+    },
+    {
+      "texto": "Volte ao forno por 10 minutos, até o queijo derreter e dourar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Finalize com as folhas de manjericão."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a berinjela por rodelas grossas de abobrinha, com 5 minutos a menos no primeiro tempo de forno."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Acrescente presunto picado ou frango desfiado antes do queijo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma na hora. Se sobrar, guarde na geladeira por 1 dia e aqueça no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 214,
+      "carboidratos_g": 7.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0173.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pizza",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "berinjela pizza",
+      "minipizza de berinjela",
+      "berinjela gratinada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

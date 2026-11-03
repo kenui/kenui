@@ -1,0 +1,35 @@
+{
+  "slug": "guia-do-adocante-certo",
+  "titulo": "Guia do Adoçante Certo",
+  "resumo": "Qual adoçante usar no forno, na calda e na bebida gelada, e quanto usar no lugar do açúcar.",
+  "blocos": [
+    { "t": "p", "texto": "Cada adoçante se comporta de um jeito na cozinha. Uns aguentam o forno, outros dissolvem melhor no frio, outros deixam um gostinho diferente quando passam da conta. Este guia mostra qual escolher em cada preparo e quanto usar quando a receita original pede açúcar." },
+    { "t": "h", "texto": "Qual usar em cada preparo" },
+    { "t": "tabela", "cabecalho": ["Preparo", "Melhor escolha", "Por quê"], "linhas": [
+      ["Bolo, biscoito e pão doce (forno)", "Eritritol ou xilitol", "Aguentam o calor do forno sem perder a doçura e dão volume parecido com o do açúcar."],
+      ["Calda de fruta e doce de panela", "Xilitol (ou metade xilitol e metade eritritol)", "O eritritol sozinho pode voltar a formar cristais quando a calda esfria. O xilitol fica mais liso."],
+      ["Pudim, mousse e cremes", "Eritritol ou xilitol", "Dissolva bem no líquido morno antes de juntar os outros ingredientes."],
+      ["Bebida gelada (suco, vitamina, chá gelado)", "Stevia ou sucralose líquidas", "Gotas se misturam na hora no frio. Adoçante em pó granulado demora a dissolver em bebida gelada."],
+      ["Café e chá quentes", "Qualquer um", "No quente todos dissolvem. Use pouco e prove."],
+      ["Chantilly e coberturas cremosas", "Eritritol ou xilitol em pó (batido no liquidificador)", "Moído bem fino, não deixa a cobertura arenosa."]
+    ] },
+    { "t": "h", "texto": "Quanto usar no lugar do açúcar" },
+    { "t": "tabela", "cabecalho": ["Adoçante", "No lugar de 1 xícara (chá) de açúcar", "Observações"], "linhas": [
+      ["Xilitol", "1 xícara (chá)", "Adoça quase igual ao açúcar: troca de 1 para 1."],
+      ["Eritritol", "1 xícara (chá) a 1 e 1/3 xícara (chá)", "Adoça um pouco menos que o açúcar. Comece com a mesma medida e prove a massa crua."],
+      ["Stevia em pó culinária", "Siga a embalagem", "A força muda muito de uma marca para outra. Muitas trazem a troca impressa no rótulo."],
+      ["Sucralose culinária em pó", "Siga a embalagem", "Confira a lista de ingredientes: algumas versões em pó levam maltodextrina, que é um tipo de açúcar."],
+      ["Stevia ou sucralose líquidas", "Algumas gotas", "Muito fortes. Para bebidas, comece com 3 a 5 gotas por copo e ajuste."]
+    ] },
+    { "t": "h", "texto": "Fruta também adoça" },
+    { "t": "p", "texto": "Banana bem madura, maçã, tâmara e uva-passa deixam bolos, cookies e vitaminas doces sem nenhum adoçante. Duas bananas bem maduras amassadas adoçam um bolo de forma inteiro. Quanto mais pintadinha a casca, mais doce a banana." },
+    { "t": "h", "texto": "Cuidados importantes" },
+    { "t": "lista", "itens": [
+      "O xilitol é perigoso para cães, mesmo em pouca quantidade. Guarde fora do alcance dos bichos e não dê restos de doce feito com xilitol para o cachorro.",
+      "Eritritol e xilitol em grande quantidade podem soltar o intestino de algumas pessoas. Comece com porções pequenas.",
+      "O eritritol deixa uma sensação de frescor na boca, parecida com a de bala de hortelã. Em receita com cacau, canela ou café, quase não se percebe.",
+      "Adoçante não doura como o açúcar. O bolo fica mais claro por cima: use o palito para saber o ponto, não a cor.",
+      "Leia sempre a lista de ingredientes do adoçante. Se aparecer açúcar, maltodextrina, dextrose ou xarope, não é o que você procura."
+    ] }
+  ]
+}

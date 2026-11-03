@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0024",
+  "nome": "Pão de frigideira de ervas",
+  "porcoes": 1,
+  "porcao": "1 pão",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "ricota",
+      "texto": "2 colheres (sopa) de ricota amassada (30 g)",
+      "gramas": 30,
+      "kcal": 42,
+      "carboidratos_g": 1.14,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "farelo-de-aveia",
+      "texto": "2 colheres (sopa) de farelo de aveia",
+      "gramas": 11.8,
+      "kcal": 29,
+      "carboidratos_g": 7.81,
+      "fonte": "USDA SR Legacy 168872 Oat bran, raw",
+      "por_100g": {
+        "kcal": 246,
+        "carboidratos_g": 66.22
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "1 colher (sopa) de cebolinha picada",
+      "gramas": 3,
+      "kcal": 0.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1/2 colher (chá) de fermento químico em pó",
+      "gramas": 2.3,
+      "kcal": 2.1,
+      "carboidratos_g": 1.01,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 238.5,
+    "carboidratos_g": 12
+  },
+  "por_porcao": {
+    "kcal": 239,
+    "carboidratos_g": 12
+  }
+}

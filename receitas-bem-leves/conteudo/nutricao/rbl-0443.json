@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0443",
+  "nome": "Sorvete de banana com cacau e amendoim",
+  "porcoes": 4,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "4 bananas nanicas maduras, em rodelas, congeladas",
+      "gramas": 472,
+      "kcal": 434.2,
+      "carboidratos_g": 112.34,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "2 colheres (sopa) de cacau em pó 100%",
+      "gramas": 10.8,
+      "kcal": 24.6,
+      "carboidratos_g": 6.25,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "4 colheres (sopa) de leite",
+      "gramas": 60,
+      "kcal": 36.6,
+      "carboidratos_g": 2.88,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "amendoim",
+      "texto": "4 colheres (sopa) de amendoim sem pele",
+      "gramas": 36.4,
+      "kcal": 198,
+      "carboidratos_g": 7.39,
+      "fonte": "TACO 4ª ed. 557 Amendoim, grão, cru",
+      "por_100g": {
+        "kcal": 544,
+        "carboidratos_g": 20.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 693.5,
+    "carboidratos_g": 128.9
+  },
+  "por_porcao": {
+    "kcal": 173,
+    "carboidratos_g": 32.2
+  }
+}

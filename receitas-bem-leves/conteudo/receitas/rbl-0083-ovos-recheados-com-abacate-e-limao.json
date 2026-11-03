@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0083",
+  "slug": "ovos-recheados-com-abacate-e-limao",
+  "nome": "Ovos recheados com abacate e limão",
+  "descricao": "Ovos cozidos com recheio cremoso de gema e abacate temperado com limão e tomatinho.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 12,
+    "descanso_min": 5,
+    "total_min": 32
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "metades"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 metades"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "abacate",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "1 pedaço de abacate maduro (120 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "1/4 de tomate picadinho sem sementes"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os ovos numa panela, cubra com água e leve ao fogo. Quando ferver, conte 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Passe os ovos para água fria por 5 minutos e descasque.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Corte os ovos ao meio no comprido e retire as gemas.",
+      "aviso": "Use faca afiada e corte devagar."
+    },
+    {
+      "texto": "Amasse as gemas com o abacate, o limão, o sal e a pimenta até ficar um creme liso."
+    },
+    {
+      "texto": "Recheie as claras e finalize com o tomate e a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por coentro ou cebolinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem abacate? Use 3 colheres (sopa) de ricota amassada com azeite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O limão evita que o abacate escureça: faça na hora ou no máximo 2 horas antes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 103,
+      "carboidratos_g": 3.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0083.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "gema com abacate",
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo recheado com abacate",
+      "ovos cozidos recheados",
+      "ovo com guacamole"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

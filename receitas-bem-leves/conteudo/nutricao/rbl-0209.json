@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0209",
+  "nome": "Cappuccino caseiro em pó",
+  "porcoes": 10,
+  "porcao": "1 xícara (2 colheres (sopa) de mistura e 180 ml de água)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "1 xícara (chá) de leite em pó integral",
+      "gramas": 128,
+      "kcal": 636.2,
+      "carboidratos_g": 50.18,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "cafe-soluvel",
+      "texto": "3 colheres (sopa) de café solúvel",
+      "gramas": 9,
+      "kcal": 31.8,
+      "carboidratos_g": 6.79,
+      "fonte": "USDA SR Legacy 171893 Beverages, coffee, instant, regular, powder",
+      "por_100g": {
+        "kcal": 353,
+        "carboidratos_g": 75.4
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "2 colheres (sopa) de cacau em pó 100%",
+      "gramas": 10.8,
+      "kcal": 24.6,
+      "carboidratos_g": 6.25,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "4 colheres (sopa) de eritritol",
+      "gramas": 50,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "180 ml de água quente para cada xícara",
+      "gramas": 180,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 699,
+    "carboidratos_g": 65.3
+  },
+  "por_porcao": {
+    "kcal": 70,
+    "carboidratos_g": 6.5
+  }
+}

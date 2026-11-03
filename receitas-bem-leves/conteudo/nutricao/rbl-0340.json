@@ -1,0 +1,176 @@
+{
+  "receita": "rbl-0340",
+  "nome": "Salada de tilápia grelhada com manga",
+  "porcoes": 3,
+  "porcao": "1 prato fundo",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tilapia",
+      "texto": "3 filés de tilápia (cerca de 400 g)",
+      "gramas": 400,
+      "kcal": 384,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 175176 Fish, tilapia, raw",
+      "por_100g": {
+        "kcal": 96,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "3/4 de colher (chá) de sal",
+      "gramas": 4.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1/2 colher (chá) de páprica doce",
+      "gramas": 1.2,
+      "kcal": 3.2,
+      "carboidratos_g": 0.62,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alface",
+      "texto": "3 xícaras (chá) de alface rasgada",
+      "gramas": 108,
+      "kcal": 11.9,
+      "carboidratos_g": 1.84,
+      "fonte": "TACO 4ª ed. 78 Alface, crespa, crua",
+      "por_100g": {
+        "kcal": 11,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "rucula",
+      "texto": "1 xícara (chá) de rúcula",
+      "gramas": 20,
+      "kcal": 5,
+      "carboidratos_g": 0.73,
+      "fonte": "USDA SR Legacy 169387 Arugula, raw",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 3.65
+      }
+    },
+    {
+      "ingrediente": "manga",
+      "texto": "1 manga pequena em cubos (250 g)",
+      "gramas": 250,
+      "kcal": 127.5,
+      "carboidratos_g": 32,
+      "fonte": "TACO 4ª ed. 231 Manga, Tommy Atkins, crua",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 12.8
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate em cubos",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 colheres (sopa) de cebola em fatias finas",
+      "gramas": 20,
+      "kcal": 7.8,
+      "carboidratos_g": 1.78,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 927.8,
+    "carboidratos_g": 44.5
+  },
+  "por_porcao": {
+    "kcal": 309,
+    "carboidratos_g": 14.8
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "lista-de-compras-mercado-comum",
+  "titulo": "Lista de Compras do Mercado Comum",
+  "resumo": "O básico para ter em casa e fazer a maior parte das receitas, com o que conferir no rótulo.",
+  "blocos": [
+    { "t": "p", "texto": "Tudo o que está aqui se encontra em supermercado comum. Com esta despensa você consegue fazer a maior parte das receitas do app. Marque o que já tem em casa e leve a lista ao mercado." },
+    { "t": "h", "texto": "Mercearia" },
+    { "t": "checklist", "itens": [
+      "Aveia em flocos (finos e grossos)",
+      "Farinha de trigo",
+      "Polvilho doce e polvilho azedo",
+      "Fubá ou flocão de milho",
+      "Cacau em pó 100% (confira: só cacau na lista de ingredientes)",
+      "Fermento químico em pó",
+      "Fermento biológico seco",
+      "Eritritol ou xilitol",
+      "Stevia ou sucralose líquida, para bebidas",
+      "Gelatina incolor sem sabor",
+      "Essência de baunilha",
+      "Coco ralado sem açúcar",
+      "Leite em pó integral",
+      "Castanha-do-pará, castanha-de-caju ou amendoim sem sal",
+      "Sementes: linhaça, chia ou gergelim",
+      "Azeite e óleo",
+      "Feijão, lentilha e grão-de-bico",
+      "Arroz",
+      "Atum ou sardinha em lata (em água ou óleo)",
+      "Tomate pelado ou passata de tomate (confira: sem açúcar)"
+    ] },
+    { "t": "h", "texto": "Laticínios e frios" },
+    { "t": "checklist", "itens": [
+      "Leite",
+      "Iogurte natural integral (sem açúcar e sem sabor)",
+      "Queijo minas frescal",
+      "Queijo mussarela",
+      "Queijo parmesão ralado",
+      "Ricota",
+      "Requeijão cremoso",
+      "Creme de leite",
+      "Manteiga"
+    ] },
+    { "t": "h", "texto": "Carnes e ovos" },
+    { "t": "checklist", "itens": [
+      "Ovos (uma dúzia por semana costuma ser pouco)",
+      "Peito de frango e sobrecoxa",
+      "Carne moída (patinho)",
+      "Um peixe branco (tilápia ou pescada)"
+    ] },
+    { "t": "h", "texto": "Hortifrúti" },
+    { "t": "checklist", "itens": [
+      "Banana (compre umas verdes e umas maduras)",
+      "Maçã",
+      "Morango ou outra fruta da estação",
+      "Limão",
+      "Tomate",
+      "Cebola e alho",
+      "Cenoura",
+      "Abobrinha",
+      "Abóbora cabotiá",
+      "Couve-flor ou brócolis",
+      "Folhas para salada",
+      "Cheiro-verde (salsinha e cebolinha)"
+    ] },
+    { "t": "h", "texto": "Temperos" },
+    { "t": "checklist", "itens": [
+      "Sal",
+      "Pimenta-do-reino",
+      "Orégano",
+      "Canela em pó",
+      "Páprica doce",
+      "Noz-moscada"
+    ] },
+    { "t": "h", "texto": "Para deixar na prateleira do mercado" },
+    { "t": "lista", "itens": [
+      "Molho de tomate pronto com açúcar, ketchup e maionese comum",
+      "Iogurte com sabor e bebida láctea",
+      "Granola e cereal matinal açucarados",
+      "Achocolatado e chocolate ao leite",
+      "Leite condensado e doce de leite",
+      "Gelatina com sabor",
+      "Pão de forma e torrada com açúcar na lista de ingredientes"
+    ] },
+    { "t": "p", "texto": "Para montar a lista exata de uma semana, use o botão “Lista de compras da semana” no Plano. O app soma os ingredientes de todas as receitas da semana e separa por seção do mercado." }
+  ]
+}

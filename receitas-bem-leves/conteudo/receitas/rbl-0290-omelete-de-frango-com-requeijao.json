@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0290",
+  "slug": "omelete-de-frango-com-requeijao",
+  "nome": "Omelete de frango com requeijão",
+  "descricao": "Omelete recheada com frango desfiado, requeijão e tomate, um jeito rápido de usar o frango que sobrou.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "omeletes"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 omelete"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de frango cozido e desfiado (cerca de 1 xícara)"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o frango, o requeijão, o tomate e a cebolinha."
+    },
+    {
+      "texto": "Bata 2 ovos com metade do sal e da pimenta."
+    },
+    {
+      "texto": "Numa frigideira antiaderente de 20 cm, derreta metade da manteiga em fogo médio e despeje os ovos. Deixe 2 minutos, puxando as bordas para o centro.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Coloque metade do recheio de um lado, dobre e deixe mais 1 a 2 minutos, até aquecer o recheio.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Repita com o restante dos ovos e do recheio."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por atum em lata escorrido ou carne moída refogada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo minas no lugar do requeijão."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Dá para usar o frango desfiado refogado do almoço: fica ainda mais saboroso."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 331,
+      "carboidratos_g": 4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0290.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de frango",
+      "omelete recheada de frango",
+      "omelete com requeijao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

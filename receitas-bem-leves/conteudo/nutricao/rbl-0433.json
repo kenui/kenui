@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0433",
+  "nome": "Gelatina de laranja",
+  "porcoes": 5,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor",
+      "gramas": 12,
+      "kcal": 40.2,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 169599 Gelatins, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "5 colheres (sopa) de água fria",
+      "gramas": 75,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "2 e 1/4 xícaras (chá) de suco de laranja natural (cerca de 7 laranjas), coado",
+      "gramas": 558,
+      "kcal": 184.1,
+      "carboidratos_g": 42.41,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "laranja",
+      "texto": "1 laranja em gomos para enfeitar",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 224.3,
+    "carboidratos_g": 42.4
+  },
+  "por_porcao": {
+    "kcal": 45,
+    "carboidratos_g": 8.5
+  }
+}

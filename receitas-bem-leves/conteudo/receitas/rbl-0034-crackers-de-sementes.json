@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0034",
+  "slug": "crackers-de-sementes",
+  "nome": "Crackers de sementes",
+  "descricao": "Placas crocantes de linhaça, gergelim e sementes de girassol e abóbora, que viram uma bolacha para pastas e queijos.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 55,
+    "descanso_min": 15,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "pedaços"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "4 pedaços"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "linhaca",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de linhaça"
+    },
+    {
+      "ingrediente": "gergelim",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de gergelim"
+    },
+    {
+      "ingrediente": "semente-de-girassol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de semente de girassol sem casca",
+      "alternativa": {
+        "ingrediente": "gergelim",
+        "texto": "ou mais 1/2 xícara de gergelim"
+      }
+    },
+    {
+      "ingrediente": "semente-de-abobora",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de semente de abóbora sem casca",
+      "alternativa": {
+        "ingrediente": "linhaca",
+        "texto": "ou mais 1/4 de xícara de linhaça"
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture todas as sementes, o sal e o orégano."
+    },
+    {
+      "texto": "Junte a água, misture e deixe descansar 15 minutos, até a linhaça formar um gel e a mistura ficar pastosa.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 160 °C."
+    },
+    {
+      "texto": "Espalhe a mistura sobre uma assadeira forrada com papel-manteiga, numa camada fina e uniforme (3 mm), usando as costas de uma colher molhada."
+    },
+    {
+      "texto": "Asse por 30 minutos, tire do forno e marque os pedaços com uma faca.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Volte ao forno por mais 20 a 25 minutos, até ficar seco e crocante.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Deixe esfriar no forno desligado e quebre nos pedaços marcados."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 160,
+    "tempo_min": 55,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use só linhaça e gergelim, 3/4 de xícara de cada, se não achar as outras sementes."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se o centro ainda estiver mole, deixe mais 10 minutos: a bolacha só fica crocante quando seca por inteiro."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 179,
+      "carboidratos_g": 8.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0034.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "sementes",
+      "gergelim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cracker de sementes",
+      "bolacha de linhaca",
+      "biscoito de sementes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "rbl-0176",
+  "slug": "nuggets-de-frango-de-forno",
+  "nome": "Nuggets de frango de forno",
+  "descricao": "Nuggets caseiros de peito de frango moído, empanados na aveia com parmesão e assados até dourar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 22,
+    "total_min": 47
+  },
+  "rendimento": {
+    "quantidade": 25,
+    "unidade": "nuggets"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "5 nuggets"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango sem pele, cru, em cubos"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga untado com azeite."
+    },
+    {
+      "texto": "No processador, bata o frango, o ovo, o alho, o sal, a páprica e o parmesão até virar uma massa.",
+      "aviso": "Desligue o processador antes de mexer na lâmina."
+    },
+    {
+      "texto": "Num prato, misture a aveia com o parmesão do empanamento."
+    },
+    {
+      "texto": "Com as mãos molhadas, modele 25 nuggets achatados e passe cada um na mistura de aveia, apertando bem."
+    },
+    {
+      "texto": "Arrume na assadeira e pincele ou borrife com o azeite."
+    },
+    {
+      "texto": "Asse por 10 minutos, vire e asse mais 10 a 12 minutos, até dourar.",
+      "temporizador_min": 22
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 22,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem processador? Use 500 g de frango moído no açougue."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por farinha de milho ou por farelo de aveia."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os nuggets crus e empanados por até 2 meses. Asse sem descongelar, com 5 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 229,
+      "carboidratos_g": 8.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0176.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "aveia",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "nuggets caseiro",
+      "nuggets assado",
+      "empanado de frango no forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

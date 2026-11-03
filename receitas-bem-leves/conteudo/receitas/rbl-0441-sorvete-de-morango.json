@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0441",
+  "slug": "sorvete-de-morango",
+  "nome": "Sorvete de morango",
+  "descricao": "Sorvete rosado de morango congelado com creme de leite, cremoso e pronto no processador.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "taças"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "morango",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de morangos congelados"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g), gelado"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave os morangos, tire as folhas, seque e congele por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Bata no processador os morangos congelados, o creme de leite e o eritritol por 3 a 4 minutos, raspando as laterais, até ficar cremoso.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Sirva na hora ou congele por 1 a 2 horas para firmar."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por 2 potes de iogurte natural, para um sorvete mais leve."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bater o eritritol no liquidificador antes deixa ele bem fino e o sorvete mais liso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 114,
+      "carboidratos_g": 7.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0441.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sorvete de morango caseiro",
+      "sorvete de morango sem acucar",
+      "sorvete de fruta"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0321",
+  "slug": "sopa-de-peixe-com-legumes",
+  "nome": "Sopa de peixe com legumes",
+  "descricao": "Caldo leve de tilápia com batata, cenoura e tomate, com coentro e limão no final.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 400 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tilapia",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de filé de tilápia em cubos grandes"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão verde picado"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de açafrão-da-terra (cúrcuma)"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas médias em cubos"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em rodelas"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água quente"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de coentro picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o peixe com o suco de limão e 1/2 colher (chá) do sal. Reserve na geladeira."
+    },
+    {
+      "texto": "Numa panela grande, aqueça o azeite e refogue a cebola, o alho, o tomate e o pimentão por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o açafrão, a batata, a cenoura, a água e o restante do sal. Cozinhe por 15 minutos, até a batata ficar macia.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Acrescente o peixe e cozinhe em fogo baixo por 6 a 8 minutos, sem mexer muito, até ficar branco e firme.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue, junte o coentro e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use merluza, pescada ou cação no lugar da tilápia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Quem não gosta de coentro pode usar salsinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Mexa com cuidado depois de colocar o peixe, para os pedaços não desmancharem."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 188,
+      "carboidratos_g": 15.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0321.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "caldo de peixe",
+      "sopa de tilapia",
+      "sopa de peixe"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "rbl-0057",
+  "slug": "paozinho-de-cebola",
+  "nome": "Pãozinho de cebola",
+  "descricao": "Pãozinho macio de massa batida no liquidificador com cebola e salsinha, com aroma de pão de padaria.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 25,
+    "descanso_min": 90,
+    "total_min": 145
+  },
+  "rendimento": {
+    "quantidade": 15,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 15,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite morno"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Pique a cebola e bata no liquidificador com o leite morno, o óleo, o ovo e o sal até ficar liso."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e a salsinha."
+    },
+    {
+      "texto": "Despeje o líquido e misture até formar uma massa. Se grudar muito, ponha mais farinha, 1 colher (sopa) por vez."
+    },
+    {
+      "texto": "Sove por 8 minutos, até ficar lisa.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 15 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por cebolinha ou orégano."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para um pão com mais sabor, doure a cebola picada no óleo antes de bater e espere esfriar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 182,
+      "carboidratos_g": 26.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0057.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de cebola",
+      "pao de liquidificador",
+      "pao de cebola caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0094",
+  "nome": "Tapioca de carne-seca com queijo",
+  "porcoes": 1,
+  "porcao": "1 tapioca",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "5 colheres (sopa) de polvilho doce",
+      "gramas": 40,
+      "kcal": 140.4,
+      "carboidratos_g": 34.72,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 colher (sopa) de água",
+      "gramas": 15,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (chá) de azeite",
+      "gramas": 4.5,
+      "kcal": 39.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 colheres (sopa) de cebola em tiras finas",
+      "gramas": 20,
+      "kcal": 7.8,
+      "carboidratos_g": 1.78,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "carne-seca-cozida",
+      "texto": "3 colheres (sopa) de carne-seca dessalgada, cozida e desfiada (40 g)",
+      "gramas": 40,
+      "kcal": 105.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 338 Carne, bovina, charque, cozido",
+      "por_100g": {
+        "kcal": 263,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1 fatia de mussarela (20 g)",
+      "gramas": 20,
+      "kcal": 66,
+      "carboidratos_g": 0.6,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 359.2,
+    "carboidratos_g": 37.1
+  },
+  "por_porcao": {
+    "kcal": 359,
+    "carboidratos_g": 37.1
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0402",
+  "nome": "Biscoito de gengibre",
+  "porcoes": 8,
+  "porcao": "3 biscoitos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "4 colheres (sopa) de manteiga em temperatura ambiente",
+      "gramas": 56.8,
+      "kcal": 412.4,
+      "carboidratos_g": 0.06,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo",
+      "gramas": 218.8,
+      "kcal": 787.5,
+      "carboidratos_g": 164.28,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "gengibre-em-po",
+      "texto": "2 colheres (chá) de gengibre em pó",
+      "gramas": 3.6,
+      "kcal": 12.1,
+      "carboidratos_g": 2.58,
+      "fonte": "USDA SR Legacy 170926 Spices, ginger, ground",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 71.62
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "1 pitada de cravo em pó",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1/2 colher (chá) de fermento químico em pó",
+      "gramas": 2.3,
+      "kcal": 2.1,
+      "carboidratos_g": 1.01,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1292.4,
+    "carboidratos_g": 170.9
+  },
+  "por_porcao": {
+    "kcal": 162,
+    "carboidratos_g": 21.4
+  }
+}

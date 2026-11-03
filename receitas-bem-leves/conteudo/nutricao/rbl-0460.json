@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0460",
+  "nome": "Cajuzinho",
+  "porcoes": 10,
+  "porcao": "2 docinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "amendoim",
+      "texto": "1 xícara (chá) de amendoim sem pele",
+      "gramas": 146,
+      "kcal": 794.2,
+      "carboidratos_g": 29.64,
+      "fonte": "TACO 4ª ed. 557 Amendoim, grão, cru",
+      "por_100g": {
+        "kcal": 544,
+        "carboidratos_g": 20.3
+      }
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "1/2 xícara (chá) de leite em pó integral",
+      "gramas": 64,
+      "kcal": 318.1,
+      "carboidratos_g": 25.09,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "1 colher (sopa) de cacau em pó 100%",
+      "gramas": 5.4,
+      "kcal": 12.3,
+      "carboidratos_g": 3.13,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "4 colheres (sopa) de creme de leite",
+      "gramas": 60,
+      "kcal": 132.6,
+      "carboidratos_g": 2.7,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "amendoim",
+      "texto": "20 amendoins inteiros para enfeitar",
+      "gramas": 18.2,
+      "kcal": 99,
+      "carboidratos_g": 3.69,
+      "fonte": "TACO 4ª ed. 557 Amendoim, grão, cru",
+      "por_100g": {
+        "kcal": 544,
+        "carboidratos_g": 20.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1356.2,
+    "carboidratos_g": 64.2
+  },
+  "por_porcao": {
+    "kcal": 136,
+    "carboidratos_g": 6.4
+  }
+}

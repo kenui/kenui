@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0341",
+  "slug": "salada-de-rucula-com-ovos-e-palmito",
+  "nome": "Salada de rúcula com ovos e palmito",
+  "descricao": "Rúcula, palmito pupunha e tomate com ovos cozidos e lascas de parmesão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "pratos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 prato fundo com 2 ovos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "rucula",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 maços de rúcula, só as folhas (200 g)"
+    },
+    {
+      "ingrediente": "palmito-pupunha",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "200 g de palmito pupunha escorrido, em rodelas"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em gomos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de parmesão em lascas"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os ovos numa panela com água fervente e cozinhe por 9 a 10 minutos.",
+      "aviso": "Coloque os ovos com uma colher, para não rachar nem respingar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Passe os ovos para água gelada, descasque e corte ao meio."
+    },
+    {
+      "texto": "Molho: misture o azeite, o suco de limão, o sal e a pimenta."
+    },
+    {
+      "texto": "Arrume a rúcula nos pratos e distribua o palmito, o tomate e os ovos."
+    },
+    {
+      "texto": "Regue com o molho e finalize com as lascas de parmesão."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o palmito por grão-de-bico cozido ou cogumelo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use agrião ou alface no lugar de parte da rúcula, para um sabor mais suave."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Ovos cozidos com casca duram até 5 dias na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 329,
+      "carboidratos_g": 11.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0341.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "tomate",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de rucula",
+      "salada com ovo",
+      "salada de palmito"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

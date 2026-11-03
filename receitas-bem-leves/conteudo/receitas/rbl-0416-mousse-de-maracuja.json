@@ -1,0 +1,183 @@
+{
+  "id": "rbl-0416",
+  "slug": "mousse-de-maracuja",
+  "nome": "Mousse de maracujá",
+  "descricao": "Mousse aerada e azedinha de maracujá, com calda de sementes por cima, sem leite condensado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 3,
+    "descanso_min": 180,
+    "total_min": 203
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Mousse",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "maracuja",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de suco concentrado de maracujá (polpa de 3 maracujás batida sem água e coada)"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "maracuja",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "Polpa de 1 maracujá com as sementes"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Bata no liquidificador o suco de maracujá, o creme de leite, o iogurte, o leite em pó e o eritritol por 3 minutos, até engrossar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a gelatina derretida com o liquidificador ligado e bata mais 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Distribua em 6 taças e leve à geladeira por 3 horas.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Calda: leve a polpa com sementes, o eritritol e a água ao fogo baixo por 3 minutos, mexendo. Deixe esfriar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Espalhe a calda sobre as mousses antes de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por mais 1/2 caixinha de creme de leite, para uma mousse mais encorpada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use polpa de maracujá congelada sem açúcar: 1 xícara (chá) já descongelada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para o suco concentrado, bata a polpa no liquidificador por poucos segundos, só para soltar as sementes, e coe."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 181,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0416.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maracuja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mousse de maracuja sem leite condensado",
+      "mousse de maracuja facil",
+      "sobremesa de maracuja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

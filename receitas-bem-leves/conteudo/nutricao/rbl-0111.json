@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0111",
+  "nome": "Iogurte natural com mamão e linhaça",
+  "porcoes": 1,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "mamao-papaia",
+      "texto": "1 fatia média de mamão papaia em cubos (140 g)",
+      "gramas": 140,
+      "kcal": 56,
+      "carboidratos_g": 14.56,
+      "fonte": "TACO 4ª ed. 226 Mamão, Papaia, cru",
+      "por_100g": {
+        "kcal": 40,
+        "carboidratos_g": 10.4
+      }
+    },
+    {
+      "ingrediente": "linhaca",
+      "texto": "1 colher (sopa) de linhaça",
+      "gramas": 10.3,
+      "kcal": 51,
+      "carboidratos_g": 4.46,
+      "fonte": "TACO 4ª ed. 594 Linhaça, semente",
+      "por_100g": {
+        "kcal": 495,
+        "carboidratos_g": 43.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 193.7,
+    "carboidratos_g": 22.2
+  },
+  "por_porcao": {
+    "kcal": 194,
+    "carboidratos_g": 22.2
+  }
+}

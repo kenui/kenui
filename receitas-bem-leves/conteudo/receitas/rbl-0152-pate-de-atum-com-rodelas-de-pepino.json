@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0152",
+  "slug": "pate-de-atum-com-rodelas-de-pepino",
+  "nome": "Patê de atum com rodelas de pepino",
+  "descricao": "Patê cremoso de atum com iogurte, limão e cebolinha, servido sobre rodelas de pepino.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1.5,
+    "unidade": "xícara de patê"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 colheres (sopa) de patê com 1/4 do pepino"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "atum-em-lata",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "1 lata de atum em óleo, escorrido (120 g)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de iogurte natural"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cenoura ralada fina"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pepino",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 pepino grande (300 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, amasse o atum com um garfo até desfiar bem."
+    },
+    {
+      "texto": "Junte o iogurte, o requeijão, a cenoura, o limão e a pimenta e misture até ficar cremoso."
+    },
+    {
+      "texto": "Acrescente a cebolinha e prove o sal: o atum já costuma ser salgado."
+    },
+    {
+      "texto": "Corte o pepino em rodelas de 1 cm e sirva com o patê por cima ou ao lado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o atum por sardinha ou por frango desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por mais 2 colheres (sopa) de iogurte."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O patê dura 2 dias na geladeira, em pote fechado. Corte o pepino só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 86,
+      "carboidratos_g": 2.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0152.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "atum",
+    "enfeites": [
+      "pepino",
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pate de atum",
+      "pasta de atum",
+      "petisco de pepino"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

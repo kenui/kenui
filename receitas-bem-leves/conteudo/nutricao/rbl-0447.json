@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0447",
+  "nome": "Picolé de abacaxi com hortelã",
+  "porcoes": 8,
+  "porcao": "1 picolé",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abacaxi",
+      "texto": "3 xícaras (chá) de abacaxi maduro picado",
+      "gramas": 495,
+      "kcal": 237.6,
+      "carboidratos_g": 60.89,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "2 colheres (sopa) de folhas de hortelã",
+      "gramas": 11.4,
+      "kcal": 5,
+      "carboidratos_g": 0.96,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 242.6,
+    "carboidratos_g": 61.8
+  },
+  "por_porcao": {
+    "kcal": 30,
+    "carboidratos_g": 7.7
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0472",
+  "nome": "Banana assada com coco e laranja",
+  "porcoes": 4,
+  "porcao": "1 banana",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "4 bananas nanicas maduras, mas firmes",
+      "gramas": 472,
+      "kcal": 434.2,
+      "carboidratos_g": 112.34,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "1/2 xícara (chá) de suco de laranja natural",
+      "gramas": 124,
+      "kcal": 40.9,
+      "carboidratos_g": 9.42,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "3 colheres (sopa) de coco ralado seco sem açúcar (20 g)",
+      "gramas": 20,
+      "kcal": 132,
+      "carboidratos_g": 4.73,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 716.7,
+    "carboidratos_g": 128.6
+  },
+  "por_porcao": {
+    "kcal": 179,
+    "carboidratos_g": 32.1
+  }
+}

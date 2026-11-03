@@ -1,0 +1,188 @@
+{
+  "id": "rbl-0253",
+  "slug": "carne-de-panela-com-legumes",
+  "nome": "Carne de panela com legumes",
+  "descricao": "Acém cozido na pressão até desmanchar, num molho escuro de tomate com batata e cenoura.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 60,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato raso (2 pedaços de carne com legumes)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "acem",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 kg de acém em pedaços grandes"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas médias picadas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água quente (480 ml)"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas médias em 4 pedaços"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em pedaços grandes"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a carne com o sal, a pimenta e a páprica."
+    },
+    {
+      "texto": "Na panela de pressão aberta, aqueça o óleo em fogo alto e doure a carne em duas levas, cerca de 5 minutos cada, até ficar bem escura por fora.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Junte a cebola e o alho e refogue 3 minutos, raspando o fundo.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente o tomate, o extrato e a água. Feche a panela."
+    },
+    {
+      "texto": "Quando pegar pressão, abaixe o fogo e cozinhe por 35 minutos.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Abra, junte a batata e a cenoura, feche e cozinhe mais 5 minutos depois que pegar pressão.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Abra, confira se a carne está macia e, se o molho estiver ralo, ferva sem tampa por 5 minutos. Finalize com a salsinha.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o acém por músculo ou paleta, com o mesmo tempo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata por mandioca: ela entra junto com a carne."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Fica ainda melhor no dia seguinte. Dura 4 dias na geladeira e congela por até 3 meses (sem a batata)."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 358,
+      "carboidratos_g": 17.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0253.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "carne de panela",
+      "carne na pressao",
+      "carne cozida com batata"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

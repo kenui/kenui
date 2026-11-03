@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0305",
+  "slug": "salmao-assado-com-brocolis",
+  "nome": "Salmão assado com brócolis",
+  "descricao": "Salmão e brócolis assados na mesma assadeira com alho e limão, sem sujar panela.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 posta com brócolis"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "brocolis",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "1 maço de brócolis em floretes (cerca de 400 g)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho fatiados"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salmao",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 postas de salmão (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Raspas e suco de 1 limão"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Espalhe o brócolis e o alho numa assadeira grande, regue com 2 colheres (sopa) de azeite e tempere com metade do sal. Asse por 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Tempere o salmão com o restante do sal, a páprica, a pimenta e as raspas de limão."
+    },
+    {
+      "texto": "Abra espaço entre os brócolis, coloque as postas com a pele para baixo e regue com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 12 a 15 minutos, até o salmão se soltar em lascas.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Regue tudo com o suco de limão e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o brócolis por couve-flor, vagem ou aspargos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use tilápia: asse 15 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Brócolis bem seco depois de lavado fica tostadinho no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 376,
+      "carboidratos_g": 5.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0305.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "brocolis"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salmao no forno",
+      "salmao com brocolis",
+      "peixe assado com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

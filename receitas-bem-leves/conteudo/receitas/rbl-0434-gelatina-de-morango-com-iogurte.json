@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0434",
+  "slug": "gelatina-de-morango-com-iogurte",
+  "nome": "Gelatina de morango com iogurte",
+  "descricao": "Sobremesa em camadas: gelatina de morango batido embaixo e creme de iogurte firme por cima.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 2,
+    "descanso_min": 300,
+    "total_min": 327
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Camada de morango",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Camada de morango",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Camada de morango",
+      "ingrediente": "morango",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de morangos sem as folhas"
+    },
+    {
+      "grupo": "Camada de morango",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Camada de iogurte",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 6,
+      "medida": "g",
+      "texto": "1/2 envelope (6 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Camada de iogurte",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Camada de iogurte",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 potes de iogurte natural integral (340 g)"
+    },
+    {
+      "grupo": "Camada de iogurte",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Hidrate o envelope inteiro de gelatina nas 5 colheres de água fria por 5 minutos e derreta no micro-ondas por 10 a 15 segundos, sem ferver.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Bata os morangos com o eritritol no liquidificador até virar um purê liso. Com o aparelho ligado, junte a gelatina derretida."
+    },
+    {
+      "texto": "Distribua em 6 taças e leve à geladeira por 2 horas, até firmar.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Hidrate o meio envelope de gelatina nas 3 colheres de água e derreta do mesmo jeito.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Misture o iogurte com o eritritol e a gelatina derretida e espalhe sobre a camada de morango já firme."
+    },
+    {
+      "texto": "Leve à geladeira por mais 3 horas.",
+      "temporizador_min": 180
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por frutas vermelhas congeladas sem açúcar ou por uva batida e coada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte natural por coalhada sem açúcar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 61,
+      "carboidratos_g": 6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0434.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "gelatina de morango caseira",
+      "gelatina com iogurte",
+      "sobremesa em camadas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

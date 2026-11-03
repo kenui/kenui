@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0138",
+  "nome": "Enroladinho de presunto e queijo",
+  "porcoes": 4,
+  "porcao": "3 enroladinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1 e 1/2 xícara (150 g) de queijo mussarela ralado",
+      "gramas": 150,
+      "kcal": 495,
+      "carboidratos_g": 4.5,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 10,
+      "kcal": 45.3,
+      "carboidratos_g": 0.17,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos batida no liquidificador",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "presunto",
+      "texto": "8 fatias de presunto magro (120 g)",
+      "gramas": 120,
+      "kcal": 112.8,
+      "carboidratos_g": 2.52,
+      "fonte": "TACO 4ª ed. 439 Presunto, sem capa de gordura",
+      "por_100g": {
+        "kcal": 94,
+        "carboidratos_g": 2.1
+      }
+    },
+    {
+      "ingrediente": "queijo-prato",
+      "texto": "6 fatias de queijo prato (100 g)",
+      "gramas": 100,
+      "kcal": 360,
+      "carboidratos_g": 1.9,
+      "fonte": "TACO 4ª ed. 467 Queijo, prato",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1246.8,
+    "carboidratos_g": 37.6
+  },
+  "por_porcao": {
+    "kcal": 312,
+    "carboidratos_g": 9.4
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0337",
+  "slug": "charuto-de-repolho-com-arroz-e-lentilha",
+  "nome": "Charuto de repolho com arroz e lentilha",
+  "descricao": "Folhas de repolho enroladas com arroz, lentilha e hortelã, cozidas devagar num molho de tomate com limão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 55,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "charutos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 charutos com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "repolho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "12 folhas grandes de repolho (cerca de 500 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "lentilha",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de lentilha crua"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "arroz-branco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de arroz branco cru, lavado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola bem picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros batidos ou ralados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a lentilha em água por 10 minutos, só até começar a amaciar. Escorra.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Numa panela grande com água fervente, mergulhe as folhas de repolho por 2 a 3 minutos, até ficarem maleáveis. Escorra e retire a parte mais grossa do talo.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Misture a lentilha, o arroz cru, a cebola, o alho, o azeite, a hortelã, a salsinha, o cominho e o sal do recheio."
+    },
+    {
+      "texto": "Coloque 2 colheres (sopa) de recheio na base de cada folha, dobre as laterais e enrole bem firme."
+    },
+    {
+      "texto": "Arrume os charutos bem juntos numa panela, com a emenda para baixo. Misture o tomate, a água, o limão e o sal do molho e despeje por cima."
+    },
+    {
+      "texto": "Coloque um prato por cima para os charutos não abrirem, tampe e cozinhe em fogo baixo por 40 minutos, até o arroz ficar macio.",
+      "temporizador_min": 40
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o repolho por folhas de couve grandes: cozinhe 30 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use carne moída no lugar da lentilha para a versão tradicional."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias, com o molho."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 281,
+      "carboidratos_g": 45.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0337.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "arroz e lentilha",
+    "enfeites": [
+      "folhas_verdes",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "charutinho de repolho",
+      "charuto vegetariano",
+      "repolho recheado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "rbl-0346",
+  "slug": "arroz-de-couve-flor",
+  "nome": "Arroz de couve-flor",
+  "descricao": "Couve-flor triturada e refogada no alho, soltinha como arroz, para acompanhar carnes e peixes.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 8,
+    "total_min": 18
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3/4 de xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve-flor",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "1 couve-flor média, só os floretes (600 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave e seque bem os floretes. Triture no processador em pulsos rápidos, ou rale no ralo grosso, até ficarem do tamanho de grãos de arroz."
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite e refogue a cebola e o alho por 1 minuto."
+    },
+    {
+      "texto": "Junte a couve-flor e o sal e refogue em fogo médio-alto por 5 a 6 minutos, mexendo, até ficar macia e soltinha, sem empapar.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Desligue e misture a salsinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com brócolis triturado, do mesmo jeito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por cebolinha ou coentro."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele a couve-flor triturada crua por até 3 meses e refogue direto do congelador."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 69,
+      "carboidratos_g": 7.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0346.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "arroz de couve flor",
+      "arroz low carb",
+      "couve flor triturada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

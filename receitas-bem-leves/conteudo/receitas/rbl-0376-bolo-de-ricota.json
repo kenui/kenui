@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0376",
+  "slug": "bolo-de-ricota",
+  "nome": "Bolo de ricota",
+  "descricao": "Bolo cremoso de ricota com raspas de limão, firme como torta e leve como queijadinha.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 50,
+    "descanso_min": 120,
+    "total_min": 185
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia (1/10 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ricota",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "2 pedaços de ricota fresca (500 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de raspas de casca de limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com manteiga uma forma redonda de 22 cm, de fundo removível, e forre o fundo com papel-manteiga."
+    },
+    {
+      "texto": "Esfarele a ricota e bata no liquidificador com os ovos, o leite, o eritritol, o amido e a manteiga por 3 minutos, até ficar um creme liso.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Misture as raspas de limão com uma colher."
+    },
+    {
+      "texto": "Despeje na forma e asse por 45 a 50 minutos, até dourar por cima e o centro tremer só um pouco.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Desligue o forno e deixe o bolo lá dentro, com a porta entreaberta, por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por 2 horas antes de desenformar.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as raspas de limão por raspas de laranja ou por 1 colher (chá) de baunilha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A ricota fresca, mais úmida, deixa o bolo mais cremoso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 143,
+      "carboidratos_g": 5.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0376.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de ricota",
+      "bolo de ricota assado",
+      "bolo de ricota com limao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0204",
+  "slug": "mate-gelado-com-limao",
+  "nome": "Mate gelado com limão",
+  "descricao": "O mate gelado da praia, feito em casa com limão espremido na hora.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "descanso_min": 60,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cha-mate-pronto",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de chá mate (4 saquinhos de mate tostado e 1 litro de água)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "suco de 2 limões"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão em rodelas para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ferva 1 litro de água.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue, junte o mate, tampe e deixe 5 minutos. Coe ou tire os saquinhos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o eritritol, mexa e deixe esfriar. Leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Na hora de servir, misture o suco de limão e sirva com gelo e rodelas de limão."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o limão por suco de 1 laranja e meia."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde o mate sem o limão por até 3 dias na geladeira. Junte o limão só na hora."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Erva-mate tostada a granel também serve: use 4 colheres (sopa) para 1 litro e coe no pano."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 12,
+      "carboidratos_g": 3.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0204.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mate com limao",
+      "cha mate gelado",
+      "mate de praia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

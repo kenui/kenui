@@ -1,0 +1,177 @@
+{
+  "id": "rbl-0235",
+  "slug": "frango-com-quiabo",
+  "nome": "Frango com quiabo",
+  "descricao": "Sobrecoxas cozidas num refogado de tomate com quiabo sequinho, o clássico mineiro de panela.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (2 sobrecoxas com quiabo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "8 sobrecoxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 240,
+      "medida": "ml",
+      "texto": "1 xícara (chá) de água quente (240 ml)"
+    },
+    {
+      "ingrediente": "quiabo",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "300 g de quiabo (cerca de 3 xícaras) em rodelas"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o frango com o limão, o alho, 1 colher (chá) do sal e a pimenta."
+    },
+    {
+      "texto": "Lave o quiabo inteiro e seque muito bem com pano antes de cortar em rodelas: quiabo seco solta menos baba."
+    },
+    {
+      "texto": "Numa frigideira, aqueça 1 colher (sopa) do óleo e frite o quiabo em fogo alto, mexendo pouco, por 8 minutos, até secar a baba e dourar. Reserve.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Numa panela, aqueça o restante do óleo e doure o frango por 8 minutos, virando.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola e o tomate e refogue 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente a água, tampe e cozinhe em fogo baixo por 20 minutos, até o frango ficar macio.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Junte o quiabo e o restante do sal e cozinhe mais 5 minutos sem tampa.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Finalize com a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use coxas no lugar das sobrecoxas, com o mesmo tempo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem quiabo, faça com abobrinha em cubos: não precisa fritar antes."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Um fio de limão no quiabo, enquanto frita, também ajuda a cortar a baba."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 432,
+      "carboidratos_g": 10.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0235.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango com quiabo",
+      "frango mineiro",
+      "sobrecoxa com quiabo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0308",
+  "slug": "caldeirada-de-peixe",
+  "nome": "Caldeirada de peixe",
+  "descricao": "Postas de peixe cozidas em camadas com batata, tomate, pimentão e cebola, num caldo perfumado com louro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peixe-cacao",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de cação ou outro peixe firme em postas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 batatas médias em rodelas finas"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates em rodelas"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 folhas de louro"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 240,
+      "medida": "ml",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as postas com o alho e metade do sal."
+    },
+    {
+      "texto": "Numa panela grande, regue o fundo com 2 colheres (sopa) de azeite e faça camadas: cebola, batata, tomate e pimentão. Tempere cada camada com um pouco do sal restante."
+    },
+    {
+      "texto": "Arrume o peixe por cima, junte o louro, a páprica, a água e o restante do azeite."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo médio-baixo por 25 a 30 minutos, sem mexer, até a batata ficar macia.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Retire o louro, espalhe a salsinha e sirva no prato fundo, com o caldo."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use pescada amarela, badejo ou merluza em postas grossas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da batata por mandioquinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte a batata fininha: ela cozinha no mesmo tempo que o peixe."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 348,
+      "carboidratos_g": 27.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0308.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "caldeirada",
+      "peixe ensopado",
+      "peixe com batata"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

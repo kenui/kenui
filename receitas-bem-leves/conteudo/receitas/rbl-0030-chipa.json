@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0030",
+  "slug": "chipa",
+  "nome": "Chipa",
+  "descricao": "Rosquinha de polvilho e queijo em formato de ferradura, típica da fronteira com o Paraguai, com um leve perfume de erva-doce.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 25,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "chipas"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 chipas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "2 xícaras (250 g) de polvilho doce"
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (150 g) de queijo minas meia cura ralado"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "erva-doce",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de erva-doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a manteiga com os ovos usando um garfo."
+    },
+    {
+      "texto": "Junte o polvilho, os queijos, a erva-doce e o sal e misture com as mãos, formando uma farofa."
+    },
+    {
+      "texto": "Acrescente o leite aos poucos e sove até a massa ficar lisa e modelável. Se grudar, ponha mais polvilho; se esfarelar, mais leite."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Faça rolinhos de 10 cm, da grossura de um dedo, e curve em forma de ferradura. Coloque numa assadeira, com espaço entre eles."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem erva-doce? Deixe de fora ou use orégano."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo minas padrão no lugar do meia cura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as chipas cruas e asse direto do congelador, por 30 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 208,
+      "carboidratos_g": 22.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0030.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_de_queijo",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chipa paraguaia",
+      "rosquinha de polvilho com queijo",
+      "chipa de queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0369",
+  "slug": "bolo-de-chocolate-com-abobrinha",
+  "nome": "Bolo de chocolate com abobrinha",
+  "descricao": "Bolo de cacau bem molhadinho, com abobrinha ralada que some na massa.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 abobrinha média ralada fino, com casca (250 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.75,
+      "medida": "xicara",
+      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha."
+    },
+    {
+      "texto": "Rale a abobrinha no lado fino do ralador. Não esprema: a água dela é o líquido do bolo."
+    },
+    {
+      "texto": "Numa tigela, bata com um batedor os ovos, o óleo e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte a abobrinha e misture."
+    },
+    {
+      "texto": "Acrescente a farinha, o cacau e a canela e mexa até ficar uma massa grossa e lisa. Misture o fermento por último."
+    },
+    {
+      "texto": "Espalhe na forma e asse por 35 a 40 minutos, até um palito sair com migalhas secas.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por 2 cenouras pequenas raladas fino."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Ninguém percebe a abobrinha: ela deixa o bolo úmido e não tem gosto."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 177,
+      "carboidratos_g": 17.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0369.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de abobrinha",
+      "bolo de chocolate com legume",
+      "bolo de cacau umido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

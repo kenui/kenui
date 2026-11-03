@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0330",
+  "nome": "Grão-de-bico ensopado com abóbora",
+  "porcoes": 4,
+  "porcao": "1 prato fundo",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "texto": "1 colher (chá) de gengibre ralado",
+      "gramas": 2,
+      "kcal": 1.6,
+      "carboidratos_g": 0.36,
+      "fonte": "USDA SR Legacy 169231 Ginger root, raw",
+      "por_100g": {
+        "kcal": 80,
+        "carboidratos_g": 17.77
+      }
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "texto": "1 colher (chá) de açafrão-da-terra (cúrcuma)",
+      "gramas": 3,
+      "kcal": 9.4,
+      "carboidratos_g": 2.01,
+      "fonte": "USDA SR Legacy 172231 Spices, turmeric, ground",
+      "por_100g": {
+        "kcal": 312,
+        "carboidratos_g": 67.14
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1 colher (chá) de cominho",
+      "gramas": 2.1,
+      "kcal": 7.9,
+      "carboidratos_g": 0.93,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "3 tomates picados",
+      "gramas": 369,
+      "kcal": 55.4,
+      "carboidratos_g": 11.44,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "400 g de abóbora cabotiá em cubos",
+      "gramas": 400,
+      "kcal": 156,
+      "carboidratos_g": 33.6,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "texto": "3 xícaras (chá) de grão-de-bico cozido, escorrido",
+      "gramas": 492,
+      "kcal": 806.9,
+      "carboidratos_g": 134.91,
+      "fonte": "USDA SR Legacy 173757 Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "por_100g": {
+        "kcal": 164,
+        "carboidratos_g": 27.42
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água quente",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/4 colher (chá) de sal",
+      "gramas": 7.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "100 g de folhas de espinafre",
+      "gramas": 100,
+      "kcal": 16,
+      "carboidratos_g": 2.6,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "texto": "2 colheres (sopa) de coentro picado",
+      "gramas": 2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 169997 Coriander (cilantro) leaves, raw",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 3.67
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1345.3,
+    "carboidratos_g": 197.9
+  },
+  "por_porcao": {
+    "kcal": 336,
+    "carboidratos_g": 49.5
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0431",
+  "slug": "romeu-e-julieta-de-colher",
+  "nome": "Romeu e julieta de colher",
+  "descricao": "Creme de ricota com baunilha coberto por calda de goiaba fresca, servido em taça.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "descanso_min": 120,
+    "total_min": 155
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Calda",
+      "ingrediente": "goiaba",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "4 goiabas vermelhas maduras (300 g), sem as pontas"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 pedaço de ricota fresca (250 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "Cubinhos de queijo minas frescal para enfeitar (60 g)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Calda: corte as goiabas em pedaços e cozinhe com a água e o eritritol em fogo baixo por 15 a 20 minutos, amassando, até desmanchar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Passe por uma peneira para tirar as sementes e deixe esfriar.",
+      "aviso": "Cuidado: a calda está muito quente."
+    },
+    {
+      "texto": "Creme: bata no liquidificador a ricota, o iogurte, o eritritol e a baunilha até ficar liso."
+    },
+    {
+      "texto": "Distribua o creme em 6 taças e cubra com a calda de goiaba. Se quiser, enfeite com cubinhos de queijo minas."
+    },
+    {
+      "texto": "Leve à geladeira por 2 horas antes de servir.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por queijo minas frescal: o creme fica mais salgadinho, como o romeu e julieta clássico."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 102,
+      "carboidratos_g": 8.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0431.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": "calda_frutas_vermelhas",
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "romeu e julieta",
+      "goiaba com queijo",
+      "creme de ricota com goiaba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

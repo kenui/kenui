@@ -1,0 +1,116 @@
+{
+  "receita": "rbl-0048",
+  "nome": "Focaccia de alecrim",
+  "porcoes": 10,
+  "porcao": "1 pedaço",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "3 xícaras (chá) de farinha de trigo",
+      "gramas": 375,
+      "kcal": 1350,
+      "carboidratos_g": 281.62,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "2 colheres (chá) de fermento biológico seco",
+      "gramas": 8,
+      "kcal": 26,
+      "carboidratos_g": 3.3,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/4 de xícara (chá) de água morna",
+      "gramas": 300,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "1 colher (sopa) de alecrim seco",
+      "gramas": 3.3,
+      "kcal": 10.9,
+      "carboidratos_g": 2.11,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal grosso",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1983.6,
+    "carboidratos_g": 287
+  },
+  "por_porcao": {
+    "kcal": 198,
+    "carboidratos_g": 28.7
+  }
+}

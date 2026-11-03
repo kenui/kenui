@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0498",
+  "nome": "Docinho de tâmara, nozes e cacau",
+  "porcoes": 12,
+  "porcao": "2 docinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tamara",
+      "texto": "1 xícara (chá) de tâmaras sem caroço (cerca de 20)",
+      "gramas": 147,
+      "kcal": 414.5,
+      "carboidratos_g": 110.29,
+      "fonte": "USDA SR Legacy 171726 Dates, deglet noor",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 75.03
+      }
+    },
+    {
+      "ingrediente": "noz",
+      "texto": "1 xícara (chá) de nozes",
+      "gramas": 117,
+      "kcal": 725.4,
+      "carboidratos_g": 21.53,
+      "fonte": "TACO 4ª ed. 597 Noz, crua",
+      "por_100g": {
+        "kcal": 620,
+        "carboidratos_g": 18.4
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "3 colheres (sopa) de cacau em pó 100%",
+      "gramas": 16.2,
+      "kcal": 36.9,
+      "carboidratos_g": 9.38,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 colheres (sopa) de água quente",
+      "gramas": 30,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1/4 de pacote (25 g) de coco ralado seco sem açúcar, para passar",
+      "gramas": 25,
+      "kcal": 165,
+      "carboidratos_g": 5.91,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1341.9,
+    "carboidratos_g": 147.1
+  },
+  "por_porcao": {
+    "kcal": 112,
+    "carboidratos_g": 12.3
+  }
+}

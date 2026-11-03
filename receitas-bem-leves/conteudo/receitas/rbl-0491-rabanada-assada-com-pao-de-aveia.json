@@ -1,0 +1,223 @@
+{
+  "id": "rbl-0491",
+  "slug": "rabanada-assada-com-pao-de-aveia",
+  "nome": "Rabanada assada com pão de aveia",
+  "descricao": "Fatias de pão de aveia caseiro molhadas em leite e ovos, assadas até dourar e passadas em canela com eritritol.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 55,
+    "descanso_min": 160,
+    "total_min": 255
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "rabanadas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 rabanadas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 sachê (10 g) de fermento biológico seco"
+    },
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "agua",
+      "quantidade": 300,
+      "medida": "ml",
+      "texto": "1 e 1/4 xícara (300 ml) de água morna"
+    },
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Pão de aveia",
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Rabanada",
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Rabanada",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Rabanada",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Rabanada",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Rabanada",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Para polvilhar",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol"
+    },
+    {
+      "grupo": "Para polvilhar",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Pão: misture a farinha, a aveia e o fermento. Junte a água morna e o azeite e misture até a massa juntar."
+    },
+    {
+      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica."
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de tamanho.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Modele como um rocambole, coloque numa forma de bolo inglês untada e deixe crescer mais 40 minutos, coberta.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e asse o pão por 30 a 35 minutos, até dourar e soar oco embaixo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Desenforme e deixe esfriar por completo, pelo menos 1 hora. Corte em 16 fatias de 1,5 cm.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Bata o eritritol de polvilhar no liquidificador seco por 30 segundos, até virar pó, e misture com a canela."
+    },
+    {
+      "texto": "Numa tigela, bata o leite, os ovos, as 3 colheres de eritritol e a baunilha. Unte 2 assadeiras com metade da manteiga."
+    },
+    {
+      "texto": "Passe cada fatia rapidamente na mistura de leite, dos dois lados, e arrume nas assadeiras. Pincele o restante da manteiga por cima."
+    },
+    {
+      "texto": "Asse a 200 °C por 10 minutos, vire e asse mais 8 a 10 minutos, até dourar.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Passe as rabanadas ainda quentes na mistura de canela e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 55,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use o pão de aveia de forma do app ou pão francês amanhecido. Se comprar pão pronto, confira no rótulo que é sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma quantidade."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pão do dia anterior absorve o leite sem desmanchar. Asse o pão na véspera."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde as rabanadas na geladeira por até 2 dias e aqueça no forno por 5 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 299,
+      "carboidratos_g": 39.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0491.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rabanada de forno",
+      "rabanada sem acucar",
+      "rabanada de natal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

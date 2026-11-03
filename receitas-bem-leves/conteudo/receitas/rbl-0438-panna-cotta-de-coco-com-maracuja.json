@@ -1,0 +1,172 @@
+{
+  "id": "rbl-0438",
+  "slug": "panna-cotta-de-coco-com-maracuja",
+  "nome": "Panna cotta de coco com maracujá",
+  "descricao": "Panna cotta de leite de coco, branquinha e macia, com calda azedinha de maracujá.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "descanso_min": 240,
+    "total_min": 270
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "copinhos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 copinho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "maracuja",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "Polpa de 2 maracujás com as sementes (1/2 xícara)"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Numa panela, aqueça o leite de coco, o creme de leite, o leite e o eritritol em fogo baixo por 5 minutos, sem ferver.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue, junte a gelatina hidratada e mexa até dissolver."
+    },
+    {
+      "texto": "Distribua em 6 copinhos e leve à geladeira por 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Calda: leve a polpa de maracujá, o eritritol e a água ao fogo baixo por 3 minutos. Deixe esfriar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Cubra cada copinho com a calda antes de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o maracujá por manga picada cozida 5 minutos com 2 colheres de água."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias, com a calda separada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 171,
+      "carboidratos_g": 6.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0438.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maracuja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panna cotta de coco",
+      "pana cota de maracuja",
+      "sobremesa de coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

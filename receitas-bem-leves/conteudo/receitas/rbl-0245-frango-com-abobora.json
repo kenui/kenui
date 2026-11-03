@@ -1,0 +1,164 @@
+{
+  "id": "rbl-0245",
+  "slug": "frango-com-abobora",
+  "nome": "Frango com abóbora",
+  "descricao": "Coxas de frango cozidas com cubos de abóbora cabotiá que desmancham e engrossam o caldo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (2 coxas com abóbora)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "8 coxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cominho"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 240,
+      "medida": "ml",
+      "texto": "1 xícara (chá) de água quente (240 ml)"
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de abóbora cabotiá descascada, em cubos grandes"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as coxas com o sal e o cominho."
+    },
+    {
+      "texto": "Numa panela, aqueça o óleo e doure as coxas por 8 minutos, virando.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola, o alho e o tomate e refogue 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente a água, tampe e cozinhe em fogo baixo por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte a abóbora, tampe e cozinhe mais 12 a 15 minutos, até a abóbora ficar macia e começar a desmanchar nas bordas.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Mexa com cuidado para engrossar o caldo e finalize com a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora cabotiá por moranga ou por mandioquinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Coentro fica muito bom no lugar da cebolinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira e congela bem por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 337,
+      "carboidratos_g": 14.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0245.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango com abobora",
+      "frango com cabotia",
+      "coxa com abobora"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

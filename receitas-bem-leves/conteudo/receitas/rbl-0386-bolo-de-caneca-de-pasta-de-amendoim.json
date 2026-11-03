@@ -1,0 +1,138 @@
+{
+  "id": "rbl-0386",
+  "slug": "bolo-de-caneca-de-pasta-de-amendoim",
+  "nome": "Bolo de caneca de pasta de amendoim",
+  "descricao": "Bolinho de caneca com aveia e pasta de amendoim, de sabor de paçoca.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "bolo de caneca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 caneca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de pasta de amendoim integral (100% amendoim)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (cerca de 300 ml), misture com um garfo o ovo e a pasta de amendoim até ficar liso."
+    },
+    {
+      "texto": "Junte o leite, o eritritol e a aveia e misture. Acrescente o fermento por último."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até firmar por cima.",
+      "aviso": "A caneca sai muito quente: segure pela alça ou com um pano.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 1 minuto antes de comer."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de trigo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por 1/2 banana amassada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se a pasta de amendoim tem só amendoim na lista de ingredientes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 246,
+      "carboidratos_g": 16.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0386.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "amendoim",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de caneca de amendoim",
+      "bolo de pacoca de caneca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0381",
+  "slug": "pao-de-lo",
+  "nome": "Pão de ló",
+  "descricao": "Massa clássica de pão de ló, alta e aerada, para comer pura ou rechear.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia (1/10 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos, com claras e gemas separadas"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol em pó",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de água morna"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte uma forma redonda de 22 cm e forre o fundo com papel-manteiga."
+    },
+    {
+      "texto": "Bata as claras na batedeira até formar picos firmes, cerca de 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte as gemas uma a uma, batendo. Acrescente o eritritol aos poucos e bata mais 5 minutos, até a massa ficar clara e volumosa.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue a batedeira e misture a água e a baunilha com um batedor manual."
+    },
+    {
+      "texto": "Peneire a farinha com o fermento sobre a massa e misture com uma espátula, de baixo para cima, sem bater."
+    },
+    {
+      "texto": "Despeje na forma e asse por 25 a 30 minutos, até dourar e voltar quando você aperta de leve.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Desenforme morno e espere esfriar sobre uma grade."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não abra o forno nos primeiros 20 minutos: o pão de ló murcha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata o eritritol no liquidificador até virar pó: em cristais ele pesa a espuma."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberto por 2 dias, ou congele embrulhado em filme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 75,
+      "carboidratos_g": 10
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0381.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de lo",
+      "massa de bolo branca",
+      "pao de lo simples"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

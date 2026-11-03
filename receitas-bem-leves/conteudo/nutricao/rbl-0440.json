@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0440",
+  "nome": "Sorvete de manga",
+  "porcoes": 5,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manga",
+      "texto": "2 mangas Palmer maduras, em cubos, congeladas",
+      "gramas": 672,
+      "kcal": 342.7,
+      "carboidratos_g": 86.02,
+      "fonte": "TACO 4ª ed. 231 Manga, Tommy Atkins, crua",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 12.8
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 434.7,
+    "carboidratos_g": 91
+  },
+  "por_porcao": {
+    "kcal": 87,
+    "carboidratos_g": 18.2
+  }
+}

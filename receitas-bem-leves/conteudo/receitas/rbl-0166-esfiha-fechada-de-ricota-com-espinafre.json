@@ -1,0 +1,214 @@
+{
+  "id": "rbl-0166",
+  "slug": "esfiha-fechada-de-ricota-com-espinafre",
+  "nome": "Esfiha fechada de ricota com espinafre",
+  "descricao": "Esfihas fechadas de massa fofinha com fermento biológico, recheadas com ricota, espinafre e limão.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 25,
+    "descanso_min": 60,
+    "total_min": 125
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "esfihas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 esfihas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite morno"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 ricota (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "espinafre",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de folhas de espinafre picadas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para pincelar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o leite morno com o fermento. Junte o óleo, o sal e a farinha aos poucos e sove por 8 minutos, até a massa ficar lisa e macia.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer em lugar sem vento por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos. Junte o espinafre e mexa até murchar. Deixe esfriar e esprema."
+    },
+    {
+      "texto": "Esfarele a ricota e misture o espinafre, o limão, a noz-moscada e o sal."
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 2 assadeiras."
+    },
+    {
+      "texto": "Divida a massa em 16 bolinhas e abra cada uma num disco de 10 cm."
+    },
+    {
+      "texto": "Coloque 1 colher (sopa) de recheio no centro e feche puxando 3 pontas da massa até o meio, formando um triângulo. Aperte bem as emendas."
+    },
+    {
+      "texto": "Arrume nas assadeiras com a emenda para baixo, pincele com o ovo e asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por escarola ou couve refogada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de farinha integral e 1 e 1/2 xícara de farinha branca."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa cresce sem nenhum adoçante: só demora um pouco mais em dia frio."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as esfihas assadas por até 2 meses e aqueça no forno por 10 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 290,
+      "carboidratos_g": 33.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0166.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "ricota e espinafre",
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "esfirra de ricota",
+      "esfiha de espinafre",
+      "esfiha fechada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

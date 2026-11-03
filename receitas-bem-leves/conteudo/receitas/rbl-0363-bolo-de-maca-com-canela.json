@@ -1,0 +1,189 @@
+{
+  "id": "rbl-0363",
+  "slug": "bolo-de-maca-com-canela",
+  "nome": "Bolo de maçã com canela",
+  "descricao": "Bolo de maçã batida na massa, com fatias de maçã e canela por cima.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "maca",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 maçãs médias com casca, picadas (300 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "canela",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de canela em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã média em fatias finas (150 g)"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 24 cm, sem furo, e forre o fundo com papel-manteiga."
+    },
+    {
+      "texto": "No liquidificador, bata as maçãs picadas, os ovos, o óleo e o eritritol por 3 minutos, até ficar liso.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e a canela. Junte o creme de maçã e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e arrume as fatias de maçã por cima, uma ao lado da outra."
+    },
+    {
+      "texto": "Misture a canela com o eritritol da cobertura e polvilhe sobre as maçãs."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere 15 minutos antes de desenformar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Esprema meio limão sobre as fatias de maçã para elas não escurecerem antes de ir ao forno."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 197,
+      "carboidratos_g": 22.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0363.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de maca",
+      "bolo de maca de liquidificador",
+      "bolo de maca e canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

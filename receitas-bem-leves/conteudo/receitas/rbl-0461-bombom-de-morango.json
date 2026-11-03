@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0461",
+  "slug": "bombom-de-morango",
+  "nome": "Bombom de morango",
+  "descricao": "Morango inteiro envolto em massa branca de leite em pó e passado no cacau.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 5,
+    "descanso_min": 60,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "bombons"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "2 bombons"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "morango",
+      "quantidade": 12,
+      "medida": "unidade",
+      "texto": "12 morangos médios, lavados e bem secos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de creme de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Para passar",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, misture o leite em pó, o creme de leite, o eritritol e a manteiga."
+    },
+    {
+      "texto": "Leve ao fogo baixo, mexendo sem parar, por 4 a 5 minutos, até virar uma massa que desgruda da panela.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Passe para um prato e deixe esfriar. Leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Pegue uma porção da massa, abra na palma da mão untada e envolva cada morango, deixando as folhinhas para fora se quiser."
+    },
+    {
+      "texto": "Passe os bombons no cacau e coloque em forminhas."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por uva sem semente."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cacau por coco ralado sem açúcar para passar."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Seque bem os morangos: umidade faz a massa escorregar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira e consuma em até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 157,
+      "carboidratos_g": 11.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0461.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bombom de morango sem acucar",
+      "morango coberto",
+      "docinho de morango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

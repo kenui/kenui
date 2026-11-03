@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0200",
+  "nome": "Limonada de coco",
+  "porcoes": 4,
+  "porcao": "1 copo de 220 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 2 limões",
+      "gramas": 96,
+      "kcal": 21.1,
+      "carboidratos_g": 7.01,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "texto": "1/2 xícara (chá) de leite de coco",
+      "gramas": 113,
+      "kcal": 187.6,
+      "carboidratos_g": 2.49,
+      "fonte": "TACO 4ª ed. 523 Leite, de coco",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 2.2
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 xícaras (chá) de água gelada",
+      "gramas": 720,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "limao-taiti",
+      "texto": "1 limão em rodelas para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 208.7,
+    "carboidratos_g": 9.5
+  },
+  "por_porcao": {
+    "kcal": 52,
+    "carboidratos_g": 2.4
+  }
+}

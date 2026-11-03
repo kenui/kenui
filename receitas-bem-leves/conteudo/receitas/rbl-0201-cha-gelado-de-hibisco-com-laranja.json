@@ -1,0 +1,128 @@
+{
+  "id": "rbl-0201",
+  "slug": "cha-gelado-de-hibisco-com-laranja",
+  "nome": "Chá gelado de hibisco com laranja",
+  "descricao": "Chá de hibisco vermelhinho, gelado, com suco e rodelas de laranja.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 15,
+    "descanso_min": 60,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cha-de-hibisco-pronto",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de chá de hibisco (4 saquinhos ou 2 colheres (sopa) da flor seca e 1 litro de água)"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "suco de 1 laranja"
+    },
+    {
+      "ingrediente": "laranja",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 laranja em rodelas finas"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ferva 1 litro de água.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue o fogo, junte o hibisco, tampe e deixe 10 minutos em infusão.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Coe, junte o eritritol e mexa até dissolver."
+    },
+    {
+      "texto": "Deixe esfriar, junte o suco e as rodelas de laranja e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Sirva bem gelado, com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a laranja por 1 maçã em fatias finas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em jarra fechada na geladeira por até 3 dias."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não deixe o hibisco em infusão por mais de 10 minutos: o chá fica azedo demais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 19,
+      "carboidratos_g": 4.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0201.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cha de hibisco",
+      "cha gelado",
+      "hibisco com laranja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

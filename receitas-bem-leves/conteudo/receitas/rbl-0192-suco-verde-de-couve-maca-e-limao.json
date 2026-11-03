@@ -1,0 +1,130 @@
+{
+  "id": "rbl-0192",
+  "slug": "suco-verde-de-couve-maca-e-limao",
+  "nome": "Suco verde de couve, maçã e limão",
+  "descricao": "Suco verde refrescante de couve com maçã, limão e hortelã.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 200 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "2 folhas de couve-manteiga sem o talo (1 xícara picada)"
+    },
+    {
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã média com casca (150 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "suco de 1 limão"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de folhas de hortelã"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de água gelada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave bem as folhas de couve e a hortelã. Tire o talo grosso da couve e pique as folhas."
+    },
+    {
+      "texto": "Tire as sementes da maçã e corte em pedaços.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata tudo no liquidificador por 2 minutos, até a couve ficar bem triturada.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Coe numa peneira, apertando com uma colher, e sirva na hora, com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por 1 xícara de abacaxi picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por um pedacinho de gengibre."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata bem antes de coar: quanto mais triturada a couve, menos gosto de folha crua."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 36,
+      "carboidratos_g": 9.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0192.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "maca",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco verde",
+      "suco de couve",
+      "couve com maca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

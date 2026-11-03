@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0112",
+  "nome": "Iogurte com morango, mirtilo e castanha",
+  "porcoes": 1,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "5 morangos picados",
+      "gramas": 60,
+      "kcal": 18,
+      "carboidratos_g": 4.08,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "mirtilo",
+      "texto": "2 colheres (sopa) de mirtilos",
+      "gramas": 18.5,
+      "kcal": 10.5,
+      "carboidratos_g": 2.68,
+      "fonte": "USDA SR Legacy 171711 Blueberries, raw",
+      "por_100g": {
+        "kcal": 57,
+        "carboidratos_g": 14.49
+      }
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "texto": "2 castanhas-do-pará picadas (10 g)",
+      "gramas": 10,
+      "kcal": 64.3,
+      "carboidratos_g": 1.51,
+      "fonte": "TACO 4ª ed. 589 Castanha-do-Brasil, crua",
+      "por_100g": {
+        "kcal": 643,
+        "carboidratos_g": 15.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 179.5,
+    "carboidratos_g": 11.5
+  },
+  "por_porcao": {
+    "kcal": 180,
+    "carboidratos_g": 11.5
+  }
+}

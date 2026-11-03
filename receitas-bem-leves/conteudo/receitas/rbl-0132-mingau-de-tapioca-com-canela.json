@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0132",
+  "slug": "mingau-de-tapioca-com-canela",
+  "nome": "Mingau de tapioca com canela",
+  "descricao": "Mingau quentinho de tapioca granulada cozida no leite, com bolinhas macias e perfume de canela e cravo.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 12,
+    "descanso_min": 10,
+    "total_min": 24
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "tigelas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de tapioca granulada"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cravo em pó"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, misture a tapioca granulada com o leite frio e deixe hidratar por 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Junte o eritritol, o sal e o cravo e leve ao fogo baixo."
+    },
+    {
+      "texto": "Cozinhe mexendo sempre por 10 a 12 minutos, até as bolinhas ficarem macias e o mingau engrossar.",
+      "aviso": "Mingau quente espirra: mexa com colher de cabo longo.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Sirva em tigelas, polvilhado com a canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1/2 xícara do leite por leite de coco para um sabor mais nordestino."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem eritritol? Amasse 1/2 banana madura no fim do cozimento."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias. Ele engrossa ao esfriar: aqueça com um pouco de leite."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 287,
+      "carboidratos_g": 46
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0132.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mingau de tapioca",
+      "papa de tapioca",
+      "mingau nordestino"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0168",
+  "slug": "muffin-de-espinafre-com-queijo",
+  "nome": "Muffin de espinafre com queijo",
+  "descricao": "Muffin salgado e fofinho de espinafre e queijo minas meia cura, com um toque de noz-moscada.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "muffins"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "2 muffins"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de iogurte natural"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de folhas de espinafre picadas"
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 xícara de queijo minas meia cura ralado (100 g)"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos, o iogurte e o azeite com um batedor."
+    },
+    {
+      "texto": "Junte a farinha, o sal e a noz-moscada e misture até ficar liso."
+    },
+    {
+      "texto": "Acrescente o espinafre e o queijo. Por último, misture o fermento."
+    },
+    {
+      "texto": "Distribua nas forminhas até 3/4 da altura."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve picada fininha ou por brócolis cozido picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas meia cura por parmesão ou mussarela."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira. Aqueça 1 minuto no micro-ondas ou 5 minutos no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 285,
+      "carboidratos_g": 21.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0168.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "espinafre",
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de espinafre",
+      "bolinho de espinafre",
+      "muffin de queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0063",
+  "slug": "cuscuz-de-milho-nordestino",
+  "nome": "Cuscuz de milho nordestino",
+  "descricao": "Cuscuz de flocão feito na cuscuzeira, soltinho e úmido, que faz as vezes do pão no café da manhã.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 15,
+    "descanso_min": 10,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "cuscuz"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 fatia (1/4 do cuscuz)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "flocao-de-milho",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "250 g de flocão de milho (meio pacote)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1.25,
+      "medida": "xicara",
+      "texto": "1 e 1/4 de xícara (chá) de água em temperatura ambiente"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o flocão e o sal."
+    },
+    {
+      "texto": "Junte a água aos poucos, mexendo com as mãos, até todo o flocão ficar úmido, sem virar papa."
+    },
+    {
+      "texto": "Deixe descansar 10 minutos para hidratar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Coloque água na parte de baixo da cuscuzeira, até a marca, e leve ao fogo."
+    },
+    {
+      "texto": "Solte a massa com um garfo e coloque na parte de cima da cuscuzeira, sem apertar."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo médio por 10 a 15 minutos depois que começar a sair vapor, até o cuscuz ficar firme e soltinho.",
+      "aviso": "Cuidado com o vapor ao abrir a tampa.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Desenforme num prato, passe a manteiga por cima e sirva quente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem cuscuzeira? Coloque a massa numa peneira de metal sobre uma panela com água fervente, tampada com um prato."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com ovo frito, queijo coalho grelhado ou carne de sol desfiada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por 2 dias. Para aquecer, borrife água e leve ao micro-ondas por 1 minuto."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 245,
+      "carboidratos_g": 49.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0063.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cuscuz nordestino",
+      "cuscuz de flocao",
+      "cuscuz de milho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

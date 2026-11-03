@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0235",
+  "nome": "Frango com quiabo",
+  "porcoes": 4,
+  "porcao": "1 prato raso (2 sobrecoxas com quiabo)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "texto": "8 sobrecoxas de frango sem pele (cerca de 800 g)",
+      "gramas": 800,
+      "kcal": 1296,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 414 Frango, sobrecoxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 162,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho amassados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "2 colheres (sopa) de óleo",
+      "gramas": 27.2,
+      "kcal": 240.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água quente (240 ml)",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "quiabo",
+      "texto": "300 g de quiabo (cerca de 3 xícaras) em rodelas",
+      "gramas": 300,
+      "kcal": 90,
+      "carboidratos_g": 19.2,
+      "fonte": "TACO 4ª ed. 147 Quiabo, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.4
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1728.4,
+    "carboidratos_g": 42.5
+  },
+  "por_porcao": {
+    "kcal": 432,
+    "carboidratos_g": 10.6
+  }
+}

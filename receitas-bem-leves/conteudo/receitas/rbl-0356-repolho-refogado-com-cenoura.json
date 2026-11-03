@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0356",
+  "slug": "repolho-refogado-com-cenoura",
+  "nome": "Repolho refogado com cenoura",
+  "descricao": "Repolho fatiado fininho e refogado com cenoura ralada, cebola e um toque de vinagre.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 10,
+    "total_min": 20
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola em fatias finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "repolho",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "1/4 de repolho fatiado fininho (400 g)"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura ralada no ralo grosso"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "vinagre",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de vinagre"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela larga, aqueça o azeite e refogue a cebola e o alho até ficarem macios."
+    },
+    {
+      "texto": "Junte o repolho, a cenoura e o sal e refogue em fogo médio-alto por 6 a 8 minutos, mexendo, até o repolho murchar mas continuar um pouco crocante.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Regue com o vinagre, mexa por 1 minuto e desligue."
+    },
+    {
+      "texto": "Espalhe a cebolinha e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use repolho roxo ou metade de cada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o vinagre por suco de limão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 60,
+      "carboidratos_g": 6.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0356.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "repolho refogado",
+      "repolho com cenoura",
+      "refogado de repolho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0395",
+  "slug": "brownie-de-feijao-preto",
+  "nome": "Brownie de feijão-preto",
+  "descricao": "Brownie de cacau feito com feijão-preto batido no lugar da farinha: ninguém adivinha.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 28,
+    "descanso_min": 30,
+    "total_min": 73
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "quadrados"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 quadrado"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "feijao-preto-cozido",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de feijão-preto cozido só com água, sem caldo e sem tempero"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Forre uma forma quadrada de 20 cm com papel-manteiga."
+    },
+    {
+      "texto": "Lave o feijão cozido numa peneira e escorra muito bem."
+    },
+    {
+      "texto": "Bata no liquidificador o feijão, os ovos e o óleo por 3 minutos, até não sobrar nenhum pedacinho de casca.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o cacau, o eritritol, a baunilha e o sal e bata mais 1 minuto, raspando as laterais.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Misture o fermento com uma colher e espalhe na forma."
+    },
+    {
+      "texto": "Asse por 25 a 28 minutos, até firmar nas bordas e o centro ainda estar macio.",
+      "temporizador_min": 28
+    },
+    {
+      "texto": "Espere esfriar 30 minutos antes de cortar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 28,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o feijão-preto por feijão carioca cozido sem tempero: a cor fica mais clara."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata bastante: se ficarem pedaços de casca, a textura denuncia o feijão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias. Gelado, fica ainda mais firme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 77,
+      "carboidratos_g": 4.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0395.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "brownie",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "brownie de feijao",
+      "brownie sem farinha",
+      "brownie diferente"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

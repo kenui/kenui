@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0493",
+  "slug": "creme-natalino-com-damasco",
+  "nome": "Creme natalino com damasco",
+  "descricao": "Creme de baunilha servido em taças com compota de damasco e canela, uma sobremesa leve para a ceia.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "descanso_min": 180,
+    "total_min": 215
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "taças"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de creme de leite"
+    },
+    {
+      "grupo": "Compota",
+      "ingrediente": "damasco-seco",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de damasco seco sem açúcar picado"
+    },
+    {
+      "grupo": "Compota",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "grupo": "Compota",
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Compota: coloque o damasco picado e a água numa panela pequena e cozinhe em fogo baixo por 10 minutos, mexendo de vez em quando, até o damasco amolecer e o caldo engrossar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Desligue, misture a canela e deixe esfriar."
+    },
+    {
+      "texto": "Creme: numa panela, misture bem o leite frio, os ovos, o amido de milho e o eritritol com um batedor, até não ter grumos."
+    },
+    {
+      "texto": "Leve ao fogo médio-baixo, mexendo sem parar, até engrossar e começar a borbulhar, cerca de 8 minutos.",
+      "temporizador_min": 8,
+      "aviso": "Mexa o tempo todo para o fundo não grudar."
+    },
+    {
+      "texto": "Desligue o fogo e misture a baunilha e o creme de leite."
+    },
+    {
+      "texto": "Distribua o creme em 8 taças e cubra a superfície com plástico para não formar película."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 3 horas.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Na hora de servir, coloque 1 colher (sopa) cheia de compota de damasco por cima de cada taça."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o damasco por ameixa seca sem açúcar ou por morangos picados."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se o damasco é sem açúcar: algumas marcas são cristalizadas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira, com a compota guardada à parte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 155,
+      "carboidratos_g": 18.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0493.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sobremesa de natal",
+      "creme de baunilha",
+      "doce de damasco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": "Substitui um bolo de nozes repetido."
+  }
+}

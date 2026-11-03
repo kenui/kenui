@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0487",
+  "slug": "maionese-de-batata-com-iogurte",
+  "nome": "Maionese de batata com iogurte",
+  "descricao": "Salada de batata, cenoura e ovos com molho cremoso de iogurte e limão, a maionese de festa feita em casa.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 20,
+    "descanso_min": 60,
+    "total_min": 100
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 batatas médias em cubos (cerca de 1 kg)"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras médias em cubinhos"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 potes (340 g) de iogurte natural integral"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe as batatas e a cenoura em água com uma pitada de sal por 10 a 12 minutos, até ficarem macias mas firmes. Escorra e espere esfriar.",
+      "aviso": "Cuidado com a água fervente ao escorrer.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Cozinhe os ovos por 10 minutos, passe na água fria, descasque e pique.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Molho: misture o iogurte, o azeite, o suco de limão, o sal e a pimenta até ficar liso."
+    },
+    {
+      "texto": "Numa tigela, junte as batatas, a cenoura, os ovos, a salsinha e a cebolinha. Despeje o molho e misture com cuidado para não desmanchar."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 1 hora antes de servir.",
+      "temporizador_min": 60
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade do iogurte por 4 colheres (sopa) de creme de leite para um molho mais encorpado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioquinha no lugar de metade das batatas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Escorra bem o iogurte se estiver muito ralo: o molho fica mais firme."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias, sempre bem fria."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 148,
+      "carboidratos_g": 17.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0487.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "maionese de batata",
+      "salada de batata",
+      "maionese caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

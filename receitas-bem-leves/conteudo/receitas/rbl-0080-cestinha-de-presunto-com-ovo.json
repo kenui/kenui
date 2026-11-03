@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0080",
+  "slug": "cestinha-de-presunto-com-ovo",
+  "nome": "Cestinha de presunto com ovo",
+  "descricao": "Fatias de presunto viram cestinhas na forma de muffin, com um ovo inteiro assado dentro.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 18,
+    "total_min": 23
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "cestinhas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 cestinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga para untar"
+    },
+    {
+      "ingrediente": "presunto",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "4 fatias de presunto (60 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 4 cavidades de uma forma de muffin com a manteiga."
+    },
+    {
+      "texto": "Forre cada cavidade com uma fatia de presunto, formando uma cestinha."
+    },
+    {
+      "texto": "Quebre um ovo dentro de cada cestinha. Tempere com sal, pimenta e orégano e polvilhe o parmesão."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos: 15 para gema mole, 18 para gema firme.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Solte com uma colher e sirva quente.",
+      "aviso": "A forma sai muito quente: use luva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o presunto por peito de peru."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar do parmesão, use mussarela ralada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quebre cada ovo numa xícara antes, para não cair casca na cestinha."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 211,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0080.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "ovo e presunto",
+    "enfeites": [
+      "presunto",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo no presunto",
+      "cestinha de ovo",
+      "ovo assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

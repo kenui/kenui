@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0177",
+  "nome": "Bolinho de abobrinha de forno",
+  "porcoes": 4,
+  "porcao": "4 bolinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobrinha",
+      "texto": "2 abobrinhas médias raladas",
+      "gramas": 392,
+      "kcal": 74.5,
+      "carboidratos_g": 16.86,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "texto": "3/4 de xícara de queijo minas meia cura ralado (80 g)",
+      "gramas": 80,
+      "kcal": 256.8,
+      "carboidratos_g": 2.88,
+      "fonte": "TACO 4ª ed. 462 Queijo, minas, meia cura",
+      "por_100g": {
+        "kcal": 321,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de hortelã picada",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite para untar",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 761,
+    "carboidratos_g": 51
+  },
+  "por_porcao": {
+    "kcal": 190,
+    "carboidratos_g": 12.8
+  }
+}

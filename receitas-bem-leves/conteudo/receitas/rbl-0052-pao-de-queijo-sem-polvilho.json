@@ -1,0 +1,138 @@
+{
+  "id": "rbl-0052",
+  "slug": "pao-de-queijo-sem-polvilho",
+  "nome": "Pão de queijo sem polvilho",
+  "descricao": "Bolinhas de mussarela, parmesão e farinha de amêndoas que lembram pão de queijo, douradas e macias.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 18,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "bolinhas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 bolinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "1/2 xícara (60 g) de farinha de amêndoas",
+      "alternativa": {
+        "ingrediente": "farelo-de-aveia",
+        "texto": "ou 1/2 xícara de farelo de aveia",
+        "observacao": "Fica com textura mais de bolinho e mais carboidrato."
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, misture os queijos, o ovo, a farinha de amêndoas e o fermento até formar uma massa que dê para enrolar."
+    },
+    {
+      "texto": "Com as mãos úmidas, faça 12 bolinhas e coloque na assadeira, com espaço entre elas."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, até dourar.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Sirva morno: frio, fica mais firme."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Uma pitada de orégano ou de alho em pó na massa muda bem o sabor."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as bolinhas cruas e asse direto do congelador, por 20 a 22 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 256,
+      "carboidratos_g": 4.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0052.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_de_queijo",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de queijo low carb",
+      "pao de queijo sem polvilho",
+      "bolinha de queijo assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

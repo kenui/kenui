@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0362",
+  "slug": "bolo-de-iogurte",
+  "nome": "Bolo de iogurte",
+  "descricao": "Bolo simples de pote de iogurte, macio e úmido, bom com café.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+    },
+    {
+      "texto": "Numa tigela, bata com um batedor o iogurte, os ovos, o óleo, o eritritol e a baunilha até ficar homogêneo."
+    },
+    {
+      "texto": "Junte a farinha aos poucos e mexa até a massa ficar lisa."
+    },
+    {
+      "texto": "Misture o fermento com delicadeza e despeje na forma."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Espere 10 minutos e desenforme."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use iogurte natural desnatado, se preferir: o bolo fica um pouco menos macio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para a massa ficar lisinha, bata o eritritol no liquidificador seco até virar pó antes de usar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias coberto em temperatura ambiente."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 182,
+      "carboidratos_g": 16.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0362.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de pote de iogurte",
+      "bolo simples",
+      "bolo de iogurte natural"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

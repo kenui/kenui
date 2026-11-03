@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0044",
+  "slug": "pao-de-batata-doce-com-alecrim",
+  "nome": "Pão de batata-doce com alecrim",
+  "descricao": "Pão de forma úmido de batata-doce, com casca dourada e perfume de alecrim.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 35,
+    "cozimento_min": 60,
+    "descanso_min": 100,
+    "total_min": 195
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (12 fatias)"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 batata-doce média (250 g)"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de água morna"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a batata-doce, corte em cubos e cozinhe em água por 15 minutos, até ficar macia. Escorra, amasse e espere amornar.",
+      "aviso": "Cuidado ao escorrer a água fervente.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa tigela, misture o purê, o ovo, o azeite e a água morna."
+    },
+    {
+      "texto": "Junte o fermento, o sal, o alecrim e a farinha aos poucos, até a massa desgrudar das mãos."
+    },
+    {
+      "texto": "Sove por 8 minutos, até ficar lisa.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Modele um rolo e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até dourar e soar oco ao bater por baixo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Desenforme e espere esfriar antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por orégano ou tomilho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Batata-doce roxa funciona igual e deixa o miolo arroxeado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Fatiado, dura 3 dias em saco fechado; congelado, até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 175,
+      "carboidratos_g": 29.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0044.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de batata doce",
+      "pao de forma de batata doce",
+      "pao caseiro de batata doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

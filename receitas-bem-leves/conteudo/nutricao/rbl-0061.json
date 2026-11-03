@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0061",
+  "nome": "Lascas crocantes de parmesão",
+  "porcoes": 4,
+  "porcao": "4 lascas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1 xícara (chá) de queijo parmesão ralado grosso (100 g)",
+      "gramas": 100,
+      "kcal": 453,
+      "carboidratos_g": 1.7,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 455.9,
+    "carboidratos_g": 2.5
+  },
+  "por_porcao": {
+    "kcal": 114,
+    "carboidratos_g": 0.6
+  }
+}

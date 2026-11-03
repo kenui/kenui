@@ -1,0 +1,190 @@
+{
+  "id": "rbl-0328",
+  "slug": "cuscuz-paulista-de-legumes",
+  "nome": "Cuscuz paulista de legumes",
+  "descricao": "Cuscuz de flocão de milho com tomate, palmito, ovos e azeitonas, moldado e servido em fatias.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 15,
+    "descanso_min": 15,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates picados"
+    },
+    {
+      "ingrediente": "palmito-pupunha",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "200 g de palmito pupunha escorrido, em rodelas"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 12,
+      "medida": "unidade",
+      "texto": "12 azeitonas verdes em rodelas"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 600,
+      "medida": "ml",
+      "texto": "600 ml de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "flocao-de-milho",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 e 1/2 xícaras (chá) de flocão de milho (300 g)"
+    },
+    {
+      "grupo": "Para enfeitar",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos cozidos em rodelas"
+    },
+    {
+      "grupo": "Para enfeitar",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate em rodelas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Unte com azeite uma forma de furo central de 22 cm. No fundo e nas laterais, arrume as rodelas de ovo e de tomate para enfeitar."
+    },
+    {
+      "texto": "Numa panela grande, aqueça o azeite e refogue a cebola, o alho e o pimentão por 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte o tomate e cozinhe por 5 minutos, até começar a desmanchar. Acrescente o palmito, as azeitonas, a água quente e o sal.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Quando ferver, abaixe o fogo, junte a salsinha e acrescente o flocão aos poucos, mexendo sem parar, até a massa ficar úmida e soltar do fundo da panela."
+    },
+    {
+      "texto": "Passe para a forma com cuidado, apertando com as costas da colher para firmar sem desmanchar o enfeite.",
+      "aviso": "A massa está muito quente: use colher, não as mãos."
+    },
+    {
+      "texto": "Deixe descansar 15 minutos e desenforme num prato.",
+      "temporizador_min": 15
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use ervilha fresca ou congelada no lugar do palmito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Se quiser a versão com peixe, junte 1 lata de sardinha escorrida junto com o palmito."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa ficar seca e esfarelando, junte um pouco de água quente; se ficar mole, um pouco mais de flocão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias, coberto. Pode servir frio."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 256,
+      "carboidratos_g": 36.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0328.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "azeitona",
+      "pimentao",
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cuscuz paulista",
+      "cuscuz salgado",
+      "cuscuz de milho com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

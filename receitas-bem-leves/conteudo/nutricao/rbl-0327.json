@@ -1,0 +1,163 @@
+{
+  "receita": "rbl-0327",
+  "nome": "Ratatouille",
+  "porcoes": 4,
+  "porcao": "1 prato raso",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "berinjela",
+      "texto": "1 berinjela grande em cubos (350 g)",
+      "gramas": 350,
+      "kcal": 70,
+      "carboidratos_g": 15.4,
+      "fonte": "TACO 4ª ed. 96 Berinjela, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 4.4
+      }
+    },
+    {
+      "ingrediente": "abobrinha",
+      "texto": "2 abobrinhas em cubos",
+      "gramas": 392,
+      "kcal": 74.5,
+      "carboidratos_g": 16.86,
+      "fonte": "TACO 4ª ed. 71 Abobrinha, italiana, crua",
+      "por_100g": {
+        "kcal": 19,
+        "carboidratos_g": 4.3
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1 pimentão vermelho em cubos",
+      "gramas": 119,
+      "kcal": 27.4,
+      "carboidratos_g": 6.55,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "pimentao-amarelo",
+      "texto": "1 pimentão amarelo em cubos",
+      "gramas": 119,
+      "kcal": 33.3,
+      "carboidratos_g": 7.14,
+      "fonte": "TACO 4ª ed. 143 Pimentão, amarelo, cru",
+      "por_100g": {
+        "kcal": 28,
+        "carboidratos_g": 6
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "4 tomates maduros picados",
+      "gramas": 492,
+      "kcal": 73.8,
+      "carboidratos_g": 15.25,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "texto": "1 colher (chá) de tomilho seco",
+      "gramas": 1,
+      "kcal": 2.8,
+      "carboidratos_g": 0.64,
+      "fonte": "USDA SR Legacy 170938 Spices, thyme, dried",
+      "por_100g": {
+        "kcal": 276,
+        "carboidratos_g": 63.94
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "manjericao",
+      "texto": "3 colheres (sopa) de manjericão picado",
+      "gramas": 8,
+      "kcal": 1.7,
+      "carboidratos_g": 0.29,
+      "fonte": "TACO 4ª ed. 133 Manjericão, cru",
+      "por_100g": {
+        "kcal": 21,
+        "carboidratos_g": 3.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 694.8,
+    "carboidratos_g": 74.1
+  },
+  "por_porcao": {
+    "kcal": 174,
+    "carboidratos_g": 18.5
+  }
+}

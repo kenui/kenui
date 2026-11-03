@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0499",
+  "nome": "Ponche de frutas sem álcool",
+  "porcoes": 10,
+  "porcao": "1 copo (cerca de 250 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "4 xícaras (chá) de suco de laranja natural (cerca de 12 laranjas)",
+      "gramas": 992,
+      "kcal": 327.4,
+      "carboidratos_g": 75.39,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "2 xícaras (chá) de abacaxi em cubinhos",
+      "gramas": 330,
+      "kcal": 158.4,
+      "carboidratos_g": 40.59,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média em cubinhos, com casca (180 g)",
+      "gramas": 180,
+      "kcal": 100.8,
+      "carboidratos_g": 27.36,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "uva",
+      "texto": "1 xícara (chá) de uva cortada ao meio",
+      "gramas": 151,
+      "kcal": 80,
+      "carboidratos_g": 20.54,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "1 xícara (chá) de morangos fatiados",
+      "gramas": 144,
+      "kcal": 43.2,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "2 colheres (sopa) de folhas de hortelã",
+      "gramas": 11.4,
+      "kcal": 5,
+      "carboidratos_g": 0.96,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água com gás bem gelada",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 725.4,
+    "carboidratos_g": 178.1
+  },
+  "por_porcao": {
+    "kcal": 73,
+    "carboidratos_g": 17.8
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0164",
+  "slug": "espetinho-de-queijo-e-tomate-com-manjericao",
+  "nome": "Espetinho de queijo e tomate com manjericão",
+  "descricao": "Espetinhos de mussarela em cubos, tomate-cereja e manjericão, temperados com azeite e orégano.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "espetinhos"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "2 espetinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pedaço de queijo mussarela em 20 cubos (200 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 340,
+      "medida": "g",
+      "texto": "20 tomates-cereja (340 g)"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "20 folhas de manjericão"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave e seque os tomates e as folhas de manjericão."
+    },
+    {
+      "texto": "Em palitos de churrasquinho, intercale tomate, folha de manjericão e cubo de queijo, duas vezes em cada palito.",
+      "aviso": "A ponta do palito é afiada: monte com cuidado."
+    },
+    {
+      "texto": "Arrume num prato e regue com o azeite."
+    },
+    {
+      "texto": "Tempere com o sal, a pimenta e o orégano na hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas frescal ou por bolinhas de mussarela de búfala."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem manjericão? Use folhas de rúcula ou só orégano."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Monte até 4 horas antes e guarde na geladeira coberto. Tempere só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 167,
+      "carboidratos_g": 3.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0164.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "espetinho caprese",
+      "caprese no palito",
+      "petisco de queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0219",
+  "slug": "barrinha-de-aveia-com-banana-e-frutas-secas",
+  "nome": "Barrinha de aveia com banana e frutas secas",
+  "descricao": "Barrinhas macias de aveia, banana, uva-passa e castanha-de-caju, assadas e cortadas em quadrados.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "descanso_min": 30,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "barrinhas"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 barrinha"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas-nanicas bem maduras"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de uva-passa"
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 35,
+      "medida": "g",
+      "texto": "1/4 de xícara (chá) de castanha-de-caju picada (35 g)"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Forre uma forma de 20 x 20 cm com papel-manteiga."
+    },
+    {
+      "texto": "Amasse bem as bananas com um garfo numa tigela."
+    },
+    {
+      "texto": "Junte o óleo, a canela, o sal, a aveia, a uva-passa e a castanha e misture até formar uma massa grudenta."
+    },
+    {
+      "texto": "Espalhe na forma, apertando com as costas de uma colher até ficar com cerca de 1,5 cm de altura."
+    },
+    {
+      "texto": "Asse por 25 minutos, até dourar nas bordas e ficar firme no meio.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Deixe esfriar na forma por 30 minutos e corte em 12 barrinhas.",
+      "aviso": "Cuidado com a faca ao cortar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a uva-passa por tâmaras picadas ou damasco seco picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-de-caju por castanha-do-pará ou amendoim."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por 3 dias, ou na geladeira por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 110,
+      "carboidratos_g": 17.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0219.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "brownie",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia",
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "barrinha de cereal caseira",
+      "barra de aveia",
+      "barrinha de banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

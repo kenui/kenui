@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0048",
+  "slug": "focaccia-de-alecrim",
+  "nome": "Focaccia de alecrim",
+  "descricao": "Pão italiano baixo e aerado, regado com azeite e coberto de alecrim, ótimo para acompanhar sopas e saladas.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "descanso_min": 90,
+    "total_min": 135
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "assadeira (10 pedaços)"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 pedaço"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 1.25,
+      "medida": "xicara",
+      "texto": "1 e 1/4 de xícara (chá) de água morna"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de alecrim seco"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal grosso"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+    },
+    {
+      "texto": "Junte a água morna e 2 colheres (sopa) de azeite e mexa com uma colher até não ter farinha seca. A massa fica mole e grudenta."
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar e formar bolhas.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Unte uma assadeira de 30 x 20 cm com 1 colher (sopa) do azeite da cobertura e despeje a massa. Espalhe com as mãos untadas até os cantos."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 220 °C."
+    },
+    {
+      "texto": "Afunde as pontas dos dedos na massa toda, regue com o restante do azeite e espalhe o alecrim e o sal grosso."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até ficar bem dourada.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere 10 minutos antes de cortar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por orégano, ou cubra com rodelas de tomate e cebola."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Massa bem mole é o segredo da focaccia aerada: não ponha mais farinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em saco fechado por 2 dias e aqueça no forno ou na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 198,
+      "carboidratos_g": 28.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0048.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "focaccia",
+      "pao italiano",
+      "pao de alecrim"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

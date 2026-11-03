@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0354",
+  "slug": "couve-refogada",
+  "nome": "Couve refogada",
+  "descricao": "Couve-manteiga fatiada fininha e refogada rapidinho no alho e azeite.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 8,
+    "cozimento_min": 4,
+    "total_min": 12
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 maços de couve-manteiga (300 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1.5,
+      "medida": "colher_sopa",
+      "texto": "1 e 1/2 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as folhas, tire o talo central, enrole como um charuto e fatie bem fininho.",
+      "aviso": "Use faca afiada e mantenha os dedos dobrados."
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite e doure o alho por 30 segundos."
+    },
+    {
+      "texto": "Junte a couve e o sal e refogue em fogo alto por 2 a 3 minutos, mexendo, só até murchar e ficar verde-escura.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com folhas de mostarda, espinafre ou repolho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o azeite por manteiga."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não cozinhe demais: couve passada fica amarelada e amarga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 68,
+      "carboidratos_g": 3.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0354.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "couve refogada",
+      "couve com alho",
+      "couve mineira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

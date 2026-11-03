@@ -1,0 +1,199 @@
+{
+  "id": "rbl-0151",
+  "slug": "falafel-de-forno-com-molho-de-iogurte",
+  "nome": "Falafel de forno com molho de iogurte",
+  "descricao": "Bolinhos árabes de grão-de-bico com ervas e cominho, assados e servidos com molho de iogurte e hortelã.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 25,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "falafels"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 falafels com molho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Falafel",
+      "ingrediente": "grao-de-bico-cozido",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de grão-de-bico cozido e bem escorrido"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de cominho"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "grupo": "Falafel",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de iogurte natural"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com 1 colher (sopa) de azeite."
+    },
+    {
+      "texto": "Seque bem o grão-de-bico num pano de prato."
+    },
+    {
+      "texto": "No processador, pulse o grão-de-bico, a cebola, o alho, a salsinha, o coentro, o cominho e o sal até virar uma massa grossa, não um purê.",
+      "aviso": "Desligue o processador antes de mexer na lâmina."
+    },
+    {
+      "texto": "Junte a farinha e misture com as mãos."
+    },
+    {
+      "texto": "Modele 16 bolinhas, achate de leve e arrume na assadeira. Pincele com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire e asse mais 10 a 12 minutos, até dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Misture o iogurte, o limão, a hortelã e o sal e sirva com os falafels."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Não gosta de coentro? Use o dobro de salsinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por farinha de grão-de-bico ou por aveia em flocos finos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Os falafels assados duram 3 dias na geladeira. Aqueça no forno por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 242,
+      "carboidratos_g": 29.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0151.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "grão-de-bico",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "falafel assado",
+      "bolinho de grao de bico",
+      "falafel sem fritura"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

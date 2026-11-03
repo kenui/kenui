@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0229",
+  "nome": "Chips de maçã com canela",
+  "porcoes": 4,
+  "porcao": "1 porção (chips de meia maçã)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "maca",
+      "texto": "2 maçãs médias (300 g)",
+      "gramas": 300,
+      "kcal": 168,
+      "carboidratos_g": 45.6,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1 colher (sopa) de suco de limão",
+      "gramas": 15.2,
+      "kcal": 3.3,
+      "carboidratos_g": 1.11,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 177.8,
+    "carboidratos_g": 48.8
+  },
+  "por_porcao": {
+    "kcal": 44,
+    "carboidratos_g": 12.2
+  }
+}

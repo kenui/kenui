@@ -1,0 +1,101 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "167749": {
+      "descricao": "Lemon peel, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 6
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2
+        }
+      ],
+      "kcal": 47,
+      "fibra_g": 10.6,
+      "proteina_g": 1.5,
+      "lipidios_g": 0.3,
+      "carboidratos_g": 16
+    },
+    "169599": {
+      "descricao": "Gelatins, dry powder, unsweetened",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "envelope (1 tbsp)",
+          "gramas": 7
+        },
+        {
+          "quantidade": 1,
+          "medida": "package (1 oz)",
+          "gramas": 28
+        }
+      ],
+      "proteina_g": 85.6,
+      "fibra_g": 0,
+      "lipidios_g": 0.1,
+      "carboidratos_g": 0,
+      "kcal": 335
+    },
+    "170554": {
+      "descricao": "Seeds, chia seeds, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "proteina_g": 16.54,
+      "fibra_g": 34.4,
+      "lipidios_g": 30.74,
+      "carboidratos_g": 42.12,
+      "kcal": 486
+    },
+    "171321": {
+      "descricao": "Spices, cloves, ground",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2.1
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 6.5
+        }
+      ],
+      "lipidios_g": 13,
+      "carboidratos_g": 65.53,
+      "kcal": 274,
+      "fibra_g": 33.9,
+      "proteina_g": 5.97
+    },
+    "171710": {
+      "descricao": "Blackberries, frozen, unsweetened",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, unthawed",
+          "gramas": 151
+        },
+        {
+          "quantidade": 1,
+          "medida": "package (18 oz)",
+          "gramas": 510
+        }
+      ],
+      "lipidios_g": 0.43,
+      "carboidratos_g": 15.67,
+      "kcal": 64,
+      "proteina_g": 1.18,
+      "fibra_g": 5
+    }
+  }
+}

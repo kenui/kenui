@@ -1,0 +1,169 @@
+{
+  "receita": "rbl-0314",
+  "nome": "Sopa de lentilha",
+  "porcoes": 6,
+  "porcao": "1 prato fundo (cerca de 350 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras em cubinhos",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "salsao",
+      "texto": "2 talos de salsão picados (80 g)",
+      "gramas": 80,
+      "kcal": 11.2,
+      "carboidratos_g": 2.38,
+      "fonte": "USDA SR Legacy 169988 Celery, raw",
+      "por_100g": {
+        "kcal": 14,
+        "carboidratos_g": 2.97
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1 colher (chá) de cominho",
+      "gramas": 2.1,
+      "kcal": 7.9,
+      "carboidratos_g": 0.93,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "lentilha",
+      "texto": "1 e 1/2 xícara (chá) de lentilha crua, lavada",
+      "gramas": 288,
+      "kcal": 976.3,
+      "carboidratos_g": 178.56,
+      "fonte": "TACO 4ª ed. 578 Lentilha, crua",
+      "por_100g": {
+        "kcal": 339,
+        "carboidratos_g": 62
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/2 litro de água quente",
+      "gramas": 1500,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "louro",
+      "texto": "1 folha de louro",
+      "gramas": 0.2,
+      "kcal": 0.6,
+      "carboidratos_g": 0.15,
+      "fonte": "USDA SR Legacy 170917 Spices, bay leaf",
+      "por_100g": {
+        "kcal": 313,
+        "carboidratos_g": 74.97
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão, para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 1369.9,
+    "carboidratos_g": 211.6
+  },
+  "por_porcao": {
+    "kcal": 228,
+    "carboidratos_g": 35.3
+  }
+}

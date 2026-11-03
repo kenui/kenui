@@ -1,0 +1,136 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "168872": {
+      "descricao": "Oat bran, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 94
+        }
+      ],
+      "lipidios_g": 7.03,
+      "carboidratos_g": 66.22,
+      "kcal": 246,
+      "proteina_g": 17.3,
+      "fibra_g": 15.4
+    },
+    "168893": {
+      "descricao": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 120
+        }
+      ],
+      "lipidios_g": 2.5,
+      "carboidratos_g": 71.97,
+      "kcal": 340,
+      "proteina_g": 13.21,
+      "fibra_g": 10.7
+    },
+    "170556": {
+      "descricao": "Seeds, pumpkin and squash seed kernels, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 129
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "carboidratos_g": 10.71,
+      "kcal": 559,
+      "proteina_g": 30.23,
+      "fibra_g": 6,
+      "lipidios_g": 49.05
+    },
+    "170562": {
+      "descricao": "Seeds, sunflower seed kernels, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, with hulls, edible yield",
+          "gramas": 46
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 140
+        }
+      ],
+      "proteina_g": 20.78,
+      "fibra_g": 8.6,
+      "lipidios_g": 51.46,
+      "carboidratos_g": 20,
+      "kcal": 584
+    },
+    "171323": {
+      "descricao": "Spices, fennel seed",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, whole",
+          "gramas": 2
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, whole",
+          "gramas": 5.8
+        }
+      ],
+      "proteina_g": 15.8,
+      "lipidios_g": 14.87,
+      "carboidratos_g": 52.29,
+      "kcal": 345,
+      "fibra_g": 39.8
+    },
+    "173418": {
+      "descricao": "Cheese, cream",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 14.5
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 232
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, whipped",
+          "gramas": 10
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        },
+        {
+          "quantidade": 1,
+          "medida": "cubic inch",
+          "gramas": 16
+        },
+        {
+          "quantidade": 1,
+          "medida": "package, small (3 oz)",
+          "gramas": 85
+        }
+      ],
+      "proteina_g": 6.15,
+      "lipidios_g": 34.44,
+      "carboidratos_g": 5.52,
+      "kcal": 350,
+      "fibra_g": 0
+    }
+  }
+}

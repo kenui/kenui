@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0120",
+  "slug": "panquecas-de-cottage",
+  "nome": "Panquecas de cottage",
+  "descricao": "Panquequinhas grossas de queijo cottage, macias por dentro e douradas por fora.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 8,
+    "cozimento_min": 15,
+    "total_min": 23
+  },
+  "rendimento": {
+    "quantidade": 9,
+    "unidade": "panquecas"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "3 panquecas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-cottage",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo cottage"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, amasse o cottage com um garfo e misture os ovos, o eritritol, a baunilha e o sal."
+    },
+    {
+      "texto": "Junte a farinha e o fermento e mexa até formar uma massa grossa."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente com um pouco da manteiga e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Coloque 2 colheres (sopa) de massa por panqueca e achate de leve com a colher."
+    },
+    {
+      "texto": "Deixe 2 a 3 minutos de cada lado, até dourar e firmar.",
+      "aviso": "Fogo baixo: o queijo doura rápido por fora.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Repita até acabar a massa. Sirva com frutas frescas."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cottage por ricota amassada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1/2 xícara de aveia em flocos finos no lugar da farinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 211,
+      "carboidratos_g": 19.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0120.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_pilha",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panqueca de queijo",
+      "panqueca de cottage",
+      "panquequinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0114",
+  "slug": "copo-de-iogurte-com-aveia-crocante-e-uva",
+  "nome": "Copo de iogurte com aveia crocante e uva",
+  "descricao": "Camadas de iogurte, uvas e aveia tostada na frigideira com castanha e canela.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 8,
+    "cozimento_min": 5,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Aveia crocante",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Aveia crocante",
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 15,
+      "medida": "g",
+      "texto": "1 colher (sopa) cheia de castanha-de-caju picada (15 g)"
+    },
+    {
+      "grupo": "Aveia crocante",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "grupo": "Aveia crocante",
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Aveia crocante",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 potes de iogurte natural integral (340 g)"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "uva",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de uvas sem semente cortadas ao meio"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Derreta a manteiga numa frigideira em fogo baixo. Junte a aveia, a castanha, a canela e o eritritol."
+    },
+    {
+      "texto": "Mexa sem parar por 4 a 5 minutos, até a aveia dourar e ficar cheirosa.",
+      "aviso": "Fique de olho: depois de dourar, queima rápido.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Espalhe num prato e deixe esfriar 2 minutos, para ficar crocante."
+    },
+    {
+      "texto": "Em 2 copos, alterne camadas de iogurte, uvas e aveia crocante, terminando com a aveia."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as uvas por morangos, kiwi ou banana."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use castanha-do-pará ou amendoim no lugar da castanha-de-caju."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "A aveia crocante dura 1 semana em pote bem fechado. Monte os copos só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 268,
+      "carboidratos_g": 29.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0114.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "uva",
+      "aveia",
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte em camadas",
+      "copo de iogurte",
+      "iogurte com aveia tostada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

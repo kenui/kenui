@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0210",
+  "slug": "leite-dourado",
+  "nome": "Leite dourado",
+  "descricao": "Leite quente com cúrcuma, canela e gengibre, cor de ouro e aroma de especiarias.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 6,
+    "total_min": 8
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de 240 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 xícara de 240 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cúrcuma em pó (açafrão-da-terra)"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de gengibre ralado"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque todos os ingredientes numa panela pequena e misture bem com um batedor de arame."
+    },
+    {
+      "texto": "Aqueça em fogo baixo, mexendo, por 5 a 6 minutos, até quase ferver.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Coe se quiser tirar o gengibre e sirva quente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite de vaca por leite de coco misturado com água (meio a meio)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem gengibre fresco, use 1 pitada de gengibre em pó."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A cúrcuma mancha: lave a panela e o batedor logo depois."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 153,
+      "carboidratos_g": 12.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0210.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "xicara_bebida",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "leite dourado",
+      "leite com curcuma",
+      "leite de curcuma",
+      "leite com acafrao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

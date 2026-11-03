@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0486",
+  "slug": "salada-de-folhas-com-roma",
+  "nome": "Salada de folhas com romã",
+  "descricao": "Alface e rúcula com sementes de romã, nozes e queijo branco, com molho de limão: fresca, crocante e bonita na mesa.",
+  "categoria": "ceia",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 prato de sobremesa cheio"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "alface",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pé de alface crespa"
+    },
+    {
+      "ingrediente": "rucula",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "1 maço de rúcula (4 xícaras de folhas)"
+    },
+    {
+      "ingrediente": "roma",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 romã"
+    },
+    {
+      "ingrediente": "noz",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de nozes picadas"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pedaço de queijo minas frescal em cubos (200 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave e seque bem a alface e a rúcula. Rasgue a alface com as mãos."
+    },
+    {
+      "texto": "Corte a romã ao meio e, sobre uma tigela, bata na casca com uma colher de pau para soltar as sementes. Tire as partes brancas."
+    },
+    {
+      "texto": "Molho: num pote com tampa, chacoalhe o azeite, o suco de limão, o sal e a pimenta até ficar cremoso."
+    },
+    {
+      "texto": "Numa saladeira, arrume as folhas, o queijo, as nozes e as sementes de romã."
+    },
+    {
+      "texto": "Regue com o molho só na hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por ricota em pedaços ou por queijo de cabra."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Fora da época de romã, use morangos fatiados ou uvas cortadas ao meio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Monte a salada na hora: com o molho, as folhas murcham em poucos minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde as folhas lavadas e secas num pote com papel-toalha, na geladeira, por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 200,
+      "carboidratos_g": 9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0486.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "frutas_vermelhas",
+      "castanhas",
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de roma",
+      "salada de natal",
+      "salada verde com nozes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

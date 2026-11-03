@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0492",
+  "slug": "panetone-caseiro-de-frutas-secas",
+  "nome": "Panetone caseiro de frutas secas",
+  "descricao": "Panetone fofinho de massa amanteigada, com uva-passa, damasco e raspas de laranja, adoçado com eritritol.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 45,
+    "descanso_min": 225,
+    "total_min": 310
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "panetones de 500 g"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 fatia (1/8 de um panetone)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite morno"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 sachê (10 g) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de farinha de trigo (500 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 7,
+      "medida": "colher_sopa",
+      "texto": "7 colheres (sopa) de manteiga em temperatura ambiente (100 g)"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "laranja",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Raspas da casca de 1 laranja"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de uva-passa sem açúcar"
+    },
+    {
+      "ingrediente": "damasco-seco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de damasco seco picado"
+    },
+    {
+      "grupo": "Para pincelar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido para pincelar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esponja: misture o leite morno, o fermento e 1/2 xícara da farinha. Cubra e deixe 15 minutos, até espumar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa tigela grande, junte a esponja, os ovos, o eritritol, a baunilha e as raspas de laranja e misture bem."
+    },
+    {
+      "texto": "Acrescente o restante da farinha e o sal aos poucos, mexendo até a massa juntar."
+    },
+    {
+      "texto": "Junte a manteiga em pedaços e sove por 10 a 12 minutos, até a massa ficar lisa, elástica e soltar das mãos. Ela é macia e um pouco pegajosa mesmo."
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora e 30 minutos, até dobrar.",
+      "temporizador_min": 90
+    },
+    {
+      "texto": "Passe a uva-passa e o damasco em 1 colher de farinha e misture na massa, apertando com as mãos até distribuir."
+    },
+    {
+      "texto": "Divida em 2 bolas, coloque em formas de panetone de 500 g e deixe crescer coberto por 1 hora e 30 minutos, até chegar perto da borda.",
+      "temporizador_min": 90
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Faça um corte em cruz no topo e pincele o ovo batido."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar e um palito sair limpo. Se dourar rápido demais, cubra com papel-alumínio.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Deixe esfriar por completo antes de cortar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o damasco por ameixa seca picada ou por mais uva-passa. Confira no rótulo se as frutas secas são sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para chocotone, troque as frutas secas por 1/2 xícara de nozes picadas e junte 3 colheres (sopa) de cacau em pó 100% à farinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa sem açúcar cresce um pouco mais devagar: em dia frio, deixe crescer dentro do forno desligado com a luz acesa."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde embrulhado em plástico por até 4 dias ou congele fatiado por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 212,
+      "carboidratos_g": 31.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0492.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panetone sem acucar",
+      "panetone caseiro",
+      "panetone de frutas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

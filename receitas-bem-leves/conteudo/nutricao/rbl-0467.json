@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0467",
+  "nome": "Torta de ricota com uva-passa",
+  "porcoes": 10,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ricota",
+      "texto": "2 pedaços de ricota fresca (500 g)",
+      "gramas": 500,
+      "kcal": 700,
+      "carboidratos_g": 19,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1/2 caixinha de creme de leite (100 g)",
+      "gramas": 100,
+      "kcal": 221,
+      "carboidratos_g": 4.5,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "texto": "2 colheres (sopa) de amido de milho",
+      "gramas": 16,
+      "kcal": 57.8,
+      "carboidratos_g": 13.94,
+      "fonte": "TACO 4ª ed. 42 Milho, amido, cru",
+      "por_100g": {
+        "kcal": 361,
+        "carboidratos_g": 87.1
+      }
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "texto": "1 colher (chá) de raspas de limão",
+      "gramas": 2,
+      "kcal": 0.9,
+      "carboidratos_g": 0.32,
+      "fonte": "USDA SR Legacy 167749 Lemon peel, raw",
+      "por_100g": {
+        "kcal": 47,
+        "carboidratos_g": 16
+      }
+    },
+    {
+      "ingrediente": "uva-passa",
+      "texto": "1/3 de xícara (chá) de uvas-passas",
+      "gramas": 47.9,
+      "kcal": 143.1,
+      "carboidratos_g": 37.95,
+      "fonte": "USDA SR Legacy 168165 Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 299,
+        "carboidratos_g": 79.32
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga para untar",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1371.5,
+    "carboidratos_g": 78.2
+  },
+  "por_porcao": {
+    "kcal": 137,
+    "carboidratos_g": 7.8
+  }
+}

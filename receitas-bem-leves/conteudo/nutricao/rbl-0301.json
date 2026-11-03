@@ -1,0 +1,187 @@
+{
+  "receita": "rbl-0301",
+  "nome": "Escondidinho de peixe com mandioquinha",
+  "porcoes": 6,
+  "porcao": "1 pedaço (1/6 da travessa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "mandioquinha",
+      "texto": "700 g de mandioquinha descascada em pedaços",
+      "gramas": 700,
+      "kcal": 707,
+      "carboidratos_g": 168,
+      "fonte": "TACO 4ª ed. 87 Batata, baroa, crua",
+      "por_100g": {
+        "kcal": 101,
+        "carboidratos_g": 24
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1/2 xícara (chá) de leite quente",
+      "gramas": 122,
+      "kcal": 74.4,
+      "carboidratos_g": 5.86,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "3/4 de colher (chá) de sal",
+      "gramas": 4.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "merluza",
+      "texto": "500 g de filé de merluza em cubos",
+      "gramas": 500,
+      "kcal": 445,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 302 Merluza, filé, cru",
+      "por_100g": {
+        "kcal": 89,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "3/4 de colher (chá) de sal",
+      "gramas": 4.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 15,
+      "kcal": 68,
+      "carboidratos_g": 0.26,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1720.8,
+    "carboidratos_g": 194.3
+  },
+  "por_porcao": {
+    "kcal": 287,
+    "carboidratos_g": 32.4
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0385",
+  "slug": "bolo-de-caneca-de-coco",
+  "nome": "Bolo de caneca de coco",
+  "descricao": "Bolinho de coco de caneca, fofo e cheiroso, para quando bate a vontade de doce.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "bolo de caneca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 caneca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite de coco"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga derretida"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de coco ralado sem açúcar (10 g), mais um pouco para cima"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (cerca de 300 ml), bata o ovo com um garfo."
+    },
+    {
+      "texto": "Junte o leite de coco, a manteiga e o eritritol e misture bem."
+    },
+    {
+      "texto": "Acrescente a farinha e o coco e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até crescer e firmar.",
+      "aviso": "A caneca sai muito quente: segure pela alça ou com um pano.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Polvilhe um pouco de coco por cima e sirva morno."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite de coco? Use leite comum."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se o meio ainda estiver mole, volte por mais 15 segundos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 349,
+      "carboidratos_g": 16.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0385.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de caneca de coco",
+      "bolo de coco de microondas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id": "rbl-0494",
+  "slug": "pave-de-natal-com-cacau",
+  "nome": "Pavê de Natal com cacau",
+  "descricao": "Pavê em camadas de pão de ló de cacau, creme de baunilha e creme de cacau, coberto com chantilly caseiro.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 40,
+    "descanso_min": 240,
+    "total_min": 320
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "porções"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 quadrado (1/12 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pão de ló",
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "grupo": "Pão de ló",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol"
+    },
+    {
+      "grupo": "Pão de ló",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Pão de ló",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Pão de ló",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Cremes",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite para umedecer"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "creme-de-leite-fresco",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de creme de leite fresco bem gelado"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100% para polvilhar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Pão de ló: preaqueça o forno a 180 °C e forre uma assadeira de 30 x 20 cm com papel-manteiga."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador até virar farinha. Na batedeira, bata os ovos com o eritritol por 8 minutos, até dobrar de volume e ficar claro.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Misture com uma espátula a farinha de aveia, o cacau e o fermento, aos poucos e com delicadeza. Espalhe na assadeira."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, até a massa voltar ao ser tocada. Deixe esfriar e corte em 2 retângulos.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Cremes: numa panela, bata com um batedor o leite, os ovos, o amido e o eritritol. Leve ao fogo médio, mexendo sem parar, por 8 a 10 minutos, até engrossar.",
+      "aviso": "Cuidado: o creme borbulha e espirra quando engrossa.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Desligue e junte a baunilha. Separe metade do creme e misture o cacau na outra metade."
+    },
+    {
+      "texto": "Montagem: numa travessa de 30 x 20 cm, coloque um retângulo de pão de ló e umedeça com metade do leite. Cubra com o creme de baunilha."
+    },
+    {
+      "texto": "Coloque o outro retângulo, umedeça com o restante do leite e cubra com o creme de cacau. Leve à geladeira por 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Chantilly: bata o creme de leite fresco gelado com o eritritol na batedeira por 3 a 5 minutos, até formar picos firmes. Espalhe sobre o pavê e polvilhe o cacau.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pão de ló por 2 camadas de bolo de chocolate do app, cortado em fatias finas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem creme de leite fresco? Cubra com 1 caixinha de creme de leite batida com 1 colher (sopa) de cacau e 1 colher (sopa) de eritritol."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata o chantilly com a tigela e o batedor gelados: ele firma mais rápido e não vira manteiga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, coberto, por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 212,
+      "carboidratos_g": 14.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0494.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pave",
+    "massa": "chocolate",
+    "cobertura": "chantilly",
+    "recheio": null,
+    "enfeites": [
+      "chantilly"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pave de natal",
+      "pave de chocolate",
+      "pave sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

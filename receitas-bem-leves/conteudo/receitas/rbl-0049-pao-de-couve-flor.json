@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0049",
+  "slug": "pao-de-couve-flor",
+  "nome": "Pão de couve-flor",
+  "descricao": "Pão de forma de couve-flor, ovos e queijo, macio e fatiável, para torrar e rechear.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 51,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (8 fatias)"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve-flor",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de couve-flor picada (1 couve-flor pequena)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "linhaca-moida",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de linhaça moída"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Pulse a couve-flor crua no processador ou rale no ralo grosso até ficar com cara de arroz."
+    },
+    {
+      "texto": "Coloque num refratário, cubra e leve ao micro-ondas por 6 minutos.",
+      "aviso": "Sai vapor quente: tire a tampa com cuidado.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Espere amornar, coloque num pano de prato limpo e torça com força para tirar o máximo de água."
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma forma de bolo inglês (25 cm) com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com um garfo e junte a couve-flor, os queijos, a linhaça e o sal."
+    },
+    {
+      "texto": "Acrescente o fermento, misture e despeje na forma, alisando por cima."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até dourar e firmar no centro.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere esfriar por completo na forma antes de fatiar: quente, ele esfarela."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a linhaça moída por farelo de aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use brócolis no lugar de metade da couve-flor."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde fatiado na geladeira por até 4 dias e toste na frigideira antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 136,
+      "carboidratos_g": 4.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0049.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de couve flor",
+      "pao low carb",
+      "pao sem farinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

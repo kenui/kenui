@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0073",
+  "nome": "Omelete de atum com tomate",
+  "porcoes": 1,
+  "porcao": "1 omelete",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "atum-em-lata",
+      "texto": "1/3 de lata de atum escorrido (40 g)",
+      "gramas": 40,
+      "kcal": 66.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 277 Atum, conserva em óleo",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1/2 tomate picado sem sementes",
+      "gramas": 61.5,
+      "kcal": 9.2,
+      "carboidratos_g": 1.91,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 colher (sopa) de cebola picadinha",
+      "gramas": 10,
+      "kcal": 3.9,
+      "carboidratos_g": 0.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (chá) de azeite",
+      "gramas": 4.5,
+      "kcal": 39.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 263.6,
+    "carboidratos_g": 4.6
+  },
+  "por_porcao": {
+    "kcal": 264,
+    "carboidratos_g": 4.6
+  }
+}

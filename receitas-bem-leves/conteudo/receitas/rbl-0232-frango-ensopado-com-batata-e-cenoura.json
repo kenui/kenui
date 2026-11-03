@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0232",
+  "slug": "frango-ensopado-com-batata-e-cenoura",
+  "nome": "Frango ensopado com batata e cenoura",
+  "descricao": "Coxas de frango cozidas devagar num molho de tomate caseiro com batata e cenoura, do jeito de almoço de família.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (2 coxas com legumes)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "8 coxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de açafrão-da-terra (cúrcuma)"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates maduros picados"
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 500,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água quente (500 ml)"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas médias em cubos grandes"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média em rodelas"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as coxas com o alho, o sal e o açafrão-da-terra."
+    },
+    {
+      "texto": "Numa panela grande, aqueça o óleo e doure as coxas em fogo médio, virando, por cerca de 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola e mexa por 2 minutos, até murchar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente o tomate e o extrato de tomate e cozinhe 3 minutos, raspando o fundo da panela.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Adicione a água quente, tampe e cozinhe em fogo baixo por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Coloque a batata e a cenoura, tampe de novo e cozinhe mais 15 a 20 minutos, até os legumes ficarem macios e o caldo engrossar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Acerte o sal, desligue e espalhe a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata por mandioquinha ou chuchu."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxa no lugar da coxa, com o mesmo tempo de cozimento."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira, em pote fechado. A batata não congela bem: se for congelar, cozinhe sem ela."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 370,
+      "carboidratos_g": 22.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0232.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango ensopado",
+      "frango com batata",
+      "frango cozido com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

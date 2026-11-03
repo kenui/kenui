@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0429",
+  "slug": "creme-de-baunilha-com-morangos",
+  "nome": "Creme de baunilha com morangos",
+  "descricao": "Creme de baunilha cozido na panela, liso e gelado, em taças com morangos frescos.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 8,
+    "descanso_min": 120,
+    "total_min": 138
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "taças"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, fora do fogo, misture o leite, o ovo, o amido e o eritritol com um batedor até dissolver o amido."
+    },
+    {
+      "texto": "Leve ao fogo médio e mexa sem parar por 6 a 8 minutos, até engrossar e ferver.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue, junte a baunilha e a manteiga e mexa até ficar brilhante."
+    },
+    {
+      "texto": "Distribua em 4 taças, cubra com filme encostado no creme e leve à geladeira por 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Sirva com os morangos por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque os morangos por banana, manga ou frutas vermelhas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Filme encostado no creme impede a formação de película por cima."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 154,
+      "carboidratos_g": 13.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0429.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "creme de baunilha",
+      "creme de confeiteiro sem acucar",
+      "creme com morango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "receita": "rbl-0058",
+  "nome": "Pãozinho de espinafre",
+  "porcoes": 12,
+  "porcao": "1 pãozinho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "espinafre",
+      "texto": "3 xícaras (chá) de folhas de espinafre",
+      "gramas": 90,
+      "kcal": 14.4,
+      "carboidratos_g": 2.34,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3/4 de xícara (chá) de água morna",
+      "gramas": 180,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/4 de xícara (chá) de azeite",
+      "gramas": 54,
+      "kcal": 477.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo",
+      "gramas": 437.5,
+      "kcal": 1575,
+      "carboidratos_g": 328.56,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "2 colheres (chá) de fermento biológico seco",
+      "gramas": 8,
+      "kcal": 26,
+      "carboidratos_g": 3.3,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2167.7,
+    "carboidratos_g": 335.7
+  },
+  "por_porcao": {
+    "kcal": 181,
+    "carboidratos_g": 28
+  }
+}

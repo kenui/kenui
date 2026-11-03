@@ -1,0 +1,187 @@
+{
+  "id": "rbl-0295",
+  "slug": "moqueca-de-peixe",
+  "nome": "Moqueca de peixe",
+  "descricao": "Moqueca baiana com postas de peixe cozidas no leite de coco com dendê, tomate e pimentão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "descanso_min": 15,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 postas com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peixe-cacao",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de cação em postas"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates em rodelas"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em rodelas"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão verde em rodelas"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "azeite-de-dende",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite de dendê",
+      "alternativa": {
+        "ingrediente": "azeite",
+        "texto": "ou 2 colheres (sopa) de azeite com 1 colher (chá) de páprica doce"
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de coentro picado"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as postas com o suco de limão, o alho e o sal. Deixe na geladeira por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa panela larga, de preferência de barro, regue o fundo com o azeite e faça uma camada com metade da cebola, do tomate e dos pimentões."
+    },
+    {
+      "texto": "Arrume as postas por cima e cubra com o restante da cebola, do tomate e dos pimentões."
+    },
+    {
+      "texto": "Regue com o leite de coco e o dendê. Tampe e cozinhe em fogo médio por 20 a 25 minutos, sem mexer, só balançando a panela de vez em quando, até o peixe ficar macio.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Desligue, espalhe o coentro e a cebolinha e sirva na própria panela.",
+      "aviso": "A panela de barro fica muito quente: use luvas para levar à mesa."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cação por robalo, badejo ou pescada amarela em postas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Quem não gosta de coentro pode usar só salsinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não mexa a moqueca com colher: as postas desmancham. Balance a panela pelas alças."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça em fogo baixo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 389,
+      "carboidratos_g": 13.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0295.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "moqueca baiana",
+      "moqueca de cacao",
+      "peixe no leite de coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

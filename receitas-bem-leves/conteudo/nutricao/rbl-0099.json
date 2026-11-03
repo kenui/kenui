@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0099",
+  "nome": "Cuscuz de tapioca com coco",
+  "porcoes": 8,
+  "porcao": "1 quadrado",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "texto": "1 xícara (chá) de tapioca granulada",
+      "gramas": 152,
+      "kcal": 544.2,
+      "carboidratos_g": 134.81,
+      "fonte": "USDA SR Legacy 169717 Tapioca, pearl, dry",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 88.69
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1/2 xícara (chá) de coco ralado seco sem açúcar (40 g)",
+      "gramas": 40,
+      "kcal": 264,
+      "carboidratos_g": 9.46,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 e 1/4 de xícara (chá) de leite",
+      "gramas": 305,
+      "kcal": 186.1,
+      "carboidratos_g": 14.64,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "texto": "1/2 xícara (chá) de leite de coco",
+      "gramas": 113,
+      "kcal": 187.6,
+      "carboidratos_g": 2.49,
+      "fonte": "TACO 4ª ed. 523 Leite, de coco",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 2.2
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1181.8,
+    "carboidratos_g": 161.4
+  },
+  "por_porcao": {
+    "kcal": 148,
+    "carboidratos_g": 20.2
+  }
+}

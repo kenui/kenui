@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0280",
+  "slug": "linguica-com-legumes-no-forno",
+  "nome": "Linguiça com legumes no forno",
+  "descricao": "Gomos de linguiça toscana assados na mesma assadeira com batata, abobrinha, pimentão e cebola.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "linguica-suina",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de linguiça toscana (confira no rótulo: sem açúcar), em pedaços de 4 cm"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 batatas médias em cubos grandes"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em meias-luas grossas"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em pedaços"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em gomos"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho com casca, levemente amassados"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal (só para os legumes)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa assadeira grande, misture a batata, a cebola e o alho com o azeite, o sal e o alecrim. Espalhe numa camada."
+    },
+    {
+      "texto": "Coloque a linguiça por cima e asse por 20 minutos.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Junte a abobrinha e o pimentão, misture com a gordura da assadeira e asse mais 20 minutos, até a linguiça dourar e a batata ficar macia.",
+      "aviso": "Use luvas: a assadeira e a gordura ficam muito quentes.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata por batata-doce ou abóbora."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use linguiça de frango: fica mais leve e o tempo é o mesmo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Espalhe bem na assadeira: amontoado, assa no vapor e não doura."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 504,
+      "carboidratos_g": 30.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0280.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "linguica",
+    "enfeites": [
+      "abobrinha",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "linguica assada",
+      "linguica com batata",
+      "linguica toscana no forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

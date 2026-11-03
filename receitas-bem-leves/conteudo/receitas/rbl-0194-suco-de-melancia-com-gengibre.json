@@ -1,0 +1,124 @@
+{
+  "id": "rbl-0194",
+  "slug": "suco-de-melancia-com-gengibre",
+  "nome": "Suco de melancia com gengibre",
+  "descricao": "Suco leve de melancia com um toque picante de gengibre e limão.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "melancia",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de melancia picada, sem sementes"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre ralado"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água gelada"
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão em rodelas para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tire a casca e as sementes da melancia e corte em pedaços.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador a melancia, o gengibre, o suco de limão e a água por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Coe, se preferir, e sirva com gelo e rodelas de limão."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o gengibre por folhas de hortelã."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Melancia solta água: mexa o suco antes de servir e tome no mesmo dia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A melancia já é bem doce; prove antes de pensar em adoçar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 79,
+      "carboidratos_g": 19.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0194.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de melancia",
+      "melancia com gengibre",
+      "suco natural"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

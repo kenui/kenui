@@ -1,0 +1,109 @@
+{
+  "id": "rbl-0111",
+  "slug": "iogurte-natural-com-mamao-e-linhaca",
+  "nome": "Iogurte natural com mamão e linhaça",
+  "descricao": "Tigela de iogurte natural com cubos de mamão papaia e linhaça por cima.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "mamao-papaia",
+      "quantidade": 140,
+      "medida": "g",
+      "texto": "1 fatia média de mamão papaia em cubos (140 g)"
+    },
+    {
+      "ingrediente": "linhaca",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de linhaça"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte o mamão em cubos, tirando as sementes e a casca.",
+      "aviso": "Use faca afiada e apoie o mamão na tábua."
+    },
+    {
+      "texto": "Coloque o iogurte na tigela, cubra com o mamão e salpique a linhaça."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o mamão por manga ou melão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar da linhaça, use chia ou aveia em flocos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Linhaça moída fica mais macia na boca. Moa no liquidificador e guarde em pote fechado na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 194,
+      "carboidratos_g": 22.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0111.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte com mamao",
+      "iogurte com frutas",
+      "mamao com iogurte"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

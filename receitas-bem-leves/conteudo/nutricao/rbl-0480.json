@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0480",
+  "nome": "Farofa de castanhas",
+  "porcoes": 10,
+  "porcao": "3 colheres (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "4 colheres (sopa) de manteiga",
+      "gramas": 56.8,
+      "kcal": 412.4,
+      "carboidratos_g": 0.06,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "texto": "1/2 xícara (chá) de castanha-do-pará picada (80 g)",
+      "gramas": 80,
+      "kcal": 514.4,
+      "carboidratos_g": 12.08,
+      "fonte": "TACO 4ª ed. 589 Castanha-do-Brasil, crua",
+      "por_100g": {
+        "kcal": 643,
+        "carboidratos_g": 15.1
+      }
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "texto": "1/2 xícara (chá) de castanha-de-caju picada (80 g)",
+      "gramas": 80,
+      "kcal": 456,
+      "carboidratos_g": 23.28,
+      "fonte": "TACO 4ª ed. 588 Castanha-de-caju, torrada, salgada",
+      "por_100g": {
+        "kcal": 570,
+        "carboidratos_g": 29.1
+      }
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "texto": "250 g de farinha de mandioca torrada (meio pacote)",
+      "gramas": 250,
+      "kcal": 912.5,
+      "carboidratos_g": 223,
+      "fonte": "TACO 4ª ed. 122 Farinha, de mandioca, torrada",
+      "por_100g": {
+        "kcal": 365,
+        "carboidratos_g": 89.2
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "4 colheres (sopa) de salsinha picada",
+      "gramas": 15.2,
+      "kcal": 5,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2353.4,
+    "carboidratos_g": 271.2
+  },
+  "por_porcao": {
+    "kcal": 235,
+    "carboidratos_g": 27.1
+  }
+}

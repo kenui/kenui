@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0430",
+  "slug": "creme-de-cacau-de-colher",
+  "nome": "Creme de cacau de colher",
+  "descricao": "Creme de cacau cozido na panela, espesso e brilhante, gostoso morno ou gelado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 8,
+    "descanso_min": 60,
+    "total_min": 73
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "potinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 potinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de amido de milho"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1/2 caixinha de creme de leite (100 g)"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "castanha-do-para",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "2 castanhas-do-pará picadas para enfeitar (20 g)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, fora do fogo, misture o leite, o amido, o cacau e o eritritol até não ter grumos."
+    },
+    {
+      "texto": "Leve ao fogo médio e mexa sem parar por 6 a 8 minutos, até engrossar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue e junte a manteiga e o creme de leite, mexendo até ficar liso."
+    },
+    {
+      "texto": "Sirva morno ou deixe na geladeira por 1 hora, coberto com filme encostado no creme.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Enfeite com a castanha picada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por mais 1/4 de xícara de leite: o creme fica mais leve."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-do-pará por nozes ou amendoim."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 179,
+      "carboidratos_g": 12.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0430.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "creme de chocolate",
+      "creme de cacau",
+      "brigadeiro de colher sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

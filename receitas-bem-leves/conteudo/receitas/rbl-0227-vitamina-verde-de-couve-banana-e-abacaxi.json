@@ -1,0 +1,130 @@
+{
+  "id": "rbl-0227",
+  "slug": "vitamina-verde-de-couve-banana-e-abacaxi",
+  "nome": "Vitamina verde de couve, banana e abacaxi",
+  "descricao": "Vitamina verde batida com água de coco, couve, banana e abacaxi, docinha e refrescante.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 folha grande de couve-manteiga sem o talo (1 xícara picada)"
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana-nanica madura congelada em rodelas"
+    },
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de abacaxi picado"
+    },
+    {
+      "ingrediente": "agua-de-coco",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água de coco gelada"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água gelada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave bem a couve, tire o talo e pique."
+    },
+    {
+      "texto": "Bata no liquidificador a couve com a água de coco e a água por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Junte a banana e o abacaxi e bata mais 1 minuto, até ficar liso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a couve por 1 xícara de folhas de espinafre."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem água de coco, use 1 e 1/2 xícara de água gelada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bater a couve primeiro, só com o líquido, deixa a vitamina lisinha, sem pedacinhos de folha."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 105,
+      "carboidratos_g": 26.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0227.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "banana_rodelas",
+      "abacaxi"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina verde",
+      "smoothie verde",
+      "couve com banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

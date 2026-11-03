@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0202",
+  "nome": "Chá gelado de maçã com canela",
+  "porcoes": 4,
+  "porcao": "1 copo de 230 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média em fatias finas (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó (ou 2 paus de canela)",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol",
+      "gramas": 12.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 90.4,
+    "carboidratos_g": 24.9
+  },
+  "por_porcao": {
+    "kcal": 23,
+    "carboidratos_g": 6.2
+  }
+}

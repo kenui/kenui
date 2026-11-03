@@ -1,0 +1,236 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "169254": {
+      "descricao": "Mushrooms, canned, drained solids",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 156
+        },
+        {
+          "quantidade": 1,
+          "medida": "can",
+          "gramas": 132
+        },
+        {
+          "quantidade": 1,
+          "medida": "large",
+          "gramas": 16
+        },
+        {
+          "quantidade": 1,
+          "medida": "medium",
+          "gramas": 12
+        },
+        {
+          "quantidade": 1,
+          "medida": "small",
+          "gramas": 7
+        },
+        {
+          "quantidade": 10,
+          "medida": "slices",
+          "gramas": 40
+        },
+        {
+          "quantidade": 8,
+          "medida": "caps",
+          "gramas": 47
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "cup pieces",
+          "gramas": 78
+        }
+      ],
+      "lipidios_g": 0.29,
+      "proteina_g": 1.87,
+      "fibra_g": 2.4,
+      "carboidratos_g": 5.09,
+      "kcal": 25
+    },
+    "169997": {
+      "descricao": "Coriander (cilantro) leaves, raw",
+      "porcoes": [
+        {
+          "quantidade": 0.25,
+          "medida": "cup",
+          "gramas": 4
+        },
+        {
+          "quantidade": 9,
+          "medida": "sprigs",
+          "gramas": 20
+        }
+      ],
+      "proteina_g": 2.13,
+      "carboidratos_g": 3.67,
+      "kcal": 23,
+      "fibra_g": 2.8,
+      "lipidios_g": 0.52
+    },
+    "170568": {
+      "descricao": "Nuts, almonds, blanched",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup whole kernels",
+          "gramas": 145
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 9.1
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "proteina_g": 21.4,
+      "fibra_g": 9.9,
+      "lipidios_g": 52.52,
+      "carboidratos_g": 18.67,
+      "kcal": 590
+    },
+    "170923": {
+      "descricao": "Spices, cumin seed",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, whole",
+          "gramas": 2.1
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, whole",
+          "gramas": 6
+        }
+      ],
+      "proteina_g": 17.81,
+      "fibra_g": 10.5,
+      "lipidios_g": 22.27,
+      "carboidratos_g": 44.24,
+      "kcal": 375
+    },
+    "170924": {
+      "descricao": "Spices, curry powder",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 2
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 6.3
+        }
+      ],
+      "kcal": 325,
+      "fibra_g": 53.2,
+      "proteina_g": 14.29,
+      "lipidios_g": 14.01,
+      "carboidratos_g": 55.83
+    },
+    "170938": {
+      "descricao": "Spices, thyme, dried",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp, leaves",
+          "gramas": 1
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, leaves",
+          "gramas": 2.7
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp, ground",
+          "gramas": 1.4
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp, ground",
+          "gramas": 4.3
+        }
+      ],
+      "lipidios_g": 7.43,
+      "carboidratos_g": 63.94,
+      "kcal": 276,
+      "proteina_g": 9.11,
+      "fibra_g": 37
+    },
+    "172231": {
+      "descricao": "Spices, turmeric, ground",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 3
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 9.4
+        }
+      ],
+      "lipidios_g": 3.25,
+      "carboidratos_g": 67.14,
+      "kcal": 312,
+      "proteina_g": 9.68,
+      "fibra_g": 22.7
+    },
+    "172237": {
+      "descricao": "Vinegar, distilled",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 14.9
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 238
+        },
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 5
+        }
+      ],
+      "lipidios_g": 0,
+      "proteina_g": 0,
+      "fibra_g": 0,
+      "carboidratos_g": 0.04,
+      "kcal": 18
+    },
+    "173475": {
+      "descricao": "Spearmint, fresh",
+      "porcoes": [
+        {
+          "quantidade": 2,
+          "medida": "leaves",
+          "gramas": 0.3
+        },
+        {
+          "quantidade": 2,
+          "medida": "tbsp",
+          "gramas": 11.4
+        }
+      ],
+      "lipidios_g": 0.73,
+      "carboidratos_g": 8.41,
+      "kcal": 44,
+      "proteina_g": 3.29,
+      "fibra_g": 6.8
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0119",
+  "slug": "panquecas-de-abobora-com-canela",
+  "nome": "Panquecas de abóbora com canela",
+  "descricao": "Panquecas de liquidificador com abóbora cabotiá, aveia, canela e noz-moscada, macias e alaranjadas.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 30,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "panquecas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 a 3 panquecas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 fatia de abóbora cabotiá sem casca, em cubos (200 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora em água fervente por 12 a 15 minutos, até ficar bem macia. Escorra e deixe amornar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "No liquidificador, bata a abóbora, os ovos, o leite, a aveia, o eritritol, a canela, a noz-moscada e o sal por 1 minuto, até ficar liso.",
+      "aviso": "Deixe a abóbora amornar antes: liquidificador com coisa quente pode estourar a tampa."
+    },
+    {
+      "texto": "Junte o fermento e pulse só para misturar."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente com um pouco do óleo e aqueça em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca."
+    },
+    {
+      "texto": "Deixe 2 a 3 minutos, até firmar por baixo. Vire e deixe mais 1 a 2 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Repita até acabar a massa."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora por cenoura cozida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sirva com iogurte natural e canela, ou com fatias de banana."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele por 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 166,
+      "carboidratos_g": 20.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0119.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_pilha",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panqueca de abobora",
+      "panqueca de aveia",
+      "panqueca doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

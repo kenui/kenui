@@ -1,0 +1,167 @@
+{
+  "id": "rbl-0425",
+  "slug": "pudim-de-abobora",
+  "nome": "Pudim de abóbora",
+  "descricao": "Pudim de forno de abóbora com canela e cravo, cor alaranjada e sabor de doce de vó.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 75,
+    "descanso_min": 240,
+    "total_min": 345
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "1 pedaço de abóbora cabotiá sem casca (400 g), em cubos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de cravo em pó"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora em água por 15 minutos, até ficar macia. Escorra bem e deixe amornar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com o óleo uma forma de pudim de 20 cm."
+    },
+    {
+      "texto": "Bata no liquidificador a abóbora, o leite, os ovos, o leite em pó, o eritritol, a canela e o cravo por 2 minutos.",
+      "aviso": "Espere a abóbora amornar antes de bater: líquido quente no liquidificador pode espirrar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Despeje na forma, cubra com papel-alumínio e asse em banho-maria por 50 a 60 minutos, até firmar no centro.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por pelo menos 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Desenforme e polvilhe um pouco de canela por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora cabotiá por abóbora de pescoço ou moranga."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Escorra bem a abóbora: água demais deixa o pudim mole."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 120,
+      "carboidratos_g": 10.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0425.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela",
+      "abobora"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de abobora sem acucar",
+      "doce de abobora de forno",
+      "pudim de jerimum"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

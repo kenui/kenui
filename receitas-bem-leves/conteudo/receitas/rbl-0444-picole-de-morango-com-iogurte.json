@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0444",
+  "slug": "picole-de-morango-com-iogurte",
+  "nome": "Picolé de morango com iogurte",
+  "descricao": "Picolé cremoso de morango batido com iogurte natural, rosado e refrescante.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "picolés"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 picolé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "morango",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de morangos sem as folhas"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 potes de iogurte natural integral (340 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador os morangos, o iogurte e o eritritol por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Despeje em 8 forminhas de picolé, coloque os palitos e leve ao congelador por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Para desenformar, passe a forminha rapidamente em água morna."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por frutas vermelhas congeladas sem açúcar ou por manga."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Deixe alguns pedacinhos de morango inteiros dentro das forminhas: fica bonito no corte."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 32,
+      "carboidratos_g": 3.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0444.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "picole",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picole de iogurte",
+      "picole de morango caseiro",
+      "sorvete de palito"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

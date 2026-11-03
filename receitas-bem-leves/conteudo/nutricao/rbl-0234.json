@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0234",
+  "nome": "Frango ao curry com leite de coco",
+  "porcoes": 4,
+  "porcao": "1 concha cheia (cerca de 1 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "peito-de-frango",
+      "texto": "600 g de peito de frango em cubos",
+      "gramas": 600,
+      "kcal": 714,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 409 Frango, peito, sem pele, cru",
+      "por_100g": {
+        "kcal": 119,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (sopa) de óleo",
+      "gramas": 13.6,
+      "kcal": 120.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "texto": "1 colher (chá) de gengibre fresco ralado",
+      "gramas": 2,
+      "kcal": 1.6,
+      "carboidratos_g": 0.36,
+      "fonte": "USDA SR Legacy 169231 Ginger root, raw",
+      "por_100g": {
+        "kcal": 80,
+        "carboidratos_g": 17.77
+      }
+    },
+    {
+      "ingrediente": "curry",
+      "texto": "1 colher (sopa) de curry em pó",
+      "gramas": 6.3,
+      "kcal": 20.5,
+      "carboidratos_g": 3.52,
+      "fonte": "USDA SR Legacy 170924 Spices, curry powder",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 55.83
+      }
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "texto": "1/2 colher (chá) de açafrão-da-terra (cúrcuma)",
+      "gramas": 1.5,
+      "kcal": 4.7,
+      "carboidratos_g": 1.01,
+      "fonte": "USDA SR Legacy 172231 Spices, turmeric, ground",
+      "por_100g": {
+        "kcal": 312,
+        "carboidratos_g": 67.14
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate picado, sem sementes",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "texto": "1 vidro de leite de coco (200 ml; confira no rótulo: sem açúcar)",
+      "gramas": 190,
+      "kcal": 315.4,
+      "carboidratos_g": 4.18,
+      "fonte": "TACO 4ª ed. 523 Leite, de coco",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 2.2
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "texto": "2 colheres (sopa) de coentro picado",
+      "gramas": 2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 169997 Coriander (cilantro) leaves, raw",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 3.67
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1245,
+    "carboidratos_g": 24.2
+  },
+  "por_porcao": {
+    "kcal": 311,
+    "carboidratos_g": 6
+  }
+}

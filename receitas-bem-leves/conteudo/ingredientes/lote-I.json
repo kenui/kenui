@@ -1,0 +1,584 @@
+{
+  "descricao": "Ingredientes do lote I",
+  "ingredientes": [
+    {
+      "id": "peru-inteiro",
+      "nome": "peru inteiro",
+      "sinonimos": [
+        "peru natural"
+      ],
+      "fonte_nutricao": "usda:171081",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "frango-inteiro",
+      "nome": "frango inteiro",
+      "sinonimos": [
+        "frango com pele"
+      ],
+      "fonte_nutricao": "taco:402",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "pescada-inteira",
+      "nome": "pescada inteira",
+      "sinonimos": [
+        "peixe inteiro",
+        "pescada branca"
+      ],
+      "fonte_nutricao": "taco:304",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "bacalhau-salgado",
+      "nome": "bacalhau salgado",
+      "sinonimos": [
+        "bacalhau",
+        "lombo de bacalhau"
+      ],
+      "fonte_nutricao": "taco:279",
+      "secao_mercado": "carnes_ovos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "laranja",
+      "nome": "laranja",
+      "nome_plural": "laranjas",
+      "sinonimos": [
+        "laranja-pera"
+      ],
+      "fonte_nutricao": "taco:214",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 131,
+          "fonte": "USDA 169097: 1 fruit (2-5/8\" dia) = 131 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "laranja"
+    },
+    {
+      "id": "suco-de-laranja",
+      "nome": "suco de laranja natural",
+      "sinonimos": [
+        "suco de laranja"
+      ],
+      "fonte_nutricao": "taco:215",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 248,
+          "fonte": "USDA 169098: 1 cup = 248 g"
+        },
+        "unidade": {
+          "g": 86,
+          "fonte": "USDA 169098: 1 fruit yields = 86 g de suco"
+        },
+        "colher_sopa": {
+          "g": 15.5,
+          "fonte": "USDA 169098: 1 cup = 248 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "laranja"
+    },
+    {
+      "id": "farinha-de-mandioca",
+      "nome": "farinha de mandioca torrada",
+      "sinonimos": [
+        "farinha de mandioca",
+        "farinha para farofa"
+      ],
+      "fonte_nutricao": "taco:122",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "lentilha",
+      "nome": "lentilha",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:578",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 192,
+          "fonte": "USDA 172420: 1 cup = 192 g"
+        },
+        "colher_sopa": {
+          "g": 12,
+          "fonte": "USDA 172420: 1 tablespoon = 12 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "grao-de-bico",
+      "nome": "grão-de-bico",
+      "sinonimos": [
+        "grão de bico"
+      ],
+      "fonte_nutricao": "usda:173756",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 200,
+          "fonte": "USDA 173756: 1 cup = 200 g"
+        },
+        "colher_sopa": {
+          "g": 12.5,
+          "fonte": "USDA 173756: 1 tbsp = 12,5 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "alface",
+      "nome": "alface",
+      "sinonimos": [
+        "alface crespa"
+      ],
+      "fonte_nutricao": "taco:78",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 36,
+          "fonte": "USDA 169249: 1 cup shredded = 36 g"
+        },
+        "unidade": {
+          "g": 360,
+          "fonte": "USDA 169249: 1 head = 360 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "folhas_verdes"
+    },
+    {
+      "id": "rucula",
+      "nome": "rúcula",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:169387",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 20,
+          "fonte": "USDA 169387: 0,5 cup = 10 g, × 2"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "folhas_verdes"
+    },
+    {
+      "id": "roma",
+      "nome": "romã",
+      "nome_plural": "romãs",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:249",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 282,
+          "fonte": "USDA 169134: 1 pomegranate (4\" dia) = 282 g"
+        },
+        "xicara": {
+          "g": 174,
+          "fonte": "USDA 169134: 0,5 cup arils = 87 g, × 2"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "frutas_vermelhas"
+    },
+    {
+      "id": "uva-passa",
+      "nome": "uva-passa",
+      "sinonimos": [
+        "passas",
+        "uva passa preta"
+      ],
+      "fonte_nutricao": "usda:168165",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 145,
+          "fonte": "USDA 168165: 1 cup (not packed) = 145 g"
+        },
+        "colher_sopa": {
+          "g": 9.1,
+          "fonte": "USDA 168165: 1 cup = 145 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "damasco-seco",
+      "nome": "damasco seco",
+      "sinonimos": [
+        "damasco"
+      ],
+      "fonte_nutricao": "usda:173941",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 130,
+          "fonte": "USDA 173941: 1 cup, halves = 130 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "noz",
+      "nome": "nozes",
+      "sinonimos": [
+        "noz",
+        "nozes chilenas"
+      ],
+      "fonte_nutricao": "taco:597",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 117,
+          "fonte": "USDA 170187: 1 cup, chopped = 117 g"
+        },
+        "colher_sopa": {
+          "g": 7.3,
+          "fonte": "USDA 170187: 1 cup, chopped = 117 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "castanhas"
+    },
+    {
+      "id": "creme-de-leite-fresco",
+      "nome": "creme de leite fresco",
+      "sinonimos": [
+        "nata",
+        "creme de leite para chantilly"
+      ],
+      "fonte_nutricao": "usda:170859",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 238,
+          "fonte": "USDA 170859: 1 cup, fluid = 238 g"
+        },
+        "colher_sopa": {
+          "g": 15,
+          "fonte": "USDA 170859: 1 tbsp = 15 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "chantilly"
+    },
+    {
+      "id": "manga",
+      "nome": "manga",
+      "nome_plural": "mangas",
+      "sinonimos": [
+        "manga tommy"
+      ],
+      "fonte_nutricao": "taco:231",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 336,
+          "fonte": "USDA 169910: 1 fruit without refuse = 336 g"
+        },
+        "xicara": {
+          "g": 165,
+          "fonte": "USDA 169910: 1 cup pieces = 165 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "manga"
+    },
+    {
+      "id": "abacaxi",
+      "nome": "abacaxi",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:164",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 165,
+          "fonte": "USDA 169124: 1 cup, chunks = 165 g"
+        },
+        "unidade": {
+          "g": 905,
+          "fonte": "USDA 169124: 1 fruit = 905 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "abacaxi"
+    },
+    {
+      "id": "uva",
+      "nome": "uva",
+      "nome_plural": "uvas",
+      "sinonimos": [
+        "uva itália",
+        "uva sem semente"
+      ],
+      "fonte_nutricao": "taco:256",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 151,
+          "fonte": "USDA 174683: 1 cup = 151 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "uva"
+    },
+    {
+      "id": "kiwi",
+      "nome": "kiwi",
+      "nome_plural": "kiwis",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:207",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 69,
+          "fonte": "USDA 168153: 1 fruit (2\" dia) = 69 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "coco-ralado-seco",
+      "nome": "coco ralado seco sem açúcar",
+      "sinonimos": [
+        "coco ralado"
+      ],
+      "fonte_nutricao": "usda:170170",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "coco_ralado"
+    },
+    {
+      "id": "ameixa-seca",
+      "nome": "ameixa seca",
+      "nome_plural": "ameixas secas",
+      "sinonimos": [
+        "ameixa preta"
+      ],
+      "fonte_nutricao": "usda:168162",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 9.5,
+          "fonte": "USDA 168162: 1 prune, pitted = 9,5 g"
+        },
+        "xicara": {
+          "g": 174,
+          "fonte": "USDA 168162: 1 cup, pitted = 174 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "tamara",
+      "nome": "tâmara",
+      "nome_plural": "tâmaras",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:171726",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 7.1,
+          "fonte": "USDA 171726: 1 date, pitted = 7,1 g"
+        },
+        "xicara": {
+          "g": 147,
+          "fonte": "USDA 171726: 1 cup, chopped = 147 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "castanha-de-caju",
+      "nome": "castanha-de-caju",
+      "sinonimos": [
+        "castanha de caju",
+        "caju torrado"
+      ],
+      "fonte_nutricao": "taco:588",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "castanhas"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0042",
+  "nome": "Pão de centeio",
+  "porcoes": 12,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-centeio",
+      "texto": "1 e 1/2 xícara (chá) de farinha de centeio",
+      "gramas": 192,
+      "kcal": 645.1,
+      "carboidratos_g": 140.74,
+      "fonte": "TACO 4ª ed. 32 Farinha, de centeio, integral",
+      "por_100g": {
+        "kcal": 336,
+        "carboidratos_g": 73.3
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
+      "gramas": 187.5,
+      "kcal": 675,
+      "carboidratos_g": 140.81,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "1 colher (sopa) de fermento biológico seco",
+      "gramas": 12,
+      "kcal": 39,
+      "carboidratos_g": 4.95,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "erva-doce",
+      "texto": "1 colher (chá) de erva-doce",
+      "gramas": 2,
+      "kcal": 6.9,
+      "carboidratos_g": 1.05,
+      "fonte": "USDA SR Legacy 171323 Spices, fennel seed",
+      "por_100g": {
+        "kcal": 345,
+        "carboidratos_g": 52.29
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/4 de xícara (chá) de água morna",
+      "gramas": 300,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1604.7,
+    "carboidratos_g": 287.5
+  },
+  "por_porcao": {
+    "kcal": 134,
+    "carboidratos_g": 24
+  }
+}

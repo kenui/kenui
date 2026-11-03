@@ -1,0 +1,124 @@
+{
+  "id": "rbl-0061",
+  "slug": "lascas-crocantes-de-parmesao",
+  "nome": "Lascas crocantes de parmesão",
+  "descricao": "Discos finos de parmesão assados até virarem lascas crocantes, que substituem a torradinha com pastas e saladas.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 8,
+    "descanso_min": 5,
+    "total_min": 18
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "lascas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 lascas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo parmesão ralado grosso (100 g)"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Misture o parmesão, o orégano e a pimenta."
+    },
+    {
+      "texto": "Faça 16 montinhos de 1 colher (sopa) cada na assadeira, com 3 cm de espaço entre eles, e achate de leve."
+    },
+    {
+      "texto": "Asse por 6 a 8 minutos, até derreter e dourar nas bordas.",
+      "aviso": "Fique de olho: do dourado para o queimado é rápido.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Deixe esfriar 5 minutos na assadeira: as lascas ficam crocantes ao esfriar.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 8,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo minas meia cura bem ralado no lugar do parmesão."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para fazer na frigideira, use uma antiaderente em fogo baixo e deixe até dourar, sem virar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 114,
+      "carboidratos_g": 0.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0061.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chips de parmesao",
+      "biscoito de parmesao",
+      "torradinha de queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

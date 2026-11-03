@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0489",
+  "slug": "pure-de-batata-doce",
+  "nome": "Purê de batata-doce",
+  "descricao": "Purê liso de batata-doce com manteiga e um toque de noz-moscada, para acompanhar peru e pernil.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 kg de batata-doce"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a batata-doce e corte em pedaços iguais."
+    },
+    {
+      "texto": "Cozinhe em água com uma pitada de sal por 20 minutos, até ficar bem macia ao furar com o garfo.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Escorra bem e amasse ainda quente com um espremedor.",
+      "aviso": "Cuidado com a água fervente ao escorrer."
+    },
+    {
+      "texto": "Volte à panela em fogo baixo, junte a manteiga e o leite aos poucos, mexendo por 3 a 4 minutos, até ficar cremoso.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Tempere com o sal, a noz-moscada e a pimenta. Sirva com a cebolinha por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da batata-doce por abóbora cabotiá para um purê mais leve."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite? Use a água do cozimento ou 3/4 de xícara de caldo caseiro."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A batata-doce de casca roxa dá um purê mais firme; a de casca clara, mais úmido."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 200,
+      "carboidratos_g": 36.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0489.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pure",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pure de batata doce",
+      "pure de natal",
+      "pure cremoso"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

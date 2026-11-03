@@ -1,0 +1,354 @@
+{
+  "descricao": "Ingredientes do lote A",
+  "ingredientes": [
+    {
+      "id": "linhaca",
+      "nome": "linhaça (semente inteira)",
+      "sinonimos": [
+        "semente de linhaça"
+      ],
+      "fonte_nutricao": "taco:594",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 168,
+          "fonte": "USDA 169414: 1 cup, whole = 168 g"
+        },
+        "colher_sopa": {
+          "g": 10.3,
+          "fonte": "USDA 169414: 1 tbsp, whole = 10,3 g"
+        },
+        "colher_cha": {
+          "g": 3.4,
+          "fonte": "USDA 169414: 1 tsp, whole = 3,4 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "sementes"
+    },
+    {
+      "id": "linhaca-moida",
+      "nome": "linhaça moída",
+      "sinonimos": [
+        "farinha de linhaça"
+      ],
+      "fonte_nutricao": "taco:594",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 112,
+          "fonte": "USDA 169414: 1 tbsp, ground = 7 g × 16"
+        },
+        "colher_sopa": {
+          "g": 7,
+          "fonte": "USDA 169414: 1 tbsp, ground = 7 g"
+        },
+        "colher_cha": {
+          "g": 2.5,
+          "fonte": "USDA 169414: 1 tsp, ground = 2,5 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "sementes"
+    },
+    {
+      "id": "gergelim",
+      "nome": "gergelim",
+      "sinonimos": [
+        "semente de gergelim"
+      ],
+      "fonte_nutricao": "taco:593",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 144,
+          "fonte": "USDA 170150: 1 cup = 144 g"
+        },
+        "colher_sopa": {
+          "g": 9,
+          "fonte": "USDA 170150: 1 tbsp = 9 g"
+        },
+        "colher_cha": {
+          "g": 3,
+          "fonte": "USDA 170150: 1 tbsp = 9 g ÷ 3"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "gergelim"
+    },
+    {
+      "id": "semente-de-girassol",
+      "nome": "semente de girassol sem casca",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:170562",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": false,
+      "alternativa_padrao": "gergelim",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 140,
+          "fonte": "USDA 170562: 1 cup = 140 g"
+        },
+        "colher_sopa": {
+          "g": 8.8,
+          "fonte": "USDA 170562: 1 cup = 140 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "sementes"
+    },
+    {
+      "id": "semente-de-abobora",
+      "nome": "semente de abóbora sem casca",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:170556",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": false,
+      "alternativa_padrao": "linhaca",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 129,
+          "fonte": "USDA 170556: 1 cup = 129 g"
+        },
+        "colher_sopa": {
+          "g": 8.1,
+          "fonte": "USDA 170556: 1 cup = 129 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "sementes"
+    },
+    {
+      "id": "farinha-de-trigo-integral",
+      "nome": "farinha de trigo integral",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:168893",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 120,
+          "fonte": "USDA 168893: 1 cup = 120 g"
+        },
+        "colher_sopa": {
+          "g": 7.5,
+          "fonte": "USDA 168893: 1 cup = 120 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "farinha-de-centeio",
+      "nome": "farinha de centeio integral",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:32",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": false,
+      "alternativa_padrao": "farinha-de-trigo-integral",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 128,
+          "fonte": "USDA 168885 (rye flour, dark): 1 cup = 128 g"
+        },
+        "colher_sopa": {
+          "g": 8,
+          "fonte": "USDA 168885: 1 cup = 128 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "fuba",
+      "nome": "fubá",
+      "sinonimos": [
+        "farinha de milho fina"
+      ],
+      "fonte_nutricao": "taco:43",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 122,
+          "fonte": "USDA 169697 (cornmeal, whole-grain): 1 cup = 122 g"
+        },
+        "colher_sopa": {
+          "g": 7.6,
+          "fonte": "USDA 169697: 1 cup = 122 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "milho"
+    },
+    {
+      "id": "flocao-de-milho",
+      "nome": "flocão de milho",
+      "sinonimos": [
+        "farinha de milho flocada",
+        "massa para cuscuz"
+      ],
+      "fonte_nutricao": "taco:33",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "milho"
+    },
+    {
+      "id": "farelo-de-aveia",
+      "nome": "farelo de aveia",
+      "sinonimos": [],
+      "fonte_nutricao": "usda:168872",
+      "secao_mercado": "padaria_cereais",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 94,
+          "fonte": "USDA 168872: 1 cup = 94 g"
+        },
+        "colher_sopa": {
+          "g": 5.9,
+          "fonte": "USDA 168872: 1 cup = 94 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "aveia"
+    },
+    {
+      "id": "cream-cheese",
+      "nome": "cream cheese",
+      "sinonimos": [
+        "queijo cremoso"
+      ],
+      "fonte_nutricao": "usda:173418",
+      "secao_mercado": "laticinios_frios",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 232,
+          "fonte": "USDA 173418: 1 cup = 232 g"
+        },
+        "colher_sopa": {
+          "g": 14.5,
+          "fonte": "USDA 173418: 1 tbsp = 14,5 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "queijo_branco"
+    },
+    {
+      "id": "polvilho-azedo",
+      "nome": "polvilho azedo",
+      "sinonimos": [
+        "fécula de mandioca fermentada"
+      ],
+      "fonte_nutricao": "taco:124",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 128,
+          "fonte": "densidade de amido em pó (USDA 169698 amido de milho: 1 cup = 128 g)"
+        },
+        "colher_sopa": {
+          "g": 8,
+          "fonte": "densidade de amido em pó (USDA 169698 amido de milho: 1 cup = 128 g ÷ 16)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "erva-doce",
+      "nome": "erva-doce (semente)",
+      "sinonimos": [
+        "semente de funcho"
+      ],
+      "fonte_nutricao": "usda:171323",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2,
+          "fonte": "USDA 171323: 1 tsp, whole = 2 g"
+        },
+        "colher_sopa": {
+          "g": 5.8,
+          "fonte": "USDA 171323: 1 tbsp, whole = 5,8 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    }
+  ]
+}

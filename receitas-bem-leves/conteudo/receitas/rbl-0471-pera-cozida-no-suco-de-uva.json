@@ -1,0 +1,132 @@
+{
+  "id": "rbl-0471",
+  "slug": "pera-cozida-no-suco-de-uva",
+  "nome": "Pera cozida no suco de uva",
+  "descricao": "Peras inteiras cozidas em suco de uva fresca com canela e cravo, roxinhas e perfumadas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "descanso_min": 60,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "peras"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 pera com calda"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pera",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 peras firmes, descascadas, com o cabinho"
+    },
+    {
+      "ingrediente": "uva",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de uvas roxas, batidas com 1 xícara de água e coadas"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó (ou 1 pau de canela)"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cravo em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata as uvas com a água no liquidificador e passe por uma peneira."
+    },
+    {
+      "texto": "Coloque o suco de uva, a canela e o cravo numa panela onde as peras caibam em pé."
+    },
+    {
+      "texto": "Junte as peras, tampe e cozinhe em fogo baixo por 25 a 30 minutos, virando de vez em quando, até ficarem macias ao espetar com um palito.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Tire as peras e ferva o caldo sem tampa por mais 5 minutos, até engrossar um pouco.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Deixe as peras esfriarem dentro da calda por 1 hora, para pegar cor, e sirva mornas ou geladas com a calda.",
+      "temporizador_min": 60
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 e 1/2 xícaras (chá) de suco de uva integral, sem açúcar, no lugar das uvas batidas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pera por maçã sem casca, com 10 minutos a menos de panela."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, dentro da calda, por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 156,
+      "carboidratos_g": 40.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0471.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "uva",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pera ao vinho sem alcool",
+      "pera cozida",
+      "pera em calda de uva"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

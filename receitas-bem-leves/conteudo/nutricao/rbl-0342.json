@@ -1,0 +1,176 @@
+{
+  "receita": "rbl-0342",
+  "nome": "Salada morna de lentilha com abóbora",
+  "porcoes": 4,
+  "porcao": "1 prato fundo",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "500 g de abóbora cabotiá em cubos, com casca",
+      "gramas": 500,
+      "kcal": 195,
+      "carboidratos_g": 42,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1/2 colher (chá) de cominho",
+      "gramas": 1.1,
+      "kcal": 3.9,
+      "carboidratos_g": 0.46,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "lentilha",
+      "texto": "1 xícara (chá) de lentilha crua, lavada",
+      "gramas": 192,
+      "kcal": 650.9,
+      "carboidratos_g": 119.04,
+      "fonte": "TACO 4ª ed. 578 Lentilha, crua",
+      "por_100g": {
+        "kcal": 339,
+        "carboidratos_g": 62
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "750 ml de água",
+      "gramas": 750,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "rucula",
+      "texto": "1 maço de rúcula (100 g)",
+      "gramas": 100,
+      "kcal": 25,
+      "carboidratos_g": 3.65,
+      "fonte": "USDA SR Legacy 169387 Arugula, raw",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 3.65
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola em fatias finas",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "120 g de queijo minas frescal em cubos",
+      "gramas": 120,
+      "kcal": 316.8,
+      "carboidratos_g": 3.84,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1584.3,
+    "carboidratos_g": 177.8
+  },
+  "por_porcao": {
+    "kcal": 396,
+    "carboidratos_g": 44.5
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "descricao": "Ingredientes do lote H",
+  "ingredientes": [
+    {
+      "id": "gelatina-incolor",
+      "nome": "gelatina incolor sem sabor",
+      "sinonimos": [
+        "gelatina sem sabor",
+        "gelatina em pó incolor"
+      ],
+      "fonte_nutricao": "usda:169599",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 7,
+          "fonte": "USDA 169599: 1 envelope (1 tbsp) = 7 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "maracuja",
+      "nome": "maracujá (polpa com sementes)",
+      "nome_plural": "maracujás",
+      "sinonimos": [
+        "polpa de maracujá",
+        "maracujá azedo"
+      ],
+      "fonte_nutricao": "taco:232",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 236,
+          "fonte": "USDA 169108: 1 cup = 236 g"
+        },
+        "colher_sopa": {
+          "g": 14.75,
+          "fonte": "USDA 169108: 1 cup = 236 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "maracuja"
+    },
+    {
+      "id": "abacate",
+      "nome": "abacate (polpa)",
+      "nome_plural": "abacates",
+      "sinonimos": [
+        "abacate manteiga"
+      ],
+      "fonte_nutricao": "taco:163",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 230,
+          "fonte": "USDA 171705: 1 cup, pureed = 230 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "mamao-papaia",
+      "nome": "mamão papaia",
+      "nome_plural": "mamões papaia",
+      "sinonimos": [
+        "papaia",
+        "mamão"
+      ],
+      "fonte_nutricao": "taco:226",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 145,
+          "fonte": "USDA 169926: 1 cup 1\" pieces = 145 g"
+        },
+        "unidade": {
+          "g": 157,
+          "fonte": "USDA 169926: 1 fruit, small = 157 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "goiaba",
+      "nome": "goiaba vermelha",
+      "nome_plural": "goiabas",
+      "sinonimos": [
+        "goiaba vermelha madura"
+      ],
+      "fonte_nutricao": "taco:200",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 55,
+          "fonte": "USDA 173044: 1 fruit, without refuse = 55 g"
+        },
+        "xicara": {
+          "g": 165,
+          "fonte": "USDA 173044: 1 cup = 165 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "chia",
+      "nome": "semente de chia",
+      "sinonimos": [
+        "chia"
+      ],
+      "fonte_nutricao": "usda:170554",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "sementes"
+    },
+    {
+      "id": "cravo-em-po",
+      "nome": "cravo-da-índia em pó",
+      "sinonimos": [
+        "cravo em pó",
+        "cravo moído"
+      ],
+      "fonte_nutricao": "usda:171321",
+      "secao_mercado": "temperos",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 2.1,
+          "fonte": "USDA 171321: 1 tsp = 2,1 g"
+        },
+        "pitada": {
+          "g": 0.1,
+          "fonte": "pitada de especiaria em pó (USDA 170931: 1 dash = 0,1 g)"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "raspas-de-limao",
+      "nome": "raspas de casca de limão",
+      "sinonimos": [
+        "raspas de limão",
+        "casca de limão ralada"
+      ],
+      "fonte_nutricao": "usda:167749",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 6,
+          "fonte": "USDA 167749: 1 tbsp = 6 g"
+        },
+        "colher_cha": {
+          "g": 2,
+          "fonte": "USDA 167749: 1 tsp = 2 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "limao"
+    },
+    {
+      "id": "frutas-vermelhas-congeladas",
+      "nome": "mix de frutas vermelhas congeladas sem açúcar",
+      "sinonimos": [
+        "frutas vermelhas",
+        "amora congelada",
+        "mix de frutas vermelhas"
+      ],
+      "fonte_nutricao": "usda:171710",
+      "secao_mercado": "congelados",
+      "facil_de_achar": false,
+      "alternativa_padrao": "morango",
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 151,
+          "fonte": "USDA 171710: 1 cup, unthawed = 151 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "frutas_vermelhas"
+    },
+    {
+      "id": "pera",
+      "nome": "pera",
+      "nome_plural": "peras",
+      "sinonimos": [
+        "pera williams",
+        "pêra"
+      ],
+      "fonte_nutricao": "taco:243",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 178,
+          "fonte": "USDA 169118: 1 medium = 178 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    }
+  ]
+}

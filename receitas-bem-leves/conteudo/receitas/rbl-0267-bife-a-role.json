@@ -1,0 +1,172 @@
+{
+  "id": "rbl-0267",
+  "slug": "bife-a-role",
+  "nome": "Bife à rolê",
+  "descricao": "Bifes finos de coxão mole enrolados com cenoura e cebolinha, cozidos num molho de tomate até ficarem macios.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "rolês"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 rolê com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coxao-mole",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "6 bifes finos de coxão mole (600 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em palitos"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates picados"
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água quente (480 ml)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os bifes com o sal, a pimenta e o alho."
+    },
+    {
+      "texto": "Coloque 2 palitos de cenoura e um pouco de cebolinha numa ponta de cada bife, enrole bem apertado e prenda com palito."
+    },
+    {
+      "texto": "Na panela de pressão aberta, aqueça o óleo e doure os rolês por todos os lados, cerca de 6 minutos.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Junte a cebola, o tomate e o extrato e refogue 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente a água, feche a panela e cozinhe por 25 minutos depois de pegar pressão.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Abra e, se o molho estiver ralo, ferva 5 minutos sem tampa. Tire os palitos antes de servir.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Recheie com vagem ou pimentão no lugar da cenoura."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem panela de pressão, cozinhe em panela comum tampada por 1 hora, juntando água se precisar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congela muito bem no molho por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 213,
+      "carboidratos_g": 5.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0267.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "cenoura",
+    "enfeites": [
+      "cenoura",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bife a role",
+      "bife enrolado",
+      "role de carne"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

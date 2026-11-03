@@ -1,0 +1,141 @@
+{
+  "id": "rbl-0390",
+  "slug": "muffin-de-banana-com-pasta-de-amendoim",
+  "nome": "Muffin de banana com pasta de amendoim",
+  "descricao": "Muffins de banana e aveia com pasta de amendoim, adoçados só com a fruta.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 22,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "muffins"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 muffin"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas nanicas bem maduras"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de pasta de amendoim integral (100% amendoim)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.25,
+      "medida": "xicara",
+      "texto": "1 e 1/4 xícara (chá) de aveia em flocos, batida no liquidificador"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 8 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Amasse as bananas com um garfo até virar purê."
+    },
+    {
+      "texto": "Junte os ovos, a pasta de amendoim e o leite e misture com um batedor até ficar liso."
+    },
+    {
+      "texto": "Acrescente a aveia batida e o fermento e mexa só até misturar."
+    },
+    {
+      "texto": "Distribua nas forminhas e asse por 20 a 22 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 22
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 22,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pasta de amendoim por pasta de castanha de caju integral."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para mais doce, junte 2 colheres (sopa) de eritritol."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias ou congele."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 136,
+      "carboidratos_g": 17.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0390.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "amendoim",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de banana",
+      "muffin de amendoim",
+      "bolinho de banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

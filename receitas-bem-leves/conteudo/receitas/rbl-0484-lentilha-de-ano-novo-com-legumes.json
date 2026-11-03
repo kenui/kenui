@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0484",
+  "slug": "lentilha-de-ano-novo-com-legumes",
+  "nome": "Lentilha de Ano-Novo com legumes",
+  "descricao": "Lentilha cozida com cenoura, salsão e tomate, temperada com alho e cheiro-verde, para a primeira refeição do ano.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 concha"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lentilha",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de lentilha"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em cubinhos"
+    },
+    {
+      "ingrediente": "salsao",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "2 talos de salsão picados (80 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados, sem sementes"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 6,
+      "medida": "xicara",
+      "texto": "6 xícaras (chá) de água"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Escolha a lentilha, tirando pedrinhas, e lave em água corrente."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola e o alho por 3 minutos, até murcharem.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a cenoura e o salsão e refogue mais 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente o tomate e mexa por 2 minutos, até começar a desmanchar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte a lentilha, a água e o sal. Quando ferver, abaixe o fogo, tampe parcialmente e cozinhe por 25 minutos, até a lentilha ficar macia e o caldo engrossar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Tempere com a pimenta, acerte o sal e misture a salsinha e a cebolinha na hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o salsão por 1 abobrinha em cubos, colocada nos últimos 10 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Quer mais sustância? Junte 200 g de frango em cubos dourado antes da cebola."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Lentilha não precisa ficar de molho: lave e cozinhe direto."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias ou congele por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 212,
+      "carboidratos_g": 33.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0484.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lentilha de ano novo",
+      "lentilha refogada",
+      "lentilha com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "rbl-0399",
+  "slug": "biscoito-amanteigado",
+  "nome": "Biscoito amanteigado",
+  "descricao": "Biscoitinhos amanteigados que derretem na boca, para o café ou para dar de presente.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 18,
+    "descanso_min": 30,
+    "total_min": 73
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "biscoitos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "3 biscoitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol em pó",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata a manteiga com o eritritol até virar um creme claro."
+    },
+    {
+      "texto": "Junte o ovo e a baunilha e misture bem."
+    },
+    {
+      "texto": "Acrescente a farinha aos poucos, misturando com as mãos, até a massa desgrudar das mãos."
+    },
+    {
+      "texto": "Embrulhe em filme e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Faça bolinhas de 2 cm, coloque numa assadeira sem untar e achate com um garfo."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, só até dourar de leve embaixo.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Espere esfriar na assadeira: eles firmam ao esfriar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1/2 xícara da farinha por amido de milho para biscoitos ainda mais macios."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O eritritol em pó deixa o biscoito liso; em cristais, ele fica arenoso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 10 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 207,
+      "carboidratos_g": 18.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0399.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de manteiga",
+      "bolacha amanteigada",
+      "biscoito caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

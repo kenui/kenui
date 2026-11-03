@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0062",
+  "slug": "croutons-de-polenta",
+  "nome": "Croutons de polenta",
+  "descricao": "Cubinhos de polenta assados até ficarem crocantes por fora, para sopas e saladas no lugar do pão torrado.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "descanso_min": 60,
+    "total_min": 125
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "assadeira (cerca de 3 xícaras)"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1/2 xícara"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Polenta",
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de água"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "fuba",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de fubá"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para assar",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para assar",
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, leve a água e o sal ao fogo até ferver."
+    },
+    {
+      "texto": "Junte o fubá aos poucos, em chuva, mexendo sem parar com um batedor de arame para não empelotar.",
+      "aviso": "A polenta espirra: use colher de cabo longo e fogo baixo."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo por 15 minutos, mexendo sempre, até engrossar e soltar do fundo. Junte o azeite.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Espalhe numa forma de 20 x 20 cm untada, numa camada de 1,5 cm, e leve à geladeira por 1 hora, até firmar.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Preaqueça o forno a 220 °C."
+    },
+    {
+      "texto": "Desenforme a polenta e corte em cubos de 1,5 cm."
+    },
+    {
+      "texto": "Espalhe os cubos numa assadeira forrada com papel-manteiga, regue com o azeite e polvilhe o alecrim."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, virando na metade, até dourar e ficar crocante por fora.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por orégano ou páprica."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sobrou polenta do almoço? Use 3 xícaras da polenta já firme e comece no passo de cortar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Melhor no dia. A polenta cortada e crua dura 3 dias na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 112,
+      "carboidratos_g": 16.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0062.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "crouton de polenta",
+      "polenta assada",
+      "crouton caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

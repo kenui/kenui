@@ -1,0 +1,163 @@
+{
+  "id": "rbl-0475",
+  "slug": "costela-bovina-assada",
+  "nome": "Costela bovina assada",
+  "descricao": "Costela de boi assada devagar no papel-alumínio até desmanchar, com casquinha dourada no final.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 180,
+    "descanso_min": 120,
+    "total_min": 315
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 pedaço de costela (cerca de 300 g com osso)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "costela-bovina",
+      "quantidade": 2500,
+      "medida": "g",
+      "texto": "1 peça de costela bovina (cerca de 2,5 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 6,
+      "medida": "dente",
+      "texto": "6 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas grossas"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de páprica doce"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada para servir"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o alho, o sal, a páprica, a pimenta e o azeite numa pasta."
+    },
+    {
+      "texto": "Espalhe a pasta pela costela inteira e deixe na geladeira por 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Forre uma assadeira com as rodelas de cebola e coloque a costela por cima, com o osso para baixo."
+    },
+    {
+      "texto": "Embrulhe tudo com duas camadas de papel-alumínio, bem fechado, e asse por 2 horas e 30 minutos.",
+      "temporizador_min": 150
+    },
+    {
+      "texto": "Abra o papel com cuidado, descarte a gordura em excesso e asse mais 30 minutos, até dourar por cima.",
+      "aviso": "Cuidado: sai muito vapor ao abrir o papel.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Corte entre os ossos e sirva com o caldo, as cebolas e a salsinha por cima."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 180,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a costela bovina por 2 kg de costelinha suína: asse 1 hora e 30 minutos coberta e 30 minutos descoberta."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem páprica? Use 1 colher (sopa) de colorau."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O ponto certo é quando a carne solta do osso com um garfo. Se ainda estiver firme, feche e asse mais 20 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde desfiada na geladeira por até 3 dias ou congele por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 1165,
+      "carboidratos_g": 3.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0475.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "costela no forno",
+      "costela de boi",
+      "costela assada no papel aluminio"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

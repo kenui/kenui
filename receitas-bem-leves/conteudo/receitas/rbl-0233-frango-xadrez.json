@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0233",
+  "slug": "frango-xadrez",
+  "nome": "Frango xadrez",
+  "descricao": "Cubos de frango salteados com pimentões, cebola e amendoim num molho de shoyu, no estilo dos restaurantes chineses, sem açúcar.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 15,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (cerca de 1 e 1/2 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango em cubos de 2 cm"
+    },
+    {
+      "ingrediente": "shoyu",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de shoyu (confira no rótulo: sem açúcar), divididas"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre fresco ralado"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média em quadrados"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão verde em quadrados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em quadrados"
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água (120 ml)"
+    },
+    {
+      "ingrediente": "amendoim",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de amendoim torrado sem sal e sem pele"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o frango com 1 colher (sopa) do shoyu e deixe 5 minutos enquanto corta os legumes.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Aqueça o óleo numa frigideira grande ou wok em fogo alto. Doure o frango por 6 minutos, mexendo pouco, até ficar cozido. Tire e reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma frigideira, refogue o alho e o gengibre por 30 segundos."
+    },
+    {
+      "texto": "Junte a cebola e os pimentões e salteie por 3 minutos: eles devem ficar macios, mas ainda firmes.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Dissolva o amido de milho na água com o restante do shoyu."
+    },
+    {
+      "texto": "Volte o frango à frigideira, despeje o líquido e mexa por 1 a 2 minutos, até o molho engrossar e ficar brilhante.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Desligue, misture o amendoim e sirva com cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o amendoim por castanha-de-caju sem sal."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use brócolis ou cenoura em rodelas finas no lugar de um dos pimentões."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Frigideira bem quente e pouca mexida: assim o frango doura em vez de soltar água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 315,
+      "carboidratos_g": 11.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0233.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pimentao",
+      "amendoim",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango xadrez",
+      "frango chines",
+      "frango com pimentao e amendoim"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

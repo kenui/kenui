@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0283",
+  "slug": "medalhao-de-lombo-ao-molho-de-cogumelos",
+  "nome": "Medalhão de lombo ao molho de cogumelos",
+  "descricao": "Medalhões de lombo suíno dourados na manteiga, com molho cremoso de champignon e tomilho.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 medalhões com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lombo-suino",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de lombo suíno em 8 medalhões de 2 cm"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "ingrediente": "champignon",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de champignon fatiado, escorrido"
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de tomilho seco"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 60,
+      "medida": "ml",
+      "texto": "1/4 de xícara (chá) de água (60 ml)"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "3/4 de caixinha de creme de leite (150 g)"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os medalhões com o sal e a pimenta."
+    },
+    {
+      "texto": "Numa frigideira grande, derreta a manteiga em fogo médio-alto e doure os medalhões 4 minutos de cada lado, até o centro ficar levemente rosado. Reserve num prato.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Na mesma frigideira, refogue a cebola e o alho por 2 minutos. Junte o champignon e o tomilho e doure 3 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Despeje a água e raspe o fundo da frigideira."
+    },
+    {
+      "texto": "Abaixe o fogo, junte o creme de leite e volte os medalhões com o caldo do prato. Aqueça 2 minutos, sem ferver.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Finalize com a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o lombo por filé mignon suíno ou por peito de frango."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use cogumelos frescos (paris ou shitake) no lugar do champignon em conserva."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Medalhões da mesma espessura ficam prontos ao mesmo tempo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 389,
+      "carboidratos_g": 5.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0283.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": "molho_branco",
+    "recheio": null,
+    "enfeites": [
+      "cogumelo",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "medalhao de lombo",
+      "lombo ao molho de cogumelos",
+      "lombo com champignon"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

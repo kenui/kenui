@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0106",
+  "slug": "mingau-de-aveia-com-banana-e-canela",
+  "nome": "Mingau de aveia com banana e canela",
+  "descricao": "Mingau cremoso de aveia cozida no leite com banana amassada e canela.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 6,
+    "total_min": 8
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica madura (metade amassada e metade em rodelas)"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela pequena, misture o leite, a aveia e a metade da banana amassada."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo, mexendo sempre, por 4 a 5 minutos, até engrossar.",
+      "aviso": "Mingau quente espirra: mexa com colher de cabo longo.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Passe para a tigela, cubra com as rodelas de banana e polvilhe a canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana por maçã ralada: cozinhe junto com a aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use leite vegetal sem açúcar no lugar do leite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais madura a banana, mais docinho fica o mingau."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 319,
+      "carboidratos_g": 50.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0106.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mingau de aveia",
+      "papa de aveia",
+      "mingau de banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

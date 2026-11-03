@@ -1,0 +1,79 @@
+{
+  "receita": "rbl-0029",
+  "nome": "Pão de queijo de abóbora",
+  "porcoes": 8,
+  "porcao": "3 pães de queijo",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "1 pedaço de abóbora cabotiá sem casca (300 g)",
+      "gramas": 300,
+      "kcal": 117,
+      "carboidratos_g": 25.2,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "2 xícaras (250 g) de polvilho doce",
+      "gramas": 250,
+      "kcal": 877.5,
+      "carboidratos_g": 217,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "texto": "1 xícara (100 g) de queijo minas meia cura ralado",
+      "gramas": 100,
+      "kcal": 321,
+      "carboidratos_g": 3.6,
+      "fonte": "TACO 4ª ed. 462 Queijo, minas, meia cura",
+      "por_100g": {
+        "kcal": 321,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/4 de xícara (chá) de óleo",
+      "gramas": 54.5,
+      "kcal": 481.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1797.3,
+    "carboidratos_g": 245.8
+  },
+  "por_porcao": {
+    "kcal": 225,
+    "carboidratos_g": 30.7
+  }
+}

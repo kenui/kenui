@@ -1,0 +1,179 @@
+{
+  "id": "rbl-0314",
+  "slug": "sopa-de-lentilha",
+  "nome": "Sopa de lentilha",
+  "descricao": "Sopa de lentilha com cenoura, salsão e tomate, perfumada com cominho.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em cubinhos"
+    },
+    {
+      "ingrediente": "salsao",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "2 talos de salsão picados (80 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "lentilha",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de lentilha crua, lavada"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água quente"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 folha de louro"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão, para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, aqueça o azeite e refogue a cebola, o alho, a cenoura e o salsão por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o tomate e o cominho e mexa por 2 minutos."
+    },
+    {
+      "texto": "Acrescente a lentilha, a água e o louro. Cozinhe com a panela semitampada por 25 a 30 minutos, até a lentilha ficar bem macia.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Junte o sal, retire o louro e amasse parte da lentilha com uma concha para engrossar o caldo."
+    },
+    {
+      "texto": "Espalhe a salsinha e sirva com gotas de limão, se quiser."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o salsão por abobrinha ou chuchu."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use páprica defumada no lugar do cominho."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias. A sopa engrossa: afine com água quente ao aquecer."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 228,
+      "carboidratos_g": 35.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0314.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de lentilhas",
+      "caldo de lentilha",
+      "lentilha com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

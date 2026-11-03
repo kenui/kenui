@@ -1,0 +1,163 @@
+{
+  "receita": "rbl-0300",
+  "nome": "Bacalhau de forno com batatas",
+  "porcoes": 6,
+  "porcao": "1 porção (1/6 da travessa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "bacalhau-salgado",
+      "texto": "600 g de bacalhau dessalgado",
+      "gramas": 600,
+      "kcal": 816,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 279 Bacalhau, salgado, cru",
+      "por_100g": {
+        "kcal": 136,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "3 batatas médias em rodelas grossas",
+      "gramas": 639,
+      "kcal": 409,
+      "carboidratos_g": 93.93,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal, para a água das batatas",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas em rodelas",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "4 dentes de alho fatiados",
+      "gramas": 12,
+      "kcal": 13.6,
+      "carboidratos_g": 2.87,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1 pimentão vermelho em tiras",
+      "gramas": 119,
+      "kcal": 27.4,
+      "carboidratos_g": 6.55,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates em rodelas",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "texto": "12 azeitonas verdes",
+      "gramas": 52.8,
+      "kcal": 72.3,
+      "carboidratos_g": 2.16,
+      "fonte": "TACO 4ª ed. 521 Azeitona, verde, conserva",
+      "por_100g": {
+        "kcal": 137,
+        "carboidratos_g": 4.1
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "5 colheres (sopa) de azeite",
+      "gramas": 67.5,
+      "kcal": 596.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos cozidos em rodelas",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2204.6,
+    "carboidratos_g": 135
+  },
+  "por_porcao": {
+    "kcal": 367,
+    "carboidratos_g": 22.5
+  }
+}

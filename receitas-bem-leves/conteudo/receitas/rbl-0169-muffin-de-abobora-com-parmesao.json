@@ -1,0 +1,161 @@
+{
+  "id": "rbl-0169",
+  "slug": "muffin-de-abobora-com-parmesao",
+  "nome": "Muffin de abóbora com parmesão",
+  "descricao": "Muffin salgado de massa integral com abóbora cabotiá, parmesão e alecrim, macio e alaranjado.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "muffins"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "2 muffins"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 pedaço de abóbora cabotiá sem casca (300 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte a abóbora em cubos e cozinhe no vapor ou em pouca água por 15 a 20 minutos, até ficar bem macia. Escorra e amasse.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin."
+    },
+    {
+      "texto": "Numa tigela, misture o purê de abóbora, os ovos, o óleo e o leite."
+    },
+    {
+      "texto": "Junte a farinha, o parmesão, o alecrim e o sal e mexa até ficar uma massa lisa. Por último, misture o fermento."
+    },
+    {
+      "texto": "Distribua nas forminhas até 3/4 da altura."
+    },
+    {
+      "texto": "Asse por 22 a 25 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora por cenoura cozida amassada ou por batata-doce."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por tomilho ou orégano."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira ou 2 meses no congelador."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 285,
+      "carboidratos_g": 24.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0169.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de abobora",
+      "bolinho de abobora salgado",
+      "muffin integral"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "rbl-0261",
+  "slug": "berinjela-recheada-a-moda-arabe",
+  "nome": "Berinjela recheada à moda árabe",
+  "descricao": "Berinjelas assadas e recheadas com carne moída temperada com hortelã e cominho, gratinadas com parmesão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "metades"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 metade"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "berinjela",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "2 berinjelas médias (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de carne moída de patinho"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Corte as berinjelas ao meio no comprimento e faça cortes em xadrez na polpa, sem furar a casca. Pincele com 1 colher (sopa) do azeite e tempere com 1/2 colher (chá) do sal.",
+      "aviso": "Use faca afiada e corte longe da mão que segura a berinjela."
+    },
+    {
+      "texto": "Asse com o corte para cima por 20 minutos, até a polpa amolecer.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Retire a polpa com uma colher, deixando 1 cm junto à casca, e pique."
+    },
+    {
+      "texto": "Refogue a cebola, o alho e o pimentão no restante do azeite por 4 minutos. Junte a carne, o cominho e o restante do sal e mexa por 8 minutos.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Acrescente o tomate e a polpa da berinjela e cozinhe 4 minutos. Desligue e misture a hortelã.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Recheie as cascas, cubra com o parmesão e asse mais 15 minutos, até dourar.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por salsinha e o cominho por orégano para um sabor mais italiano."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use carne moída de cordeiro no lugar do patinho."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 2 dias na geladeira. Reaqueça no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 268,
+      "carboidratos_g": 11.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0261.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "carne moida",
+    "enfeites": [
+      "pimentao",
+      "queijo_ralado",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "berinjela recheada",
+      "berinjela com carne moida",
+      "berinjela arabe"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "receita": "rbl-0496",
+  "nome": "Salada de frutas natalina com chantilly",
+  "porcoes": 10,
+  "porcao": "1 taça (cerca de 1 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manga",
+      "texto": "1 manga grande em cubos",
+      "gramas": 336,
+      "kcal": 171.4,
+      "carboidratos_g": 43.01,
+      "fonte": "TACO 4ª ed. 231 Manga, Tommy Atkins, crua",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 12.8
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "2 xícaras (chá) de abacaxi em cubos",
+      "gramas": 330,
+      "kcal": 158.4,
+      "carboidratos_g": 40.59,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "uva",
+      "texto": "1 e 1/2 xícara (chá) de uva sem semente cortada ao meio",
+      "gramas": 226.5,
+      "kcal": 120,
+      "carboidratos_g": 30.8,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "kiwi",
+      "texto": "3 kiwis em meias-luas",
+      "gramas": 207,
+      "kcal": 105.6,
+      "carboidratos_g": 23.81,
+      "fonte": "TACO 4ª ed. 207 Kiwi, cru",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 11.5
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "1 xícara (chá) de morangos em 4",
+      "gramas": 144,
+      "kcal": 43.2,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média em cubinhos, com casca (180 g)",
+      "gramas": 180,
+      "kcal": 100.8,
+      "carboidratos_g": 27.36,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "roma",
+      "texto": "Sementes de 1/2 romã",
+      "gramas": 141,
+      "kcal": 79,
+      "carboidratos_g": 21.29,
+      "fonte": "TACO 4ª ed. 249 Romã, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.1
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "1 xícara (chá) de suco de laranja natural",
+      "gramas": 248,
+      "kcal": 81.8,
+      "carboidratos_g": 18.85,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite-fresco",
+      "texto": "1 xícara (chá) de creme de leite fresco bem gelado",
+      "gramas": 238,
+      "kcal": 809.2,
+      "carboidratos_g": 6.76,
+      "fonte": "USDA SR Legacy 170859 Cream, fluid, heavy whipping",
+      "por_100g": {
+        "kcal": 340,
+        "carboidratos_g": 2.84
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1/2 colher (chá) de essência de baunilha",
+      "gramas": 2.1,
+      "kcal": 6,
+      "carboidratos_g": 0.27,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1675.4,
+    "carboidratos_g": 222.5
+  },
+  "por_porcao": {
+    "kcal": 168,
+    "carboidratos_g": 22.3
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "rbl-0453",
+  "slug": "doce-de-banana-de-colher",
+  "nome": "Doce de banana de colher",
+  "descricao": "Bananada cremosa de panela com canela e cravo, escura e perfumada, feita só com banana.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 bananas nanicas bem maduras"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de cravo em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Amasse as bananas com um garfo e coloque numa panela com a água, o limão, a canela e o cravo."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo, mexendo sempre, por 25 a 30 minutos, até o doce escurecer e desgrudar do fundo da panela.",
+      "aviso": "O doce espirra: use colher de cabo longo.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Espere esfriar e guarde em pote de vidro limpo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana nanica por banana-prata: o doce fica mais claro e menos doce."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cravo por 1 colher (chá) de gengibre ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais madura a banana, mais doce e escuro fica o doce."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 67,
+      "carboidratos_g": 17.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0453.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "geleia_pote",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bananada caseira",
+      "doce de banana sem acucar",
+      "bananada de colher"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

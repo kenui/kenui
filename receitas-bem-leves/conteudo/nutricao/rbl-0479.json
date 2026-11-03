@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0479",
+  "nome": "Arroz à grega",
+  "porcoes": 8,
+  "porcao": "4 colheres (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "2 xícaras (chá) de arroz branco",
+      "gramas": 370,
+      "kcal": 1324.6,
+      "carboidratos_g": 291.56,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras em cubinhos",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1/2 pimentão vermelho em cubinhos",
+      "gramas": 59.5,
+      "kcal": 13.7,
+      "carboidratos_g": 3.27,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "texto": "1/2 pimentão verde em cubinhos",
+      "gramas": 59.5,
+      "kcal": 12.5,
+      "carboidratos_g": 2.92,
+      "fonte": "TACO 4ª ed. 144 Pimentão, verde, cru",
+      "por_100g": {
+        "kcal": 21,
+        "carboidratos_g": 4.9
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "4 xícaras (chá) de água fervente",
+      "gramas": 960,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "uva-passa",
+      "texto": "1/3 de xícara (chá) de uva-passa sem açúcar",
+      "gramas": 47.9,
+      "kcal": 143.1,
+      "carboidratos_g": 37.95,
+      "fonte": "USDA SR Legacy 168165 Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 299,
+        "carboidratos_g": 79.32
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1946.9,
+    "carboidratos_g": 357
+  },
+  "por_porcao": {
+    "kcal": 243,
+    "carboidratos_g": 44.6
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0460",
+  "slug": "cajuzinho",
+  "nome": "Cajuzinho",
+  "descricao": "Docinho de amendoim torrado com cacau no formato de caju, feito sem leite condensado e sem fogo.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 6,
+    "descanso_min": 30,
+    "total_min": 66
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "docinhos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 docinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "amendoim",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de amendoim sem pele"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de creme de leite"
+    },
+    {
+      "grupo": "Para enfeitar",
+      "ingrediente": "amendoim",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "20 amendoins inteiros para enfeitar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Toste todo o amendoim numa frigideira seca em fogo baixo por 5 a 6 minutos, mexendo, até dourar. Separe 20 amendoins inteiros e deixe o resto esfriar.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Bata o amendoim frio no processador até virar uma farinha grossa. Não bata demais, para não virar pasta."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha de amendoim, o leite em pó, o eritritol e o cacau."
+    },
+    {
+      "texto": "Junte o creme de leite aos poucos e amasse com as mãos até a massa dar liga."
+    },
+    {
+      "texto": "Faça bolinhas, modele em forma de gota (como um caju) e espete um amendoim inteiro na ponta larga."
+    },
+    {
+      "texto": "Leve à geladeira por 30 minutos e coloque em forminhas.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use amendoim já torrado sem sal e pule a frigideira."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por leite, uma colher de cada vez, até dar liga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 136,
+      "carboidratos_g": 6.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0460.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "amendoim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cajuzinho sem acucar",
+      "docinho de amendoim",
+      "cajuzinho de festa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

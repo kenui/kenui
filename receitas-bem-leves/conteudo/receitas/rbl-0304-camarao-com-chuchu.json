@@ -1,0 +1,171 @@
+{
+  "id": "rbl-0304",
+  "slug": "camarao-com-chuchu",
+  "nome": "Camarão com chuchu",
+  "descricao": "Refogado caseiro de camarão com chuchu macio, tomate e cheiro-verde.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "camarao",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de camarão limpo"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "chuchu",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 chuchus descascados em cubos"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o camarão com o suco de limão e metade do sal. Reserve."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola até ficar transparente. Junte o alho e mexa por 1 minuto."
+    },
+    {
+      "texto": "Acrescente o chuchu, o tomate, a água e o restante do sal. Tampe e cozinhe por 12 a 15 minutos, até o chuchu ficar macio.",
+      "aviso": "Use luvas ou óleo nas mãos para descascar o chuchu: ele solta uma seiva que gruda.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte o camarão e cozinhe por 3 a 4 minutos, mexendo, só até ficar rosado.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Tempere com a pimenta, espalhe a salsinha e a cebolinha e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o chuchu por abobrinha: cozinhe só 5 minutos antes de juntar o camarão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use coentro no lugar da salsinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 159,
+      "carboidratos_g": 12.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0304.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "camarao refogado",
+      "chuchu com camarao",
+      "ensopado de camarao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

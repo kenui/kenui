@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0228",
+  "nome": "Suco de uva caseiro",
+  "porcoes": 3,
+  "porcao": "1 copo de 200 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "uva",
+      "texto": "2 xícaras (chá) de uvas roxas sem o cabinho (300 g)",
+      "gramas": 300,
+      "kcal": 159,
+      "carboidratos_g": 40.8,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/2 xícara (chá) de água gelada",
+      "gramas": 360,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 164.3,
+    "carboidratos_g": 42.6
+  },
+  "por_porcao": {
+    "kcal": 55,
+    "carboidratos_g": 14.2
+  }
+}

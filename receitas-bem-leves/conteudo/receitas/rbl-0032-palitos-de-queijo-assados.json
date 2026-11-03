@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0032",
+  "slug": "palitos-de-queijo-assados",
+  "nome": "Palitos de queijo assados",
+  "descricao": "Palitos crocantes de massa amanteigada com bastante parmesão, bons para beliscar.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 20,
+    "descanso_min": 15,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "palitos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "5 palitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo parmesão ralado fino (100 g)"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga gelada"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de água gelada, se precisar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o parmesão e o orégano."
+    },
+    {
+      "texto": "Junte a manteiga em pedacinhos e esfregue com as pontas dos dedos até virar uma farofa."
+    },
+    {
+      "texto": "Acrescente o ovo e junte a massa sem sovar demais. Se esfarelar, ponha a água gelada."
+    },
+    {
+      "texto": "Embrulhe em filme plástico e leve à geladeira por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Abra a massa entre dois plásticos com 0,5 cm de espessura e corte palitos de 1 cm x 10 cm."
+    },
+    {
+      "texto": "Coloque numa assadeira, com espaço entre eles, e asse por 15 a 20 minutos, até dourar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Deixe esfriar na assadeira: eles ficam crocantes ao esfriar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use páprica no lugar do orégano."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 214,
+      "carboidratos_g": 16.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0032.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "palito de queijo",
+      "biscoito de queijo",
+      "palitinho de parmesao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

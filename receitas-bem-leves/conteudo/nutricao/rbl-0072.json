@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0072",
+  "nome": "Omelete de cogumelos com cebolinha",
+  "porcoes": 1,
+  "porcao": "1 omelete",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "champignon",
+      "texto": "1/2 xícara (chá) de champignon em conserva fatiado e escorrido",
+      "gramas": 78,
+      "kcal": 19.5,
+      "carboidratos_g": 3.97,
+      "fonte": "USDA SR Legacy 169254 Mushrooms, canned, drained solids",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 5.09
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho picado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "1 colher (sopa) de cebolinha picada",
+      "gramas": 3,
+      "kcal": 0.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 200.9,
+    "carboidratos_g": 6.5
+  },
+  "por_porcao": {
+    "kcal": 201,
+    "carboidratos_g": 6.5
+  }
+}

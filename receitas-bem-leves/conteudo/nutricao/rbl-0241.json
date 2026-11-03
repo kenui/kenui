@@ -1,0 +1,163 @@
+{
+  "receita": "rbl-0241",
+  "nome": "Frango com legumes na panela de pressão",
+  "porcoes": 5,
+  "porcao": "1 prato raso (2 coxas com legumes)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "texto": "10 coxas de frango sem pele (cerca de 1 kg)",
+      "gramas": 1000,
+      "kcal": 1200,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 399 Frango, coxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 120,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1 colher (chá) de páprica doce",
+      "gramas": 2.3,
+      "kcal": 6.5,
+      "carboidratos_g": 1.24,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (sopa) de óleo",
+      "gramas": 13.6,
+      "kcal": 120.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água (240 ml)",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "2 batatas médias em 4 pedaços",
+      "gramas": 426,
+      "kcal": 272.6,
+      "carboidratos_g": 62.62,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras em pedaços grandes",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "vagem",
+      "texto": "1 xícara (chá) de vagem em pedaços",
+      "gramas": 100,
+      "kcal": 25,
+      "carboidratos_g": 5.3,
+      "fonte": "TACO 4ª ed. 162 Vagem, crua",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 5.3
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1758.3,
+    "carboidratos_g": 98.6
+  },
+  "por_porcao": {
+    "kcal": 352,
+    "carboidratos_g": 19.7
+  }
+}

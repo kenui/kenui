@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0281",
+  "slug": "linguica-de-frango-com-abobora-e-couve",
+  "nome": "Linguiça de frango com abóbora e couve",
+  "descricao": "Linguiça de frango dourada na frigideira com cubos de abóbora e couve em tiras finas.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "linguica-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de linguiça de frango (confira no rótulo: sem açúcar), em rodelas"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em tiras"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de abóbora cabotiá descascada, em cubos pequenos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 60,
+      "medida": "ml",
+      "texto": "1/4 de xícara (chá) de água (60 ml)"
+    },
+    {
+      "ingrediente": "couve",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de couve em tiras finas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, doure a linguiça no azeite em fogo médio por 8 minutos, mexendo de vez em quando.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola e o alho e refogue 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a abóbora e a água, tampe e cozinhe 10 minutos, até a abóbora ficar macia.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Destampe, junte a couve e mexa por 2 minutos, só até murchar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Prove e acerte o sal: a linguiça já é bem temperada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a couve por espinafre ou repolho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use linguiça suína no lugar da de frango."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte a abóbora em cubos pequenos, de 2 cm, para cozinhar no mesmo tempo da linguiça."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 361,
+      "carboidratos_g": 12.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0281.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "linguica",
+    "enfeites": [
+      "abobora",
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "linguica de frango",
+      "linguica com abobora",
+      "linguica com couve"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

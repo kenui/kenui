@@ -1,0 +1,138 @@
+{
+  "receita": "rbl-0464",
+  "nome": "Torta de morango",
+  "porcoes": 10,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 xícara (chá) de aveia em flocos",
+      "gramas": 81,
+      "kcal": 319.1,
+      "carboidratos_g": 53.95,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "texto": "1/2 xícara (chá) de castanha-de-caju sem sal (60 g)",
+      "gramas": 60,
+      "kcal": 342,
+      "carboidratos_g": 17.46,
+      "fonte": "TACO 4ª ed. 588 Castanha-de-caju, torrada, salgada",
+      "por_100g": {
+        "kcal": 570,
+        "carboidratos_g": 29.1
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "4 colheres (sopa) de manteiga derretida",
+      "gramas": 56.8,
+      "kcal": 412.4,
+      "carboidratos_g": 0.06,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "gelatina-incolor",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor",
+      "gramas": 12,
+      "kcal": 40.2,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 169599 Gelatins, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "5 colheres (sopa) de água fria",
+      "gramas": 75,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ricota",
+      "texto": "1 pedaço de ricota fresca (250 g)",
+      "gramas": 250,
+      "kcal": 350,
+      "carboidratos_g": 9.5,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1 caixinha de creme de leite (200 g)",
+      "gramas": 200,
+      "kcal": 442,
+      "carboidratos_g": 9,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "gramas": 66,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "2 xícaras (chá) de morangos cortados ao meio",
+      "gramas": 288,
+      "kcal": 86.4,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2004.2,
+    "carboidratos_g": 110.1
+  },
+  "por_porcao": {
+    "kcal": 200,
+    "carboidratos_g": 11
+  }
+}

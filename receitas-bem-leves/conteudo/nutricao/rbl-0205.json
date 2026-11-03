@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0205",
+  "nome": "Água saborizada de limão, pepino e hortelã",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água filtrada gelada",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pepino",
+      "texto": "1/2 pepino japonês em rodelas finas (100 g)",
+      "gramas": 100,
+      "kcal": 10,
+      "carboidratos_g": 2,
+      "fonte": "TACO 4ª ed. 142 Pepino, cru",
+      "por_100g": {
+        "kcal": 10,
+        "carboidratos_g": 2
+      }
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "texto": "1 limão taiti em rodelas",
+      "gramas": 67,
+      "kcal": 21.4,
+      "carboidratos_g": 7.44,
+      "fonte": "TACO 4ª ed. 220 Limão, tahiti, cru",
+      "por_100g": {
+        "kcal": 32,
+        "carboidratos_g": 11.1
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de folhas de hortelã",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 33.9,
+    "carboidratos_g": 9.9
+  },
+  "por_porcao": {
+    "kcal": 8,
+    "carboidratos_g": 2.5
+  }
+}

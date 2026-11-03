@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0313",
+  "slug": "caldo-de-feijao",
+  "nome": "Caldo de feijão",
+  "descricao": "Caldo grosso de feijão-carioca batido, com alho, louro e ovo cozido picado por cima.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "descanso_min": 480,
+    "total_min": 540
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "canecas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 caneca (cerca de 300 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "feijao-carioca",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de feijão-carioca cru"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 folhas de louro"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho picados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos cozidos picados"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cebolinha",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pimenta-calabresa",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta calabresa",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Escolha e lave o feijão. Deixe de molho em água fria por 8 horas e descarte a água.",
+      "temporizador_min": 480
+    },
+    {
+      "texto": "Coloque o feijão na panela de pressão com a água e o louro. Tampe e cozinhe por 25 minutos depois que pegar pressão.",
+      "aviso": "Espere a pressão sair sozinha antes de abrir a panela.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o louro e bata o feijão com o caldo no liquidificador, em partes, até ficar liso.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e doure a cebola e o alho. Junte o feijão batido e o sal."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo por 10 minutos, mexendo, até engrossar. Se ficar grosso demais, junte água quente.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Sirva em canecas com o ovo cozido, a cebolinha e a pimenta calabresa, se quiser."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use feijão-preto no lugar do carioca."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o ovo por queijo minas em cubinhos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 285,
+      "carboidratos_g": 41.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0313.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "caldinho de feijao",
+      "sopa de feijao",
+      "feijao batido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

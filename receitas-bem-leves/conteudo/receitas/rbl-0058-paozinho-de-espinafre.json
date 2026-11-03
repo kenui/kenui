@@ -1,0 +1,163 @@
+{
+  "id": "rbl-0058",
+  "slug": "paozinho-de-espinafre",
+  "nome": "Pãozinho de espinafre",
+  "descricao": "Pãozinho verde e macio, com espinafre e alho batidos na massa, bom para lanche com queijo.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 25,
+    "descanso_min": 90,
+    "total_min": 145
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de folhas de espinafre"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de água morna"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de azeite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3.5,
+      "medida": "xicara",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o espinafre, a água morna, o azeite, o ovo, o alho e o sal até ficar um creme verde e liso."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e o fermento."
+    },
+    {
+      "texto": "Despeje o creme verde e misture até formar uma massa."
+    },
+    {
+      "texto": "Sove por 8 minutos, até ficar lisa e elástica.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até a casca firmar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve sem o talo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Asse sem deixar dourar muito, para o pão continuar verdinho."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pãezinhos assados por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 181,
+      "carboidratos_g": 28
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0058.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de espinafre",
+      "pao verde",
+      "pao de liquidificador de espinafre"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

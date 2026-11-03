@@ -1,0 +1,126 @@
+{
+  "receita": "rbl-0437",
+  "nome": "Panna cotta de baunilha com calda de morango",
+  "porcoes": 6,
+  "porcao": "1 forminha",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor",
+      "gramas": 12,
+      "kcal": 40.2,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 169599 Gelatins, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "5 colheres (sopa) de água fria",
+      "gramas": 75,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "2 caixinhas de creme de leite (400 g)",
+      "gramas": 400,
+      "kcal": 884,
+      "carboidratos_g": 18,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "gramas": 66,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "2 colheres (chá) de essência de baunilha",
+      "gramas": 8.4,
+      "kcal": 24.2,
+      "carboidratos_g": 1.06,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "1 e 1/2 xícara (chá) de morangos picados",
+      "gramas": 216,
+      "kcal": 64.8,
+      "carboidratos_g": 14.69,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 colheres (sopa) de água",
+      "gramas": 45,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1162,
+    "carboidratos_g": 45.5
+  },
+  "por_porcao": {
+    "kcal": 194,
+    "carboidratos_g": 7.6
+  }
+}

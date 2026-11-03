@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0157",
+  "slug": "pasta-de-queijo-minas-com-azeitona",
+  "nome": "Pasta de queijo minas com azeitona",
+  "descricao": "Pasta de queijo minas frescal com iogurte, azeitona e orégano, servida com tomates-cereja.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1.5,
+    "unidade": "xícara de pasta"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/3 de xícara de pasta com 5 tomates-cereja"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pedaço de queijo minas frescal (200 g)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de iogurte natural"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 azeitonas verdes picadas"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "tomate",
+      "quantidade": 340,
+      "medida": "g",
+      "texto": "20 tomates-cereja (340 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esfarele o queijo com um garfo numa tigela."
+    },
+    {
+      "texto": "Junte o iogurte e o azeite e amasse até virar uma pasta. Para ficar bem lisa, bata no processador."
+    },
+    {
+      "texto": "Misture as azeitonas, o orégano e a pimenta."
+    },
+    {
+      "texto": "Sirva com os tomates-cereja inteiros ou cortados ao meio."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a azeitona por tomate seco picado ou por cenoura ralada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por ricota."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 196,
+      "carboidratos_g": 5.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0157.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "queijo",
+    "enfeites": [
+      "queijo_branco",
+      "azeitona",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pasta de queijo",
+      "pate de queijo branco",
+      "pastinha de azeitona"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

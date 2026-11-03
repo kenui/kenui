@@ -1,0 +1,205 @@
+{
+  "id": "rbl-0272",
+  "slug": "lasanha-de-berinjela-com-carne-moida",
+  "nome": "Lasanha de berinjela com carne moída",
+  "descricao": "Camadas de berinjela grelhada, carne moída ao molho de tomate, ricota temperada e mussarela gratinada, sem massa.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 55,
+    "descanso_min": 10,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Berinjela",
+      "ingrediente": "berinjela",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "2 berinjelas grandes (cerca de 700 g) em fatias de 0,5 cm no comprimento"
+    },
+    {
+      "grupo": "Berinjela",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Berinjela",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "pure-de-tomate",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de purê de tomate ou passata (confira no rótulo: sem açúcar)"
+    },
+    {
+      "grupo": "Molho de carne",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "ricota",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de ricota amassada"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de queijo mussarela ralado (cerca de 1 e 1/2 xícara)"
+    },
+    {
+      "grupo": "Montagem",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as fatias de berinjela com o sal e grelhe numa frigideira com um fio do azeite, 2 minutos de cada lado, em levas, até ficarem macias. Reserve.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa panela, refogue a cebola e o alho no restante do azeite por 3 minutos. Junte a carne e o sal e mexa por 8 minutos.",
+      "temporizador_min": 11
+    },
+    {
+      "texto": "Acrescente o purê de tomate e o orégano e cozinhe 10 minutos em fogo baixo.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Misture a ricota com a noz-moscada. Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa travessa média, monte camadas: molho, berinjela, ricota e mussarela. Repita e termine com molho, mussarela e parmesão."
+    },
+    {
+      "texto": "Asse por 25 minutos, até borbulhar e dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Deixe descansar 10 minutos antes de cortar, para as camadas firmarem.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a berinjela por abobrinha em fatias, grelhada do mesmo jeito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use requeijão cremoso no lugar da ricota."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele já montada e assada, em porções, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 354,
+      "carboidratos_g": 15.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0272.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "carne moida",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lasanha de berinjela",
+      "lasanha sem massa",
+      "berinjela a bolonhesa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

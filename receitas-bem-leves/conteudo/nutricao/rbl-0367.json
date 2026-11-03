@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0367",
+  "nome": "Bolo de abóbora",
+  "porcoes": 12,
+  "porcao": "1 fatia (1/12 do bolo)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "300 g de abóbora cabotiá descascada, cozida e escorrida",
+      "gramas": 300,
+      "kcal": 117,
+      "carboidratos_g": 25.2,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/2 xícara (chá) de óleo",
+      "gramas": 109,
+      "kcal": 963.6,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "gramas": 150,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 xícaras (chá) de farinha de trigo",
+      "gramas": 250,
+      "kcal": 900,
+      "carboidratos_g": 187.75,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (sopa) de fermento químico em pó",
+      "gramas": 13.8,
+      "kcal": 12.4,
+      "carboidratos_g": 6.06,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2213.9,
+    "carboidratos_g": 223.5
+  },
+  "por_porcao": {
+    "kcal": 184,
+    "carboidratos_g": 18.6
+  }
+}

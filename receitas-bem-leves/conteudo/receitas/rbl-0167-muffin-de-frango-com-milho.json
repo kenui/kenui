@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0167",
+  "slug": "muffin-de-frango-com-milho",
+  "nome": "Muffin de frango com milho",
+  "descricao": "Muffin salgado de massa integral recheado com frango desfiado, milho e cebolinha.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "muffins"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "2 muffins"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara de peito de frango cozido e desfiado (200 g)"
+    },
+    {
+      "ingrediente": "milho-verde",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de milho verde escorrido"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 12 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Numa tigela, misture bem os ovos, o leite e o óleo com um batedor."
+    },
+    {
+      "texto": "Junte a farinha, a aveia e o sal e mexa até ficar uma massa lisa."
+    },
+    {
+      "texto": "Acrescente o frango, o milho e a cebolinha. Por último, misture o fermento."
+    },
+    {
+      "texto": "Distribua nas forminhas até 3/4 da altura."
+    },
+    {
+      "texto": "Asse por 22 a 25 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por atum escorrido ou por presunto picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por farinha de trigo comum."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira ou 2 meses no congelador. Aqueça 1 minuto no micro-ondas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 281,
+      "carboidratos_g": 23.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0167.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "milho",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de frango",
+      "bolinho de frango assado",
+      "lanche para levar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

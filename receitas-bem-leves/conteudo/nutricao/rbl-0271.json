@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0271",
+  "nome": "Iscas de carne com pimentões",
+  "porcoes": 4,
+  "porcao": "1 prato raso (cerca de 1 e 1/2 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "patinho",
+      "texto": "600 g de patinho em tiras finas",
+      "gramas": 600,
+      "kcal": 798,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 376 Carne, bovina, patinho, sem gordura, cru",
+      "por_100g": {
+        "kcal": 133,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho amassados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "2 colheres (sopa) de óleo",
+      "gramas": 27.2,
+      "kcal": 240.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola em tiras",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1 pimentão vermelho em tiras",
+      "gramas": 119,
+      "kcal": 27.4,
+      "carboidratos_g": 6.55,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "pimentao-amarelo",
+      "texto": "1 pimentão amarelo em tiras",
+      "gramas": 119,
+      "kcal": 33.3,
+      "carboidratos_g": 7.14,
+      "fonte": "TACO 4ª ed. 143 Pimentão, amarelo, cru",
+      "por_100g": {
+        "kcal": 28,
+        "carboidratos_g": 6
+      }
+    },
+    {
+      "ingrediente": "shoyu",
+      "texto": "2 colheres (sopa) de shoyu (confira no rótulo: sem açúcar)",
+      "gramas": 32,
+      "kcal": 19.5,
+      "carboidratos_g": 3.71,
+      "fonte": "TACO 4ª ed. 518 Shoyu",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 11.6
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1174.6,
+    "carboidratos_g": 30.1
+  },
+  "por_porcao": {
+    "kcal": 294,
+    "carboidratos_g": 7.5
+  }
+}

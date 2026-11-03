@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0334",
+  "slug": "estrogonofe-de-cogumelos",
+  "nome": "Estrogonofe de cogumelos",
+  "descricao": "Cogumelos frescos dourados na manteiga num creme de tomate, páprica e creme de leite.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 concha cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cogumelo-paris",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de cogumelo-paris fresco fatiado",
+      "alternativa": {
+        "ingrediente": "champignon",
+        "texto": "ou 3 vidros de champignon em conserva, escorridos"
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates maduros sem pele e sem sementes, picados"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, aqueça a manteiga com o azeite em fogo alto e doure os cogumelos por 6 a 8 minutos, sem mexer muito, até a água secar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola e o alho e refogue por 3 minutos."
+    },
+    {
+      "texto": "Acrescente o tomate, a páprica, o sal e a pimenta e cozinhe por 5 minutos, até o tomate desmanchar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Abaixe o fogo, junte o creme de leite e mexa só até aquecer, sem ferver."
+    },
+    {
+      "texto": "Desligue, espalhe a salsinha e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use shimeji ou cogumelo-de-paris e shiitake misturados."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por iogurte natural integral, juntando já com o fogo desligado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cogumelo amontoado solta água e não doura: se a frigideira for pequena, faça em duas vezes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 218,
+      "carboidratos_g": 11.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0334.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cogumelo",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "estrogonofe vegetariano",
+      "strogonoff de cogumelo",
+      "estrogonofe de champignon"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

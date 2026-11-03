@@ -1,0 +1,192 @@
+{
+  "id": "rbl-0136",
+  "slug": "esfiha-aberta-com-massa-de-queijo",
+  "nome": "Esfiha aberta com massa de queijo",
+  "descricao": "Esfiha de carne temperada com hortelã e limão sobre uma massa de mussarela e aveia, assada até dourar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 20,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "esfihas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 esfihas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 xícaras (200 g) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos batida no liquidificador"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "250 g de carne moída de patinho crua"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola bem picada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes bem picado"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a carne, a cebola, o tomate, a hortelã, o limão, o sal e a pimenta. Reserve na geladeira."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Num refratário, leve a mussarela e o requeijão ao micro-ondas por 1 minuto, até derreter. Mexa bem.",
+      "aviso": "O queijo derretido fica muito quente.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Junte o ovo e a aveia batida e misture com uma colher até virar uma massa lisa."
+    },
+    {
+      "texto": "Divida em 8 bolinhas e, com as mãos untadas de azeite, abra cada uma em disco de 10 cm sobre o papel."
+    },
+    {
+      "texto": "Espalhe a carne sobre os discos, apertando de leve, e deixe uma bordinha livre."
+    },
+    {
+      "texto": "Asse por 18 a 20 minutos, até a carne cozinhar e a borda dourar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne por 2 xícaras de frango cozido desfiado misturado com 2 colheres (sopa) de requeijão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem hortelã? Use salsinha picada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa endurecer antes de abrir, volte ao micro-ondas por 15 segundos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça no forno por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 337,
+      "carboidratos_g": 11.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0136.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pizza",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": "carne moída",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "esfirra low carb",
+      "esfiha de queijo",
+      "esfirra sem trigo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

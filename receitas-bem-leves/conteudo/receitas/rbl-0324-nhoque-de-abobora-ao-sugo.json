@@ -1,0 +1,191 @@
+{
+  "id": "rbl-0324",
+  "slug": "nhoque-de-abobora-ao-sugo",
+  "nome": "Nhoque de abóbora ao sugo",
+  "descricao": "Nhoque macio de abóbora cabotiá com parmesão, servido com molho caseiro de tomate e manjericão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 35,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de abóbora cabotiá descascada em cubos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo, mais um pouco para enfarinhar"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 tomates maduros picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "manjericao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manjericão picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora no vapor por 15 a 20 minutos, até ficar bem macia.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Amasse a abóbora e leve à panela em fogo baixo por 3 minutos, mexendo, para secar. Deixe esfriar."
+    },
+    {
+      "texto": "Misture o ovo, o parmesão, o sal e a noz-moscada. Junte a farinha aos poucos, até a massa ficar macia e parar de grudar nas mãos."
+    },
+    {
+      "texto": "Em superfície enfarinhada, faça rolinhos da grossura de um dedo e corte em pedaços de 2 cm."
+    },
+    {
+      "texto": "Molho: refogue a cebola e o alho no azeite, junte o tomate e o sal e cozinhe por 15 minutos, até encorpar. Desligue e junte o manjericão.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Cozinhe o nhoque aos poucos em bastante água fervente com sal. Quando subirem, espere 1 minuto e retire com escumadeira.",
+      "aviso": "Retire com escumadeira, sem despejar a panela de água fervente.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Misture o nhoque ao molho e sirva com parmesão, se quiser."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora por mandioquinha ou batata, cozidas e bem secas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use metade farinha de trigo integral."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele o nhoque cru, espalhado numa assadeira enfarinhada, e depois passe para um saco. Cozinhe direto do congelador."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 358,
+      "carboidratos_g": 55.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0324.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "nhoque de abobora",
+      "gnocchi de abobora",
+      "nhoque caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

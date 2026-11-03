@@ -1,0 +1,191 @@
+{
+  "id": "rbl-0147",
+  "slug": "pizza-de-couve-flor",
+  "nome": "Pizza de couve-flor",
+  "descricao": "Pizza de massa de couve-flor e queijo, assada até firmar, coberta com tomate, mussarela e manjericão.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 30,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pizza de 25 cm"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1/2 pizza"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "couve-flor",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1/2 couve-flor média, só os buquês (300 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "1/2 xícara (50 g) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates maduros"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "5 fatias de queijo mussarela (100 g)"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "manjericao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "10 folhas de manjericão"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga untado com azeite."
+    },
+    {
+      "texto": "Rale a couve-flor no ralo grosso ou pulse no processador até parecer arroz."
+    },
+    {
+      "texto": "Coloque num refratário, tampe e leve ao micro-ondas por 4 minutos. Espere amornar.",
+      "aviso": "Sai muito quente.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Coloque a couve-flor num pano de prato limpo e torça bem para tirar toda a água. Esse passo é o segredo da massa firme."
+    },
+    {
+      "texto": "Misture a couve-flor com o ovo, a mussarela ralada, o parmesão, o orégano e o sal."
+    },
+    {
+      "texto": "Espalhe na assadeira num disco de 25 cm, com cerca de 1 cm de altura."
+    },
+    {
+      "texto": "Asse por 20 minutos, até dourar e firmar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Enquanto isso, rale 1 tomate e tempere com sal. Corte o outro em rodelas."
+    },
+    {
+      "texto": "Espalhe o tomate ralado sobre a massa, cubra com a mussarela e as rodelas de tomate e volte ao forno por 10 minutos, até o queijo derreter.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Finalize com as folhas de manjericão."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o manjericão por orégano e a mussarela da cobertura por frango desfiado com requeijão."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa ficar mole, faltou espremer a couve-flor: torça o pano até não sair mais água."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a massa assada e sem cobertura na geladeira por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 361,
+      "carboidratos_g": 13.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0147.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pizza",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pizza low carb",
+      "massa de couve flor",
+      "pizza sem farinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

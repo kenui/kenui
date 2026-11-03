@@ -1,0 +1,91 @@
+{
+  "receita": "rbl-0069",
+  "nome": "Omelete de espinafre com queijo branco",
+  "porcoes": 1,
+  "porcao": "1 omelete",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "1 xícara (chá) de folhas de espinafre picadas",
+      "gramas": 30,
+      "kcal": 4.8,
+      "carboidratos_g": 0.78,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "2 colheres (sopa) de queijo minas frescal esfarelado (30 g)",
+      "gramas": 30,
+      "kcal": 79.2,
+      "carboidratos_g": 0.96,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (chá) de azeite",
+      "gramas": 4.5,
+      "kcal": 39.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 267,
+    "carboidratos_g": 3.4
+  },
+  "por_porcao": {
+    "kcal": 267,
+    "carboidratos_g": 3.4
+  }
+}

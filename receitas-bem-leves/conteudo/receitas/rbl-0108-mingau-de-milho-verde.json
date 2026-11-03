@@ -1,0 +1,135 @@
+{
+  "id": "rbl-0108",
+  "slug": "mingau-de-milho-verde",
+  "nome": "Mingau de milho-verde",
+  "descricao": "Mingau cremoso de milho-verde batido com leite, com cheirinho de canela, mais ralo que o curau.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "total_min": 22
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "tigelas"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "milho-verde",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de milho-verde em lata escorrido"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de canela em pó para polvilhar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata o milho com 1 xícara do leite no liquidificador por 2 minutos, até ficar bem liso."
+    },
+    {
+      "texto": "Passe por uma peneira, apertando com uma colher para tirar todo o caldo. Descarte as cascas."
+    },
+    {
+      "texto": "Leve o caldo a uma panela com o resto do leite, o eritritol e o sal."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo, mexendo sem parar, por 10 a 12 minutos, até engrossar e cobrir as costas da colher.",
+      "aviso": "O mingau borbulha e espirra: use colher de cabo longo.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Sirva quente ou frio, polvilhado com canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 3 espigas de milho-verde fresco, debulhadas, no lugar do milho em lata."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quer mais firme, tipo curau? Cozinhe por mais 5 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias. Engrossa ao esfriar: mexa com um pouco de leite ao aquecer."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 207,
+      "carboidratos_g": 26.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0108.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mingau de milho",
+      "curau sem acucar",
+      "creme de milho doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

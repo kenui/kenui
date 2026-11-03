@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0453",
+  "nome": "Doce de banana de colher",
+  "porcoes": 10,
+  "porcao": "2 colheres (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "6 bananas nanicas bem maduras",
+      "gramas": 708,
+      "kcal": 651.4,
+      "carboidratos_g": 168.5,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "2 pitadas de cravo em pó",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 668.9,
+    "carboidratos_g": 174.2
+  },
+  "por_porcao": {
+    "kcal": 67,
+    "carboidratos_g": 17.4
+  }
+}

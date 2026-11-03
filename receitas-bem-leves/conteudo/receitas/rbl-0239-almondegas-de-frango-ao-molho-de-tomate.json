@@ -1,0 +1,193 @@
+{
+  "id": "rbl-0239",
+  "slug": "almondegas-de-frango-ao-molho-de-tomate",
+  "nome": "Almôndegas de frango ao molho de tomate",
+  "descricao": "Almôndegas macias de frango com aveia e salsinha, cozidas num molho de tomate caseiro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "almôndegas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "5 almôndegas com molho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango moído (peça para moer no açougue ou bata no processador)"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Almôndegas",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pure-de-tomate",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de purê de tomate ou passata (confira no rótulo: sem açúcar)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água (120 ml)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture bem todos os ingredientes das almôndegas. Se estiver mole demais para modelar, junte mais 1 colher (sopa) de aveia."
+    },
+    {
+      "texto": "Com as mãos untadas de azeite, faça 20 bolinhas do tamanho de uma noz."
+    },
+    {
+      "texto": "Numa panela larga, aqueça o azeite e doure as almôndegas em fogo médio, girando a panela, por 6 minutos.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Junte o alho do molho e mexa por 30 segundos."
+    },
+    {
+      "texto": "Acrescente o purê de tomate, a água, o orégano e o sal. Tampe e cozinhe em fogo baixo por 20 minutos, mexendo de vez em quando com cuidado.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Confira se estão cozidas partindo uma ao meio: o centro deve estar branco."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por carne moída de patinho, com o mesmo tempo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem passata, use 5 tomates maduros batidos no liquidificador e cozinhe o molho 10 minutos a mais."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele já no molho, em potes, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 297,
+      "carboidratos_g": 15.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0239.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "almondegas",
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "almondega de frango",
+      "almondegas de frango",
+      "bolinho de frango ao molho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

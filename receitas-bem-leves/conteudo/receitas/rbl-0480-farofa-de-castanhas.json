@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0480",
+  "slug": "farofa-de-castanhas",
+  "nome": "Farofa de castanhas",
+  "descricao": "Farofa amanteigada de mandioca com castanha-do-pará e castanha-de-caju picadas, crocante e perfumada.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "3 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de castanha-do-pará picada (80 g)"
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de castanha-de-caju picada (80 g)"
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "250 g de farinha de mandioca torrada (meio pacote)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, derreta a manteiga em fogo médio e refogue a cebola por 3 minutos, até dourar de leve.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o alho e as castanhas e mexa por 2 minutos, até as castanhas ficarem perfumadas.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a farinha aos poucos, mexendo sempre, e toste por 5 a 8 minutos em fogo baixo, até ficar soltinha e cheirosa.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Tempere com o sal, desligue e misture a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as castanhas por nozes ou amêndoas, na mesma quantidade."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para uma versão sem lactose, use azeite no lugar da manteiga."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A castanha-de-caju torrada já vem salgada: prove antes de colocar todo o sal."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado, fora da geladeira, por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 235,
+      "carboidratos_g": 27.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0480.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "farofa de natal",
+      "farofa com castanha",
+      "farofa de castanha do para"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

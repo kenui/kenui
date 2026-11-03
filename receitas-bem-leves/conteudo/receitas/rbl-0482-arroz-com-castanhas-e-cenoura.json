@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0482",
+  "slug": "arroz-com-castanhas-e-cenoura",
+  "nome": "Arroz com castanhas e cenoura",
+  "descricao": "Arroz soltinho com cenoura ralada e castanha-de-caju tostada, colorido para a mesa de Natal.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "descanso_min": 5,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "4 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "arroz-branco",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de arroz branco"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras médias raladas"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de água fervente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "3/4 de xícara (chá) de castanha-de-caju (100 g)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira seca, toste a castanha-de-caju por 3 minutos, mexendo, até dourar. Reserve.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola e o alho por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte o arroz e a cenoura e refogue por 2 minutos, mexendo.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a água fervente e o sal, tampe deixando uma fresta e cozinhe em fogo baixo por 15 a 18 minutos, até a água secar.",
+      "aviso": "Cuidado com o vapor da água fervente.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Desligue, tampe e deixe descansar 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Solte o arroz com um garfo e misture a castanha e a cebolinha na hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-de-caju por castanha-do-pará picada ou por amêndoas laminadas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use arroz integral: aumente a água para 5 xícaras e cozinhe por 35 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Misture as castanhas só na hora de servir, para continuarem crocantes."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias, com as castanhas à parte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 278,
+      "carboidratos_g": 42.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0482.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "cenoura",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "arroz de natal",
+      "arroz com castanha de caju",
+      "arroz colorido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

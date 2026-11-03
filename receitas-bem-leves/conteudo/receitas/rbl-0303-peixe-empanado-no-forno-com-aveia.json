@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0303",
+  "slug": "peixe-empanado-no-forno-com-aveia",
+  "nome": "Peixe empanado no forno com aveia",
+  "descricao": "Filés de tilápia com crosta crocante de aveia, parmesão e páprica, assados sem fritura.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tilapia",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 filés de tilápia (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Crosta",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os filés com o suco de limão, o alho e o sal. Seque levemente com papel-toalha."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com um fio de azeite."
+    },
+    {
+      "texto": "Num prato, misture a aveia, o parmesão, a páprica e o orégano."
+    },
+    {
+      "texto": "Passe cada filé no ovo batido e depois na mistura de aveia, apertando bem para grudar."
+    },
+    {
+      "texto": "Arrume na assadeira, regue com o restante do azeite e asse por 18 a 20 minutos, até a crosta dourar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por farinha de rosca integral ou farinha de linhaça."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use merluza ou pescada no lugar da tilápia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com limão e uma salada de folhas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 274,
+      "carboidratos_g": 11.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0303.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "peixe empanado assado",
+      "tilapia empanada",
+      "peixe a milanesa no forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

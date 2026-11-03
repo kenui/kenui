@@ -1,0 +1,175 @@
+{
+  "id": "rbl-0293",
+  "slug": "estrogonofe-de-carne",
+  "nome": "Estrogonofe de carne",
+  "descricao": "Tiras de alcatra seladas num molho cremoso de champignon, creme de leite e extrato de tomate, sem nenhum molho pronto.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 concha cheia (cerca de 1 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "alcatra",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de alcatra em tiras"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "champignon",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de champignon fatiado, escorrido"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água (120 ml)"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a carne com o sal e a pimenta."
+    },
+    {
+      "texto": "Aqueça o óleo numa panela larga em fogo bem alto e sele a carne em duas levas, 2 a 3 minutos cada, só até dourar. Reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Abaixe para fogo médio, derreta a manteiga e refogue a cebola e o alho por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a páprica, o extrato, o champignon e a água e cozinhe 4 minutos, raspando o fundo.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Volte a carne com o caldo que soltou e cozinhe 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Abaixe o fogo, junte o creme de leite e mexa só até aquecer, sem deixar ferver."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a alcatra por filé mignon, contrafilé ou patinho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use cogumelos frescos fatiados no lugar do champignon em conserva."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Selar a carne rápido e em fogo alto evita que ela fique dura e cinzenta."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 439,
+      "carboidratos_g": 8.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0293.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_branco",
+    "recheio": "estrogonofe",
+    "enfeites": [
+      "cogumelo"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "strogonoff de carne",
+      "estrogonofe de alcatra",
+      "estrogonofe sem molho pronto"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

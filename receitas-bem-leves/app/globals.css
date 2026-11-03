@@ -1,0 +1,245 @@
+/* Receitas Bem Leves: uma coluna para celular, letra grande, botões de no mínimo 48 px,
+   barra de navegação fixa embaixo e uma ação principal por tela. Tema claro único (identidade da marca). */
+:root {
+  --vinho: #7B1E2C;
+  --vinho-escuro: #5E1621;
+  --creme: #FBF3E8;
+  --creme-forte: #F3E4CF;
+  --verde: #1FA855;
+  --verde-escuro: #137A3D;
+  --texto: #2A1A1A;
+  --texto-suave: #5A4644;
+  --branco: #FFFFFF;
+  --borda: #E3CFB4;
+  --alerta: #8F1D1D;
+  --titulo: var(--fonte-titulo), Georgia, 'Times New Roman', serif;
+  --corpo: var(--fonte-corpo), 'Segoe UI', Roboto, Arial, sans-serif;
+  --nav-altura: 72px;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; }
+body {
+  background: var(--creme);
+  color: var(--texto);
+  font-family: var(--corpo);
+  font-size: 18px;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+body::before { content: ''; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--vinho); }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+a { color: var(--vinho); }
+:focus-visible { outline: 3px solid var(--verde-escuro); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--titulo); font-weight: 400; line-height: 1.15; text-wrap: balance; margin: 0; }
+p { margin: 0; }
+img { max-width: 100%; }
+.selecionavel { user-select: all; word-break: break-all; }
+
+/* Cabeçalho */
+.topo {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--vinho); color: var(--creme);
+  padding-block: 12px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 12px; min-height: 64px;
+}
+.topo h1 { font-size: 26px; flex: 1; min-width: 0; }
+.topo .voltar { background: transparent; border: 2px solid var(--creme); color: var(--creme); border-radius: 12px; min-height: 48px; padding: 0 14px; font-weight: 700; flex: none; }
+
+.conteudo {
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 16px calc(var(--nav-altura) + 32px + env(safe-area-inset-bottom, 0px));
+  max-width: 720px; margin: 0 auto;
+  display: flex; flex-direction: column; gap: 22px;
+}
+
+/* Botões */
+.btn { min-height: 52px; border-radius: 14px; border: 0; padding: 0 20px; font-weight: 700; font-size: 18px; display: inline-flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none; text-align: center; }
+.btn-principal { background: var(--verde-escuro); color: var(--branco); }
+.btn-principal:active { background: #0F6531; }
+.btn-principal[disabled] { opacity: .6; }
+.btn-secundario { background: var(--branco); color: var(--vinho); border: 2px solid var(--vinho); }
+.btn-largo { width: 100%; }
+.btn-grande { min-height: 60px; font-size: 20px; }
+.btn-texto { background: none; border: 0; color: var(--vinho); font-weight: 700; text-decoration: underline; min-height: 48px; padding: 0 4px; }
+
+/* Campos */
+.campo { display: flex; flex-direction: column; gap: 6px; }
+.campo label { font-weight: 700; }
+.campo input, .campo select, .busca input {
+  min-height: 56px; border: 2px solid var(--borda); border-radius: 14px; padding: 0 16px; background: var(--branco); font-size: 19px; width: 100%;
+}
+.campo input:focus, .busca input:focus, .campo select:focus { border-color: var(--vinho); outline: none; }
+.busca { display: flex; gap: 8px; }
+.busca input { flex: 1; min-width: 0; }
+.dica-campo { font-size: 17px; color: var(--texto-suave); }
+.erro { color: var(--alerta); font-weight: 700; }
+
+/* Início */
+.destaques { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.destaque { color: var(--creme); border-radius: 16px; padding: 16px; min-height: 108px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px; text-decoration: none; background: var(--vinho); }
+.destaque strong { font-family: var(--titulo); font-weight: 400; font-size: 21px; line-height: 1.15; }
+.destaque span { font-size: 16px; }
+.destaque:nth-child(2) { background: #8B3326; }
+.destaque:nth-child(3) { background: #6B3A24; }
+.destaque:nth-child(4) { background: var(--verde-escuro); }
+.secao-titulo { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+.secao-titulo h2 { font-size: 26px; color: var(--vinho); }
+.secao-titulo a { font-weight: 700; min-height: 44px; display: inline-flex; align-items: center; }
+
+/* Receitas */
+.lista-receitas { display: grid; grid-template-columns: 1fr; gap: 14px; }
+@media (min-width: 560px) { .lista-receitas { grid-template-columns: 1fr 1fr; } }
+.cartao { background: var(--branco); border: 1px solid var(--borda); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; color: inherit; text-decoration: none; }
+.cartao .corpo { padding: 12px 14px 16px; display: flex; flex-direction: column; gap: 6px; }
+.cartao h3 { font-size: 22px; }
+.meta { font-size: 17px; color: var(--texto-suave); }
+.imagem { position: relative; aspect-ratio: 4 / 3; max-width: 100%; background: var(--creme-forte); overflow: hidden; }
+.imagem svg, .imagem img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.imagem-grande { border-radius: 18px; }
+.etiquetas { position: absolute; left: 10px; top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+.etiqueta { font-size: 15px; font-weight: 700; padding: 5px 10px; border-radius: 999px; color: var(--branco); line-height: 1.2; }
+.etiqueta.verde { background: var(--verde-escuro); }
+.etiqueta.vinho { background: var(--vinho); }
+.vazio, .cartao-aviso { background: var(--branco); border: 1px solid var(--borda); border-radius: 16px; padding: 20px; display: flex; flex-direction: column; gap: 14px; align-items: stretch; }
+.vazio { color: var(--texto-suave); }
+.cartao-aviso h2 { font-size: 28px; color: var(--vinho); }
+.filtros { display: flex; flex-direction: column; gap: 12px; }
+.chips { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; min-height: 48px; padding: 0 16px; border-radius: 999px; border: 2px solid var(--vinho); background: var(--branco); color: var(--vinho); font-weight: 700; font-size: 17px; }
+.chip[aria-pressed='true'] { background: var(--vinho); color: var(--creme); }
+.contagem { color: var(--texto-suave); }
+
+/* Página da receita */
+.receita-cabecalho { display: flex; flex-direction: column; gap: 10px; }
+.receita-cabecalho h2 { font-size: 34px; color: var(--vinho); }
+.receita-cabecalho p { color: var(--texto-suave); }
+.fatos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.fato { background: var(--branco); border: 1px solid var(--borda); border-radius: 14px; padding: 10px 12px; display: flex; flex-direction: column; min-width: 0; }
+.fato small { font-size: 15px; color: var(--texto-suave); text-transform: uppercase; letter-spacing: .04em; }
+.fato b { font-size: 19px; font-variant-numeric: tabular-nums; }
+.nota { font-size: 16px; color: var(--texto-suave); }
+.acoes { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.acoes .btn-principal { grid-column: 1 / -1; }
+.acoes .btn { padding: 0 10px; font-size: 17px; }
+.bloco { display: flex; flex-direction: column; gap: 10px; }
+.bloco h3 { font-size: 26px; color: var(--vinho); }
+.bloco h4 { margin: 8px 0 0; font-size: 18px; color: var(--texto-suave); }
+.ingredientes { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.ingredientes li { background: var(--branco); border: 1px solid var(--borda); border-radius: 12px; padding: 10px 14px; }
+.ingredientes .alt { display: block; font-size: 16px; color: var(--texto-suave); }
+.passos { margin: 0; padding: 0; list-style: none; counter-reset: passo; display: flex; flex-direction: column; gap: 14px; }
+.passos li { counter-increment: passo; display: grid; grid-template-columns: 40px 1fr; gap: 12px; align-items: start; }
+.passos li::before { content: counter(passo); width: 40px; height: 40px; border-radius: 50%; background: var(--vinho); color: var(--creme); display: grid; place-items: center; font-weight: 700; }
+.atencao { display: block; margin-top: 4px; font-size: 16px; color: var(--vinho); font-weight: 700; }
+.dicas { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.dicas li { background: var(--creme-forte); border-radius: 12px; padding: 10px 14px; }
+.dicas b { color: var(--vinho); }
+
+/* Plano */
+.semanas { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+.semanas .chip { padding: 0 8px; }
+.dia { background: var(--branco); border: 1px solid var(--borda); border-radius: 16px; padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; }
+.dia h3 { font-size: 22px; color: var(--vinho); }
+.refeicao { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; border-top: 1px solid var(--borda); padding-top: 8px; }
+.refeicao small { display: block; font-size: 15px; color: var(--texto-suave); text-transform: uppercase; letter-spacing: .04em; }
+.refeicao a { font-weight: 700; color: var(--texto); min-height: 44px; display: inline-flex; align-items: center; }
+.btn-trocar { min-height: 48px; padding: 0 12px; border-radius: 12px; border: 2px solid var(--vinho); background: var(--branco); color: var(--vinho); font-weight: 700; font-size: 16px; }
+.janela { position: fixed; inset: 0; z-index: 30; background: rgba(42, 26, 26, .55); display: flex; align-items: flex-end; justify-content: center; }
+.janela-corpo { background: var(--creme); width: 100%; max-width: 720px; max-height: 85vh; overflow-y: auto; border-radius: 20px 20px 0 0;
+  padding-block: 18px calc(18px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 12px; }
+.janela-corpo h2 { font-size: 26px; color: var(--vinho); }
+.opcao { display: flex; justify-content: space-between; gap: 12px; align-items: center; background: var(--branco); border: 1px solid var(--borda); border-radius: 12px; padding: 10px 14px; min-height: 56px; text-align: left; width: 100%; }
+.opcao small { color: var(--texto-suave); font-size: 15px; display: block; }
+
+/* Lista de compras */
+.grupo-mercado { display: flex; flex-direction: column; gap: 8px; }
+.grupo-mercado h3 { font-size: 22px; color: var(--vinho); }
+.item-compra { display: flex; gap: 12px; align-items: center; background: var(--branco); border: 1px solid var(--borda); border-radius: 12px; padding: 8px 14px; min-height: 56px; }
+.item-compra input { width: 28px; height: 28px; accent-color: var(--verde-escuro); flex: none; }
+.item-compra label { flex: 1; min-width: 0; }
+.item-compra.marcado label { text-decoration: line-through; color: var(--texto-suave); }
+.na-lista { display: flex; flex-direction: column; gap: 8px; }
+.na-lista div { display: flex; justify-content: space-between; align-items: center; gap: 8px; background: var(--branco); border: 1px solid var(--borda); border-radius: 12px; padding: 4px 4px 4px 14px; }
+
+/* Bônus e textos longos */
+.cartoes-bonus { display: grid; gap: 12px; }
+.cartao-bonus { display: flex; flex-direction: column; gap: 6px; background: var(--branco); border: 1px solid var(--borda); border-left: 8px solid var(--vinho); border-radius: 14px; padding: 14px 16px; color: inherit; text-decoration: none; }
+.cartao-bonus strong { font-family: var(--titulo); font-weight: 400; font-size: 22px; color: var(--vinho); }
+.texto-longo { display: flex; flex-direction: column; gap: 14px; }
+.texto-longo h2 { font-size: 28px; color: var(--vinho); margin-top: 8px; }
+.texto-longo h3 { font-size: 22px; color: var(--vinho); margin-top: 6px; }
+.texto-longo ul { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 6px; }
+.tabela-rolagem { overflow-x: auto; border: 1px solid var(--borda); border-radius: 12px; background: var(--branco); }
+.tabela-rolagem table { border-collapse: collapse; width: 100%; min-width: 520px; font-size: 17px; }
+.tabela-rolagem th, .tabela-rolagem td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--borda); vertical-align: top; }
+.tabela-rolagem th { background: var(--creme-forte); }
+
+/* Perfil e rodapé */
+.cartao-perfil { background: var(--branco); border: 1px solid var(--borda); border-radius: 16px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+.rodape { border-top: 1px solid var(--borda); padding-top: 16px; font-size: 16px; color: var(--texto-suave); display: flex; flex-direction: column; gap: 6px; }
+
+/* Barra de navegação */
+.nav {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 6;
+  background: var(--branco); border-top: 1px solid var(--borda);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  padding-left: env(safe-area-inset-left, 0px); padding-right: env(safe-area-inset-right, 0px);
+  display: grid; grid-template-columns: repeat(5, 1fr);
+}
+.nav a { min-height: var(--nav-altura); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; font-size: 15px; font-weight: 700; color: var(--texto-suave); text-decoration: none; }
+.nav svg { width: 28px; height: 28px; }
+.nav a[aria-current='page'] { color: var(--vinho); }
+
+/* Carregando */
+.carregando { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 60px 0; color: var(--texto-suave); }
+.girando { width: 48px; height: 48px; border-radius: 50%; border: 5px solid var(--borda); border-top-color: var(--vinho); }
+@media (prefers-reduced-motion: no-preference) { .girando { animation: gira 1s linear infinite; } @keyframes gira { to { transform: rotate(360deg); } } }
+
+/* Modo cozinha */
+.cozinha { position: fixed; inset: 0; z-index: 40; background: var(--texto); color: var(--creme); display: flex; flex-direction: column;
+  padding-block: calc(16px + env(safe-area-inset-top, 0px)) calc(16px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); gap: 16px; }
+.cozinha .topo-cozinha { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.cozinha .contador { font-size: 20px; font-weight: 700; color: #F3D9B8; }
+.cozinha .fechar { min-height: 52px; border-radius: 14px; border: 2px solid var(--creme); background: none; color: var(--creme); padding: 0 18px; font-weight: 700; font-size: 18px; }
+.cozinha .passo { flex: 1; overflow-y: auto; font-size: 30px; line-height: 1.4; display: flex; flex-direction: column; gap: 16px; }
+.cozinha .passo .atencao { font-size: 22px; color: #FFB4A8; }
+.cozinha .tela-ligada { font-size: 16px; color: #F3D9B8; }
+.cozinha .timer { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.cozinha .timer b { font-size: 40px; font-variant-numeric: tabular-nums; }
+.cozinha .navegar { display: grid; grid-template-columns: 1fr 1.4fr; gap: 12px; }
+.cozinha .navegar button { min-height: 72px; font-size: 22px; border-radius: 16px; }
+.cozinha .anterior { background: none; border: 2px solid var(--creme); color: var(--creme); font-weight: 700; }
+.cozinha .anterior[disabled] { opacity: .35; }
+
+.cozinha ~ .toast { display: none; }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(var(--nav-altura) + 16px + env(safe-area-inset-bottom, 0px)); z-index: 50; background: var(--texto); color: var(--creme); padding: 12px 18px; border-radius: 14px; font-weight: 700; max-width: calc(100% - 32px); text-align: center; }
+
+/* Login */
+.entrar { min-height: 100vh; display: flex; flex-direction: column; }
+.entrar .conteudo { padding-bottom: 32px; }
+.marca { text-align: center; display: flex; flex-direction: column; gap: 6px; align-items: center; padding-top: 12px; }
+.marca h1 { font-size: 36px; color: var(--vinho); }
+
+/* Impressão: só o conteúdo, sem navegação. */
+.so-imprimir { display: none; }
+@media print {
+  body { background: #fff; font-size: 12pt; }
+  body::before, .nao-imprimir, .nav, .topo, .acoes, .btn, .btn-trocar, .chips, .semanas { display: none !important; }
+  .so-imprimir { display: block; }
+  .conteudo { padding: 0; max-width: none; gap: 12px; }
+  .imagem-grande { max-width: 9cm; }
+  .ingredientes li, .dia, .item-compra, .fato { border: 1px solid #bbb; break-inside: avoid; }
+  .passos li::before { background: none; color: #000; border: 1px solid #000; }
+  .dia { break-inside: avoid; }
+  a { color: #000; text-decoration: none; }
+}

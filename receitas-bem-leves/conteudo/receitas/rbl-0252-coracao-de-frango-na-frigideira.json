@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0252",
+  "slug": "coracao-de-frango-na-frigideira",
+  "nome": "Coração de frango na frigideira",
+  "descricao": "Coraçõezinhos de frango dourados no alho e na cebola, com limão e salsinha, do jeito de churrasco caseiro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "cerca de 3/4 de xícara (125 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coracao-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de coração de frango limpo"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média em tiras"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Retire o excesso de gordura dos corações com uma tesoura e lave em água corrente. Escorra bem."
+    },
+    {
+      "texto": "Tempere com o limão, o alho, o sal e a pimenta."
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira grande em fogo alto e junte os corações."
+    },
+    {
+      "texto": "Mexa de vez em quando por 12 minutos: primeiro eles soltam água, depois secam e começam a dourar.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Junte a cebola e doure mais 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e misture a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com moela, cozida antes na pressão por 20 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cebola por pimentão em tiras."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Panela bem quente e sem tampa: assim o coração doura em vez de cozinhar no próprio caldo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 325,
+      "carboidratos_g": 4.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0252.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "coracao de frango",
+      "coracaozinho",
+      "coracao de galinha na frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

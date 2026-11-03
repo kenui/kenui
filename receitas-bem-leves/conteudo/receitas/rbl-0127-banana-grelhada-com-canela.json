@@ -1,0 +1,135 @@
+{
+  "id": "rbl-0127",
+  "slug": "banana-grelhada-com-canela",
+  "nome": "Banana grelhada com canela",
+  "descricao": "Bananas douradas na frigideira com canela, servidas com iogurte e castanha picada.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 6,
+    "total_min": 9
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "bananas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 banana com iogurte"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas nanicas firmes"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de iogurte natural"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "castanha-do-para",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "2 castanhas-do-pará picadas (10 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as bananas e corte cada uma ao meio no comprido."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira antiaderente em fogo médio e coloque as bananas com o lado cortado para baixo."
+    },
+    {
+      "texto": "Doure por 2 a 3 minutos de cada lado, até ficarem macias e douradas.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Polvilhe a canela ainda na frigideira."
+    },
+    {
+      "texto": "Sirva com o iogurte e a castanha por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por ricota amassada ou queijo cottage."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use amendoim ou nozes no lugar da castanha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Banana firme, sem manchas, segura melhor o formato na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 175,
+      "carboidratos_g": 29.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0127.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela",
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "banana na frigideira",
+      "banana caramelizada sem acucar",
+      "banana com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

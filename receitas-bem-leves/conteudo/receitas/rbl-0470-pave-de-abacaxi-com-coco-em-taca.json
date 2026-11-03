@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0470",
+  "slug": "pave-de-abacaxi-com-coco-em-taca",
+  "nome": "Pavê de abacaxi com coco em taça",
+  "descricao": "Abacaxi cozido em camadas com creme de coco de panela e coco ralado por cima, servido gelado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 20,
+    "descanso_min": 120,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "taças"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Abacaxi",
+      "ingrediente": "abacaxi",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de abacaxi picado"
+    },
+    {
+      "grupo": "Abacaxi",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de coco ralado seco sem açúcar (20 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe o abacaxi com o eritritol em fogo baixo por 10 minutos, até ficar macio e soltar caldo. Deixe esfriar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Numa panela, fora do fogo, misture o leite, o leite de coco, o amido, o eritritol e o ovo com um batedor."
+    },
+    {
+      "texto": "Leve ao fogo médio, mexendo sem parar, por 8 a 10 minutos, até engrossar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Monte 8 taças alternando o creme e o abacaxi com um pouco do caldo."
+    },
+    {
+      "texto": "Polvilhe o coco ralado e leve à geladeira por 2 horas.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o abacaxi por manga, sem precisar cozinhar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite de coco por mais 1 xícara de leite e 3 colheres de coco ralado no creme."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cozinhar o abacaxi tira a acidez e deixa a sobremesa mais doce."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 146,
+      "carboidratos_g": 15.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0470.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pave",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi",
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pave de abacaxi",
+      "sobremesa de abacaxi com coco",
+      "pave na taca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

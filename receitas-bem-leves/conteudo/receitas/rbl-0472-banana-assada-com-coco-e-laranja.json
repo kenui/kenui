@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0472",
+  "slug": "banana-assada-com-coco-e-laranja",
+  "nome": "Banana assada com coco e laranja",
+  "descricao": "Bananas assadas no suco de laranja com canela e coco ralado, macias e perfumadas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 banana"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 bananas nanicas maduras, mas firmes"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de suco de laranja natural"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de coco ralado seco sem açúcar (20 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Descasque as bananas, corte ao meio no comprimento e arrume numa assadeira pequena."
+    },
+    {
+      "texto": "Regue com o suco de laranja, espalhe pedacinhos de manteiga e polvilhe a canela e o coco."
+    },
+    {
+      "texto": "Asse por 15 a 20 minutos, até as bananas ficarem macias e o coco dourar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Sirva morna, regada com o caldo da assadeira."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o suco de laranja por suco de maracujá, para um sabor mais azedinho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o coco por aveia em flocos ou castanhas picadas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fica ótima com uma colherada de iogurte natural gelado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 179,
+      "carboidratos_g": 32.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0472.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "coco_ralado",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "banana assada",
+      "banana de forno",
+      "fruta assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

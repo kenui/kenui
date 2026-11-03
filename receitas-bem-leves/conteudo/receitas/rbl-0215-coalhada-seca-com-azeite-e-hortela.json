@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0215",
+  "slug": "coalhada-seca-com-azeite-e-hortela",
+  "nome": "Coalhada seca com azeite e hortelã",
+  "descricao": "Coalhada seca e cremosa feita com iogurte natural, servida com azeite, hortelã e palitos de pepino.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 720,
+    "total_min": 730
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "3 colheres (sopa) de coalhada com palitos de pepino"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Coalhada",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 potes de iogurte natural integral (680 g)"
+    },
+    {
+      "grupo": "Coalhada",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pepino",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pepino japonês em palitos (200 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o iogurte com o sal."
+    },
+    {
+      "texto": "Forre uma peneira com um pano de prato limpo e fino e apoie a peneira sobre uma tigela."
+    },
+    {
+      "texto": "Coloque o iogurte no pano, feche as pontas e leve à geladeira por 12 horas, até sair quase todo o soro.",
+      "temporizador_min": 720
+    },
+    {
+      "texto": "Passe a coalhada para um prato, regue com o azeite e espalhe a hortelã por cima."
+    },
+    {
+      "texto": "Sirva com os palitos de pepino.",
+      "aviso": "Cuidado com a faca ao cortar."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por zátar ou por orégano seco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sirva com palitos de cenoura no lugar do pepino."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a coalhada sem o azeite em pote fechado na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 101,
+      "carboidratos_g": 2.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0215.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas",
+      "pepino"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "coalhada seca",
+      "coalhada caseira",
+      "labneh"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

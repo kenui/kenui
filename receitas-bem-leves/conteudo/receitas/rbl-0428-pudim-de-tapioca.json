@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0428",
+  "slug": "pudim-de-tapioca",
+  "nome": "Pudim de tapioca",
+  "descricao": "Pudim de forno de tapioca granulada com leite de coco, macio e com textura de bolinhas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 60,
+    "descanso_min": 270,
+    "total_min": 345
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de tapioca granulada"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite quente"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó para polvilhar"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a tapioca com o leite quente e o leite de coco. Deixe hidratar por 30 minutos.",
+      "aviso": "Cuidado: o leite está quente.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com a manteiga uma forma de pudim de 20 cm."
+    },
+    {
+      "texto": "Bata os ovos com o eritritol num batedor de mão e misture à tapioca hidratada."
+    },
+    {
+      "texto": "Despeje na forma, cubra com papel-alumínio e asse em banho-maria por 50 a 60 minutos, até firmar no centro.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Desenforme e polvilhe a canela."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite de coco por mais 1 xícara de leite e 3 colheres (sopa) de coco ralado sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não bata a tapioca no liquidificador: as bolinhas são o charme do pudim."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 176,
+      "carboidratos_g": 20.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0428.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de tapioca sem acucar",
+      "pudim de tapioca com coco",
+      "sobremesa de tapioca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

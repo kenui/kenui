@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0468",
+  "slug": "pave-de-morango-em-taca",
+  "nome": "Pavê de morango em taça",
+  "descricao": "Camadas de creme de baunilha, morango e farofa de aveia tostada, montadas em taça.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 5,
+    "descanso_min": 60,
+    "total_min": 85
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Farofa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g), gelado"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Fruta",
+      "ingrediente": "morango",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Toste a aveia com a manteiga e a canela numa frigideira em fogo baixo por 4 a 5 minutos, mexendo, até dourar. Deixe esfriar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Misture o creme de leite, o leite em pó, o eritritol, o leite e a baunilha com um batedor até ficar liso e encorpado."
+    },
+    {
+      "texto": "Monte 6 taças: farofa, creme, morangos; repita as camadas e termine com morangos."
+    },
+    {
+      "texto": "Leve à geladeira por 1 hora antes de servir.",
+      "temporizador_min": 60
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque os morangos por banana ou manga."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por castanhas picadas tostadas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Monte no máximo 4 horas antes, para a farofa continuar crocante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 220,
+      "carboidratos_g": 18.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0468.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pave",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pave de morango",
+      "pave na taca",
+      "sobremesa de morango em taca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

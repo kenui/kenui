@@ -1,0 +1,78 @@
+# Publica o app Receitas Bem Leves a cada alteração em receitas-bem-leves/ na branch main
+# (ou manualmente em Actions > "Receitas Bem Leves: publicar" > Run workflow).
+# Segredos necessários (Settings > Secrets and variables > Actions):
+#   SUPABASE_URL, SUPABASE_ANON_KEY, SUPABASE_SERVICE_ROLE_KEY, SUPABASE_ACCESS_TOKEN, SUPABASE_PROJECT_REF
+#   FTP_SERVIDOR, FTP_USUARIO, FTP_SENHA, FTP_PASTA (ex.: domains/dividaclara.com.br/public_html/app/)
+name: "Receitas Bem Leves: publicar"
+
+on:
+  push:
+    branches: [main]
+    paths: ["receitas-bem-leves/**", ".github/workflows/receitas-bem-leves-publicar.yml"]
+  workflow_dispatch:
+
+concurrency:
+  group: receitas-bem-leves-publicar
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: receitas-bem-leves
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_TELEMETRY_DISABLED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: receitas-bem-leves/package-lock.json
+
+      - run: npm ci
+
+      - name: Conferir receitas (nutrição atualizada, validador e testes)
+        run: |
+          npm run nutricao
+          git diff --exit-code -- conteudo/ || (echo "A nutrição no repositório está desatualizada: rode npm run nutricao e faça commit." && exit 1)
+          npm run validar
+          npm test
+
+      - name: Gerar plano e pacote de receitas
+        run: |
+          node scripts/gerar-plano.mjs
+          node scripts/gerar-pacote.mjs
+
+      - name: Enviar pacote de receitas ao Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/publicar-pacote.mjs
+
+      - name: Publicar a função do webhook da Hotmart
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+        run: npx --yes supabase@2.48.3 functions deploy hotmart-webhook --no-verify-jwt --project-ref ${{ secrets.SUPABASE_PROJECT_REF }}
+
+      - name: Montar o app
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          npx next build
+          node scripts/gerar-service-worker.mjs
+          test ! -f out/pacote-demo.json
+
+      - name: Enviar para o Hostinger
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVIDOR }}
+          username: ${{ secrets.FTP_USUARIO }}
+          password: ${{ secrets.FTP_SENHA }}
+          local-dir: receitas-bem-leves/out/
+          server-dir: ${{ secrets.FTP_PASTA }}
+          protocol: ftps

@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0452",
+  "slug": "pera-assada-com-especiarias",
+  "nome": "Pera assada com especiarias",
+  "descricao": "Metades de pera assadas com suco de laranja, canela e cravo, macias e perfumadas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 30,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 metades"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pera",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 peras maduras, mas firmes"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de suco de laranja natural"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cravo em pó"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de iogurte natural para servir"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Corte as peras ao meio no comprimento e tire o miolo com uma colher pequena."
+    },
+    {
+      "texto": "Arrume numa assadeira com o corte para cima. Coloque um pedacinho de manteiga em cada metade e polvilhe a canela e o cravo."
+    },
+    {
+      "texto": "Regue com o suco de laranja e asse por 25 a 30 minutos, até a pera ficar macia ao espetar com um garfo.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Sirva morna com o caldo da assadeira e uma colherada de iogurte."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pera por maçã, com 5 minutos a mais de forno."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por ricota amassada com baunilha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Peras muito maduras desmancham no forno; prefira as que ainda estão firmes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 140,
+      "carboidratos_g": 28.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0452.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pera assada",
+      "fruta assada",
+      "sobremesa de pera"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

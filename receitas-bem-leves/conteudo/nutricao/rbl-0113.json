@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0113",
+  "nome": "Iogurte com manga, maracujá e coco",
+  "porcoes": 1,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "manga",
+      "texto": "1/2 xícara (chá) de manga em cubos",
+      "gramas": 82.5,
+      "kcal": 42.1,
+      "carboidratos_g": 10.56,
+      "fonte": "TACO 4ª ed. 231 Manga, Tommy Atkins, crua",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 12.8
+      }
+    },
+    {
+      "ingrediente": "maracuja",
+      "texto": "Polpa de 1/2 maracujá (25 g)",
+      "gramas": 25,
+      "kcal": 17,
+      "carboidratos_g": 3.08,
+      "fonte": "TACO 4ª ed. 232 Maracujá, cru",
+      "por_100g": {
+        "kcal": 68,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1 colher (sopa) de coco ralado seco sem açúcar (8 g)",
+      "gramas": 8,
+      "kcal": 52.8,
+      "carboidratos_g": 1.89,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 198.6,
+    "carboidratos_g": 18.8
+  },
+  "por_porcao": {
+    "kcal": 199,
+    "carboidratos_g": 18.8
+  }
+}

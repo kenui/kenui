@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0121",
+  "slug": "panqueca-de-aveia-com-espinafre-e-queijo",
+  "nome": "Panqueca de aveia com espinafre e queijo",
+  "descricao": "Panquecas verdes de liquidificador enroladas com mussarela e tomate, para um café salgado.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 8,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "panquecas"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "2 panquecas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "espinafre",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de folhas de espinafre"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "2 fatias de mussarela (30 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "4 rodelas finas de tomate"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o ovo, a aveia, o leite, o espinafre, o sal e a noz-moscada por 1 minuto, até ficar verde e liso."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente de 18 cm com o azeite e aqueça em fogo médio-baixo."
+    },
+    {
+      "texto": "Despeje metade da massa e espalhe girando a frigideira. Deixe 1 a 2 minutos, até soltar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Vire, coloque metade do queijo e do tomate, deixe 1 minuto e enrole.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Repita com o resto da massa e do recheio."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve ou rúcula."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Recheie com frango desfiado ou peito de peru no lugar do tomate."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa ficar grossa demais, junte 1 colher (sopa) de leite."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 286,
+      "carboidratos_g": 15.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0121.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "panqueca_enrolada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "queijo e tomate",
+    "enfeites": [
+      "folhas_verdes",
+      "queijo_derretido",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panqueca verde",
+      "panqueca de espinafre",
+      "panqueca salgada de aveia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

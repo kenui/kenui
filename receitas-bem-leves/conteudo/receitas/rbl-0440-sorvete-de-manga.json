@@ -1,0 +1,112 @@
+{
+  "id": "rbl-0440",
+  "slug": "sorvete-de-manga",
+  "nome": "Sorvete de manga",
+  "descricao": "Sorvete de manga congelada batida com iogurte e limão, cremoso e com gosto de fruta.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 375
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "taças"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manga",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 mangas Palmer maduras, em cubos, congeladas"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as mangas, corte em cubos, espalhe num pote e congele por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Bata no processador a manga congelada, o iogurte e o limão por 3 a 4 minutos, raspando as laterais, até ficar cremoso.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Sirva na hora ou congele por mais 1 hora para firmar."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por leite de coco, para um sorvete mais tropical."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use polpa de manga congelada sem açúcar, em cubos, no lugar da fruta."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 1 mês; tire 10 minutos antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 87,
+      "carboidratos_g": 18.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0440.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "manga"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sorvete de manga caseiro",
+      "sorvete de fruta",
+      "sorvete sem maquina"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0107",
+  "nome": "Mingau de aveia com cacau",
+  "porcoes": 1,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "3 colheres (sopa) de aveia em flocos",
+      "gramas": 15.3,
+      "kcal": 60.3,
+      "carboidratos_g": 10.19,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "1 colher (sopa) de cacau em pó 100%",
+      "gramas": 5.4,
+      "kcal": 12.3,
+      "carboidratos_g": 3.13,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (chá) de eritritol",
+      "gramas": 8.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1/4 de colher (chá) de essência de baunilha",
+      "gramas": 1.1,
+      "kcal": 3,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "texto": "1 castanha-do-pará picada (5 g)",
+      "gramas": 5,
+      "kcal": 32.2,
+      "carboidratos_g": 0.76,
+      "fonte": "TACO 4ª ed. 589 Castanha-do-Brasil, crua",
+      "por_100g": {
+        "kcal": 643,
+        "carboidratos_g": 15.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 256.8,
+    "carboidratos_g": 25.9
+  },
+  "por_porcao": {
+    "kcal": 257,
+    "carboidratos_g": 25.9
+  }
+}

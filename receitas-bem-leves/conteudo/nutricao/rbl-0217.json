@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0217",
+  "nome": "Salada de frutas com suco de laranja",
+  "porcoes": 4,
+  "porcao": "1 tigelinha (cerca de 1 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1 banana-nanica",
+      "gramas": 118,
+      "kcal": 108.6,
+      "carboidratos_g": 28.08,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "mamao-papaia",
+      "texto": "1 xícara (chá) de mamão picado",
+      "gramas": 145,
+      "kcal": 58,
+      "carboidratos_g": 15.08,
+      "fonte": "TACO 4ª ed. 226 Mamão, Papaia, cru",
+      "por_100g": {
+        "kcal": 40,
+        "carboidratos_g": 10.4
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "1 xícara (chá) de abacaxi picado",
+      "gramas": 165,
+      "kcal": 79.2,
+      "carboidratos_g": 20.3,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "tangerina",
+      "texto": "1 tangerina em gomos sem sementes",
+      "gramas": 88,
+      "kcal": 33.4,
+      "carboidratos_g": 8.45,
+      "fonte": "TACO 4ª ed. 251 Tangerina, Poncã, crua",
+      "por_100g": {
+        "kcal": 38,
+        "carboidratos_g": 9.6
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "suco de 2 laranjas",
+      "gramas": 172,
+      "kcal": 56.8,
+      "carboidratos_g": 13.07,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de hortelã picada",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 422.5,
+    "carboidratos_g": 108.3
+  },
+  "por_porcao": {
+    "kcal": 106,
+    "carboidratos_g": 27.1
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "rbl-0387",
+  "slug": "bolo-de-caneca-de-banana",
+  "nome": "Bolo de caneca de banana",
+  "descricao": "Bolinho de caneca de banana, aveia e canela, adoçado só com a fruta.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "bolo de caneca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 caneca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 banana nanica bem madura"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (cerca de 300 ml), amasse a banana com um garfo até virar purê."
+    },
+    {
+      "texto": "Junte o ovo e o leite e bata com o garfo."
+    },
+    {
+      "texto": "Acrescente a aveia e a canela e misture. Junte o fermento por último."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, até firmar.",
+      "aviso": "A caneca sai muito quente: segure pela alça ou com um pano.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Sirva morno, com rodelas de banana por cima se quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de trigo integral."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Banana com casca bem pintadinha deixa o bolinho mais doce."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para ficar mais doce, junte 1 colher (chá) de eritritol."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 198,
+      "carboidratos_g": 26.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0387.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de caneca de banana",
+      "bolo de banana de microondas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "rbl-0188",
+  "slug": "vitamina-de-maca-com-aveia-e-canela",
+  "nome": "Vitamina de maçã com aveia e canela",
+  "descricao": "Vitamina de maçã com casca, aveia e canela, com gostinho de torta de maçã.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã média com casca (150 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave a maçã, tire as sementes e corte em pedaços, com casca.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador a maçã, o leite, a aveia e a canela por 2 minutos, até a casca ficar bem triturada.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Sirva na hora, polvilhada com mais um pouco de canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por 1 pera madura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Beba logo: a maçã escurece depois de batida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Maçã gala ou fuji deixa a vitamina mais doce."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 175,
+      "carboidratos_g": 24.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0188.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina de maca",
+      "maca com aveia",
+      "batida de maca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

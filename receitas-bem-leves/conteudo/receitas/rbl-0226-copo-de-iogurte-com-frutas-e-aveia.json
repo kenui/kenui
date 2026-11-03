@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0226",
+  "slug": "copo-de-iogurte-com-frutas-e-aveia",
+  "nome": "Copo de iogurte com frutas e aveia",
+  "descricao": "Copo em camadas de iogurte natural, morango, banana e aveia tostada, montado na hora.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 3,
+    "total_min": 8
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "copo"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 copo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de morangos picados"
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 banana em rodelas"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Toste a aveia numa frigideira seca em fogo baixo, mexendo, por 3 minutos, até perfumar. Misture a canela.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Num copo, coloque metade do iogurte, metade das frutas e metade da aveia."
+    },
+    {
+      "texto": "Repita as camadas e sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por mamão ou manga picados."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por castanhas picadas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A aveia tostada fica crocante: coloque por último se for comer depois de um tempo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 203,
+      "carboidratos_g": 29
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0226.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "banana_rodelas",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte com frutas",
+      "copo de iogurte",
+      "iogurte com aveia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

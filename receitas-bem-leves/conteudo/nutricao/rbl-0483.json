@@ -1,0 +1,115 @@
+{
+  "receita": "rbl-0483",
+  "nome": "Arroz com lentilha e cebola dourada",
+  "porcoes": 8,
+  "porcao": "1 concha cheia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "lentilha",
+      "texto": "1 xícara (chá) de lentilha",
+      "gramas": 192,
+      "kcal": 650.9,
+      "carboidratos_g": 119.04,
+      "fonte": "TACO 4ª ed. 578 Lentilha, crua",
+      "por_100g": {
+        "kcal": 339,
+        "carboidratos_g": 62
+      }
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "1 e 1/2 xícara (chá) de arroz branco",
+      "gramas": 277.5,
+      "kcal": 993.5,
+      "carboidratos_g": 218.67,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "3 cebolas em tiras finas",
+      "gramas": 330,
+      "kcal": 128.7,
+      "carboidratos_g": 29.37,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "5 colheres (sopa) de azeite",
+      "gramas": 67.5,
+      "kcal": 596.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "6 xícaras (chá) de água",
+      "gramas": 1440,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2383.7,
+    "carboidratos_g": 369.9
+  },
+  "por_porcao": {
+    "kcal": 298,
+    "carboidratos_g": 46.2
+  }
+}

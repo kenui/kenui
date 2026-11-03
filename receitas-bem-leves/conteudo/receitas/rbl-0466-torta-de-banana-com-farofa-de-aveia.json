@@ -1,0 +1,173 @@
+{
+  "id": "rbl-0466",
+  "slug": "torta-de-banana-com-farofa-de-aveia",
+  "nome": "Torta de banana com farofa de aveia",
+  "descricao": "Torta de banana com canela entre duas camadas de farofa amanteigada de aveia, dourada no forno.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "descanso_min": 20,
+    "total_min": 85
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Farofa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "manteiga",
+      "quantidade": 6,
+      "medida": "colher_sopa",
+      "texto": "6 colheres (sopa) de manteiga gelada"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "banana-nanica",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 bananas nanicas maduras, em rodelas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte uma forma de 22 cm com manteiga."
+    },
+    {
+      "texto": "Misture a aveia, a farinha, o eritritol e a canela. Junte a manteiga em pedaços e esfarele com os dedos até virar uma farofa grossa."
+    },
+    {
+      "texto": "Misture as rodelas de banana com o suco de limão e a canela."
+    },
+    {
+      "texto": "Espalhe metade da farofa no fundo da forma, apertando. Cubra com as bananas e espalhe o restante da farofa por cima, sem apertar."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até a farofa dourar.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Deixe amornar por 20 minutos antes de cortar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por mais 1/2 xícara de aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade das bananas por maçã em fatias finas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva morna com uma colherada de iogurte natural."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 200,
+      "carboidratos_g": 30.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0466.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": "banana com canela",
+    "enfeites": [
+      "banana_rodelas",
+      "aveia",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de banana sem acucar",
+      "torta de banana com aveia",
+      "torta de banana de farofa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

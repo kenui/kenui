@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0245",
+  "nome": "Frango com abóbora",
+  "porcoes": 4,
+  "porcao": "1 prato raso (2 coxas com abóbora)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "texto": "8 coxas de frango sem pele (cerca de 800 g)",
+      "gramas": 800,
+      "kcal": 960,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 399 Frango, coxa, sem pele, crua",
+      "por_100g": {
+        "kcal": 120,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1 pitada de cominho",
+      "gramas": 0.3,
+      "kcal": 1,
+      "carboidratos_g": 0.12,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (sopa) de óleo",
+      "gramas": 13.6,
+      "kcal": 120.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate picado",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água quente (240 ml)",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "500 g de abóbora cabotiá descascada, em cubos grandes",
+      "gramas": 500,
+      "kcal": 195,
+      "carboidratos_g": 42,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1349.1,
+    "carboidratos_g": 58.1
+  },
+  "por_porcao": {
+    "kcal": 337,
+    "carboidratos_g": 14.5
+  }
+}

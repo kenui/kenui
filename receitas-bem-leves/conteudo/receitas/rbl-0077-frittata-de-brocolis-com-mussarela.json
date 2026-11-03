@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0077",
+  "slug": "frittata-de-brocolis-com-mussarela",
+  "nome": "Frittata de brócolis com mussarela",
+  "descricao": "Omelete assada no refratário com brócolis e mussarela gratinada por cima.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "refratário de 20 x 20 cm"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 quadrado (1/4)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "brocolis",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de brócolis em floretes pequenos"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de mussarela ralada"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte um refratário de 20 x 20 cm com o azeite."
+    },
+    {
+      "texto": "Cozinhe o brócolis no vapor por 4 minutos, até ficar verde vivo e ainda firme. Espalhe no refratário.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o leite, o sal e a noz-moscada e despeje sobre o brócolis."
+    },
+    {
+      "texto": "Espalhe a mussarela por cima."
+    },
+    {
+      "texto": "Asse no forno por 20 a 25 minutos, até o centro firmar e o queijo dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Deixe amornar 5 minutos e corte em 4 quadrados.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o brócolis por couve-flor ou espinafre."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar da mussarela, use queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça 1 minuto no micro-ondas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 204,
+      "carboidratos_g": 4.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0077.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "brócolis",
+    "enfeites": [
+      "brocolis",
+      "queijo_derretido"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frittata de brocolis",
+      "omelete de forno",
+      "torta de ovo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

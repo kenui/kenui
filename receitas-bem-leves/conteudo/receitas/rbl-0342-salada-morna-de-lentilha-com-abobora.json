@@ -1,0 +1,183 @@
+{
+  "id": "rbl-0342",
+  "slug": "salada-morna-de-lentilha-com-abobora",
+  "nome": "Salada morna de lentilha com abóbora",
+  "descricao": "Lentilha temperada com cubos de abóbora assada, rúcula e queijo minas.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de abóbora cabotiá em cubos, com casca"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "lentilha",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de lentilha crua, lavada"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 750,
+      "medida": "ml",
+      "texto": "750 ml de água"
+    },
+    {
+      "ingrediente": "rucula",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 maço de rúcula (100 g)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola em fatias finas"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "120 g de queijo minas frescal em cubos"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe a abóbora numa assadeira, regue com o azeite, tempere com o cominho e o sal e asse por 25 minutos, até dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Enquanto isso, cozinhe a lentilha na água por 15 a 18 minutos, até ficar macia mas inteira. Escorra.",
+      "temporizador_min": 18
+    },
+    {
+      "texto": "Molho: misture o azeite, o suco de limão, o sal e a salsinha. Tempere a lentilha ainda morna com metade do molho."
+    },
+    {
+      "texto": "Arrume a rúcula nos pratos, distribua a lentilha, a abóbora, a cebola e o queijo e regue com o restante do molho."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a lentilha por grão-de-bico cozido."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use ricota esfarelada no lugar do queijo minas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a lentilha temperada na geladeira por até 3 dias e junte as folhas só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 396,
+      "carboidratos_g": 44.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0342.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "folhas_verdes",
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de lentilha",
+      "salada morna",
+      "salada com abobora assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

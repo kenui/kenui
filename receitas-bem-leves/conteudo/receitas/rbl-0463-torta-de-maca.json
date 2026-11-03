@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0463",
+  "slug": "torta-de-maca",
+  "nome": "Torta de maçã",
+  "descricao": "Torta de massa amanteigada com recheio de maçã e canela, coberta com tirinhas de massa.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 45,
+    "descanso_min": 60,
+    "total_min": 145
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "7 colheres (sopa) de manteiga gelada (100 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "maca",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 maçãs fuji (600 g), descascadas e em fatias finas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de amido de milho"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture a farinha, a aveia, o eritritol e o sal. Junte a manteiga gelada em pedaços e esfarele com a ponta dos dedos."
+    },
+    {
+      "texto": "Junte o ovo e amasse só até a massa ficar lisa. Embrulhe em filme e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Misture as fatias de maçã com o limão, a canela, o eritritol e o amido."
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Abra 2/3 da massa e forre o fundo e a lateral de uma forma de 22 cm com fundo removível. Coloque o recheio."
+    },
+    {
+      "texto": "Abra o restante da massa, corte em tiras e cruze por cima do recheio."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até a massa dourar e o recheio borbulhar.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Deixe amornar por 30 minutos antes de desenformar e cortar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por pera, com o mesmo tempo de forno."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Manteiga bem gelada deixa a massa mais crocante."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde fora da geladeira por 1 dia ou na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 201,
+      "carboidratos_g": 27.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0463.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "maçã com canela",
+    "enfeites": [
+      "maca",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de maca sem acucar",
+      "torta de maca caseira",
+      "torta de maca com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

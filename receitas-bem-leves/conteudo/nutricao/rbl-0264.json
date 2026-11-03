@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0264",
+  "nome": "Costela bovina no forno",
+  "porcoes": 8,
+  "porcao": "1 pedaço com osso (cerca de 190 g)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "costela-bovina",
+      "texto": "1,5 kg de costela bovina (ponta de agulha ou janela), em 2 ou 3 pedaços",
+      "gramas": 1500,
+      "kcal": 5370,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 348 Carne, bovina, costela, crua",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 e 1/2 colheres (chá) de sal",
+      "gramas": 15,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "5 dentes de alho amassados",
+      "gramas": 15,
+      "kcal": 17,
+      "carboidratos_g": 3.59,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1/2 colher (chá) de pimenta-do-reino",
+      "gramas": 1.2,
+      "kcal": 2.9,
+      "carboidratos_g": 0.74,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas em rodelas grossas",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 5478.3,
+    "carboidratos_g": 24.4
+  },
+  "por_porcao": {
+    "kcal": 685,
+    "carboidratos_g": 3
+  }
+}

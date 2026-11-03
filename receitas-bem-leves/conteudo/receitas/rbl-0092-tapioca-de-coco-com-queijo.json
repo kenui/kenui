@@ -1,0 +1,132 @@
+{
+  "id": "rbl-0092",
+  "slug": "tapioca-de-coco-com-queijo",
+  "nome": "Tapioca de coco com queijo",
+  "descricao": "Tapioca com coco ralado na massa e recheio de queijo meia cura, como nas tapiocarias do Nordeste.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 5,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tapioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tapioca"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de água"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 8,
+      "medida": "g",
+      "texto": "1 colher (sopa) de coco ralado seco sem açúcar (8 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "2 fatias de queijo minas meia cura (40 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o polvilho com o sal. Pingue a água aos poucos, esfregando com as pontas dos dedos, até virar uma farofa úmida que forma um bolinho quando apertada e esfarela ao soltar."
+    },
+    {
+      "texto": "Passe essa farofa por uma peneira, apertando com a mão, para ficar fininha e solta. Misture o coco ralado."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente de cerca de 20 cm em fogo médio, sem untar. Espalhe a goma peneirada por todo o fundo, apertando de leve com a colher."
+    },
+    {
+      "texto": "Deixe 1 a 2 minutos, até a massa grudar como um disco e a borda começar a soltar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Coloque o queijo sobre metade da tapioca, dobre e deixe 1 minuto de cada lado, até o queijo amolecer.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo coalho, se encontrar, no lugar do meia cura."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se usar goma de tapioca pronta (já hidratada), use 5 colheres (sopa) cheias e pule as duas primeiras etapas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 322,
+      "carboidratos_g": 38.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0092.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tapioca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "coco e queijo",
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tapioca de coco",
+      "tapioca nordestina",
+      "tapioca de queijo coalho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

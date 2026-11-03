@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0024",
+  "slug": "pao-de-frigideira-de-ervas",
+  "nome": "Pão de frigideira de ervas",
+  "descricao": "Pão de ovo, ricota e farelo de aveia com salsinha e cebolinha, perfumado e bem macio.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 7,
+    "total_min": 12
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão grande (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "ricota",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de ricota amassada (30 g)"
+    },
+    {
+      "ingrediente": "farelo-de-aveia",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de farelo de aveia"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata os ovos com a ricota usando um garfo até ficar quase liso."
+    },
+    {
+      "texto": "Junte o farelo de aveia, a salsinha, a cebolinha, o orégano e o sal e misture."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para misturar."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente média (18 a 20 cm) com o azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje a massa, tampe e deixe 4 minutos, até firmar por cima.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Vire com uma espátula e deixe mais 2 a 3 minutos, até dourar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Corte em 2 fatias e sirva."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por 1 colher (sopa) de requeijão cremoso."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farelo de aveia? Use aveia em flocos finos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Ervas frescas fazem diferença: manjericão e coentro também combinam."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 239,
+      "carboidratos_g": 12
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0024.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de ervas",
+      "pao de frigideira com ricota",
+      "pao de farelo de aveia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0368",
+  "slug": "bolo-de-banana-com-cacau",
+  "nome": "Bolo de banana com cacau",
+  "descricao": "Bolo de chocolate escuro e úmido, adoçado em boa parte pela banana madura.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 bananas nanicas bem maduras"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata as bananas, os ovos, o óleo, o leite e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e o cacau. Junte o creme de banana e mexa com um batedor até ficar liso."
+    },
+    {
+      "texto": "Misture o fermento com delicadeza e despeje na forma."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até um palito sair com migalhas secas.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Espere 15 minutos antes de desenformar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida, ou tire o adoçante se as bananas estiverem bem maduras."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha por aveia em flocos finos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberto por 3 dias, ou na geladeira por 5."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 167,
+      "carboidratos_g": 21.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0368.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de banana e chocolate",
+      "bolo de banana com chocolate"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

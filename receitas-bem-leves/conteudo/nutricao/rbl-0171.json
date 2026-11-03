@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0171",
+  "nome": "Cogumelo recheado com parmesão",
+  "porcoes": 4,
+  "porcao": "4 cogumelos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "champignon",
+      "texto": "16 cogumelos-de-paris frescos grandes (400 g)",
+      "gramas": 400,
+      "kcal": 100,
+      "carboidratos_g": 20.36,
+      "fonte": "USDA SR Legacy 169254 Mushrooms, canned, drained solids",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 5.09
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola bem picada",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "2 colheres (sopa) de requeijão cremoso",
+      "gramas": 30,
+      "kcal": 77.1,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 20,
+      "kcal": 90.6,
+      "carboidratos_g": 0.34,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "2 colheres (sopa) de aveia em flocos finos",
+      "gramas": 10.2,
+      "kcal": 40.2,
+      "carboidratos_g": 6.79,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 pitadas de sal",
+      "gramas": 0.8,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 577.3,
+    "carboidratos_g": 35
+  },
+  "por_porcao": {
+    "kcal": 144,
+    "carboidratos_g": 8.7
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "rbl-0382",
+  "slug": "rocambole-de-morango",
+  "nome": "Rocambole de morango",
+  "descricao": "Massa fininha de pão de ló enrolada com creme de ricota e morangos picados.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 35,
+    "cozimento_min": 12,
+    "descanso_min": 60,
+    "total_min": 107
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia (1/10 do rocambole)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de eritritol em pó",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 4 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 6,
+      "medida": "colher_sopa",
+      "texto": "6 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 pedaço de ricota (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de iogurte natural integral"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "morango",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Forre uma assadeira de 30 x 40 cm com papel-manteiga untado."
+    },
+    {
+      "texto": "Na batedeira, bata os ovos com o eritritol por 8 minutos, até triplicar de volume e ficar bem claro.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Peneire a farinha e o fermento por cima e misture com uma espátula, de baixo para cima, sem bater."
+    },
+    {
+      "texto": "Espalhe a massa na assadeira e asse por 10 a 12 minutos, até dourar de leve.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Vire a massa sobre um pano úmido, tire o papel e enrole ainda quente com o pano. Deixe esfriar enrolada.",
+      "aviso": "A massa sai muito quente: use luvas ou o próprio pano."
+    },
+    {
+      "texto": "Recheio: amasse a ricota e misture com o iogurte e o eritritol até virar um creme liso."
+    },
+    {
+      "texto": "Desenrole a massa, espalhe o creme, distribua os morangos e enrole de novo, sem o pano."
+    },
+    {
+      "texto": "Embrulhe em filme e leve à geladeira por 1 hora antes de fatiar.",
+      "temporizador_min": 60
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 12,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque os morangos por banana picada ou por pêssego fresco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Enrolar a massa quente é o segredo para ela não rachar depois."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 90,
+      "carboidratos_g": 6.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0382.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "creme de ricota e morango",
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rocambole",
+      "rocambole recheado",
+      "rocambole de ricota"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

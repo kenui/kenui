@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0131",
+  "slug": "salada-de-frutas-com-laranja",
+  "nome": "Salada de frutas com laranja",
+  "descricao": "Salada de frutas fresquinha com mamão, maçã, banana, uva e kiwi no caldo de laranja.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "taças"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "laranja",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 laranjas-pera (uma em gomos e outra espremida)"
+    },
+    {
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã picada com casca (150 g)"
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica em rodelas"
+    },
+    {
+      "ingrediente": "mamao-papaia",
+      "quantidade": 140,
+      "medida": "g",
+      "texto": "1 fatia média de mamão papaia em cubos (140 g)"
+    },
+    {
+      "ingrediente": "uva",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de uvas cortadas ao meio"
+    },
+    {
+      "ingrediente": "kiwi",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 kiwi em cubos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema uma das laranjas numa tigela grande."
+    },
+    {
+      "texto": "Descasque a outra laranja, separe os gomos e corte em pedaços.",
+      "aviso": "Faca afiada: corte as frutas sempre apoiadas na tábua."
+    },
+    {
+      "texto": "Pique a maçã e junte logo ao suco de laranja, para não escurecer."
+    },
+    {
+      "texto": "Junte a banana, o mamão, as uvas, o kiwi e os gomos de laranja e misture com cuidado."
+    },
+    {
+      "texto": "Sirva na hora ou deixe 15 minutos na geladeira."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use as frutas da estação: manga, morango, abacaxi e melão também ficam ótimos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para um café mais completo, sirva com 2 colheres (sopa) de iogurte natural e aveia."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, tampada, e consuma no mesmo dia."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 105,
+      "carboidratos_g": 26.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0131.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja",
+      "maca",
+      "uva",
+      "banana_rodelas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de frutas",
+      "frutas picadas",
+      "salada de fruta com suco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

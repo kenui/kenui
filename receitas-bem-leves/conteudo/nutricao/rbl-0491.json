@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0491",
+  "nome": "Rabanada assada com pão de aveia",
+  "porcoes": 8,
+  "porcao": "2 rabanadas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "gramas": 312.5,
+      "kcal": 1125,
+      "carboidratos_g": 234.69,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 xícara (chá) de aveia em flocos",
+      "gramas": 81,
+      "kcal": 319.1,
+      "carboidratos_g": 53.95,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "1 sachê (10 g) de fermento biológico seco",
+      "gramas": 10,
+      "kcal": 32.5,
+      "carboidratos_g": 4.12,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/4 xícara (300 ml) de água morna",
+      "gramas": 300,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 e 1/2 xícara (chá) de leite",
+      "gramas": 366,
+      "kcal": 223.3,
+      "carboidratos_g": 17.57,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "2 colheres (sopa) de manteiga derretida",
+      "gramas": 28.4,
+      "kcal": 206.2,
+      "carboidratos_g": 0.03,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (sopa) de canela em pó",
+      "gramas": 7.8,
+      "kcal": 19.3,
+      "carboidratos_g": 6.29,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2390.6,
+    "carboidratos_g": 319.6
+  },
+  "por_porcao": {
+    "kcal": 299,
+    "carboidratos_g": 39.9
+  }
+}

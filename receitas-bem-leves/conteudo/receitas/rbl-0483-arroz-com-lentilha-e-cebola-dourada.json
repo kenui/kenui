@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0483",
+  "slug": "arroz-com-lentilha-e-cebola-dourada",
+  "nome": "Arroz com lentilha e cebola dourada",
+  "descricao": "Arroz com lentilha cozidos juntos e cobertos de cebola dourada no azeite, prato tradicional do Ano-Novo.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "descanso_min": 5,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 concha cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lentilha",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de lentilha"
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de arroz branco"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 cebolas em tiras finas"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 6,
+      "medida": "xicara",
+      "texto": "6 xícaras (chá) de água"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a lentilha em 3 xícaras de água por 12 minutos, até ficar macia por fora e ainda firme no meio. Escorra e reserve.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Numa frigideira, aqueça 3 colheres de azeite e frite as cebolas em fogo médio-baixo por 15 a 20 minutos, mexendo de vez em quando, até ficarem bem douradas.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Numa panela, aqueça o restante do azeite e refogue o alho por 1 minuto. Junte o arroz e refogue mais 1 minuto.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a lentilha, metade da cebola dourada, o sal e 3 xícaras de água quente. Tampe deixando uma fresta e cozinhe por 15 minutos em fogo baixo, até secar.",
+      "aviso": "Cuidado com o vapor da água quente.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Desligue, tampe e deixe descansar 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Sirva com o restante da cebola dourada e a salsinha por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por hortelã picada, como no Oriente Médio."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use arroz integral: cozinhe a lentilha só 5 minutos e o arroz com 4 xícaras de água por 30 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Paciência com a cebola: em fogo alto ela queima antes de dourar e fica amarga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias ou congele em porções por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 298,
+      "carboidratos_g": 46.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0483.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "arroz com lentilha",
+      "lentilha de ano novo",
+      "mjadra"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

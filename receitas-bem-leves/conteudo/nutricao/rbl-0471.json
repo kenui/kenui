@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0471",
+  "nome": "Pera cozida no suco de uva",
+  "porcoes": 4,
+  "porcao": "1 pera com calda",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "pera",
+      "texto": "4 peras firmes, descascadas, com o cabinho",
+      "gramas": 712,
+      "kcal": 377.4,
+      "carboidratos_g": 99.68,
+      "fonte": "TACO 4ª ed. 243 Pêra, Williams, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 14
+      }
+    },
+    {
+      "ingrediente": "uva",
+      "texto": "3 xícaras (chá) de uvas roxas, batidas com 1 xícara de água e coadas",
+      "gramas": 453,
+      "kcal": 240.1,
+      "carboidratos_g": 61.61,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó (ou 1 pau de canela)",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "1 pitada de cravo em pó",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 624.1,
+    "carboidratos_g": 163.4
+  },
+  "por_porcao": {
+    "kcal": 156,
+    "carboidratos_g": 40.9
+  }
+}

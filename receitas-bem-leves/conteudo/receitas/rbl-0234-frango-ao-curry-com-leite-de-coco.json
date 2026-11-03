@@ -1,0 +1,177 @@
+{
+  "id": "rbl-0234",
+  "slug": "frango-ao-curry-com-leite-de-coco",
+  "nome": "Frango ao curry com leite de coco",
+  "descricao": "Cubos de frango num molho cremoso de leite de coco com curry e gengibre, perfumado e levemente picante.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 concha cheia (cerca de 1 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de peito de frango em cubos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre fresco ralado"
+    },
+    {
+      "ingrediente": "curry",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de curry em pó"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de açafrão-da-terra (cúrcuma)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado, sem sementes"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml; confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro picado",
+      "alternativa": {
+        "ingrediente": "salsa",
+        "texto": "ou salsinha, para quem não gosta de coentro"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o frango com o sal."
+    },
+    {
+      "texto": "Numa panela, aqueça o óleo e doure o frango em fogo médio-alto por 6 minutos. Tire e reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma panela, refogue a cebola por 3 minutos. Junte o alho e o gengibre e mexa por 1 minuto.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Acrescente o curry e o açafrão-da-terra e mexa por 30 segundos, só para soltar o perfume, sem deixar queimar."
+    },
+    {
+      "texto": "Junte o tomate e cozinhe 3 minutos, até amolecer.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Volte o frango, despeje o leite de coco e cozinhe em fogo baixo, sem tampa, por 10 minutos, até o molho encorpar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Acerte o sal e finalize com o coentro."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade do leite de coco por creme de leite para um molho mais suave."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use camarão no lugar do frango: cozinhe no molho só 4 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Também pode ser congelado por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 311,
+      "carboidratos_g": 6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0234.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango ao curry",
+    "enfeites": [
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango ao curry",
+      "curry de frango",
+      "frango com leite de coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

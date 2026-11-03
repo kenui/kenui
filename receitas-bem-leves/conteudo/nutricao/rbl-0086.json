@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0086",
+  "nome": "Ovo de caneca com queijo e orégano",
+  "porcoes": 1,
+  "porcao": "1 caneca",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "1/2 colher (chá) de manteiga para untar",
+      "gramas": 2.4,
+      "kcal": 17.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 colher (sopa) de leite",
+      "gramas": 15,
+      "kcal": 9.2,
+      "carboidratos_g": 0.72,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "2 colheres (sopa) de mussarela ralada (20 g)",
+      "gramas": 20,
+      "kcal": 66,
+      "carboidratos_g": 0.6,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 235.8,
+    "carboidratos_g": 3
+  },
+  "por_porcao": {
+    "kcal": 236,
+    "carboidratos_g": 3
+  }
+}

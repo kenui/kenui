@@ -1,0 +1,155 @@
+{
+  "id": "rbl-0378",
+  "slug": "bolo-de-nozes",
+  "nome": "Bolo de nozes",
+  "descricao": "Bolo de farinha integral com nozes picadas e canela, de sabor amanteigado e textura rústica.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "noz",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de nozes picadas"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+    },
+    {
+      "texto": "Com um batedor, misture bem os ovos, o óleo, o leite e o eritritol."
+    },
+    {
+      "texto": "Junte a farinha integral e a canela e mexa até ficar liso."
+    },
+    {
+      "texto": "Acrescente as nozes, guardando um punhado para cima. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma, espalhe as nozes reservadas e asse por 35 a 40 minutos, até um palito sair limpo.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as nozes por castanha-do-pará ou castanha de caju picada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por farinha de trigo branca na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias coberto, ou congele em fatias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 178,
+      "carboidratos_g": 13.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0378.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de nozes integral",
+      "bolo de castanhas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "rbl-0143",
+  "slug": "tortinha-de-palmito",
+  "nome": "Tortinha de palmito",
+  "descricao": "Tortinhas abertas de massa integral com azeite, recheadas com palmito, tomate e azeitona.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 35,
+    "cozimento_min": 30,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "tortinhas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "2 tortinhas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "palmito-pupunha",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 vidro de palmito pupunha escorrido e picado (300 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeitona-verde",
+      "quantidade": 8,
+      "medida": "unidade",
+      "texto": "8 azeitonas verdes picadas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture as farinhas e o sal. Junte o azeite, o ovo e a água e amasse até formar uma massa lisa que não gruda nas mãos."
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Divida a massa em 12 bolinhas e forre o fundo e a lateral de 12 forminhas de empada ou de muffin."
+    },
+    {
+      "texto": "Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos. Junte o palmito e o tomate e cozinhe por 5 minutos, até secar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e misture as azeitonas, o requeijão e a salsinha."
+    },
+    {
+      "texto": "Distribua o recheio nas forminhas."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até a massa dourar nas bordas.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere 10 minutos antes de desenformar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o palmito por 2 xícaras de frango cozido desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farinha integral? Use 1 e 1/2 xícara só de farinha de trigo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira. Aqueça no forno por 5 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 266,
+      "carboidratos_g": 27.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0143.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "palmito",
+    "enfeites": [
+      "azeitona",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "empadinha de palmito",
+      "tortinha integral",
+      "torta de palmito"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

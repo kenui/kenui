@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0286",
+  "slug": "fritada-de-abobrinha-com-queijo",
+  "nome": "Fritada de abobrinha com queijo",
+  "descricao": "Fritada grossa de ovos com abobrinha, queijo minas e parmesão, feita na frigideira tampada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "fatias"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 fatias (meia fritada)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha média em rodelas finas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "80 g de queijo minas frescal em cubinhos"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira antiaderente de 22 cm, refogue a cebola e o alho no azeite por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte a abobrinha e metade do sal e refogue 5 minutos, até murchar e secar a água.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Bata os ovos com o restante do sal, o parmesão e a salsinha."
+    },
+    {
+      "texto": "Espalhe a abobrinha por igual no fundo da frigideira, despeje os ovos e distribua o queijo minas."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 10 a 12 minutos, até a superfície firmar.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Solte as bordas com uma espátula, deslize para um prato e corte em 4 fatias."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por espinafre, brócolis picado ou batata cozida em rodelas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use mussarela no lugar do queijo minas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fogo baixo e tampa: o fundo doura sem queimar e o meio cozinha por igual."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 398,
+      "carboidratos_g": 10.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0286.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "abobrinha e queijo",
+    "enfeites": [
+      "abobrinha",
+      "queijo_branco",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "fritada",
+      "fritada de abobrinha",
+      "omelete de abobrinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

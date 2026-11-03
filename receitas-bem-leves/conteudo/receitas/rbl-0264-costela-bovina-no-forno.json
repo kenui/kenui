@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0264",
+  "slug": "costela-bovina-no-forno",
+  "nome": "Costela bovina no forno",
+  "descricao": "Costela temperada só com sal, alho e pimenta, assada devagar coberta até soltar do osso e dourada no final.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 180,
+    "total_min": 200
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 pedaço com osso (cerca de 190 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "costela-bovina",
+      "quantidade": 1500,
+      "medida": "g",
+      "texto": "1,5 kg de costela bovina (ponta de agulha ou janela), em 2 ou 3 pedaços"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_cha",
+      "texto": "2 e 1/2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 5,
+      "medida": "dente",
+      "texto": "5 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas grossas"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Esfregue o sal, o alho e a pimenta em toda a costela."
+    },
+    {
+      "texto": "Forre o fundo de uma assadeira com a cebola e coloque a costela por cima, com o lado do osso para baixo."
+    },
+    {
+      "texto": "Cubra bem com papel-alumínio, com o lado brilhante para dentro, e asse por 2 horas e 30 minutos.",
+      "aviso": "Abra o papel-alumínio pelo lado de longe de você: sai muito vapor.",
+      "temporizador_min": 150
+    },
+    {
+      "texto": "Retire o papel, descarte o excesso de gordura e asse mais 30 minutos, até dourar por fora.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Deixe descansar 5 minutos, corte entre os ossos e sirva com a salsinha."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 180,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com costela suína: reduza o tempo coberto para 1 hora e 30 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte batatas inteiras pequenas na última 1 hora de forno."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A carne está no ponto quando um garfo entra sem esforço e o osso se solta fácil."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 685,
+      "carboidratos_g": 3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0264.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "costela no forno",
+      "costela assada",
+      "costela de boi"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

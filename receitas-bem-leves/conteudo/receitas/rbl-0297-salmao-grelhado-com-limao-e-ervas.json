@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0297",
+  "slug": "salmao-grelhado-com-limao-e-ervas",
+  "nome": "Salmão grelhado com limão e ervas",
+  "descricao": "Postas de salmão douradas na frigideira, com raspas de limão, alho e salsinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 posta (150 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "salmao",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 postas de salmão (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Raspas e suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho bem picado"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Seque as postas com papel-toalha e tempere com o sal, a pimenta e as raspas de limão."
+    },
+    {
+      "texto": "Aqueça bem uma frigideira antiaderente com o azeite."
+    },
+    {
+      "texto": "Coloque o salmão com a pele para baixo e grelhe por 4 a 5 minutos, sem mexer, até a pele ficar crocante.",
+      "aviso": "O azeite pode respingar: afaste o rosto ao colocar o peixe.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Vire e grelhe mais 3 a 4 minutos, até o centro ficar rosado claro.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Desligue, junte o alho à frigideira, regue com o suco de limão e espalhe a salsinha e a cebolinha por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o salmão por atum fresco ou truta."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use endro ou manjericão no lugar da salsinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não vire o peixe antes da hora: quando a pele está pronta, ele solta sozinho da frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 289,
+      "carboidratos_g": 1.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0297.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salmao na frigideira",
+      "posta de salmao",
+      "salmao com limao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

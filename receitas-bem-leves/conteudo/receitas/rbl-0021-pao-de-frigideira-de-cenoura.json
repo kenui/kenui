@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0021",
+  "slug": "pao-de-frigideira-de-cenoura",
+  "nome": "Pão de frigideira de cenoura",
+  "descricao": "Pão alaranjado e macio feito na frigideira, com cenoura ralada e um toque de parmesão.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 6,
+    "total_min": 12
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "1/2 cenoura pequena ralada fino (30 g)"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de iogurte natural"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de óleo para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata o ovo com um garfo até espumar."
+    },
+    {
+      "texto": "Junte a cenoura, a aveia, o iogurte, o parmesão e o sal e misture bem."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para incorporar."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena (15 cm) com o óleo e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje a massa, espalhe com a colher, tampe e deixe 3 minutos, até a borda soltar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Vire com uma espátula e deixe mais 2 a 3 minutos, até dourar.",
+      "aviso": "Mantenha o fogo baixo: a cenoura deixa a massa úmida e ela precisa cozinhar por dentro.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Corte ao meio na horizontal e recheie como quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cenoura por abobrinha ralada e bem espremida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem iogurte? Use 1 colher (sopa) de leite."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias, bem embrulhado, e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 175,
+      "carboidratos_g": 11.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0021.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de cenoura de frigideira",
+      "pao rapido de cenoura",
+      "pao de frigideira com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

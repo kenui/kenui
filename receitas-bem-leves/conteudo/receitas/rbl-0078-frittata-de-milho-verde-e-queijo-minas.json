@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0078",
+  "slug": "frittata-de-milho-verde-e-queijo-minas",
+  "nome": "Frittata de milho verde e queijo minas",
+  "descricao": "Frittata de frigideira com milho docinho e cubos de queijo minas, virada no prato.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 12,
+    "total_min": 17
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "frittata de 20 cm"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1/2 frittata"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "milho-verde",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de milho-verde em lata escorrido"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "1 fatia de queijo minas frescal em cubinhos (60 g)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata os ovos com o sal. Junte o milho, o queijo e a cebolinha."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira antiaderente de 20 cm em fogo baixo e despeje a mistura."
+    },
+    {
+      "texto": "Tampe e deixe 7 a 8 minutos, até a frittata firmar quase toda por cima.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Coloque um prato sobre a frigideira, vire com cuidado e devolva a frittata à frigideira com o lado cru para baixo.",
+      "aviso": "Use luva ou pano: a frigideira está quente."
+    },
+    {
+      "texto": "Deixe mais 2 a 3 minutos, até dourar. Corte ao meio.",
+      "temporizador_min": 3
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por mussarela em cubos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use ervilha no lugar do milho."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fogo baixo e tampa são o segredo para cozinhar por dentro sem queimar o fundo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 280,
+      "carboidratos_g": 9.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0078.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "milho e queijo",
+    "enfeites": [
+      "milho",
+      "queijo_branco",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frittata de milho",
+      "omelete de milho",
+      "omelete de frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

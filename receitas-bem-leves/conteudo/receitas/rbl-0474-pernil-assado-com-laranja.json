@@ -1,0 +1,187 @@
+{
+  "id": "rbl-0474",
+  "slug": "pernil-assado-com-laranja",
+  "nome": "Pernil assado com laranja",
+  "descricao": "Pernil suíno marinado no suco de laranja com alho e alecrim, assado devagar até ficar macio e dourado.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 165,
+    "descanso_min": 720,
+    "total_min": 965
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "porções"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "2 fatias (1/12 da peça)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pernil-suino",
+      "quantidade": 3000,
+      "medida": "g",
+      "texto": "1 pernil suíno com osso (cerca de 3 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 10,
+      "medida": "dente",
+      "texto": "10 dentes de alho"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de suco de laranja natural (cerca de 6 laranjas)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de alecrim seco"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 3,
+      "medida": "pitada",
+      "texto": "3 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "laranja",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 laranjas em rodelas, com casca"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o alho, o sal, a cebola, o suco de laranja, o suco de limão, o alecrim, a páprica, a pimenta e o azeite."
+    },
+    {
+      "texto": "Faça furos fundos no pernil com uma faca e coloque num saco grande ou numa travessa.",
+      "aviso": "Cuidado com a faca: fure longe da mão que segura a carne."
+    },
+    {
+      "texto": "Despeje a marinada, espalhe bem e deixe na geladeira de um dia para o outro, virando uma vez.",
+      "temporizador_min": 720
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Coloque o pernil numa assadeira com a marinada e espalhe as rodelas de laranja em volta."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 2 horas, regando com o caldo a cada 40 minutos.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Retire o papel e asse mais 40 a 45 minutos, até dourar e a carne soltar do osso com um garfo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Deixe descansar 15 minutos antes de fatiar e regue com o caldo da assadeira.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 165,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pernil com osso por 2,5 kg de pernil sem osso: diminua 20 minutos do tempo coberto."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem laranja? Use 1/2 xícara (chá) de suco de limão com 1 e 1/2 xícara (chá) de água."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para o caldo engrossar, passe a parte líquida da assadeira para uma panela e ferva por 5 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde as sobras na geladeira por até 3 dias. Fica ótimo desfiado no dia seguinte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 526,
+      "carboidratos_g": 7.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0474.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pernil de natal",
+      "pernil de porco",
+      "pernil com laranja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

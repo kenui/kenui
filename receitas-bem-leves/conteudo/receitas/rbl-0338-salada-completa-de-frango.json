@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0338",
+  "slug": "salada-completa-de-frango",
+  "nome": "Salada completa de frango",
+  "descricao": "Prato único com frango desfiado, folhas, tomate, cenoura e pepino, com molho cremoso de iogurte.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "pratos"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "alface",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de alface rasgada"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em gomos"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura ralada"
+    },
+    {
+      "ingrediente": "pepino",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 pepino em rodelas (150 g)"
+    },
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "300 g de peito de frango cozido e desfiado"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de iogurte natural integral"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Molho: misture o iogurte, o azeite, o suco de limão, o sal, a pimenta e a cebolinha."
+    },
+    {
+      "texto": "Divida a alface em dois pratos fundos."
+    },
+    {
+      "texto": "Arrume por cima o tomate, a cenoura, o pepino e o frango desfiado."
+    },
+    {
+      "texto": "Regue com o molho na hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por atum em lata ou ovos cozidos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use rúcula ou agrião no lugar da alface."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para ter 300 g de frango desfiado, cozinhe cerca de 400 g de peito cru em água com sal por 20 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 383,
+      "carboidratos_g": 11.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0338.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "frango_desfiado",
+      "folhas_verdes",
+      "tomate",
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de frango",
+      "salada como prato principal",
+      "salada com frango desfiado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

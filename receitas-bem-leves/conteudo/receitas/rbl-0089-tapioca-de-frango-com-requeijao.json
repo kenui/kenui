@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0089",
+  "slug": "tapioca-de-frango-com-requeijao",
+  "nome": "Tapioca de frango com requeijão",
+  "descricao": "Tapioca macia recheada com frango desfiado, requeijão cremoso e cebolinha.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 5,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tapioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tapioca"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de água"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "4 colheres (sopa) de frango cozido e desfiado (50 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o polvilho com o sal. Pingue a água aos poucos, esfregando com as pontas dos dedos, até virar uma farofa úmida que forma um bolinho quando apertada e esfarela ao soltar."
+    },
+    {
+      "texto": "Passe essa farofa por uma peneira, apertando com a mão, para ficar fininha e solta."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente de cerca de 20 cm em fogo médio, sem untar. Espalhe a goma peneirada por todo o fundo, apertando de leve com a colher."
+    },
+    {
+      "texto": "Deixe 1 a 2 minutos, até a massa grudar como um disco e a borda começar a soltar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espalhe o requeijão, o frango e a cebolinha sobre metade da tapioca."
+    },
+    {
+      "texto": "Dobre ao meio e deixe mais 1 minuto de cada lado, até o recheio esquentar.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por ricota temperada com sal e azeite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se usar goma de tapioca pronta (já hidratada), use 5 colheres (sopa) cheias e pule as duas primeiras etapas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 261,
+      "carboidratos_g": 35.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0089.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tapioca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango com requeijão",
+    "enfeites": [
+      "frango_desfiado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tapioca de frango",
+      "tapioca de catupiry",
+      "tapioca recheada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

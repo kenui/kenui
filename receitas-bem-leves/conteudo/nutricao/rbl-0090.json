@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0090",
+  "nome": "Tapioca de queijo minas com tomate e orégano",
+  "porcoes": 1,
+  "porcao": "1 tapioca",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "5 colheres (sopa) de polvilho doce",
+      "gramas": 40,
+      "kcal": 140.4,
+      "carboidratos_g": 34.72,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 colher (sopa) de água",
+      "gramas": 15,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "2 fatias finas de queijo minas frescal (40 g)",
+      "gramas": 40,
+      "kcal": 105.6,
+      "carboidratos_g": 1.28,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "3 rodelas finas de tomate",
+      "gramas": 30.8,
+      "kcal": 4.6,
+      "carboidratos_g": 0.95,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 250.9,
+    "carboidratos_g": 37
+  },
+  "por_porcao": {
+    "kcal": 251,
+    "carboidratos_g": 37
+  }
+}

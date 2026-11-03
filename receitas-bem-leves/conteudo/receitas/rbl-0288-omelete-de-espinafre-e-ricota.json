@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0288",
+  "slug": "omelete-de-espinafre-e-ricota",
+  "nome": "Omelete de espinafre e ricota",
+  "descricao": "Omelete dobrada recheada com espinafre refogado e ricota temperada, para um jantar rápido.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "omeletes"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 omelete"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de folhas de espinafre"
+    },
+    {
+      "ingrediente": "ricota",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de ricota amassada"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira antiaderente de 20 cm, derreta metade da manteiga e murche o espinafre por 1 minuto. Misture com a ricota e a noz-moscada e reserve.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Bata 2 ovos com metade do sal e da pimenta."
+    },
+    {
+      "texto": "Derreta metade do restante da manteiga na frigideira em fogo médio, despeje os ovos e deixe 2 minutos, puxando as bordas para o centro.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Quando a superfície estiver quase firme, coloque metade do recheio de um lado, dobre e deixe mais 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Repita com os outros 2 ovos e o restante do recheio."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por queijo minas ou requeijão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use couve picadinha no lugar do espinafre."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fogo médio, nunca alto: a omelete fica macia e não fica com gosto de queimado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 251,
+      "carboidratos_g": 4.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0288.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "espinafre e ricota",
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de espinafre",
+      "omelete recheada",
+      "omelete com ricota"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

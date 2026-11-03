@@ -1,0 +1,115 @@
+{
+  "id": "rbl-0187",
+  "slug": "vitamina-de-banana-com-pasta-de-amendoim",
+  "nome": "Vitamina de banana com pasta de amendoim",
+  "descricao": "Vitamina encorpada de banana, leite e pasta de amendoim integral, que sustenta até a próxima refeição.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 240 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 240 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana-nanica madura"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de pasta de amendoim integral (só amendoim no rótulo)"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de aveia em flocos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a banana e corte em pedaços."
+    },
+    {
+      "texto": "Bata no liquidificador a banana, o leite, a pasta de amendoim e a aveia por 1 minuto, até ficar cremoso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem pasta de amendoim, bata 1 colher (sopa) de amendoim torrado sem sal junto com o leite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira o rótulo: a pasta de amendoim integral tem só amendoim na lista de ingredientes."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 223,
+      "carboidratos_g": 26.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0187.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "amendoim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina de amendoim",
+      "shake de banana com amendoim",
+      "vitamina proteica"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

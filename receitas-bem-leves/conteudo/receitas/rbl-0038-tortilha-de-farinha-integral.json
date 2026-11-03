@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0038",
+  "slug": "tortilha-de-farinha-integral",
+  "nome": "Tortilha de farinha integral",
+  "descricao": "Tortilha caseira fina e macia, feita na frigideira, para enrolar recheios ou fazer quesadilla.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 15,
+    "descanso_min": 20,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "tortilhas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 tortilha"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água morna"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture as farinhas, o fermento e o sal."
+    },
+    {
+      "texto": "Junte o azeite e a água morna e misture até formar uma massa."
+    },
+    {
+      "texto": "Sove por 3 minutos numa bancada enfarinhada, até ficar lisa. Se grudar, ponha um pouco de farinha."
+    },
+    {
+      "texto": "Cubra com um pano e deixe descansar 20 minutos.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Divida em 6 bolinhas e abra cada uma com o rolo, bem fina, num disco de 20 cm."
+    },
+    {
+      "texto": "Aqueça uma frigideira grande, sem untar, em fogo médio."
+    },
+    {
+      "texto": "Coloque uma tortilha e deixe 1 minuto, até formar bolhas. Vire e deixe mais 1 minuto. Repita com as outras.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Empilhe as tortilhas prontas dentro de um pano limpo para continuarem macias."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use só farinha integral (1 e 1/2 xícara): a massa fica mais firme, então ponha 1 colher (sopa) a mais de água."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não deixe passar do ponto na frigideira: tortilha seca quebra ao enrolar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em saco fechado por 2 dias ou congele, separadas com papel-manteiga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 166,
+      "carboidratos_g": 22.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0038.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "wrap",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tortilha integral",
+      "massa de wrap caseira",
+      "rap10 caseiro",
+      "tortilha caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

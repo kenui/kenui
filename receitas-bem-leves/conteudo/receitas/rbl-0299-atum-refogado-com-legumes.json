@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0299",
+  "slug": "atum-refogado-com-legumes",
+  "nome": "Atum refogado com legumes",
+  "descricao": "Atum em lata refogado com cenoura, abobrinha e tomate, pronto em pouco mais de 20 minutos.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "total_min": 22
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "porções"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em cubinhos"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubos"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "atum-em-agua",
+      "quantidade": 240,
+      "medida": "g",
+      "texto": "2 latas de atum em água, escorrido (cerca de 240 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite e refogue a cebola até ficar transparente. Junte o alho e mexa por 1 minuto."
+    },
+    {
+      "texto": "Acrescente a cenoura e refogue por 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte a abobrinha e o tomate e cozinhe por 5 minutos, até a abobrinha ficar macia mas ainda firme.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Acrescente o atum, o sal, a pimenta e o orégano e mexa só até aquecer."
+    },
+    {
+      "texto": "Desligue e espalhe a cebolinha."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por chuchu ou vagem."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use atum em óleo bem escorrido, se preferir."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O atum já vem cozido e salgado: prove antes de acrescentar mais sal."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 237,
+      "carboidratos_g": 16.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0299.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "abobrinha",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "atum com legumes",
+      "atum de lata",
+      "refogado de atum"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

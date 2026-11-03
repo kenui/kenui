@@ -1,0 +1,96 @@
+{
+  "receita": "rbl-0045",
+  "nome": "Pãozinho de mandioquinha",
+  "porcoes": 12,
+  "porcao": "1 pãozinho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "mandioquinha",
+      "texto": "3 mandioquinhas médias (300 g)",
+      "gramas": 300,
+      "kcal": 303,
+      "carboidratos_g": 72,
+      "fonte": "TACO 4ª ed. 87 Batata, baroa, crua",
+      "por_100g": {
+        "kcal": 101,
+        "carboidratos_g": 24
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "3 xícaras (chá) de farinha de trigo",
+      "gramas": 375,
+      "kcal": 1350,
+      "carboidratos_g": 281.62,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "2 colheres (chá) de fermento biológico seco",
+      "gramas": 8,
+      "kcal": 26,
+      "carboidratos_g": 3.3,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente",
+      "gramas": 42.6,
+      "kcal": 309.3,
+      "carboidratos_g": 0.04,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "agua",
+      "texto": "2 a 4 colheres (sopa) de água morna, se precisar",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 2059.8,
+    "carboidratos_g": 357.8
+  },
+  "por_porcao": {
+    "kcal": 172,
+    "carboidratos_g": 29.8
+  }
+}

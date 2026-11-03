@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0174",
+  "slug": "rolinhos-de-presunto-com-queijo-e-pepino",
+  "nome": "Rolinhos de presunto com queijo e pepino",
+  "descricao": "Fatias de presunto enroladas com requeijão, palito de queijo minas e pepino, presas com palito.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "rolinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 rolinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "presunto",
+      "quantidade": 180,
+      "medida": "g",
+      "texto": "12 fatias de presunto magro (180 g)"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 pedaço de queijo minas frescal (150 g)"
+    },
+    {
+      "ingrediente": "pepino",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1/2 pepino (150 g)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte o queijo minas e o pepino em 12 palitos finos do comprimento da largura das fatias de presunto.",
+      "aviso": "Use faca afiada com cuidado."
+    },
+    {
+      "texto": "Misture o requeijão com a cebolinha."
+    },
+    {
+      "texto": "Espalhe um pouco do requeijão em cada fatia de presunto."
+    },
+    {
+      "texto": "Coloque um palito de queijo e um de pepino na ponta e enrole bem firme. Prenda com um palito de dente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o presunto por peito de peru e o pepino por palitos de cenoura."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por queijo prato em tiras."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 1 dia na geladeira, cobertos com plástico."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 174,
+      "carboidratos_g": 3.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0174.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "presunto e queijo",
+    "enfeites": [
+      "presunto",
+      "queijo_branco",
+      "pepino"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rolinho de presunto",
+      "enroladinho frio",
+      "petisco frio"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

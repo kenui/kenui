@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0287",
+  "slug": "ovos-no-molho-de-tomate-com-pimentao",
+  "nome": "Ovos no molho de tomate com pimentão",
+  "descricao": "Ovos cozidos devagar dentro de um molho de tomate com pimentão, cebola, cominho e páprica, servidos na própria frigideira.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "ovos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 ovos com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 tomates maduros picados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro ou salsinha picados",
+      "alternativa": {
+        "ingrediente": "salsa",
+        "texto": "ou salsinha"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira funda e larga, refogue a cebola e o pimentão no azeite por 5 minutos, até amaciar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o alho, o cominho e a páprica e mexa por 30 segundos."
+    },
+    {
+      "texto": "Acrescente o tomate e o sal e cozinhe em fogo médio por 12 minutos, amassando, até virar um molho grosso.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Faça 6 covinhas no molho com uma colher e quebre um ovo em cada uma."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 6 a 8 minutos, até a clara firmar e a gema ficar como preferir.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Espalhe o coentro e sirva na frigideira."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 xícaras de purê de tomate (confira no rótulo: sem açúcar) no lugar dos tomates frescos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte cubos de queijo minas no molho antes dos ovos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para gema bem cozida, deixe tampado mais 3 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 283,
+      "carboidratos_g": 14.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0287.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "ovos_mexidos",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "ovos",
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovos no molho de tomate",
+      "shakshuka",
+      "ovo pochê no molho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

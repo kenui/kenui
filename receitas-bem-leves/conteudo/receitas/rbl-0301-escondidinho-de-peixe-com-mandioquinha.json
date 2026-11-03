@@ -1,0 +1,210 @@
+{
+  "id": "rbl-0301",
+  "slug": "escondidinho-de-peixe-com-mandioquinha",
+  "nome": "Escondidinho de peixe com mandioquinha",
+  "descricao": "Refogado de merluza com tomate coberto por purê de mandioquinha e queijo gratinado.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Purê",
+      "ingrediente": "mandioquinha",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de mandioquinha descascada em pedaços"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite quente"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "merluza",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de filé de merluza em cubos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioquinha em água por 15 a 20 minutos, até ficar bem macia. Escorra.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Amasse ainda quente com o leite, a manteiga, o sal e a noz-moscada até virar um purê liso. Reserve."
+    },
+    {
+      "texto": "Numa frigideira, aqueça o azeite e refogue a cebola e o alho. Junte o tomate e cozinhe por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Acrescente o peixe e o sal e cozinhe por 5 a 6 minutos, mexendo com cuidado, até o peixe ficar branco. Desligue e misture a cebolinha e o requeijão.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa travessa média, espalhe o recheio, cubra com o purê e salpique o parmesão."
+    },
+    {
+      "texto": "Asse por 20 minutos, até gratinar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mandioquinha por batata, abóbora ou couve-flor."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use tilápia ou pescada no lugar da merluza."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Monte e guarde na geladeira por até 2 dias; na hora, asse por 30 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 287,
+      "carboidratos_g": 32.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0301.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "peixe",
+    "enfeites": [
+      "queijo_ralado",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "escondidinho de peixe",
+      "escondidinho de mandioquinha",
+      "escondidinho de merluza"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "rbl-0456",
+  "slug": "geleia-de-abacaxi-com-gengibre",
+  "nome": "Geleia de abacaxi com gengibre",
+  "descricao": "Geleia de abacaxi em pedacinhos com um toque picante de gengibre, ótima com queijo.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "descanso_min": 30,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "colheres (sopa)"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 colher (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de abacaxi maduro picado bem miúdo"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre ralado"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque todos os ingredientes numa panela e leve ao fogo médio até ferver."
+    },
+    {
+      "texto": "Abaixe o fogo e cozinhe por 30 a 35 minutos, mexendo de vez em quando, até o líquido quase secar e a geleia ficar brilhante.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Passe para um pote de vidro limpo e espere esfriar por 30 minutos antes de tampar.",
+      "aviso": "A geleia está muito quente: cuidado ao passar para o pote.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o gengibre por 1 pau de canela ou por hortelã picada no final."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para uma geleia lisa, bata o abacaxi no liquidificador antes de cozinhar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 15,
+      "carboidratos_g": 3.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0456.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "geleia_pote",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "geleia de abacaxi",
+      "geleia de abacaxi com gengibre",
+      "geleia sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

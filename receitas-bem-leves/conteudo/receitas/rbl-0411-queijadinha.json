@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0411",
+  "slug": "queijadinha",
+  "nome": "Queijadinha",
+  "descricao": "Docinhos de forno de coco e queijo, dourados por cima e cremosos por dentro.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "descanso_min": 30,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "queijadinhas"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 queijadinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 pacote de coco ralado sem açúcar (100 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga derretida"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Coloque 20 forminhas de papel dentro de uma forma de muffin."
+    },
+    {
+      "texto": "Numa tigela, misture bem os ovos, o leite de coco, o eritritol e a manteiga."
+    },
+    {
+      "texto": "Junte o coco e o queijo e misture. Deixe descansar 10 minutos para o coco hidratar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Distribua nas forminhas, mexendo a massa sempre para o coco não ficar só no fundo."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar bem por cima.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Espere esfriar 30 minutos antes de tirar da forma.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por queijo minas meia cura ralado fino."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se o coco ralado é sem açúcar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 152,
+      "carboidratos_g": 3.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0411.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "queijadinha",
+      "queijadinha de coco",
+      "docinho de coco e queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

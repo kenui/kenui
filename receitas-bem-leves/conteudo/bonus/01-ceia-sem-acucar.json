@@ -1,0 +1,35 @@
+{
+  "slug": "ceia-sem-acucar",
+  "titulo": "Ceia sem Açúcar",
+  "resumo": "Cardápio de Natal e Ano-Novo sem açúcar adicionado, com cronograma de preparo e todas as receitas de ceia.",
+  "blocos": [
+    { "t": "p", "texto": "Dá para fazer uma ceia farta, bonita e cheia de sabor sem açúcar adicionado. Este bônus junta as receitas de ceia do app, sugere um cardápio para 8 a 10 pessoas e mostra o que fazer em cada dia para não passar a véspera inteira na cozinha." },
+    { "t": "h", "texto": "Cardápio sugerido para 8 a 10 pessoas" },
+    { "t": "tabela", "cabecalho": ["Parte da ceia", "Sugestão"], "linhas": [
+      ["Prato principal", "Um assado (peru, pernil ou lombo) e, se quiser, um peixe"],
+      ["Acompanhamentos", "Uma farofa, um arroz especial e um purê ou legumes assados"],
+      ["Saladas", "Salpicão com molho de iogurte e uma salada de folhas"],
+      ["Sobremesas", "Um doce gelado (pavê ou manjar) e um assado doce (panetone caseiro ou torta de nozes)"],
+      ["Bebida", "Ponche de frutas sem álcool e sem açúcar, e água saborizada"]
+    ] },
+    { "t": "h", "texto": "Cronograma de preparo" },
+    { "t": "tabela", "cabecalho": ["Quando", "O que fazer"], "linhas": [
+      ["3 dias antes", "Compras. Descongele o peru na geladeira (leva de 2 a 3 dias). Faça o panetone caseiro: dura bem em pote fechado."],
+      ["2 dias antes", "Tempere o pernil ou o lombo e deixe na geladeira. Toste as castanhas da farofa."],
+      ["Véspera", "Faça o pavê e o manjar (precisam de geladeira). Cozinhe e desfie o frango do salpicão. Lave e seque as folhas."],
+      ["No dia, pela manhã", "Monte o salpicão. Corte os legumes. Prepare o ponche e deixe gelando."],
+      ["3 horas antes", "Leve o assado ao forno. Cozinhe o arroz e faça a farofa."],
+      ["1 hora antes", "Asse os legumes. Faça o purê. Monte a salada de folhas sem o molho."],
+      ["Na hora de servir", "Tempere a salada, fatie o assado e desenforme o doce."]
+    ] },
+    { "t": "h", "texto": "Dicas para a ceia" },
+    { "t": "lista", "itens": [
+      "Evite o tender e o peru pronto temperado: o tempero industrial costuma levar açúcar. Tempere em casa com alho, ervas e laranja.",
+      "Uva-passa, damasco e ameixa secos dão o toque doce de Natal. Confira no rótulo se são sem açúcar.",
+      "Use um termômetro de cozinha se tiver: carne de peru e de porco fica pronta quando o centro passa de 70 °C.",
+      "Asse o doce na véspera para liberar o forno para o assado no dia."
+    ] },
+    { "t": "h", "texto": "Todas as receitas de ceia" },
+    { "t": "receitas", "categoria": "ceia" }
+  ]
+}

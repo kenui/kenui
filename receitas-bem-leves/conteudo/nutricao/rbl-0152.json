@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0152",
+  "nome": "Patê de atum com rodelas de pepino",
+  "porcoes": 4,
+  "porcao": "3 colheres (sopa) de patê com 1/4 do pepino",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "atum-em-lata",
+      "texto": "1 lata de atum em óleo, escorrido (120 g)",
+      "gramas": 120,
+      "kcal": 199.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 277 Atum, conserva em óleo",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "3 colheres (sopa) de iogurte natural",
+      "gramas": 45.9,
+      "kcal": 23.4,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "2 colheres (sopa) de requeijão cremoso",
+      "gramas": 30,
+      "kcal": 77.1,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1/2 cenoura ralada fina",
+      "gramas": 30.5,
+      "kcal": 10.4,
+      "carboidratos_g": 2.35,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1 colher (sopa) de suco de limão",
+      "gramas": 15.2,
+      "kcal": 3.3,
+      "carboidratos_g": 1.11,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "pepino",
+      "texto": "1 pepino grande (300 g)",
+      "gramas": 300,
+      "kcal": 30,
+      "carboidratos_g": 6,
+      "fonte": "TACO 4ª ed. 142 Pepino, cru",
+      "por_100g": {
+        "kcal": 10,
+        "carboidratos_g": 2
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 344.9,
+    "carboidratos_g": 11.3
+  },
+  "por_porcao": {
+    "kcal": 86,
+    "carboidratos_g": 2.8
+  }
+}

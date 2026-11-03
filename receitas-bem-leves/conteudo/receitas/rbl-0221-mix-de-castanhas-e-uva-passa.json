@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0221",
+  "slug": "mix-de-castanhas-e-uva-passa",
+  "nome": "Mix de castanhas e uva-passa",
+  "descricao": "Mistura crocante de amendoim torrado em casa, castanhas e uva-passa, para levar na bolsa.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 12,
+    "descanso_min": 15,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "porções"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1/4 de xícara (cerca de 30 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "amendoim",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de amendoim cru sem pele"
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 70,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de castanha-de-caju (70 g)"
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 xícara (chá) de castanha-do-pará picada grosseiramente (100 g)"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de uva-passa"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Espalhe o amendoim numa assadeira e leve ao forno por 12 minutos, mexendo na metade do tempo, até dourar e perfumar.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Deixe esfriar por 15 minutos na assadeira.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Misture o amendoim com as castanhas e a uva-passa."
+    },
+    {
+      "texto": "Divida em saquinhos ou potinhos de 1/4 de xícara."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 12,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a uva-passa por damasco seco picado ou coco em lascas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use nozes no lugar da castanha-do-pará."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado, longe do calor, por até 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 171,
+      "carboidratos_g": 10.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0221.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "amendoim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mix de castanhas",
+      "mix de nuts",
+      "castanhas com passas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

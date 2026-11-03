@@ -1,0 +1,20 @@
+{
+  "descricao": "Ingredientes do lote G",
+  "ingredientes": [
+    {"id": "amido-de-milho", "nome": "amido de milho", "sinonimos": ["maisena", "maizena"], "fonte_nutricao": "taco:42", "secao_mercado": "mercearia", "facil_de_achar": true,
+     "gramas_por_medida": {"xicara": {"g": 128, "fonte": "USDA 169698: 1 cup = 128 g"}, "colher_sopa": {"g": 8, "fonte": "USDA 169698: 1 cup = 128 g ÷ 16"}, "colher_cha": {"g": 2.7, "fonte": "USDA 169698: 1 cup = 128 g ÷ 48"}, "g": {"g": 1, "fonte": "grama"}},
+     "proibido": false, "adocante": null, "enfeite": null},
+    {"id": "milho-verde-cru", "nome": "milho-verde fresco (grãos crus)", "sinonimos": ["milho verde na espiga", "espiga de milho"], "fonte_nutricao": "taco:44", "secao_mercado": "hortifruti", "facil_de_achar": true,
+     "gramas_por_medida": {"xicara": {"g": 145, "fonte": "USDA 169998: 1 cup = 145 g"}, "unidade": {"g": 102, "fonte": "USDA 169998: 1 ear, medium yields = 102 g de grãos"}, "g": {"g": 1, "fonte": "grama"}},
+     "proibido": false, "adocante": null, "enfeite": "milho"},
+    {"id": "raspas-de-laranja", "nome": "raspas de casca de laranja", "sinonimos": ["casca de laranja ralada"], "fonte_nutricao": "usda:169103", "secao_mercado": "hortifruti", "facil_de_achar": true,
+     "gramas_por_medida": {"colher_sopa": {"g": 6, "fonte": "USDA 169103: 1 tbsp = 6 g"}, "colher_cha": {"g": 2, "fonte": "USDA 169103: 1 tsp = 2 g"}, "g": {"g": 1, "fonte": "grama"}},
+     "proibido": false, "adocante": null, "enfeite": "laranja"},
+    {"id": "gengibre-em-po", "nome": "gengibre em pó", "sinonimos": [], "fonte_nutricao": "usda:170926", "secao_mercado": "temperos", "facil_de_achar": true,
+     "gramas_por_medida": {"colher_cha": {"g": 1.8, "fonte": "USDA 170926: 1 tsp = 1,8 g"}, "colher_sopa": {"g": 5.2, "fonte": "USDA 170926: 1 tbsp = 5,2 g"}, "pitada": {"g": 0.1, "fonte": "pitada de especiaria em pó (USDA 170931: 1 dash = 0,1 g)"}, "g": {"g": 1, "fonte": "grama"}},
+     "proibido": false, "adocante": null, "enfeite": null},
+    {"id": "feijao-preto-cozido", "nome": "feijão-preto cozido (sem tempero)", "sinonimos": ["feijão preto"], "fonte_nutricao": "taco:567", "secao_mercado": "mercearia", "facil_de_achar": true,
+     "gramas_por_medida": {"xicara": {"g": 172, "fonte": "USDA 173735: 1 cup = 172 g"}, "g": {"g": 1, "fonte": "grama"}},
+     "proibido": false, "adocante": null, "enfeite": null}
+  ]
+}

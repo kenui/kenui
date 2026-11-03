@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0418",
+  "slug": "mousse-de-morango",
+  "nome": "Mousse de morango",
+  "descricao": "Mousse rosada de morango fresco, leve e com pedacinhos da fruta por cima.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 1,
+    "descanso_min": 180,
+    "total_min": 196
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Mousse",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "morango",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de morangos sem as folhas"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Mousse",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Bata no liquidificador os morangos, o creme de leite, o leite em pó e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Com o liquidificador ligado, junte a gelatina derretida e bata mais 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Distribua em 6 taças e leve à geladeira por 3 horas.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Sirva com os morangos picados por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use morangos congelados sem açúcar, já descongelados, na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite em pó por 1 pote de iogurte natural: a mousse fica mais leve e azedinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias; depois disso o morango solta água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 151,
+      "carboidratos_g": 9.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0418.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mousse de morango sem acucar",
+      "mousse de morango facil",
+      "sobremesa de morango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

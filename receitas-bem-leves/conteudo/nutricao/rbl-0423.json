@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0423",
+  "nome": "Curau de milho verde",
+  "porcoes": 6,
+  "porcao": "1 tigelinha",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "milho-verde-cru",
+      "texto": "3 xícaras (chá) de grãos de milho verde fresco (cerca de 4 espigas)",
+      "gramas": 435,
+      "kcal": 600.3,
+      "carboidratos_g": 124.41,
+      "fonte": "TACO 4ª ed. 44 Milho, verde, cru",
+      "por_100g": {
+        "kcal": 138,
+        "carboidratos_g": 28.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "3 xícaras (chá) de leite",
+      "gramas": 732,
+      "kcal": 446.5,
+      "carboidratos_g": 35.14,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó para polvilhar",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1156.3,
+    "carboidratos_g": 161.7
+  },
+  "por_porcao": {
+    "kcal": 193,
+    "carboidratos_g": 26.9
+  }
+}

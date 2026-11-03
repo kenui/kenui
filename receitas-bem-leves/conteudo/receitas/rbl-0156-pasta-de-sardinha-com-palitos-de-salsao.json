@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0156",
+  "slug": "pasta-de-sardinha-com-palitos-de-salsao",
+  "nome": "Pasta de sardinha com palitos de salsão",
+  "descricao": "Pasta rápida de sardinha com requeijão, cebola e limão, servida com palitos de salsão e cenoura.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "xícara de pasta"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/4 de xícara de pasta com palitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sardinha-em-lata",
+      "quantidade": 85,
+      "medida": "g",
+      "texto": "1 lata de sardinha em óleo escorrida (85 g)"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebola bem picada"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsao",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "3 talos de salsão (120 g)"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, amasse a sardinha com um garfo. Tire a espinha do meio, se preferir."
+    },
+    {
+      "texto": "Junte o requeijão, a cebola, o limão e a pimenta e misture até ficar cremoso."
+    },
+    {
+      "texto": "Acrescente a salsinha e prove: a sardinha já dá sal."
+    },
+    {
+      "texto": "Corte o salsão e a cenoura em palitos de 8 cm e sirva com a pasta."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por ricota amassada ou por iogurte natural."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o salsão por palitos de pepino."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "A pasta dura 2 dias na geladeira em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 102,
+      "carboidratos_g": 3.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0156.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "sardinha",
+    "enfeites": [
+      "ervas",
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pasta de sardinha",
+      "pate de sardinha",
+      "petisco de sardinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

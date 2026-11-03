@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0039",
+  "slug": "pao-sirio-caseiro",
+  "nome": "Pão sírio caseiro",
+  "descricao": "Pão árabe fininho que estufa no forno e forma um bolso, para rechear ou acompanhar pastas.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 15,
+    "descanso_min": 70,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "pães"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água morna"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+    },
+    {
+      "texto": "Junte o azeite e a água morna e misture até formar uma massa."
+    },
+    {
+      "texto": "Sove por 10 minutos numa bancada, até a massa ficar lisa e elástica.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Coloque numa tigela untada, cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 8 bolinhas, cubra e deixe descansar 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Preaqueça o forno a 240 °C com a assadeira dentro."
+    },
+    {
+      "texto": "Abra cada bolinha com o rolo num disco de 15 cm e 0,5 cm de espessura."
+    },
+    {
+      "texto": "Coloque 3 ou 4 discos na assadeira quente e asse por 5 a 7 minutos, até estufarem e mal dourarem. Repita com o restante.",
+      "aviso": "Use luva: a assadeira está muito quente.",
+      "temporizador_min": 7
+    },
+    {
+      "texto": "Embrulhe os pães num pano assim que saírem do forno, para ficarem macios."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 240,
+    "tempo_min": 14,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O pão só estufa se o forno e a assadeira estiverem bem quentes: preaqueça por pelo menos 15 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em saco fechado e aqueça direto na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 202,
+      "carboidratos_g": 35.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0039.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "wrap",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao arabe",
+      "pao pita",
+      "pao sirio"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

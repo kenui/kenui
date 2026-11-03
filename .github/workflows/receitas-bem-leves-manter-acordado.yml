@@ -1,0 +1,20 @@
+# O plano grátis do Supabase pausa o projeto depois de 7 dias sem uso.
+# Esta tarefa faz uma consulta leve todo dia para o login e o webhook nunca pararem.
+name: "Receitas Bem Leves: manter Supabase acordado"
+
+on:
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  consultar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consulta leve
+        run: |
+          curl --fail --silent --show-error -X POST \
+            "${{ secrets.SUPABASE_URL }}/rest/v1/rpc/manter_acordado" \
+            -H "apikey: ${{ secrets.SUPABASE_ANON_KEY }}" \
+            -H "Authorization: Bearer ${{ secrets.SUPABASE_ANON_KEY }}" \
+            -H "Content-Type: application/json" -d '{}'

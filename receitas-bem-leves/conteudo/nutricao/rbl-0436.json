@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0436",
+  "nome": "Arroz-doce cremoso",
+  "porcoes": 6,
+  "porcao": "1 tigelinha",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "1/2 xícara (chá) de arroz branco",
+      "gramas": 92.5,
+      "kcal": 331.2,
+      "carboidratos_g": 72.89,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/2 xícara (chá) de água",
+      "gramas": 360,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "3 xícaras (chá) de leite",
+      "gramas": 732,
+      "kcal": 446.5,
+      "carboidratos_g": 35.14,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "texto": "1 colher (chá) de raspas de limão (ou 2 tiras da casca)",
+      "gramas": 2,
+      "kcal": 0.9,
+      "carboidratos_g": 0.32,
+      "fonte": "USDA SR Legacy 167749 Lemon peel, raw",
+      "por_100g": {
+        "kcal": 47,
+        "carboidratos_g": 16
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "1 pitada de cravo em pó",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó para polvilhar",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 785.3,
+    "carboidratos_g": 110.5
+  },
+  "por_porcao": {
+    "kcal": 131,
+    "carboidratos_g": 18.4
+  }
+}

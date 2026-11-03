@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0190",
+  "slug": "acai-na-tigela-sem-acucar",
+  "nome": "Açaí na tigela sem açúcar",
+  "descricao": "Creme de açaí puro batido com banana congelada, servido com frutas e aveia por cima.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "tigelas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 tigela (cerca de 1 xícara)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme",
+      "ingrediente": "polpa-de-acai",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 pacotes de polpa de açaí pura congelada, sem adição (200 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana-nanica madura congelada em rodelas"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol, se quiser mais doce",
+      "opcional": true
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "banana-nanica",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 banana em rodelas"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 morangos picados"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de aveia em flocos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Deixe os pacotes de açaí 5 minutos fora do congelador para amolecer um pouco e corte em pedaços.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Bata no liquidificador o açaí, a banana congelada e o leite, pulsando e mexendo com uma colher entre as batidas, até virar um creme grosso."
+    },
+    {
+      "texto": "Prove e, se quiser mais doce, junte o eritritol e bata mais um pouco."
+    },
+    {
+      "texto": "Divida em 2 tigelas e cubra com a banana em rodelas, os morangos e a aveia. Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 1 colher (sopa) de castanhas picadas ou de coco ralado seco sem açúcar."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Leia o rótulo do açaí: compre a polpa pura, com açaí e água na lista de ingredientes. O açaí já adoçado não serve aqui."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde o açaí sempre no congelador e só bata na hora de comer."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 185,
+      "carboidratos_g": 33.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0190.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "morango",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "acai",
+      "acai natural",
+      "acai com banana",
+      "acai puro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

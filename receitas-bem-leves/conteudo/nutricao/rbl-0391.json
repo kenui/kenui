@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0391",
+  "nome": "Muffin de maçã com nozes",
+  "porcoes": 10,
+  "porcao": "1 muffin",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/4 de xícara (chá) de óleo",
+      "gramas": 54.5,
+      "kcal": 481.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 xícara (chá) de farinha de trigo",
+      "gramas": 125,
+      "kcal": 450,
+      "carboidratos_g": 93.88,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "2 colheres (chá) de fermento químico em pó",
+      "gramas": 9.2,
+      "kcal": 8.3,
+      "carboidratos_g": 4.04,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média picadinha, com casca (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "noz",
+      "texto": "1/3 de xícara (chá) de nozes picadas",
+      "gramas": 38.6,
+      "kcal": 239.4,
+      "carboidratos_g": 7.1,
+      "fonte": "TACO 4ª ed. 597 Noz, crua",
+      "por_100g": {
+        "kcal": 620,
+        "carboidratos_g": 18.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1659.1,
+    "carboidratos_g": 161.7
+  },
+  "por_porcao": {
+    "kcal": 166,
+    "carboidratos_g": 16.2
+  }
+}

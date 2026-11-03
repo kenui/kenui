@@ -1,0 +1,150 @@
+{
+  "receita": "rbl-0462",
+  "nome": "Torta de limão",
+  "porcoes": 10,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos finos",
+      "gramas": 121.5,
+      "kcal": 478.7,
+      "carboidratos_g": 80.92,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "4 colheres (sopa) de manteiga derretida",
+      "gramas": 56.8,
+      "kcal": 412.4,
+      "carboidratos_g": 0.06,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "gelatina-incolor",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor",
+      "gramas": 12,
+      "kcal": 40.2,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 169599 Gelatins, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "5 colheres (sopa) de água fria",
+      "gramas": 75,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "2 caixinhas de creme de leite (400 g)",
+      "gramas": 400,
+      "kcal": 884,
+      "carboidratos_g": 18,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "1 xícara (chá) de leite em pó integral",
+      "gramas": 128,
+      "kcal": 636.2,
+      "carboidratos_g": 50.18,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 4 limões",
+      "gramas": 192,
+      "kcal": 42.2,
+      "carboidratos_g": 14.02,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "texto": "2 colheres (chá) de raspas de limão",
+      "gramas": 4,
+      "kcal": 1.9,
+      "carboidratos_g": 0.64,
+      "fonte": "USDA SR Legacy 167749 Lemon peel, raw",
+      "por_100g": {
+        "kcal": 47,
+        "carboidratos_g": 16
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2567.1,
+    "carboidratos_g": 164.6
+  },
+  "por_porcao": {
+    "kcal": 257,
+    "carboidratos_g": 16.5
+  }
+}

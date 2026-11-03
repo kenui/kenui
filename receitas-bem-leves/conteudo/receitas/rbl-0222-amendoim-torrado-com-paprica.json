@@ -1,0 +1,123 @@
+{
+  "id": "rbl-0222",
+  "slug": "amendoim-torrado-com-paprica",
+  "nome": "Amendoim torrado com páprica",
+  "descricao": "Amendoim torradinho no forno com azeite, páprica e sal, para petiscar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 15,
+    "descanso_min": 15,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1/4 de xícara (cerca de 30 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "amendoim",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de amendoim cru sem pele"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce ou defumada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Misture numa tigela o amendoim com o azeite, a páprica e o sal."
+    },
+    {
+      "texto": "Espalhe numa assadeira em uma camada só e asse por 15 minutos, mexendo a cada 5 minutos, até dourar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Deixe esfriar por 15 minutos: o amendoim fica crocante quando esfria.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 15,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica por alecrim seco ou por orégano."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote bem fechado por até 2 semanas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fique de olho no fim do tempo: o amendoim passa de dourado a queimado rapidinho."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 171,
+      "carboidratos_g": 6.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0222.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "amendoim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "amendoim torrado",
+      "amendoim temperado",
+      "petisco de amendoim"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

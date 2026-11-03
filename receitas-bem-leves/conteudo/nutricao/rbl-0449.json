@@ -1,0 +1,84 @@
+{
+  "receita": "rbl-0449",
+  "nome": "Doce de abóbora cremoso",
+  "porcoes": 12,
+  "porcao": "1/4 de xícara",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "1 pedaço de abóbora cabotiá sem casca (1 kg), em cubos",
+      "gramas": 1000,
+      "kcal": 390,
+      "carboidratos_g": 84,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "2 pitadas de cravo em pó",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "1/3 de xícara (chá) de coco ralado seco sem açúcar (30 g)",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 397,
+    "carboidratos_g": 86.2
+  },
+  "por_porcao": {
+    "kcal": 33,
+    "carboidratos_g": 7.2
+  }
+}

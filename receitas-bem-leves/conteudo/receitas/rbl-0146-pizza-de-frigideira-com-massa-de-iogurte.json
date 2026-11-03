@@ -1,0 +1,167 @@
+{
+  "id": "rbl-0146",
+  "slug": "pizza-de-frigideira-com-massa-de-iogurte",
+  "nome": "Pizza de frigideira com massa de iogurte",
+  "descricao": "Pizza individual de massa integral com iogurte, coberta com tomate, mussarela e orégano, pronta na frigideira.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "total_min": 22
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pizza de 24 cm"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1/2 pizza"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pote de iogurte natural (85 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite para untar"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate maduro"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "4 fatias de queijo mussarela (80 g)"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o iogurte, o fermento e o sal até formar uma massa macia. Se grudar muito, junte 1 colher (sopa) de farinha."
+    },
+    {
+      "texto": "Com as mãos enfarinhadas, abra a massa num disco do tamanho da frigideira."
+    },
+    {
+      "texto": "Rale metade do tomate e tempere com o sal e metade do orégano. Corte a outra metade em rodelas."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente de 24 cm com o azeite e coloque a massa. Tampe e deixe em fogo baixo por 4 minutos, até a base dourar.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Vire a massa e espalhe o tomate ralado, a mussarela e as rodelas de tomate."
+    },
+    {
+      "texto": "Tampe e deixe mais 5 a 6 minutos, até o queijo derreter. Polvilhe o restante do orégano.",
+      "aviso": "Mantenha o fogo baixo para a base não queimar.",
+      "temporizador_min": 6
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por farinha de trigo comum."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas e acrescente frango desfiado ou atum."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O tomate ralado com sal e orégano faz as vezes de molho e não leva nada industrializado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 339,
+      "carboidratos_g": 37.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0146.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pizza",
+    "massa": "integral",
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pizza de frigideira",
+      "pizza rapida",
+      "pizza caseira facil"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

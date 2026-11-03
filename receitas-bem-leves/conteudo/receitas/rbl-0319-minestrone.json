@@ -1,0 +1,192 @@
+{
+  "id": "rbl-0319",
+  "slug": "minestrone",
+  "nome": "Minestrone",
+  "descricao": "Sopa italiana de legumes com feijão, repolho e manjericão, servida com parmesão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 35,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "pratos"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em cubinhos"
+    },
+    {
+      "ingrediente": "salsao",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "2 talos de salsão picados (80 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates picados"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 batata média em cubos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2000,
+      "medida": "ml",
+      "texto": "2 litros de água quente"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubos"
+    },
+    {
+      "ingrediente": "vagem",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de vagem em pedaços"
+    },
+    {
+      "ingrediente": "repolho",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de repolho fatiado"
+    },
+    {
+      "ingrediente": "feijao-carioca-cozido",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de feijão-carioca cozido, escorrido"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_cha",
+      "texto": "2 e 1/2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de folhas de manjericão"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, aqueça o azeite e refogue a cebola, o alho, a cenoura e o salsão por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o tomate e a batata e mexa por 2 minutos. Cubra com a água quente e junte o sal."
+    },
+    {
+      "texto": "Cozinhe com a panela semitampada por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte a abobrinha, a vagem, o repolho e o feijão e cozinhe mais 12 minutos, até tudo ficar macio.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Desligue, junte o manjericão rasgado e sirva com o parmesão por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use feijão-branco no lugar do carioca, como na receita italiana."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Se quiser, junte 1/2 xícara (chá) de macarrão pequeno nos últimos 10 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 114,
+      "carboidratos_g": 15.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0319.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "abobrinha",
+      "ervas",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "minestrone de legumes",
+      "sopa italiana",
+      "sopa de feijao com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

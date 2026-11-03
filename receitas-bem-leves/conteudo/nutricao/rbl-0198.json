@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0198",
+  "nome": "Limonada com hortelã",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 3 limões",
+      "gramas": 144,
+      "kcal": 31.7,
+      "carboidratos_g": 10.51,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "2 colheres (sopa) de folhas de hortelã",
+      "gramas": 11.4,
+      "kcal": 5,
+      "carboidratos_g": 0.96,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "4 xícaras (chá) de água gelada",
+      "gramas": 960,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "limao-taiti",
+      "texto": "1 limão em rodelas para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 36.7,
+    "carboidratos_g": 11.5
+  },
+  "por_porcao": {
+    "kcal": 9,
+    "carboidratos_g": 2.9
+  }
+}

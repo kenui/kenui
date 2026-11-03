@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0150",
+  "slug": "chips-de-couve-no-forno",
+  "nome": "Chips de couve no forno",
+  "descricao": "Folhas de couve temperadas com azeite e páprica, assadas em forno baixo até ficarem leves e crocantes.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 18,
+    "total_min": 28
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "xícaras de chips"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 e 1/3 xícara"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maço de couve-manteiga (150 g de folhas, sem os talos)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado fino"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 150 °C e forre 2 assadeiras com papel-manteiga."
+    },
+    {
+      "texto": "Lave as folhas e seque muito bem com um pano. Folha molhada não fica crocante."
+    },
+    {
+      "texto": "Tire o talo do meio e rasgue as folhas em pedaços de 5 cm."
+    },
+    {
+      "texto": "Numa tigela, massageie as folhas com o azeite, a páprica e o sal, até ficarem todas brilhando."
+    },
+    {
+      "texto": "Espalhe nas assadeiras sem sobrepor e polvilhe o parmesão."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, até as folhas ficarem secas e crocantes, sem escurecer.",
+      "temporizador_min": 18
+    }
+  ],
+  "forno": {
+    "temperatura_c": 150,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por gergelim ou deixe só com sal e páprica."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Forno baixo é o segredo: no forno alto a couve queima antes de secar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma no mesmo dia. Guarde o que sobrar em pote bem fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 70,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0150.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "chips de couve",
+      "couve crocante",
+      "chips verde"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

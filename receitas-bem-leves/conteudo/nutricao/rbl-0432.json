@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0432",
+  "nome": "Gelatina de uva",
+  "porcoes": 5,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor",
+      "gramas": 12,
+      "kcal": 40.2,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 169599 Gelatins, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 335,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "5 colheres (sopa) de água fria",
+      "gramas": 75,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "uva",
+      "texto": "3 xícaras (chá) de uvas roxas ou rubi, sem os cabinhos",
+      "gramas": 453,
+      "kcal": 240.1,
+      "carboidratos_g": 61.61,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água gelada",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol, se as uvas estiverem azedinhas",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 280.3,
+    "carboidratos_g": 61.6
+  },
+  "por_porcao": {
+    "kcal": 56,
+    "carboidratos_g": 12.3
+  }
+}

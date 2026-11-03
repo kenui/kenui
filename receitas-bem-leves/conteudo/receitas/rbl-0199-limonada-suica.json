@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0199",
+  "slug": "limonada-suica",
+  "nome": "Limonada suíça",
+  "descricao": "Limonada cremosa batida com o limão inteiro e um pouco de leite em pó.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 200 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 limões taiti com casca, bem lavados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 10 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave bem os limões, corte as pontas e corte cada um em 4 pedaços.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador os limões com a água, o leite em pó e o eritritol, pulsando 4 ou 5 vezes, por no máximo 10 segundos."
+    },
+    {
+      "texto": "Coe na hora numa peneira fina e sirva com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite em pó, faça só com água: fica uma limonada suíça mais leve e menos cremosa."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não bata muito nem deixe a limonada parada antes de coar: a casca deixa o suco amargo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Faça na hora de servir. Guardada, ela amarga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 31,
+      "carboidratos_g": 5.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0199.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "limonada suica",
+      "limonada cremosa",
+      "suco de limao batido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

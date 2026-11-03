@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0216",
+  "nome": "Maçã com pasta de amendoim e canela",
+  "porcoes": 1,
+  "porcao": "1 maçã com 1 colher (sopa) de pasta",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "maca",
+      "texto": "1 maçã média (150 g)",
+      "gramas": 150,
+      "kcal": 84,
+      "carboidratos_g": 22.8,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "texto": "1 colher (sopa) de pasta de amendoim integral",
+      "gramas": 16,
+      "kcal": 93.9,
+      "carboidratos_g": 3.4,
+      "fonte": "USDA SR Legacy 173806 Peanuts, all types, dry-roasted, without salt",
+      "por_100g": {
+        "kcal": 587,
+        "carboidratos_g": 21.26
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela em pó",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 178.2,
+    "carboidratos_g": 26.3
+  },
+  "por_porcao": {
+    "kcal": 178,
+    "carboidratos_g": 26.3
+  }
+}

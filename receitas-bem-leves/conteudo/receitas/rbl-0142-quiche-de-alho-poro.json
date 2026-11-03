@@ -1,0 +1,210 @@
+{
+  "id": "rbl-0142",
+  "slug": "quiche-de-alho-poro",
+  "nome": "Quiche de alho-poró",
+  "descricao": "Quiche de massa amanteigada com aveia e recheio cremoso de alho-poró, ovos e parmesão.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 50,
+    "descanso_min": 30,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "quiche de 24 cm"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia (1/8 da quiche)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "7 colheres (sopa) de manteiga gelada (100 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho-poro",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 talos de alho-poró fatiados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de creme de leite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, a aveia e o sal. Junte a manteiga em pedaços e esfarele com as pontas dos dedos."
+    },
+    {
+      "texto": "Acrescente o ovo e amasse só até a massa ficar lisa. Embrulhe em plástico e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Abra a massa com as mãos no fundo e na lateral de uma forma de fundo removível de 24 cm. Fure o fundo com um garfo."
+    },
+    {
+      "texto": "Asse a massa sozinha por 15 minutos, até começar a dourar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Enquanto isso, derreta a manteiga numa frigideira e refogue o alho-poró por 5 minutos, até murchar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Numa tigela, bata os ovos, o creme de leite, o leite, o parmesão, a noz-moscada e o sal. Junte o alho-poró."
+    },
+    {
+      "texto": "Despeje o recheio sobre a massa pré-assada e asse por 30 minutos, até firmar no centro e dourar.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Espere 10 minutos antes de desenformar e cortar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alho-poró por 2 xícaras de brócolis cozido picado ou por cebola fatiada bem refogada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use farinha de trigo integral no lugar da farinha branca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Aqueça a fatia no forno por 8 minutos para a massa voltar a ficar crocante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 293,
+      "carboidratos_g": 18.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0142.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "alho-poró",
+    "enfeites": [
+      "ervas",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "quiche de alho poro",
+      "torta de alho poro",
+      "quiche salgada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

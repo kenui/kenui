@@ -1,0 +1,195 @@
+{
+  "id": "rbl-0422",
+  "slug": "pudim-de-chocolate",
+  "nome": "Pudim de chocolate",
+  "descricao": "Pudim de cacau de textura lisinha, com calda escura de cacau por cima.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 63,
+    "descanso_min": 240,
+    "total_min": 330
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "eritritol",
+      "quantidade": 0.66,
+      "medida": "xicara",
+      "texto": "2/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Pudim",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 8,
+      "medida": "unidade",
+      "texto": "8 morangos para enfeitar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com o óleo uma forma de pudim de 20 cm, com furo no meio."
+    },
+    {
+      "texto": "Bata no liquidificador o leite, o leite em pó, os ovos, o cacau e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Deixe descansar 5 minutos, tire a espuma de cima e despeje na forma.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse em banho-maria por 50 a 60 minutos, até o centro firmar.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por pelo menos 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Calda: numa panelinha, misture o cacau, o eritritol e a água. Cozinhe em fogo baixo por 3 minutos, mexendo, e junte a manteiga.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Desenforme o pudim, espalhe a calda morna ou fria por cima e enfeite com os morangos."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um sabor mais suave, use 3 colheres (sopa) de cacau na massa em vez de 5."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tirar a espuma antes de assar deixa o pudim sem furinhos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 181,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0422.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "chocolate",
+    "cobertura": "calda_chocolate",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de chocolate sem acucar",
+      "pudim de cacau",
+      "pudim de forno de chocolate"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

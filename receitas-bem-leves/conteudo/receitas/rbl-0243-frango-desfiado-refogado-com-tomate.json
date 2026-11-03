@@ -1,0 +1,172 @@
+{
+  "id": "rbl-0243",
+  "slug": "frango-desfiado-refogado-com-tomate",
+  "nome": "Frango desfiado refogado com tomate",
+  "descricao": "Peito de frango cozido e desfiado num refogado de tomate, pimentão e cheiro-verde, bom para o prato do dia a dia e para a marmita.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 xícara (chá) cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de peito de frango"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água para cozinhar"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates maduros picados"
+    },
+    {
+      "ingrediente": "extrato-de-tomate",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de extrato de tomate (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe o peito de frango na água fervente com 1/2 colher (chá) do sal por 20 minutos, até ficar macio.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Escorra, guarde 1/2 xícara do caldo e desfie o frango com dois garfos ainda morno.",
+      "aviso": "O frango sai muito quente da água: espere 5 minutos antes de desfiar com as mãos."
+    },
+    {
+      "texto": "Numa panela, refogue a cebola, o alho e o pimentão no azeite por 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte o tomate, o extrato e o restante do sal e cozinhe 5 minutos, até o tomate desmanchar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Acrescente o frango e o caldo reservado e cozinhe 5 minutos, mexendo, até ficar úmido e bem temperado.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e misture a salsinha e a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Na panela de pressão, o peito cozinha em 12 minutos depois de pegar pressão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1/2 xícara de milho-verde ou de ervilha no final, se quiser."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses: serve para rechear panqueca, omelete e abobrinha."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 241,
+      "carboidratos_g": 5.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0243.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango desfiado",
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango desfiado",
+      "frango refogado",
+      "recheio de frango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

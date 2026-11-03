@@ -1,0 +1,186 @@
+{
+  "id": "rbl-0477",
+  "slug": "peixe-assado-inteiro-com-batatas",
+  "nome": "Peixe assado inteiro com batatas",
+  "descricao": "Pescada inteira assada sobre batatas, tomate e cebola, com limão, alho e salsinha.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 60,
+    "descanso_min": 60,
+    "total_min": 145
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 posta de peixe com batatas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pescada-inteira",
+      "quantidade": 2000,
+      "medida": "g",
+      "texto": "1 pescada inteira limpa, sem escamas (cerca de 2 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de sal"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "Suco de 3 limões"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 5,
+      "medida": "dente",
+      "texto": "5 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 batatas médias em rodelas finas"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates em rodelas"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Faça 3 cortes rasos de cada lado do peixe. Tempere com o sal, o suco de limão, o alho e a pimenta, por dentro e por fora."
+    },
+    {
+      "texto": "Deixe pegar gosto na geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Unte uma assadeira grande com 2 colheres de azeite e espalhe as batatas. Tempere com uma pitada de sal e asse por 20 minutos, até começarem a amolecer.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Coloque o peixe sobre as batatas e espalhe a cebola, o tomate, metade da salsinha e o orégano por cima e em volta. Regue com o restante do azeite."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 25 minutos.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o papel e asse mais 15 minutos, até a carne do peixe soltar em lascas perto do osso.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Salpique o restante da salsinha e sirva na própria assadeira."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pescada por tilápia, robalo ou pargo do mesmo tamanho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Prefere sem espinha? Use 1,2 kg de filé de pescada e asse só 20 minutos sobre as batatas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Peça para a peixaria limpar e tirar as escamas: poupa trabalho e sujeira em casa."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma no mesmo dia. Sobras duram 1 dia na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 445,
+      "carboidratos_g": 21.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0477.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "peixe inteiro no forno",
+      "peixe de natal",
+      "pescada assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

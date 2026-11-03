@@ -1,0 +1,189 @@
+{
+  "id": "rbl-0300",
+  "slug": "bacalhau-de-forno-com-batatas",
+  "nome": "Bacalhau de forno com batatas",
+  "descricao": "Lascas de bacalhau assadas com batatas, cebola, pimentão, azeitonas e bastante azeite.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 porção (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "bacalhau-salgado",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de bacalhau dessalgado"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 batatas médias em rodelas grossas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal, para a água das batatas"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em rodelas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho fatiados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em rodelas"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 12,
+      "medida": "unidade",
+      "texto": "12 azeitonas verdes"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos cozidos em rodelas"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe as batatas em água com o sal por 12 a 15 minutos, até ficarem macias mas firmes. Escorra.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Numa panela com água fervente, escalde o bacalhau por 5 minutos. Escorra, tire a pele e as espinhas e separe em lascas grandes.",
+      "aviso": "Cuidado com as espinhas: confira as lascas com os dedos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Unte uma travessa com 1 colher (sopa) de azeite e faça uma camada de batatas."
+    },
+    {
+      "texto": "Por cima, distribua o bacalhau, a cebola, o alho, o pimentão, o tomate e as azeitonas. Tempere com a pimenta e regue com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 25 minutos, até a cebola dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire do forno, enfeite com os ovos cozidos e a salsinha e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use bacalhau do tipo saithe ou polaca, que é mais barato e desfia bem."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque parte das batatas por brócolis em floretes."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para dessalgar em casa, deixe o bacalhau de molho na geladeira por 24 a 36 horas, trocando a água 4 vezes."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 367,
+      "carboidratos_g": 22.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0300.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "azeitona",
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bacalhau ao forno",
+      "bacalhoada",
+      "bacalhau com batata"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

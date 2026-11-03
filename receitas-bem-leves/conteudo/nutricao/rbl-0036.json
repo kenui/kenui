@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0036",
+  "nome": "Wrap de couve-flor",
+  "porcoes": 2,
+  "porcao": "2 wraps",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "couve-flor",
+      "texto": "3 xícaras (chá) de couve-flor picada (meia couve-flor pequena)",
+      "gramas": 321,
+      "kcal": 73.8,
+      "carboidratos_g": 14.45,
+      "fonte": "TACO 4ª ed. 117 Couve-flor, crua",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1/4 de xícara (chá) de queijo parmesão ralado",
+      "gramas": 25,
+      "kcal": 113.3,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/4 de colher (chá) de sal",
+      "gramas": 1.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 330.3,
+    "carboidratos_g": 16.5
+  },
+  "por_porcao": {
+    "kcal": 165,
+    "carboidratos_g": 8.3
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0353",
+  "nome": "Feijão caseiro",
+  "porcoes": 8,
+  "porcao": "1 concha (cerca de 150 g)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "feijao-carioca",
+      "texto": "2 xícaras (chá) de feijão-carioca cru",
+      "gramas": 386,
+      "kcal": 1269.9,
+      "carboidratos_g": 236.23,
+      "fonte": "TACO 4ª ed. 562 Feijão, carioca, cru",
+      "por_100g": {
+        "kcal": 329,
+        "carboidratos_g": 61.2
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/2 litro de água",
+      "gramas": 1500,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "louro",
+      "texto": "2 folhas de louro",
+      "gramas": 0.4,
+      "kcal": 1.3,
+      "carboidratos_g": 0.3,
+      "fonte": "USDA SR Legacy 170917 Spices, bay leaf",
+      "por_100g": {
+        "kcal": 313,
+        "carboidratos_g": 74.97
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "4 dentes de alho amassados",
+      "gramas": 12,
+      "kcal": 13.6,
+      "carboidratos_g": 2.87,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "2 colheres (chá) de sal",
+      "gramas": 12,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1566.3,
+    "carboidratos_g": 249.2
+  },
+  "por_porcao": {
+    "kcal": 196,
+    "carboidratos_g": 31.1
+  }
+}

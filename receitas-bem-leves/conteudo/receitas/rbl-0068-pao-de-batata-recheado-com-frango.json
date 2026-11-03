@@ -1,0 +1,224 @@
+{
+  "id": "rbl-0068",
+  "slug": "pao-de-batata-recheado-com-frango",
+  "nome": "Pão de batata recheado com frango",
+  "descricao": "Pãozinho macio de batata com recheio de frango refogado com tomate e salsinha.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 50,
+    "cozimento_min": 60,
+    "descanso_min": 90,
+    "total_min": 200
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "pães"
+  },
+  "porcoes": 16,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "batata",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "2 batatas médias (250 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite morno"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 xícaras de peito de frango cozido e desfiado (300 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as batatas, corte em pedaços e cozinhe em água por 20 minutos, até ficarem macias. Escorra, amasse e espere amornar.",
+      "aviso": "Cuidado ao escorrer a água fervente.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Numa tigela, misture o purê, o ovo, o leite morno e a manteiga."
+    },
+    {
+      "texto": "Junte o fermento, o sal e a farinha aos poucos, sovando até a massa ficar lisa e macia. Sove por 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Enquanto isso, aqueça o azeite numa frigideira e refogue a cebola e o alho por 3 minutos, até murchar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o tomate e o frango e cozinhe por 5 minutos, até secar o líquido. Acerte o sal, junte a salsinha e deixe esfriar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Divida a massa em 16 partes. Abra cada uma na mão, coloque 1 colher (sopa) de recheio, feche bem e coloque com a emenda para baixo numa assadeira untada."
+    },
+    {
+      "texto": "Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por carne moída refogada ou por queijo minas em cubos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O recheio precisa estar frio e sequinho: recheio molhado faz o pão abrir no forno."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pães assados e aqueça no forno a 180 °C por 10 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 193,
+      "carboidratos_g": 27
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0068.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de batata recheado",
+      "pao de batata com frango",
+      "pao recheado caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

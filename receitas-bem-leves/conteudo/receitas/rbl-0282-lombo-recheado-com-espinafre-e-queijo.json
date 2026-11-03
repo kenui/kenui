@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0282",
+  "slug": "lombo-recheado-com-espinafre-e-queijo",
+  "nome": "Lombo recheado com espinafre e queijo",
+  "descricao": "Lombo suíno aberto, recheado com espinafre e mussarela, amarrado e assado até dourar.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 70,
+    "descanso_min": 60,
+    "total_min": 155
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia grossa (1/8 do lombo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Lombo",
+      "ingrediente": "lombo-suino",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 peça de lombo suíno (cerca de 1 kg)"
+    },
+    {
+      "grupo": "Lombo",
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "grupo": "Lombo",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Lombo",
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "grupo": "Lombo",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Lombo",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite (1 para o recheio, 1 para regar)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "espinafre",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de folhas de espinafre"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo mussarela ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Abra o lombo como um livro: faça um corte no comprimento, a 1,5 cm da base, e vá desenrolando a peça até virar um retângulo.",
+      "aviso": "Corte devagar e com a faca virada para longe do corpo."
+    },
+    {
+      "texto": "Tempere dos dois lados com o alho, o limão, o sal e a pimenta. Deixe 1 hora na geladeira.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Refogue o espinafre em 1 colher (sopa) do azeite por 2 minutos, até murchar. Esprema para tirar a água e deixe esfriar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe o espinafre e a mussarela sobre a carne, enrole bem e amarre com barbante a cada 3 cm."
+    },
+    {
+      "texto": "Coloque numa assadeira, regue com o restante do azeite, cubra com papel-alumínio e asse por 50 minutos.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Retire o papel e asse mais 20 minutos, até dourar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Deixe descansar 10 minutos, tire o barbante e fatie."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 70,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve refogada e a mussarela por queijo prato."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte fatias de presunto ao recheio, se quiser."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Fatiado, congela por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 301,
+      "carboidratos_g": 1.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0282.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "espinafre e queijo",
+    "enfeites": [
+      "folhas_verdes",
+      "queijo_derretido"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lombo recheado",
+      "lombo com espinafre",
+      "lombo de forno recheado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

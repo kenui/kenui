@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0278",
+  "slug": "costelinha-suina-assada-com-alho-e-limao",
+  "nome": "Costelinha suína assada com alho e limão",
+  "descricao": "Costelinha temperada com alho, limão e páprica, assada coberta até amaciar e depois dourada, sem molho pronto.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 90,
+    "descanso_min": 60,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "cerca de 300 g de costelinha"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "costelinha-suina",
+      "quantidade": 1200,
+      "medida": "g",
+      "texto": "1,2 kg de costelinha suína em ripas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 5,
+      "medida": "dente",
+      "texto": "5 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_cha",
+      "texto": "2 e 1/2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de páprica doce ou defumada"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o alho, o limão, o sal, a páprica, o cominho e a pimenta e esfregue em toda a costelinha. Deixe 1 hora na geladeira.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Arrume a costelinha numa assadeira com a parte de carne para cima, regue com o tempero que sobrou e cubra com papel-alumínio."
+    },
+    {
+      "texto": "Asse por 1 hora.",
+      "aviso": "Abra o papel-alumínio pelo lado de longe de você: sai muito vapor.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Retire o papel, regue com o caldo da assadeira e asse mais 30 minutos, até dourar.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Corte entre os ossos e sirva com a salsinha."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 90,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica e o cominho por alecrim e tomilho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com costela bovina: aumente o tempo coberto para 2 horas e 30 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Deixar no tempero desde a noite anterior deixa a carne bem mais saborosa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 782,
+      "carboidratos_g": 3.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0278.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "costelinha assada",
+      "costelinha de porco no forno",
+      "costela suina"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

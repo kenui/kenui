@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0104",
+  "nome": "Cuscuz com leite e coco",
+  "porcoes": 2,
+  "porcao": "1/2 cuscuz com leite",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "flocao-de-milho",
+      "texto": "1 xícara (chá) de flocão de milho (100 g)",
+      "gramas": 100,
+      "kcal": 351,
+      "carboidratos_g": 79.1,
+      "fonte": "TACO 4ª ed. 33 Farinha, de milho, amarela",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 79.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "2 colheres (sopa) de coco ralado seco sem açúcar (16 g)",
+      "gramas": 16,
+      "kcal": 105.6,
+      "carboidratos_g": 3.78,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/4 de colher (chá) de canela em pó",
+      "gramas": 0.7,
+      "kcal": 1.6,
+      "carboidratos_g": 0.52,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 641.3,
+    "carboidratos_g": 95.2
+  },
+  "por_porcao": {
+    "kcal": 321,
+    "carboidratos_g": 47.6
+  }
+}

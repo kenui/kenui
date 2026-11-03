@@ -1,0 +1,171 @@
+{
+  "id": "rbl-0254",
+  "slug": "picadinho-de-carne-com-chuchu",
+  "nome": "Picadinho de carne com chuchu",
+  "descricao": "Cubinhos de patinho cozidos num molho de tomate com chuchu e cenoura, comida caseira de todo dia.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 35,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 concha cheia (cerca de 1 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "patinho",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de patinho em cubos pequenos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cominho"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 360,
+      "medida": "ml",
+      "texto": "1 e 1/2 xícara (chá) de água quente (360 ml)"
+    },
+    {
+      "ingrediente": "chuchu",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 chuchus descascados em cubos"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média em cubos"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a carne com o sal e o cominho."
+    },
+    {
+      "texto": "Numa panela, aqueça o óleo em fogo alto e doure a carne, mexendo pouco, por 8 minutos, até secar a água e ficar dourada.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola e o alho e refogue 2 minutos. Acrescente o tomate e cozinhe 3 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Despeje a água, tampe e cozinhe em fogo baixo por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte o chuchu e a cenoura e cozinhe mais 10 minutos, até ficarem macios.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Acerte o sal e misture a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o chuchu por abobrinha (entra só nos últimos 5 minutos) ou por batata."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use alcatra ou coxão mole no lugar do patinho."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira e congela bem por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 220,
+      "carboidratos_g": 8.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0254.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "picadinho",
+    "enfeites": [
+      "cenoura",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picadinho",
+      "picadinho de carne",
+      "carne com chuchu"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

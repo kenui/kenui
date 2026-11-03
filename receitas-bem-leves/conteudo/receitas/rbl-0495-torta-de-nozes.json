@@ -1,0 +1,201 @@
+{
+  "id": "rbl-0495",
+  "slug": "torta-de-nozes",
+  "nome": "Torta de nozes",
+  "descricao": "Massa amanteigada recheada com creme de nozes, ovos e canela, assada até firmar e dourar.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 50,
+    "descanso_min": 60,
+    "total_min": 140
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 7,
+      "medida": "colher_sopa",
+      "texto": "7 colheres (sopa) de manteiga gelada em cubos (100 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "noz",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de nozes picadas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha (200 g) de creme de leite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Massa: misture a farinha, o eritritol e o sal. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa."
+    },
+    {
+      "texto": "Acrescente o ovo e junte a massa sem sovar. Embrulhe e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Abra a massa no fundo e na lateral de uma forma de fundo removível de 24 cm e fure com um garfo."
+    },
+    {
+      "texto": "Asse a massa sozinha por 15 minutos, até ficar firme e começar a dourar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Recheio: bata com um garfo os ovos, o eritritol, o creme de leite, a manteiga, a baunilha e a canela. Misture as nozes."
+    },
+    {
+      "texto": "Despeje o recheio na massa pré-assada e asse mais 30 a 35 minutos, até firmar no centro e dourar.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Deixe esfriar por 30 minutos antes de desenformar e cortar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as nozes por noz-pecã ou castanha-do-pará picada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da farinha de trigo por farinha de aveia, para uma massa mais rústica."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a borda da massa dourar antes do recheio firmar, cubra só a borda com tiras de papel-alumínio."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias. Fica ótima fria."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 343,
+      "carboidratos_g": 18.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0495.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "nozes",
+    "enfeites": [
+      "castanhas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de nozes",
+      "torta de natal",
+      "torta sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

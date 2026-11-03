@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0427",
+  "slug": "creme-de-papaia",
+  "nome": "Creme de papaia",
+  "descricao": "Creme gelado de mamão papaia batido com iogurte, espesso como sorvete mole, pronto em minutos.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "taças"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mamao-papaia",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 mamão papaia médio, sem casca e sem sementes (300 g), em pedaços congelados"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g), gelado"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de creme de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol, se quiser mais doce",
+      "opcional": true
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "Folhas de hortelã para enfeitar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o mamão congelado, o iogurte e o creme de leite por 1 a 2 minutos, até ficar um creme grosso. Desligue e mexa com uma colher se travar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Prove e junte o eritritol só se precisar."
+    },
+    {
+      "texto": "Sirva na hora, em taças, com folhas de hortelã."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por 1/2 xícara de leite gelado: o creme fica mais líquido."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem mamão congelado? Use o mamão gelado e 4 pedras de gelo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Congele o mamão em cubos na véspera: o creme fica com textura de sorvete."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 102,
+      "carboidratos_g": 12.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0427.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "creme de papaia",
+      "creme de mamao",
+      "papaia com iogurte"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

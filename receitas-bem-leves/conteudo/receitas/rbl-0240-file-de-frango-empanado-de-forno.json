@@ -1,0 +1,162 @@
+{
+  "id": "rbl-0240",
+  "slug": "file-de-frango-empanado-de-forno",
+  "nome": "Filé de frango empanado de forno",
+  "descricao": "Filés de frango empanados na farinha de amêndoas com parmesão e páprica, crocantes e assados.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "filés pequenos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 filés"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de filé de peito de frango, em 8 bifes finos"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos batidos"
+    },
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 xícara (chá) de farinha de amêndoas (cerca de 100 g)",
+      "alternativa": {
+        "ingrediente": "aveia-em-flocos",
+        "texto": "ou 1 xícara (chá) de aveia em flocos finos"
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os bifes com o limão, o alho e o sal."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Forre uma assadeira com papel-manteiga e pincele com metade do azeite."
+    },
+    {
+      "texto": "Misture a farinha de amêndoas, o parmesão e a páprica num prato fundo."
+    },
+    {
+      "texto": "Passe cada bife no ovo, escorra o excesso e cubra com a mistura, apertando bem."
+    },
+    {
+      "texto": "Arrume na assadeira, sem encostar um no outro, e regue com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire com cuidado e asse mais 10 a 13 minutos, até dourar e ficar crocante.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Na falta da farinha de amêndoas, use aveia em flocos finos ou farelo de aveia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com filé de peixe branco: asse 18 minutos no total."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bifes finos e do mesmo tamanho assam por igual. Se precisar, bata de leve com um martelo de carne entre dois plásticos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 413,
+      "carboidratos_g": 6.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0240.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "empanado",
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango empanado",
+      "empanado de forno",
+      "frango empanado sem farinha de trigo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

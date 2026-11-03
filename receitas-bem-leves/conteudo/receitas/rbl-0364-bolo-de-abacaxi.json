@@ -1,0 +1,184 @@
+{
+  "id": "rbl-0364",
+  "slug": "bolo-de-abacaxi",
+  "nome": "Bolo de abacaxi",
+  "descricao": "Bolo invertido com fatias de abacaxi douradas na manteiga no fundo da forma.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 85
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Fundo",
+      "ingrediente": "abacaxi",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "1/2 abacaxi pequeno em fatias finas (400 g)"
+    },
+    {
+      "grupo": "Fundo",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "grupo": "Fundo",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Numa forma redonda de 24 cm, sem furo, espalhe a manteiga e o eritritol do fundo. Arrume as fatias de abacaxi por cima."
+    },
+    {
+      "texto": "Leve a forma ao fogo baixo por 5 minutos, até o abacaxi soltar caldo e dourar de leve.",
+      "aviso": "A forma fica muito quente: use pano de prato.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje a massa com cuidado sobre o abacaxi."
+    },
+    {
+      "texto": "Asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere 10 minutos e vire sobre um prato, ainda morno, para o abacaxi soltar inteiro."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Na falta de abacaxi fresco, use fatias finas de maçã. Evite abacaxi em calda."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Abacaxi bem maduro deixa o bolo mais doce e perfumado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 21.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0364.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo invertido de abacaxi",
+      "bolo de abacaxi caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

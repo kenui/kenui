@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0179",
+  "slug": "dadinho-de-tapioca-de-forno",
+  "nome": "Dadinho de tapioca de forno",
+  "descricao": "Cubinhos de tapioca granulada com queijo, firmes por dentro e dourados por fora, assados no forno.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "descanso_min": 120,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "dadinhos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "5 dadinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de tapioca granulada"
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 xícaras de queijo minas meia cura ralado (200 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a tapioca, o queijo, a cebolinha, o sal e a pimenta."
+    },
+    {
+      "texto": "Aqueça o leite até começar a ferver e despeje sobre a tapioca, mexendo bem por 2 minutos.",
+      "aviso": "Cuidado: o leite está muito quente."
+    },
+    {
+      "texto": "Espalhe numa forma de 20 x 20 cm forrada com plástico, alise e cubra."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 2 horas, até firmar.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga untado com metade do azeite."
+    },
+    {
+      "texto": "Desenforme e corte em 30 cubos. Arrume na assadeira e pincele com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire e asse mais 10 a 13 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "O queijo tradicional é o coalho: se encontrar, use a mesma quantidade no lugar do minas meia cura."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com uma pastinha de iogurte com ervas ou com pimenta fresca picada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Os cubos crus duram 3 dias na geladeira e podem ser congelados por 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 313,
+      "carboidratos_g": 38.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0179.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "dadinho de tapioca",
+      "dadinho assado",
+      "cubinho de tapioca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

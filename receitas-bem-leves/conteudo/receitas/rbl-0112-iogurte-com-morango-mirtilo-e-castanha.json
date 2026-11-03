@@ -1,0 +1,123 @@
+{
+  "id": "rbl-0112",
+  "slug": "iogurte-com-morango-mirtilo-e-castanha",
+  "nome": "Iogurte com morango, mirtilo e castanha",
+  "descricao": "Iogurte natural com frutas vermelhas frescas e castanha-do-pará picada, crocante e colorido.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 morangos picados"
+    },
+    {
+      "ingrediente": "mirtilo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de mirtilos",
+      "alternativa": {
+        "ingrediente": "morango",
+        "texto": "ou mais 3 morangos picados"
+      }
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "2 castanhas-do-pará picadas (10 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave os morangos e os mirtilos e seque com papel-toalha."
+    },
+    {
+      "texto": "Pique os morangos e as castanhas."
+    },
+    {
+      "texto": "Coloque o iogurte na tigela e cubra com as frutas e a castanha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use frutas vermelhas congeladas sem açúcar: deixe descongelar 10 minutos antes."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha por nozes ou amêndoas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quer mais docinho? Misture 1 colher (chá) de eritritol ao iogurte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 180,
+      "carboidratos_g": 11.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0112.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "mirtilo",
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte com frutas vermelhas",
+      "iogurte com morango",
+      "bowl de iogurte"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

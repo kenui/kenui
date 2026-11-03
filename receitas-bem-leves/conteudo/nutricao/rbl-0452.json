@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0452",
+  "nome": "Pera assada com especiarias",
+  "porcoes": 4,
+  "porcao": "2 metades",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "pera",
+      "texto": "4 peras maduras, mas firmes",
+      "gramas": 712,
+      "kcal": 377.4,
+      "carboidratos_g": 99.68,
+      "fonte": "TACO 4ª ed. 243 Pêra, Williams, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 14
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "1/2 xícara (chá) de suco de laranja natural",
+      "gramas": 124,
+      "kcal": 40.9,
+      "carboidratos_g": 9.42,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "texto": "1 pitada de cravo em pó",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171321 Spices, cloves, ground",
+      "por_100g": {
+        "kcal": 274,
+        "carboidratos_g": 65.53
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "4 colheres (sopa) de iogurte natural para servir",
+      "gramas": 61.2,
+      "kcal": 31.2,
+      "carboidratos_g": 1.16,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 559.3,
+    "carboidratos_g": 112.4
+  },
+  "por_porcao": {
+    "kcal": 140,
+    "carboidratos_g": 28.1
+  }
+}

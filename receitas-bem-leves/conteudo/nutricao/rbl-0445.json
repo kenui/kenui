@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0445",
+  "nome": "Picolé de limão",
+  "porcoes": 8,
+  "porcao": "1 picolé",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 4 limões",
+      "gramas": 192,
+      "kcal": 42.2,
+      "carboidratos_g": 14.02,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "texto": "1 colher (chá) de raspas de limão",
+      "gramas": 2,
+      "kcal": 0.9,
+      "carboidratos_g": 0.32,
+      "fonte": "USDA SR Legacy 167749 Lemon peel, raw",
+      "por_100g": {
+        "kcal": 47,
+        "carboidratos_g": 16
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 xícaras (chá) de água",
+      "gramas": 720,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 43.2,
+    "carboidratos_g": 14.3
+  },
+  "por_porcao": {
+    "kcal": 5,
+    "carboidratos_g": 1.8
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "receita": "rbl-0038",
+  "nome": "Tortilha de farinha integral",
+  "porcoes": 6,
+  "porcao": "1 tortilha",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 xícara (chá) de farinha de trigo integral",
+      "gramas": 120,
+      "kcal": 408,
+      "carboidratos_g": 86.36,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1/2 xícara (chá) de farinha de trigo",
+      "gramas": 62.5,
+      "kcal": 225,
+      "carboidratos_g": 46.94,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1/2 colher (chá) de fermento químico em pó",
+      "gramas": 2.3,
+      "kcal": 2.1,
+      "carboidratos_g": 1.01,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água morna",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 993.1,
+    "carboidratos_g": 134.3
+  },
+  "por_porcao": {
+    "kcal": 166,
+    "carboidratos_g": 22.4
+  }
+}

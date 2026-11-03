@@ -1,0 +1,138 @@
+{
+  "id": "rbl-0086",
+  "slug": "ovo-de-caneca-com-queijo-e-oregano",
+  "nome": "Ovo de caneca com queijo e orégano",
+  "descricao": "Omelete fofinha feita na caneca no micro-ondas, com mussarela derretida e orégano.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 2,
+    "total_min": 4
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "caneca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 caneca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de manteiga para untar"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de leite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de mussarela ralada (20 g)"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Unte uma caneca grande (300 ml) que possa ir ao micro-ondas com a manteiga."
+    },
+    {
+      "texto": "Na caneca, bata os ovos com o leite e o sal usando um garfo."
+    },
+    {
+      "texto": "Junte a mussarela e o orégano e misture."
+    },
+    {
+      "texto": "Leve ao micro-ondas por 1 minuto. Mexa e volte por mais 30 a 40 segundos, até firmar.",
+      "aviso": "A caneca fica quente: segure pela alça ou com pano. Não use caneca com detalhe de metal.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 30 segundos antes de comer."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas em cubinhos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1 colher (sopa) de tomate picado ou de presunto."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cada micro-ondas tem uma potência: na primeira vez, olhe a partir de 1 minuto e 20 segundos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 236,
+      "carboidratos_g": 3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0086.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": "ovo com queijo",
+    "enfeites": [
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de caneca",
+      "ovo no microondas",
+      "omelete de microondas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

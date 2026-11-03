@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0273",
+  "slug": "figado-acebolado",
+  "nome": "Fígado acebolado",
+  "descricao": "Bifes de fígado bovino marinados no limão e alho, fritos rapidamente e cobertos com bastante cebola dourada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "descanso_min": 20,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 bife com cebola (cerca de 150 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "figado-bovino",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de fígado bovino em bifes finos"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 cebolas médias em rodelas"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Retire a pele fina do fígado, se tiver. Tempere com o limão, o alho e a pimenta e deixe 20 minutos na geladeira.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça 1 colher (sopa) do óleo e doure a cebola em fogo médio por 8 minutos. Reserve.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Escorra os bifes, tempere com o sal e frite no restante do óleo em fogo alto, 2 minutos de cada lado. Mais que isso, o fígado endurece.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Volte a cebola à frigideira por 1 minuto, espalhe a salsinha e sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com fígado de frango: frite 4 minutos no total, mexendo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um sabor mais suave, deixe o fígado de molho no leite por 30 minutos antes de temperar."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sal só na hora de fritar: colocado antes, deixa o fígado mais duro."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 310,
+      "carboidratos_g": 10.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0273.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "figado acebolado",
+      "bife de figado",
+      "figado de boi com cebola"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0036",
+  "slug": "wrap-de-couve-flor",
+  "nome": "Wrap de couve-flor",
+  "descricao": "Disco assado de couve-flor, ovo e parmesão, firme o bastante para enrolar recheios.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "wraps"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 wraps"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve-flor",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de couve-flor picada (meia couve-flor pequena)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Pulse a couve-flor crua no processador ou rale no ralo grosso até ficar com cara de arroz."
+    },
+    {
+      "texto": "Coloque num refratário, cubra e leve ao micro-ondas por 5 minutos.",
+      "aviso": "Sai vapor quente: tire a tampa com cuidado.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Espere amornar, coloque num pano de prato limpo e torça com força para tirar o máximo de água."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa tigela, misture a couve-flor, os ovos, o parmesão, o sal e a pimenta."
+    },
+    {
+      "texto": "Divida em 4 porções sobre uma assadeira forrada com papel-manteiga e espalhe cada uma num disco fino de 15 cm."
+    },
+    {
+      "texto": "Asse por 12 minutos, até as bordas dourarem.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Vire os discos com uma espátula e asse mais 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Deixe esfriar 5 minutos no papel antes de rechear: eles firmam ao amornar.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 17,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por queijo mussarela ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Espremer bem a couve-flor é o segredo: com água demais, o disco fica mole e rasga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias, separados por papel-manteiga, e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 165,
+      "carboidratos_g": 8.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0036.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "wrap",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "wrap de couve flor",
+      "tortilha de couve flor",
+      "wrap low carb"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

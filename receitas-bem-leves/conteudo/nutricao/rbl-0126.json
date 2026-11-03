@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0126",
+  "nome": "Banana-da-terra grelhada com queijo",
+  "porcoes": 2,
+  "porcao": "2 fatias",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "banana-da-terra",
+      "texto": "1 banana-da-terra bem madura, sem casca (200 g)",
+      "gramas": 200,
+      "kcal": 256,
+      "carboidratos_g": 67.4,
+      "fonte": "TACO 4ª ed. 175 Banana, da terra, crua",
+      "por_100g": {
+        "kcal": 128,
+        "carboidratos_g": 33.7
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "texto": "4 fatias finas de queijo minas meia cura (60 g)",
+      "gramas": 60,
+      "kcal": 192.6,
+      "carboidratos_g": 2.16,
+      "fonte": "TACO 4ª ed. 462 Queijo, minas, meia cura",
+      "por_100g": {
+        "kcal": 321,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 483,
+    "carboidratos_g": 69.6
+  },
+  "por_porcao": {
+    "kcal": 241,
+    "carboidratos_g": 34.8
+  }
+}

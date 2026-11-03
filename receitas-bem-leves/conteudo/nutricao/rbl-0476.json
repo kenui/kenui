@@ -1,0 +1,187 @@
+{
+  "receita": "rbl-0476",
+  "nome": "Frango assado recheado com farofa",
+  "porcoes": 6,
+  "porcao": "1 pedaço de frango com 2 colheres (sopa) de farofa",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "frango-inteiro",
+      "texto": "1 frango inteiro (cerca de 2 kg)",
+      "gramas": 2000,
+      "kcal": 4520,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 402 Frango, inteiro, com pele, cru",
+      "por_100g": {
+        "kcal": 226,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (sopa) de sal",
+      "gramas": 18,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "4 dentes de alho amassados",
+      "gramas": 12,
+      "kcal": 13.6,
+      "carboidratos_g": 2.87,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 2 limões",
+      "gramas": 96,
+      "kcal": 21.1,
+      "carboidratos_g": 7.01,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1 colher (chá) de páprica doce",
+      "gramas": 2.3,
+      "kcal": 6.5,
+      "carboidratos_g": 1.24,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "2 pitadas de pimenta-do-reino",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "2 colheres (sopa) de manteiga",
+      "gramas": 28.4,
+      "kcal": 206.2,
+      "carboidratos_g": 0.03,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura média ralada",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "texto": "150 g de farinha de mandioca torrada (cerca de 1 xícara)",
+      "gramas": 150,
+      "kcal": 547.5,
+      "carboidratos_g": 133.8,
+      "fonte": "TACO 4ª ed. 122 Farinha, de mandioca, torrada",
+      "por_100g": {
+        "kcal": 365,
+        "carboidratos_g": 89.2
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha picada",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 5628.2,
+    "carboidratos_g": 161.6
+  },
+  "por_porcao": {
+    "kcal": 938,
+    "carboidratos_g": 26.9
+  }
+}

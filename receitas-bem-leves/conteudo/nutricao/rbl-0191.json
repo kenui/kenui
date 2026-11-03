@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0191",
+  "nome": "Suco de laranja com cenoura",
+  "porcoes": 2,
+  "porcao": "1 copo de 220 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "suco de 4 laranjas-pera (cerca de 1 e 1/2 xícara)",
+      "gramas": 344,
+      "kcal": 113.5,
+      "carboidratos_g": 26.14,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura média descascada",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água gelada",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 134.3,
+    "carboidratos_g": 30.8
+  },
+  "por_porcao": {
+    "kcal": 67,
+    "carboidratos_g": 15.4
+  }
+}

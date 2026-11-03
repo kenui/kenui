@@ -1,0 +1,174 @@
+{
+  "receita": "rbl-0465",
+  "nome": "Cheesecake de frutas vermelhas",
+  "porcoes": 12,
+  "porcao": "1 fatia",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos finos",
+      "gramas": 121.5,
+      "kcal": 478.7,
+      "carboidratos_g": 80.92,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "4 colheres (sopa) de manteiga derretida",
+      "gramas": 56.8,
+      "kcal": 412.4,
+      "carboidratos_g": 0.06,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol",
+      "gramas": 12.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cream-cheese",
+      "texto": "2 potes de cream cheese (300 g), em temperatura ambiente",
+      "gramas": 300,
+      "kcal": 1050,
+      "carboidratos_g": 16.56,
+      "fonte": "USDA SR Legacy 173418 Cheese, cream",
+      "por_100g": {
+        "kcal": 350,
+        "carboidratos_g": 5.52
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "texto": "1 colher (sopa) de amido de milho",
+      "gramas": 8,
+      "kcal": 28.9,
+      "carboidratos_g": 6.97,
+      "fonte": "TACO 4ª ed. 42 Milho, amido, cru",
+      "por_100g": {
+        "kcal": 361,
+        "carboidratos_g": 87.1
+      }
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "texto": "1 colher (chá) de raspas de limão",
+      "gramas": 2,
+      "kcal": 0.9,
+      "carboidratos_g": 0.32,
+      "fonte": "USDA SR Legacy 167749 Lemon peel, raw",
+      "por_100g": {
+        "kcal": 47,
+        "carboidratos_g": 16
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "frutas-vermelhas-congeladas",
+      "texto": "2 xícaras (chá) de frutas vermelhas congeladas sem açúcar",
+      "gramas": 302,
+      "kcal": 193.3,
+      "carboidratos_g": 47.32,
+      "fonte": "USDA SR Legacy 171710 Blackberries, frozen, unsweetened",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 15.67
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 colheres (sopa) de água",
+      "gramas": 45,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2477.5,
+    "carboidratos_g": 158.3
+  },
+  "por_porcao": {
+    "kcal": 206,
+    "carboidratos_g": 13.2
+  }
+}

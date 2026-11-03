@@ -1,0 +1,201 @@
+{
+  "id": "rbl-0251",
+  "slug": "escondidinho-de-abobora-com-frango",
+  "nome": "Escondidinho de abóbora com frango",
+  "descricao": "Frango desfiado refogado com tomate, coberto com purê de abóbora cabotiá e parmesão gratinado.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 50,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Purê",
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de abóbora cabotiá descascada, em cubos"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe o frango em água fervente por 20 minutos. Escorra e desfie.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Ao mesmo tempo, cozinhe a abóbora no vapor ou em pouca água por 15 minutos, até ficar bem macia. Escorra muito bem.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Amasse a abóbora com a manteiga, o sal e a noz-moscada até virar purê. Se ficar aguado, mexa na panela em fogo baixo por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Refogue a cebola e o alho no azeite por 3 minutos, junte o tomate e o sal e cozinhe 4 minutos. Misture o frango, o requeijão e a cebolinha.",
+      "temporizador_min": 7
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe o frango numa travessa média, cubra com o purê e salpique o parmesão."
+    },
+    {
+      "texto": "Asse por 20 minutos, até dourar por cima.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora por mandioquinha ou por batata-doce."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use carne moída refogada no lugar do frango."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções, já montado, por até 3 meses. Asse sem descongelar por 35 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 227,
+      "carboidratos_g": 14.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0251.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "frango",
+    "enfeites": [
+      "abobora",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "escondidinho de frango",
+      "escondidinho de abobora",
+      "pure de abobora com frango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

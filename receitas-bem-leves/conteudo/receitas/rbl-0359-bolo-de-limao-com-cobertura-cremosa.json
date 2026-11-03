@@ -1,0 +1,196 @@
+{
+  "id": "rbl-0359",
+  "slug": "bolo-de-limao-com-cobertura-cremosa",
+  "nome": "Bolo de limão com cobertura cremosa",
+  "descricao": "Bolo azedinho de limão com uma cobertura cremosa de creme de leite e limão que firma na geladeira.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "descanso_min": 60,
+    "total_min": 120
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "limao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de suco de limão (cerca de 2 limões)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de raspas de casca de limão"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "limao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de suco de limão"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte o suco de limão e as raspas e misture."
+    },
+    {
+      "texto": "Junte a farinha aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Cobertura: misture o creme de leite com o eritritol e junte o suco de limão aos poucos, mexendo até engrossar."
+    },
+    {
+      "texto": "Desenforme o bolo frio, espalhe a cobertura por cima e leve à geladeira por 1 hora para firmar.",
+      "temporizador_min": 60
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite da massa por iogurte natural: o bolo fica mais úmido."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O suco de limão é que engrossa o creme de leite. Se ficar mole, junte mais 1 colher (sopa) de suco."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Por causa da cobertura, guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 222,
+      "carboidratos_g": 18.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0359.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": "chantilly",
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de limao",
+      "bolo de limao com cobertura",
+      "bolo de limao gelado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

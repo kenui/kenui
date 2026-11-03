@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0404",
+  "nome": "Biscoito de creme de leite",
+  "porcoes": 10,
+  "porcao": "3 biscoitos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "1 caixinha de creme de leite (200 g)",
+      "gramas": 200,
+      "kcal": 442,
+      "carboidratos_g": 9,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo, aproximadamente",
+      "gramas": 312.5,
+      "kcal": 1125,
+      "carboidratos_g": 234.69,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1642.6,
+    "carboidratos_g": 246.5
+  },
+  "por_porcao": {
+    "kcal": 164,
+    "carboidratos_g": 24.7
+  }
+}

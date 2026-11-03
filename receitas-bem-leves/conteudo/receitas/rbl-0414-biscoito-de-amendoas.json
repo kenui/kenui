@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0414",
+  "slug": "biscoito-de-amendoas",
+  "nome": "Biscoito de amêndoas",
+  "descricao": "Biscoitinhos de farinha de amêndoas, crocantes por fora e macios por dentro.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 14,
+    "descanso_min": 10,
+    "total_min": 39
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "biscoitos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 biscoitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (chá) de farinha de amêndoas (150 g)",
+      "alternativa": {
+        "ingrediente": "aveia-em-flocos",
+        "texto": "ou 1 e 1/2 xícara (chá) de aveia em flocos batida no liquidificador"
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de raspas de casca de limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 170 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Misture a manteiga com o eritritol. Junte o ovo e as raspas de limão."
+    },
+    {
+      "texto": "Acrescente a farinha de amêndoas e o sal e misture até formar uma massa macia."
+    },
+    {
+      "texto": "Faça 20 bolinhas, coloque na assadeira e achate de leve com um garfo."
+    },
+    {
+      "texto": "Asse por 12 a 14 minutos, até dourar nas bordas.",
+      "temporizador_min": 14
+    },
+    {
+      "texto": "Espere esfriar na assadeira: eles firmam ao esfriar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 170,
+    "tempo_min": 14,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem farinha de amêndoas? Use aveia batida como indicado na lista: o biscoito fica mais rústico."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as raspas de limão por 1 colher (chá) de baunilha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 116,
+      "carboidratos_g": 2.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0414.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de amendoa",
+      "biscoito sem trigo",
+      "cookie de amendoas"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

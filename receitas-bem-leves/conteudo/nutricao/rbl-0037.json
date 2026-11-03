@@ -1,0 +1,79 @@
+{
+  "receita": "rbl-0037",
+  "nome": "Wrap de ovo com espinafre",
+  "porcoes": 1,
+  "porcao": "1 wrap",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "1 xícara (chá) de folhas de espinafre",
+      "gramas": 30,
+      "kcal": 4.8,
+      "carboidratos_g": 0.78,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1 colher (sopa) de queijo parmesão ralado",
+      "gramas": 5,
+      "kcal": 22.7,
+      "carboidratos_g": 0.09,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 190.8,
+    "carboidratos_g": 2.5
+  },
+  "por_porcao": {
+    "kcal": 191,
+    "carboidratos_g": 2.5
+  }
+}

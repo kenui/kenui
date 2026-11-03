@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0340",
+  "slug": "salada-de-tilapia-grelhada-com-manga",
+  "nome": "Salada de tilápia grelhada com manga",
+  "descricao": "Tiras de tilápia douradas sobre folhas, manga e tomate, com molho de limão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "pratos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tilapia",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "3 filés de tilápia (cerca de 400 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alface",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de alface rasgada"
+    },
+    {
+      "ingrediente": "rucula",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de rúcula"
+    },
+    {
+      "ingrediente": "manga",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 manga pequena em cubos (250 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate em cubos"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebola em fatias finas"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere a tilápia com o sal e a páprica."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente com o azeite e grelhe os filés por 3 a 4 minutos de cada lado, até dourar. Corte em tiras.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Molho: misture o suco de limão, o azeite, o sal e a cebolinha."
+    },
+    {
+      "texto": "Arrume a alface e a rúcula nos pratos, distribua a manga, o tomate e a cebola e coloque o peixe por cima."
+    },
+    {
+      "texto": "Regue com o molho e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manga por abacaxi ou laranja em gomos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use salmão ou camarão no lugar da tilápia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Prefira manga firme, tipo palmer ou tommy: ela não desmancha na salada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 309,
+      "carboidratos_g": 14.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0340.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "manga",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de peixe",
+      "salada com manga",
+      "salada de tilapia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

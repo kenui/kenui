@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0444",
+  "nome": "Picolé de morango com iogurte",
+  "porcoes": 8,
+  "porcao": "1 picolé",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "morango",
+      "texto": "2 xícaras (chá) de morangos sem as folhas",
+      "gramas": 288,
+      "kcal": 86.4,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "2 potes de iogurte natural integral (340 g)",
+      "gramas": 340,
+      "kcal": 173.4,
+      "carboidratos_g": 6.46,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3 colheres (sopa) de eritritol",
+      "gramas": 37.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 259.8,
+    "carboidratos_g": 26
+  },
+  "por_porcao": {
+    "kcal": 32,
+    "carboidratos_g": 3.3
+  }
+}

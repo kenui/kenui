@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0178",
+  "nome": "Torta de frigideira de atum",
+  "porcoes": 2,
+  "porcao": "1/2 torta",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1/2 xícara (chá) de leite",
+      "gramas": 122,
+      "kcal": 74.4,
+      "carboidratos_g": 5.86,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 60,
+      "kcal": 204,
+      "carboidratos_g": 43.18,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 10,
+      "kcal": 45.3,
+      "carboidratos_g": 0.17,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (chá) de azeite para untar",
+      "gramas": 4.5,
+      "kcal": 39.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "atum-em-lata",
+      "texto": "1 lata de atum em óleo escorrido (120 g)",
+      "gramas": 120,
+      "kcal": 199.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 277 Atum, conserva em óleo",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate sem sementes picado",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1/2 xícara (50 g) de queijo mussarela ralado",
+      "gramas": 50,
+      "kcal": 165,
+      "carboidratos_g": 1.5,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 894.5,
+    "carboidratos_g": 58.3
+  },
+  "por_porcao": {
+    "kcal": 447,
+    "carboidratos_g": 29.2
+  }
+}

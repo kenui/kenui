@@ -1,0 +1,15 @@
+{
+  "slug": "cardapio-4-semanas",
+  "titulo": "Cardápio de 4 Semanas",
+  "resumo": "O cardápio completo do Plano, com café da manhã, lanche, almoço e jantar, em versão para imprimir.",
+  "blocos": [
+    { "t": "p", "texto": "Este é o mesmo cardápio da tela Plano, com as 4 semanas numa página só. Se você trocou alguma refeição no Plano, a troca também aparece aqui." },
+    { "t": "lista", "itens": [
+      "Cozinhe uma vez e aproveite duas: muitas receitas rendem para mais de um dia. Guarde a sobra na geladeira e use no jantar seguinte.",
+      "Use o botão “Lista de compras da semana” no Plano para comprar tudo de uma vez.",
+      "Bolos, pães e muffins podem ser congelados em fatias e tirados um dia antes."
+    ] },
+    { "t": "imprimir", "texto": "Imprimir o cardápio" },
+    { "t": "plano" }
+  ]
+}

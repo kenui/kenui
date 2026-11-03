@@ -1,0 +1,125 @@
+{
+  "id": "rbl-0197",
+  "slug": "suco-de-goiaba",
+  "nome": "Suco de goiaba",
+  "descricao": "Suco encorpado e perfumado de goiaba vermelha, coado e bem gelado.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "goiaba",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 goiabas vermelhas grandes e maduras (300 g)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "g",
+      "texto": "folhas de hortelã para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as goiabas, tire as pontas e corte em pedaços, com casca.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador a goiaba com a água por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Coe numa peneira, apertando com uma colher para tirar as sementes."
+    },
+    {
+      "texto": "Junte o eritritol, mexa e sirva com gelo e folhas de hortelã."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 pacotes de polpa de goiaba congelada sem adição (200 g) e diminua a água para 2 xícaras."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira em jarra fechada por até 1 dia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Goiaba madura tem cheiro forte e cede ao apertar: o suco fica mais doce."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 41,
+      "carboidratos_g": 9.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0197.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de goiaba",
+      "goiaba natural",
+      "refresco de goiaba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

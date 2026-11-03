@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0053",
+  "slug": "pao-de-linhaca-de-forma",
+  "nome": "Pão de linhaça de forma",
+  "descricao": "Pão de forma escuro e firme de linhaça e ovos, com gergelim por cima, bom para torrar.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 35,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (10 fatias)"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "linhaca-moida",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de linhaça moída"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "gergelim",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de gergelim"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma forma de bolo inglês (25 cm) com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos, o azeite e a água com um garfo."
+    },
+    {
+      "texto": "Junte a linhaça e o sal e misture bem. Deixe descansar 5 minutos para a massa engrossar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Acrescente o fermento e misture."
+    },
+    {
+      "texto": "Despeje na forma, alise e espalhe o gergelim por cima."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até firmar e um palito sair limpo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Espere esfriar por completo antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da linhaça por farelo de aveia: o pão fica mais claro e macio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Linhaça dourada dá um pão de sabor mais suave."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde fatiado na geladeira por até 5 dias. Congela bem."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 166,
+      "carboidratos_g": 8.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0053.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "gergelim",
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de linhaca",
+      "pao low carb de linhaca",
+      "pao sem farinha de trigo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

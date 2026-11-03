@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0482",
+  "nome": "Arroz com castanhas e cenoura",
+  "porcoes": 8,
+  "porcao": "4 colheres (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "2 xícaras (chá) de arroz branco",
+      "gramas": 370,
+      "kcal": 1324.6,
+      "carboidratos_g": 291.56,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "2 cenouras médias raladas",
+      "gramas": 122,
+      "kcal": 41.5,
+      "carboidratos_g": 9.39,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "4 xícaras (chá) de água fervente",
+      "gramas": 960,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "texto": "3/4 de xícara (chá) de castanha-de-caju (100 g)",
+      "gramas": 100,
+      "kcal": 570,
+      "carboidratos_g": 29.1,
+      "fonte": "TACO 4ª ed. 588 Castanha-de-caju, torrada, salgada",
+      "por_100g": {
+        "kcal": 570,
+        "carboidratos_g": 29.1
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "3 colheres (sopa) de cebolinha picada",
+      "gramas": 9,
+      "kcal": 1.8,
+      "carboidratos_g": 0.31,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2226.2,
+    "carboidratos_g": 341.6
+  },
+  "por_porcao": {
+    "kcal": 278,
+    "carboidratos_g": 42.7
+  }
+}

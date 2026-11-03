@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0244",
+  "slug": "frango-com-brocolis-na-frigideira",
+  "nome": "Frango com brócolis na frigideira",
+  "descricao": "Cubos de frango dourados no alho com brócolis no ponto e parmesão por cima, pronto em menos de meia hora.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso (cerca de 1 e 1/2 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango em cubos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho fatiados"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola em tiras"
+    },
+    {
+      "ingrediente": "brocolis",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de buquês de brócolis"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 60,
+      "medida": "ml",
+      "texto": "1/4 de xícara (chá) de água (60 ml)"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o frango com o sal e a pimenta."
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite em fogo médio-alto e doure o frango por 6 minutos. Tire e reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma frigideira, doure o alho e a cebola por 1 minuto, sem deixar o alho escurecer."
+    },
+    {
+      "texto": "Junte o brócolis e a água, tampe e cozinhe 4 minutos, até ficar verde-vivo e macio, mas firme.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Volte o frango, mexa por 1 minuto e acerte o sal."
+    },
+    {
+      "texto": "Sirva com o parmesão por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o brócolis por couve-flor ou vagem, com o mesmo tempo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxa desossada em cubos no lugar do peito."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não cozinhe demais o brócolis: tampado, 4 minutos bastam."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 246,
+      "carboidratos_g": 4.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0244.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "brocolis",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango com brocolis",
+      "frango salteado",
+      "frango na frigideira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

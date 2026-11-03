@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0451",
+  "slug": "doce-de-goiaba-de-colher",
+  "nome": "Doce de goiaba de colher",
+  "descricao": "Doce de goiaba vermelha cozido devagar até ficar espesso, para comer de colher ou com queijo.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "descanso_min": 30,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 15,
+    "unidade": "porções"
+  },
+  "porcoes": 15,
+  "porcao": {
+    "descricao": "2 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "goiaba",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "10 goiabas vermelhas maduras (800 g)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.66,
+      "medida": "xicara",
+      "texto": "2/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 fatia de queijo minas frescal para servir (100 g)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as goiabas, tire as pontas e corte em quatro."
+    },
+    {
+      "texto": "Cozinhe com a água em panela tampada, em fogo médio, por 15 minutos, até desmanchar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Espere amornar, bata no liquidificador e passe por uma peneira para tirar as sementes.",
+      "aviso": "Espere amornar antes de bater: líquido quente no liquidificador pode espirrar."
+    },
+    {
+      "texto": "Volte à panela com o eritritol e o limão e cozinhe em fogo baixo, mexendo sempre, por 20 a 25 minutos, até aparecer o fundo da panela ao passar a colher.",
+      "aviso": "O doce espirra: use colher de cabo longo.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Passe para um pote e espere esfriar por 30 minutos antes de tampar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade das goiabas por maçã, para um doce mais suave."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com queijo minas frescal para um romeu e julieta."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 29,
+      "carboidratos_g": 7.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0451.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "geleia_pote",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "goiabada sem acucar",
+      "doce de goiaba caseiro",
+      "goiabada cremosa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

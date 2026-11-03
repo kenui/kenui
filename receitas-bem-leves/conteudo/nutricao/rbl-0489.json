@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0489",
+  "nome": "Purê de batata-doce",
+  "porcoes": 8,
+  "porcao": "1/2 xícara (chá)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "batata-doce",
+      "texto": "1 kg de batata-doce",
+      "gramas": 1000,
+      "kcal": 1180,
+      "carboidratos_g": 282,
+      "fonte": "TACO 4ª ed. 89 Batata, doce, crua",
+      "por_100g": {
+        "kcal": 118,
+        "carboidratos_g": 28.2
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "3 colheres (sopa) de manteiga",
+      "gramas": 42.6,
+      "kcal": 309.3,
+      "carboidratos_g": 0.04,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "3/4 de xícara (chá) de leite quente",
+      "gramas": 183,
+      "kcal": 111.6,
+      "carboidratos_g": 8.78,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1602.9,
+    "carboidratos_g": 291.1
+  },
+  "por_porcao": {
+    "kcal": 200,
+    "carboidratos_g": 36.4
+  }
+}

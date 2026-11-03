@@ -1,0 +1,176 @@
+{
+  "id": "rbl-0047",
+  "slug": "pao-trancado-de-queijo-e-oregano",
+  "nome": "Pão trançado de queijo e orégano",
+  "descricao": "Pão caseiro recheado com mussarela e orégano e modelado em trança, bonito para servir à mesa.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 35,
+    "cozimento_min": 35,
+    "descanso_min": 100,
+    "total_min": 170
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (12 fatias)"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite morno"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (chá) de queijo mussarela ralado (150 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+    },
+    {
+      "texto": "Junte o leite morno, o ovo e o azeite e misture até formar uma massa."
+    },
+    {
+      "texto": "Sove por 10 minutos, até ficar lisa e elástica.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Abra a massa num retângulo de 30 x 40 cm, espalhe a mussarela e o orégano e enrole pelo lado mais comprido, como um rocambole."
+    },
+    {
+      "texto": "Corte o rolo ao meio no sentido do comprimento, deixando uma ponta presa, e torça as duas partes uma sobre a outra, com o recheio virado para cima.",
+      "aviso": "Use uma faca bem afiada e corte com calma."
+    },
+    {
+      "texto": "Coloque numa assadeira untada, cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até dourar e o queijo borbulhar.",
+      "temporizador_min": 35
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo prato ou queijo minas meia cura."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte tomate picado sem sementes ao recheio para um pão de pizza."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça no forno para o queijo derreter de novo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 192,
+      "carboidratos_g": 25.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0047.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": "queijo e orégano",
+    "enfeites": [
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao recheado de queijo",
+      "pao trancado",
+      "pao de queijo e oregano"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

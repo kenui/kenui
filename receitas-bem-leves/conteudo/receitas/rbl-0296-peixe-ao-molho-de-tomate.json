@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0296",
+  "slug": "peixe-ao-molho-de-tomate",
+  "nome": "Peixe ao molho de tomate",
+  "descricao": "Filés de merluza cozidos num molho caseiro de tomate com azeitonas e salsinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé grande com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "merluza",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de filé de merluza"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros picados, sem sementes"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 azeitonas verdes sem caroço, em rodelas"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o peixe com o suco de limão, metade do sal e a pimenta. Reserve."
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o azeite e refogue a cebola até ficar transparente. Junte o alho e mexa por 1 minuto."
+    },
+    {
+      "texto": "Acrescente o tomate e o restante do sal e cozinhe por 10 minutos, mexendo de vez em quando, até desmanchar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Junte a água, as azeitonas e o orégano. Quando ferver, arrume os filés no molho."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 10 a 12 minutos, até o peixe ficar branco e firme.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Salpique a salsinha e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use tilápia, pescada ou cação no lugar da merluza."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Pode trocar as azeitonas por alcaparras."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para o molho ficar mais encorpado, use tomates bem maduros, tipo italiano."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 243,
+      "carboidratos_g": 8.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0296.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "azeitona",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "peixe com molho",
+      "merluza ao molho",
+      "file de peixe ao sugo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

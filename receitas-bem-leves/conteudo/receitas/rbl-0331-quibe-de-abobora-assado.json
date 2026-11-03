@@ -1,0 +1,188 @@
+{
+  "id": "rbl-0331",
+  "slug": "quibe-de-abobora-assado",
+  "nome": "Quibe de abóbora assado",
+  "descricao": "Quibe de forno com trigo, abóbora cabotiá e hortelã, recheado com ricota temperada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 55,
+    "descanso_min": 30,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 9,
+    "unidade": "pedaços"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço e meio"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "trigo-para-kibe",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de trigo para quibe"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de abóbora cabotiá descascada em cubos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola ralada"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "hortela",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 pedaço de ricota (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cubra o trigo com água fria e deixe hidratar por 30 minutos. Escorra e esprema bem com as mãos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Enquanto isso, cozinhe a abóbora no vapor por 15 minutos, até ficar macia. Amasse e deixe esfriar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Misture o trigo, a abóbora, a cebola, a hortelã, o cominho, a canela, o sal e 1 colher (sopa) de azeite até virar uma massa firme."
+    },
+    {
+      "texto": "Recheio: amasse a ricota com a cebolinha e o sal."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira média (cerca de 20 x 30 cm) com azeite."
+    },
+    {
+      "texto": "Espalhe metade da massa, cubra com o recheio e feche com o restante da massa, alisando com uma colher molhada."
+    },
+    {
+      "texto": "Risque losangos na superfície com a faca, regue com o restante do azeite e asse por 35 a 40 minutos, até dourar.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por queijo minas frescal amassado ou por espinafre refogado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use batata-doce no lugar da abóbora."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias. Congela bem já assado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 246,
+      "carboidratos_g": 29.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0331.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "ricota",
+    "enfeites": [
+      "abobora",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "quibe vegetariano",
+      "kibe de abobora",
+      "quibe assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

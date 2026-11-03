@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0091",
+  "slug": "tapioca-de-banana-com-canela",
+  "nome": "Tapioca de banana com canela",
+  "descricao": "Tapioca doce recheada com banana quentinha, canela e um toque de manteiga.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 5,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tapioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tapioca"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de água"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "banana-nanica",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 banana nanica madura em rodelas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "manteiga",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de manteiga"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "canela",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o polvilho com o sal. Pingue a água aos poucos, esfregando com as pontas dos dedos, até virar uma farofa úmida que forma um bolinho quando apertada e esfarela ao soltar."
+    },
+    {
+      "texto": "Passe essa farofa por uma peneira, apertando com a mão, para ficar fininha e solta."
+    },
+    {
+      "texto": "Aqueça uma frigideira antiaderente de cerca de 20 cm em fogo médio, sem untar. Espalhe a goma peneirada por todo o fundo, apertando de leve com a colher."
+    },
+    {
+      "texto": "Deixe 1 a 2 minutos, até a massa grudar como um disco e a borda começar a soltar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espalhe a manteiga sobre a tapioca ainda na frigideira e arrume a banana numa metade."
+    },
+    {
+      "texto": "Polvilhe a canela, dobre ao meio e deixe 1 minuto de cada lado, até a banana amolecer.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana por maçã em fatias finas ou morangos picados."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se usar goma de tapioca pronta (já hidratada), use 5 colheres (sopa) cheias e pule as duas primeiras etapas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 214,
+      "carboidratos_g": 49.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0091.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tapioca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "banana com canela",
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tapioca doce",
+      "tapioca de banana",
+      "tapioca com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

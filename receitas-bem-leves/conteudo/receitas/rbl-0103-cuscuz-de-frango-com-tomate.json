@@ -1,0 +1,186 @@
+{
+  "id": "rbl-0103",
+  "slug": "cuscuz-de-frango-com-tomate",
+  "nome": "Cuscuz de frango com tomate",
+  "descricao": "Cuscuz de milho temperado, cozido já misturado com frango desfiado, tomate e cheiro-verde.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "descanso_min": 10,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "cuscuz médio"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/4 do cuscuz"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Cuscuz",
+      "ingrediente": "flocao-de-milho",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 xícaras (chá) de flocão de milho (200 g)"
+    },
+    {
+      "grupo": "Cuscuz",
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água"
+    },
+    {
+      "grupo": "Cuscuz",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado sem sementes"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (chá) de frango cozido e desfiado (150 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o flocão com o sal. Regue com a água aos poucos, mexendo com a mão ou um garfo, até ficar úmido por igual, como areia molhada."
+    },
+    {
+      "texto": "Deixe descansar 10 minutos para o flocão hidratar.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Enquanto isso, aqueça o azeite numa frigideira e refogue a cebola e o alho por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte o tomate, a páprica e o frango e cozinhe por 3 minutos, até o tomate amolecer. Desligue e misture a cebolinha.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Misture o refogado ao flocão hidratado."
+    },
+    {
+      "texto": "Coloque água na parte de baixo da cuscuzeira, sem passar do furinho, e leve ao fogo médio até ferver."
+    },
+    {
+      "texto": "Solte a massa com um garfo, coloque na parte de cima da cuscuzeira sem apertar e tampe."
+    },
+    {
+      "texto": "Cozinhe no vapor por 10 a 12 minutos, até o cuscuz ficar macio e com cheiro de milho cozido.",
+      "aviso": "Abra a tampa longe do rosto: o vapor queima.",
+      "temporizador_min": 12
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por sardinha em lata sem espinha ou por ovos cozidos picados."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use salsinha ou coentro no lugar da cebolinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sem cuscuzeira? Use uma peneira de metal apoiada sobre uma panela com água fervendo, coberta com um pano limpo e a tampa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 278,
+      "carboidratos_g": 42.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0103.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango com tomate",
+    "enfeites": [
+      "frango_desfiado",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cuscuz de frango",
+      "cuscuz temperado",
+      "cuscuz recheado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

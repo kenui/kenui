@@ -1,0 +1,210 @@
+{
+  "id": "rbl-0134",
+  "slug": "coxinha-de-batata-com-frango-de-forno",
+  "nome": "Coxinha de batata com frango de forno",
+  "descricao": "Coxinha de massa de batata com recheio cremoso de frango, empanada na aveia e assada até dourar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 50,
+    "cozimento_min": 55,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "coxinhas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 coxinhas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "batata",
+      "quantidade": 640,
+      "medida": "g",
+      "texto": "3 batatas médias (640 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 xícaras de peito de frango cozido e desfiado (300 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as batatas, corte em pedaços e cozinhe em água com sal por 20 a 25 minutos, até ficarem bem macias.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Escorra e esprema as batatas ainda quentes. Junte a manteiga, o sal e a farinha e misture até formar uma massa que não gruda nas mãos. Deixe amornar.",
+      "aviso": "Cuidado: a batata sai da panela muito quente."
+    },
+    {
+      "texto": "Para o recheio, aqueça o azeite numa frigideira e refogue a cebola e o alho por 3 minutos, até murcharem.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o frango, o sal e a salsinha e mexa por 2 minutos. Desligue e misture o requeijão.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com um fio de azeite."
+    },
+    {
+      "texto": "Pegue uma porção de massa do tamanho de um ovo, abra na palma da mão, coloque 1 colher (sopa) de recheio e feche, modelando o formato de coxinha."
+    },
+    {
+      "texto": "Passe cada coxinha no ovo batido e depois na aveia, e arrume na assadeira."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata por mandioquinha cozida: a massa fica mais amarelinha e macia."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Empane com 1/2 xícara de farinha de milho ou de queijo parmesão ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa grudar nas mãos, molhe as mãos com um pouco de água ou acrescente mais 1 colher (sopa) de farinha."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as coxinhas cruas e empanadas em pote fechado por até 2 meses. Asse sem descongelar, com 10 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 215,
+      "carboidratos_g": 22
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0134.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "aveia",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "coxinha assada",
+      "coxinha de forno",
+      "salgado de festa assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

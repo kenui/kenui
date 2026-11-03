@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0203",
+  "slug": "cha-gelado-de-pessego",
+  "nome": "Chá gelado de pêssego",
+  "descricao": "Chá preto gelado batido com pêssego maduro, leve e perfumado.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 10,
+    "descanso_min": 60,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cha-preto-pronto",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de chá preto (4 saquinhos e 1 litro de água)"
+    },
+    {
+      "ingrediente": "pessego",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 pêssegos maduros"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "g",
+      "texto": "folhas de hortelã para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ferva 1 litro de água.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue, junte os saquinhos de chá preto e deixe 5 minutos, sem passar disso. Tire os saquinhos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o eritritol, mexa e deixe esfriar."
+    },
+    {
+      "texto": "Descasque os pêssegos, tire o caroço e corte. Bata um deles no liquidificador com 1 xícara do chá frio e o suco de limão.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Misture com o resto do chá, junte o outro pêssego em cubinhos e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Sirva bem gelado, com gelo e hortelã."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o chá preto por chá verde ou chá mate."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Fora da época do pêssego, use 2 xícaras de manga ou de morango."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 2 dias na geladeira em jarra fechada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 26,
+      "carboidratos_g": 7.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0203.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cha de pessego",
+      "cha gelado",
+      "pessego"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

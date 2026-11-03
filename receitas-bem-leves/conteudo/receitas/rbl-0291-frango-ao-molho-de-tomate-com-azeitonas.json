@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0291",
+  "slug": "frango-ao-molho-de-tomate-com-azeitonas",
+  "nome": "Frango ao molho de tomate com azeitonas",
+  "descricao": "Sobrecoxas cozidas num molho de tomate caseiro com azeitonas e orégano, à moda italiana.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 40,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 sobrecoxas com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "8 sobrecoxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho fatiados"
+    },
+    {
+      "ingrediente": "pure-de-tomate",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de purê de tomate ou passata (confira no rótulo: sem açúcar)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água (120 ml)"
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "quantidade": 12,
+      "medida": "unidade",
+      "texto": "12 azeitonas verdes sem caroço"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as sobrecoxas com o sal e a pimenta."
+    },
+    {
+      "texto": "Numa panela larga, aqueça o azeite e doure as sobrecoxas por 8 minutos, virando. Reserve.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Na mesma panela, refogue a cebola e o alho por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o purê de tomate, a água e o orégano e volte o frango."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 25 minutos, virando o frango na metade, até ficar macio.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Junte as azeitonas e cozinhe mais 3 minutos sem tampa.",
+      "temporizador_min": 3
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o purê por 5 tomates bem maduros batidos e cozinhe 10 minutos a mais."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use coxas ou peito em cubos (o peito cozinha em 15 minutos)."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira e congela no molho por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 451,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0291.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "azeitona",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango ao molho",
+      "frango ao sugo",
+      "frango com azeitona"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0367",
+  "slug": "bolo-de-abobora",
+  "nome": "Bolo de abóbora",
+  "descricao": "Bolo fofo e alaranjado de abóbora cabotiá com canela, bom para o café da tarde.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "300 g de abóbora cabotiá descascada, cozida e escorrida"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora em pedaços no vapor ou em pouca água por 12 minutos, até ficar macia. Escorra bem e deixe amornar.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata a abóbora, os ovos, o óleo e o eritritol por 3 minutos.",
+      "aviso": "Espere a abóbora amornar antes de bater.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e a canela. Junte o creme de abóbora e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cabotiá por abóbora moranga, também cozida e bem escorrida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Escorra bem a abóbora: água demais deixa o bolo pesado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias coberto, ou congele em fatias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 184,
+      "carboidratos_g": 18.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0367.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de abobora cabotia",
+      "bolo de abobora de liquidificador"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

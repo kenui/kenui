@@ -1,0 +1,92 @@
+{
+  "receita": "rbl-0062",
+  "nome": "Croutons de polenta",
+  "porcoes": 6,
+  "porcao": "1/2 xícara",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "agua",
+      "texto": "4 xícaras (chá) de água",
+      "gramas": 960,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "fuba",
+      "texto": "1 xícara (chá) de fubá",
+      "gramas": 122,
+      "kcal": 430.7,
+      "carboidratos_g": 96.26,
+      "fonte": "TACO 4ª ed. 43 Milho, fubá, cru",
+      "por_100g": {
+        "kcal": 353,
+        "carboidratos_g": 78.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "texto": "1 colher (chá) de alecrim seco",
+      "gramas": 1.2,
+      "kcal": 4,
+      "carboidratos_g": 0.77,
+      "fonte": "USDA SR Legacy 171333 Spices, rosemary, dried",
+      "por_100g": {
+        "kcal": 331,
+        "carboidratos_g": 64.06
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 673.3,
+    "carboidratos_g": 97
+  },
+  "por_porcao": {
+    "kcal": 112,
+    "carboidratos_g": 16.2
+  }
+}

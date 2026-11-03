@@ -1,0 +1,166 @@
+{
+  "id": "rbl-0485",
+  "slug": "salada-de-grao-de-bico",
+  "nome": "Salada de grão-de-bico",
+  "descricao": "Grão-de-bico com tomate, pepino, cebola e hortelã, temperado com limão e azeite, fresca para dias quentes de festa.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "descanso_min": 480,
+    "total_min": 530
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "grao-de-bico",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de grão-de-bico"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates em cubinhos, sem sementes"
+    },
+    {
+      "ingrediente": "pepino",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pepino japonês em cubinhos (200 g)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada fininha"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Deixe o grão-de-bico de molho em bastante água por 8 horas ou de um dia para o outro.",
+      "temporizador_min": 480
+    },
+    {
+      "texto": "Escorra, coloque na panela de pressão com água até cobrir 3 dedos acima e cozinhe por 25 minutos depois que pegar pressão, até ficar macio mas inteiro.",
+      "aviso": "Espere a pressão sair sozinha antes de abrir a panela.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Escorra e espere esfriar."
+    },
+    {
+      "texto": "Numa tigela, misture o grão-de-bico, o tomate, o pepino, a cebola, a salsinha e a hortelã."
+    },
+    {
+      "texto": "Tempere com o suco de limão, o azeite, o sal e a pimenta. Misture e leve à geladeira até a hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 latas de grão-de-bico cozido (cerca de 480 g escorrido), bem lavado, e pule as duas primeiras etapas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem hortelã? Use mais salsinha ou cebolinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tempere com até 2 horas de antecedência: o grão pega o gosto do limão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 265,
+      "carboidratos_g": 35.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0485.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pepino",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de grao de bico",
+      "salada fria de natal",
+      "salada de grao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "rbl-0497",
+  "slug": "manjar-de-coco-com-calda-de-ameixa",
+  "nome": "Manjar de coco com calda de ameixa",
+  "descricao": "Manjar branco cremoso de leite de coco, firme na geladeira, com calda de ameixa seca cozida.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "descanso_min": 360,
+    "total_min": 405
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia com 2 colheres (sopa) de calda"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Manjar",
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Manjar",
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 vidro (200 ml) de leite de coco"
+    },
+    {
+      "grupo": "Manjar",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 8,
+      "medida": "colher_sopa",
+      "texto": "8 colheres (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Manjar",
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol"
+    },
+    {
+      "grupo": "Manjar",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "1/2 pacote (50 g) de coco ralado seco sem açúcar"
+    },
+    {
+      "grupo": "Manjar",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "ameixa-seca",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de ameixa seca sem caroço (cerca de 18)"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de água"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Unte com o óleo uma forma de pudim de 20 cm com furo no meio."
+    },
+    {
+      "texto": "Numa panela, misture com um batedor o leite, o leite de coco, o amido e o eritritol até dissolver o amido, antes de ligar o fogo."
+    },
+    {
+      "texto": "Leve ao fogo médio, mexendo sem parar, por 10 a 12 minutos, até engrossar bem e soltar do fundo.",
+      "aviso": "Cuidado: o creme quente borbulha e espirra.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Desligue, misture o coco ralado e despeje na forma. Espere amornar e leve à geladeira por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Calda: cozinhe as ameixas com a água, o eritritol e a canela em fogo baixo por 15 minutos, até a calda engrossar e as ameixas ficarem macias.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Deixe a calda esfriar. Desenforme o manjar num prato e regue com a calda e as ameixas."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ameixa por 1 xícara de morangos picados cozidos do mesmo jeito, por 8 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma quantidade."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para desenformar fácil, passe uma faca fina na borda e no furo do meio antes de virar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, coberto, por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 195,
+      "carboidratos_g": 23
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0497.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "manjar branco",
+      "manjar de coco",
+      "manjar de natal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

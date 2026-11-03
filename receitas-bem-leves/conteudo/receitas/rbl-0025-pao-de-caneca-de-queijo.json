@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0025",
+  "slug": "pao-de-caneca-de-queijo",
+  "nome": "Pão de caneca de queijo",
+  "descricao": "Pão fofinho de queijo feito na caneca, no micro-ondas, em menos de 5 minutos.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "quantidade": 25,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de farinha de amêndoas (25 g)",
+      "alternativa": {
+        "ingrediente": "farelo-de-aveia",
+        "texto": "ou 3 colheres (sopa) de farelo de aveia"
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga derretida"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de leite"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (300 ml), bata o ovo com a manteiga e o leite usando um garfo."
+    },
+    {
+      "texto": "Junte a farinha de amêndoas, o parmesão e o sal e misture até ficar uma massa lisa."
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para misturar."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até a massa crescer e firmar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 1 minuto, desenforme e corte em fatias.",
+      "aviso": "A caneca sai muito quente: use um pano.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para uma casquinha, doure as fatias na frigideira ou na sanduicheira."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "É melhor comer na hora. Se sobrar, guarde na geladeira por 1 dia e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 310,
+      "carboidratos_g": 7.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0025.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de caneca",
+      "pao de micro-ondas",
+      "pao de queijo na caneca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

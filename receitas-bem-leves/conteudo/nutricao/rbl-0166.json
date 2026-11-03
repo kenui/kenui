@@ -1,0 +1,188 @@
+{
+  "receita": "rbl-0166",
+  "nome": "Esfiha fechada de ricota com espinafre",
+  "porcoes": 8,
+  "porcao": "2 esfihas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "gramas": 312.5,
+      "kcal": 1125,
+      "carboidratos_g": 234.69,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "texto": "1 e 1/2 colher (chá) de fermento biológico seco",
+      "gramas": 6,
+      "kcal": 19.5,
+      "carboidratos_g": 2.47,
+      "fonte": "USDA SR Legacy 175043 Leavening agents, yeast, baker's, active dry",
+      "por_100g": {
+        "kcal": 325,
+        "carboidratos_g": 41.22
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "3/4 de xícara (chá) de leite morno",
+      "gramas": 183,
+      "kcal": 111.6,
+      "carboidratos_g": 8.78,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/4 de xícara (chá) de óleo",
+      "gramas": 54.5,
+      "kcal": 481.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ricota",
+      "texto": "1 ricota (250 g)",
+      "gramas": 250,
+      "kcal": 350,
+      "carboidratos_g": 9.5,
+      "fonte": "TACO 4ª ed. 469 Queijo, ricota",
+      "por_100g": {
+        "kcal": 140,
+        "carboidratos_g": 3.8
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "3 xícaras (chá) de folhas de espinafre picadas",
+      "gramas": 90,
+      "kcal": 14.4,
+      "carboidratos_g": 2.34,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho picado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola picada",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1 colher (sopa) de suco de limão",
+      "gramas": 15.2,
+      "kcal": 3.3,
+      "carboidratos_g": 1.11,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo batido",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2321.9,
+    "carboidratos_g": 265.4
+  },
+  "por_porcao": {
+    "kcal": 290,
+    "carboidratos_g": 33.2
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "rbl-0205",
+  "slug": "agua-saborizada-de-limao-pepino-e-hortela",
+  "nome": "Água saborizada de limão, pepino e hortelã",
+  "descricao": "Água bem gelada com rodelas de limão, pepino e hortelã, para beber ao longo do dia.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 120,
+    "total_min": 125
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água filtrada gelada"
+    },
+    {
+      "ingrediente": "pepino",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1/2 pepino japonês em rodelas finas (100 g)"
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão taiti em rodelas"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de folhas de hortelã"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave bem o limão, o pepino e a hortelã e corte o limão e o pepino em rodelas finas.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Coloque tudo numa jarra, amasse levemente a hortelã com uma colher e cubra com a água."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Sirva gelada, com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por 1 pedacinho de gengibre em rodelas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Tire o limão depois de 4 horas, para a água não amargar. Ela dura 1 dia na geladeira."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Dá para completar a jarra com mais água uma vez, usando as mesmas frutas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 8,
+      "carboidratos_g": 2.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0205.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pepino",
+      "limao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "agua saborizada",
+      "agua aromatizada",
+      "agua com pepino"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

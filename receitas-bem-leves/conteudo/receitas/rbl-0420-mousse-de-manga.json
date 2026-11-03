@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0420",
+  "slug": "mousse-de-manga",
+  "nome": "Mousse de manga",
+  "descricao": "Mousse de manga madura, cor de sol e sabor de fruta, adoçada só com a própria manga.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 1,
+    "descanso_min": 180,
+    "total_min": 196
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "ingrediente": "manga",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 manga Palmer grande e madura, sem casca e sem caroço"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol, se a manga não estiver bem doce",
+      "opcional": true
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "manga",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de manga em cubinhos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Bata no liquidificador a manga, o iogurte e o creme de leite por 2 minutos. Prove e junte o eritritol só se precisar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Com o liquidificador ligado, junte a gelatina derretida e bata mais 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Distribua em 6 taças e leve à geladeira por 3 horas.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Sirva com os cubinhos de manga por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manga fresca por 2 xícaras (chá) de polpa de manga congelada sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por mais 1 pote de iogurte natural, para uma mousse mais leve."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Manga Palmer ou Tommy bem madura dispensa adoçante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 130,
+      "carboidratos_g": 11
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0420.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "manga"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mousse de manga",
+      "sobremesa de manga",
+      "mousse de fruta"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

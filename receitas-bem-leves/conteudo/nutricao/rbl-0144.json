@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0144",
+  "nome": "Torta de liquidificador de sardinha",
+  "porcoes": 10,
+  "porcao": "1 pedaço (1/10 da torta)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 xícara (chá) de leite",
+      "gramas": 244,
+      "kcal": 148.8,
+      "carboidratos_g": 11.71,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/2 xícara (chá) de óleo",
+      "gramas": 109,
+      "kcal": 963.6,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "2 xícaras (chá) de farinha de trigo",
+      "gramas": 250,
+      "kcal": 900,
+      "carboidratos_g": 187.75,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 10,
+      "kcal": 45.3,
+      "carboidratos_g": 0.17,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (sopa) de fermento químico em pó",
+      "gramas": 13.8,
+      "kcal": 12.4,
+      "carboidratos_g": 6.06,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "sardinha-em-lata",
+      "texto": "2 latas de sardinha em óleo escorridas (170 g)",
+      "gramas": 170,
+      "kcal": 484.5,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 319 Sardinha, conserva em óleo",
+      "por_100g": {
+        "kcal": 285,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate picado",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola picada",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "texto": "1/2 pimentão vermelho picado",
+      "gramas": 59.5,
+      "kcal": 13.7,
+      "carboidratos_g": 3.27,
+      "fonte": "TACO 4ª ed. 145 Pimentão, vermelho, cru",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "texto": "10 azeitonas verdes picadas",
+      "gramas": 44,
+      "kcal": 60.3,
+      "carboidratos_g": 1.8,
+      "fonte": "TACO 4ª ed. 521 Azeitona, verde, conserva",
+      "por_100g": {
+        "kcal": 137,
+        "carboidratos_g": 4.1
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 2885.5,
+    "carboidratos_g": 222.3
+  },
+  "por_porcao": {
+    "kcal": 289,
+    "carboidratos_g": 22.2
+  }
+}

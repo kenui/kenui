@@ -1,0 +1,121 @@
+{
+  "id": "rbl-0349",
+  "slug": "pure-de-mandioquinha",
+  "nome": "Purê de mandioquinha",
+  "descricao": "Purê cremoso de mandioquinha com leite e manteiga, delicado e com sabor de comida de vó.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mandioquinha",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de mandioquinha descascada em pedaços"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite quente"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1.5,
+      "medida": "colher_sopa",
+      "texto": "1 e 1/2 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioquinha em água por 15 a 20 minutos, até desmanchar ao espetar o garfo. Escorra.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Ainda quente, amasse com um amassador ou passe no espremedor."
+    },
+    {
+      "texto": "Volte à panela em fogo baixo, junte a manteiga, o sal e a pimenta e vá colocando o leite aos poucos, mexendo, até ficar cremoso."
+    },
+    {
+      "texto": "Sirva quente."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça meio a meio com batata comum."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por 2 colheres (sopa) de requeijão e um pouco da água do cozimento."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não bata no liquidificador nem no mixer: o purê fica com textura de goma."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 234,
+      "carboidratos_g": 43.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0349.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pure",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pure de batata baroa",
+      "pure de mandioquinha",
+      "mandioquinha amassada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

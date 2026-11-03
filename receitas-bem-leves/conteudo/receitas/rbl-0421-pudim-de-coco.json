@@ -1,0 +1,161 @@
+{
+  "id": "rbl-0421",
+  "slug": "pudim-de-coco",
+  "nome": "Pudim de coco",
+  "descricao": "Pudim de forno com leite de coco e coco ralado, liso por dentro e perfumado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 60,
+    "descanso_min": 240,
+    "total_min": 330
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "fatias"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 45,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado seco sem açúcar (45 g)"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com o óleo uma forma de pudim de 20 cm, com furo no meio."
+    },
+    {
+      "texto": "Bata no liquidificador o leite de coco, o leite, o leite em pó, os ovos e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Misture o coco ralado com uma colher e despeje na forma."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e coloque dentro de uma assadeira maior com 3 dedos de água quente (banho-maria)."
+    },
+    {
+      "texto": "Asse por 50 a 60 minutos, até o centro firmar e tremer só um pouco ao balançar a forma.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Espere esfriar e leve à geladeira por pelo menos 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Passe uma faca na borda, vire sobre um prato e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 60,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem leite de coco? Use mais 1 xícara de leite e aumente o coco ralado para 3/4 de xícara."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O coco sobe durante o forno e forma uma camada mais firme, que fica embaixo depois de desenformar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 225,
+      "carboidratos_g": 10.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0421.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de coco sem acucar",
+      "pudim de leite de coco",
+      "pudim de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "rbl-0410",
+  "slug": "bolinho-de-chuva-assado",
+  "nome": "Bolinho de chuva assado",
+  "descricao": "Bolinhos de chuva feitos no forno, passados na canela com eritritol.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "4 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de iogurte natural"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Para passar",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "grupo": "Para passar",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Para passar",
+      "ingrediente": "canela",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 20 forminhas de mini muffin, ou use uma assadeira forrada."
+    },
+    {
+      "texto": "Com um batedor, misture os ovos, o iogurte, o óleo e o eritritol."
+    },
+    {
+      "texto": "Junte a farinha e o fermento e mexa até formar uma massa grossa."
+    },
+    {
+      "texto": "Coloque 1 colher (sopa) de massa em cada forminha, ou faça montinhos na assadeira."
+    },
+    {
+      "texto": "Asse por 15 a 20 minutos, até dourar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Misture o eritritol com a canela num prato. Pincele os bolinhos ainda quentes com a manteiga e role na mistura."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por leite e use 1/4 de xícara a menos de farinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Passe na canela ainda quente: assim ela gruda melhor."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "São melhores no dia, mornos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 270,
+      "carboidratos_g": 31
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0410.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho de chuva",
+      "bolinho de chuva de forno",
+      "bolinho de canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0156",
+  "nome": "Pasta de sardinha com palitos de salsão",
+  "porcoes": 4,
+  "porcao": "1/4 de xícara de pasta com palitos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "sardinha-em-lata",
+      "texto": "1 lata de sardinha em óleo escorrida (85 g)",
+      "gramas": 85,
+      "kcal": 242.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 319 Sardinha, conserva em óleo",
+      "por_100g": {
+        "kcal": 285,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 colheres (sopa) de cebola bem picada",
+      "gramas": 20,
+      "kcal": 7.8,
+      "carboidratos_g": 1.78,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1 colher (sopa) de suco de limão",
+      "gramas": 15.2,
+      "kcal": 3.3,
+      "carboidratos_g": 1.11,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "salsao",
+      "texto": "3 talos de salsão (120 g)",
+      "gramas": 120,
+      "kcal": 16.8,
+      "carboidratos_g": 3.56,
+      "fonte": "USDA SR Legacy 169988 Celery, raw",
+      "por_100g": {
+        "kcal": 14,
+        "carboidratos_g": 2.97
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "1 cenoura",
+      "gramas": 61,
+      "kcal": 20.7,
+      "carboidratos_g": 4.7,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 408.1,
+    "carboidratos_g": 12.5
+  },
+  "por_porcao": {
+    "kcal": 102,
+    "carboidratos_g": 3.1
+  }
+}

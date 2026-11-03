@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0107",
+  "slug": "mingau-de-aveia-com-cacau",
+  "nome": "Mingau de aveia com cacau",
+  "descricao": "Mingau de aveia com sabor de chocolate, feito com cacau 100%, baunilha e castanha-do-pará picada por cima.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 2,
+    "cozimento_min": 6,
+    "total_min": 8
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "castanha-do-para",
+      "quantidade": 5,
+      "medida": "g",
+      "texto": "1 castanha-do-pará picada (5 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela pequena, dissolva o cacau e o eritritol num pouco do leite frio, mexendo até não ter grumos."
+    },
+    {
+      "texto": "Junte o resto do leite e a aveia e leve ao fogo baixo."
+    },
+    {
+      "texto": "Cozinhe mexendo sempre por 4 a 5 minutos, até engrossar.",
+      "aviso": "Mingau quente espirra: mexa com colher de cabo longo.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue, misture a baunilha e sirva com a castanha picada por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-do-pará por nozes ou amendoim picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem eritritol? Amasse 1/2 banana madura junto com a aveia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Dissolver o cacau no leite frio evita grumos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 257,
+      "carboidratos_g": 25.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0107.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mingau de chocolate",
+      "mingau de aveia com cacau",
+      "papa de cacau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0284",
+  "slug": "pernil-em-cubos-com-batata-doce",
+  "nome": "Pernil em cubos com batata-doce",
+  "descricao": "Cubos de pernil suíno e batata-doce assados com alecrim e páprica até ficarem dourados.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pernil-suino",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de pernil suíno sem osso, em cubos de 3 cm"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas-doces médias em cubos de 3 cm"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola roxa ou branca em gomos"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa tigela, misture o pernil com o alho, 1 colher (chá) do sal, a páprica, o alecrim e 1 colher (sopa) do azeite."
+    },
+    {
+      "texto": "Em outra tigela, misture a batata-doce e a cebola com o restante do azeite e do sal."
+    },
+    {
+      "texto": "Espalhe tudo numa assadeira grande, numa camada só, e cubra com papel-alumínio. Asse por 25 minutos.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Retire o papel, mexa e asse mais 20 minutos, até a carne dourar e a batata-doce ficar macia.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Sirva com a cebolinha."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por abóbora cabotiá ou batata."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use lombo em cubos: asse 10 minutos a menos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 478,
+      "carboidratos_g": 21.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0284.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "pernil",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pernil em cubos",
+      "porco com batata doce",
+      "carne de porco assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

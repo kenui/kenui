@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0174",
+  "nome": "Rolinhos de presunto com queijo e pepino",
+  "porcoes": 4,
+  "porcao": "3 rolinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "presunto",
+      "texto": "12 fatias de presunto magro (180 g)",
+      "gramas": 180,
+      "kcal": 169.2,
+      "carboidratos_g": 3.78,
+      "fonte": "TACO 4ª ed. 439 Presunto, sem capa de gordura",
+      "por_100g": {
+        "kcal": 94,
+        "carboidratos_g": 2.1
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "3 colheres (sopa) de requeijão cremoso",
+      "gramas": 45,
+      "kcal": 115.7,
+      "carboidratos_g": 1.08,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 pedaço de queijo minas frescal (150 g)",
+      "gramas": 150,
+      "kcal": 396,
+      "carboidratos_g": 4.8,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "pepino",
+      "texto": "1/2 pepino (150 g)",
+      "gramas": 150,
+      "kcal": 15,
+      "carboidratos_g": 3,
+      "fonte": "TACO 4ª ed. 142 Pepino, cru",
+      "por_100g": {
+        "kcal": 10,
+        "carboidratos_g": 2
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "1 colher (sopa) de cebolinha picada",
+      "gramas": 3,
+      "kcal": 0.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 696.5,
+    "carboidratos_g": 12.8
+  },
+  "por_porcao": {
+    "kcal": 174,
+    "carboidratos_g": 3.2
+  }
+}

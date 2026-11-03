@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0196",
+  "slug": "suco-de-acerola-com-laranja",
+  "nome": "Suco de acerola com laranja",
+  "descricao": "Suco vermelhinho de polpa de acerola com laranja, docinho e azedinho na medida.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 200 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "polpa-de-acerola",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1 pacote de polpa de acerola congelada (100 g)"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "suco de 2 laranjas-pera"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de água gelada"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema as laranjas."
+    },
+    {
+      "texto": "Bata no liquidificador a polpa de acerola ainda congelada, o suco de laranja, a água e o eritritol por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Com acerola fresca, use 1 xícara (chá) da fruta e coe depois de bater."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a laranja por tangerina."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Tome logo depois de bater, que é quando o suco tem mais sabor."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 26,
+      "carboidratos_g": 6.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0196.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de acerola",
+      "acerola com laranja",
+      "suco vermelho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

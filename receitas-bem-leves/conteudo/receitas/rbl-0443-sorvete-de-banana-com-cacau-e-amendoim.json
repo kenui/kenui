@@ -1,0 +1,123 @@
+{
+  "id": "rbl-0443",
+  "slug": "sorvete-de-banana-com-cacau-e-amendoim",
+  "nome": "Sorvete de banana com cacau e amendoim",
+  "descricao": "Sorvete de banana congelada com cacau e pedacinhos de amendoim torrado, com gosto de bombom.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 5,
+    "descanso_min": 360,
+    "total_min": 380
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "taças"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 bananas nanicas maduras, em rodelas, congeladas"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "amendoim",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de amendoim sem pele"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Congele as rodelas de banana num pote por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Toste o amendoim numa frigideira seca em fogo baixo por 4 a 5 minutos, mexendo, até dourar. Espere esfriar e pique grosso.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Bata no processador a banana congelada, o cacau e o leite por 3 a 5 minutos, raspando as laterais, até virar um creme liso.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Misture metade do amendoim e sirva com o restante por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o amendoim por 2 colheres (sopa) de pasta de amendoim integral, 100% amendoim, batida junto."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o amendoim por castanha-de-caju ou nozes."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 173,
+      "carboidratos_g": 32.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0443.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "chocolate",
+    "cobertura": "calda_chocolate",
+    "recheio": null,
+    "enfeites": [
+      "amendoim",
+      "banana_rodelas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sorvete de banana com chocolate",
+      "sorvete de cacau",
+      "sorvete de banana congelada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

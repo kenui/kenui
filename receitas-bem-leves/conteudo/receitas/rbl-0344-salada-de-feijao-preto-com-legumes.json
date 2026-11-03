@@ -1,0 +1,180 @@
+{
+  "id": "rbl-0344",
+  "slug": "salada-de-feijao-preto-com-legumes",
+  "nome": "Salada de feijão-preto com legumes",
+  "descricao": "Feijão-preto cozido temperado com pimentão, tomate, cebola, ovos e cheiro-verde, servido frio.",
+  "categoria": "almoco_jantar",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "feijao-preto-cozido",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de feijão-preto cozido sem tempero, bem escorrido"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em cubinhos"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates sem sementes em cubinhos"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos cozidos picados"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "vinagre",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de vinagre"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cominho"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Molho: misture o azeite, o vinagre, o suco de limão, o cominho e o sal."
+    },
+    {
+      "texto": "Numa tigela, junte o feijão, o pimentão, o tomate e a cebola."
+    },
+    {
+      "texto": "Regue com o molho e misture com cuidado, para não amassar o feijão."
+    },
+    {
+      "texto": "Junte os ovos, a salsinha e a cebolinha e sirva."
+    },
+    {
+      "texto": "Se tiver tempo, deixe 20 minutos na geladeira antes de servir: fica mais saborosa."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o feijão-preto por feijão-fradinho ou grão-de-bico."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo minas em cubos no lugar dos ovos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para cozinhar o feijão: 1 e 1/2 xícara de feijão cru, de molho por 8 horas, na pressão por 20 minutos, sem sal. Escorra e esfrie."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 268,
+      "carboidratos_g": 24.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0344.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de feijao",
+      "feijao preto frio",
+      "salada de graos"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

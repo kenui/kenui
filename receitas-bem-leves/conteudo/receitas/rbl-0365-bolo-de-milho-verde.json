@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0365",
+  "slug": "bolo-de-milho-verde",
+  "nome": "Bolo de milho verde",
+  "descricao": "Bolo de milho de liquidificador feito com milho fresco da espiga, úmido e com gosto de pamonha.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 85
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "milho-verde-cru",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de grãos de milho-verde fresco (de 4 espigas)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de fubá"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+    },
+    {
+      "texto": "Debulhe as espigas passando a faca rente ao sabugo.",
+      "aviso": "Corte com a espiga em pé sobre uma tábua e a faca para baixo."
+    },
+    {
+      "texto": "No liquidificador, bata o milho, os ovos, o óleo, o leite e o eritritol por 4 minutos, até ficar bem liso.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte o fubá e o sal e bata mais 1 minuto. Por último, misture o fermento com uma colher.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Despeje na forma e asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere esfriar antes de desenformar: quente, o bolo é muito macio."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem espiga? Use 2 latas de milho-verde escorrido (cerca de 2 e 1/2 xícaras)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Quanto mais novo o milho, mais cremoso fica o bolo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 18.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0365.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_redondo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de milho",
+      "bolo de milho de liquidificador",
+      "bolo de milho fresco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

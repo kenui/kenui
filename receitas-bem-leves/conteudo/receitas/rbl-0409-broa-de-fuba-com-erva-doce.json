@@ -1,0 +1,155 @@
+{
+  "id": "rbl-0409",
+  "slug": "broa-de-fuba-com-erva-doce",
+  "nome": "Broa de fubá com erva-doce",
+  "descricao": "Broinhas de fubá de padaria, com erva-doce e casquinha dourada.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 15,
+    "unidade": "broas"
+  },
+  "porcoes": 15,
+  "porcao": {
+    "descricao": "1 broa"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de fubá"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "erva-doce",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de erva-doce"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 15 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Com um batedor, misture os ovos, o leite, o óleo e o eritritol."
+    },
+    {
+      "texto": "Junte o fubá, a farinha e a erva-doce e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Distribua nas forminhas até 3/4 da altura. Se quiser, polvilhe um pouco de fubá por cima."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem erva-doce? Use 1 colher (chá) de canela ou raspas de laranja."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por 3 dias, ou congele."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 178,
+      "carboidratos_g": 20.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0409.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "broa de fuba",
+      "broinha de milho",
+      "broa de padaria"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

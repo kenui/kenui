@@ -1,0 +1,113 @@
+{
+  "id": "rbl-0186",
+  "slug": "vitamina-de-manga",
+  "nome": "Vitamina de manga",
+  "descricao": "Vitamina dourada e perfumada de manga madura com leite gelado.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manga",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de manga madura picada (meia manga grande)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "4 pedras de gelo"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a manga e corte a polpa em pedaços, separando do caroço.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador a manga, o leite e o gelo por 1 minuto, até ficar liso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por iogurte natural batido com 1/2 xícara de água para uma vitamina mais azedinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use polpa de manga congelada sem adição (100 g) no lugar da fruta."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Manga Palmer e Tommy têm pouco fiapo e deixam a vitamina mais lisa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 154,
+      "carboidratos_g": 19.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0186.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "manga"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina de manga",
+      "batida de manga",
+      "manga com leite"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

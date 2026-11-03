@@ -1,0 +1,199 @@
+{
+  "id": "rbl-0135",
+  "slug": "bolinho-de-mandioquinha-com-carne",
+  "nome": "Bolinho de mandioquinha com carne",
+  "descricao": "Bolinho assado de massa de mandioquinha, macio por dentro, recheado com carne moída bem temperada.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 45,
+    "cozimento_min": 50,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 14,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 7,
+  "porcao": {
+    "descricao": "2 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "mandioquinha",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "5 mandioquinhas médias (500 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 bandeja pequena de carne moída de patinho (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Para pincelar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque a mandioquinha, corte em pedaços e cozinhe em água por 15 a 20 minutos, até ficar macia.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Escorra bem e amasse com um garfo até virar um purê. Junte o polvilho, o parmesão e o sal e misture até dar liga. Deixe esfriar.",
+      "aviso": "Cuidado: o purê sai muito quente."
+    },
+    {
+      "texto": "Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos."
+    },
+    {
+      "texto": "Junte a carne e o sal e mexa até a carne soltar e perder a cor rosada, cerca de 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente o tomate e cozinhe mais 3 minutos, até secar o caldo. Desligue, junte a cebolinha e deixe esfriar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Com as mãos untadas de azeite, abra porções de massa, recheie com 1 colher (sopa) de carne, feche e modele bolinhas."
+    },
+    {
+      "texto": "Pincele os bolinhos com o ovo batido e asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne moída por frango desfiado ou por queijo minas em cubinhos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem polvilho? Use 3 colheres (sopa) de farinha de trigo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça no forno ou na airfryer por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 176,
+      "carboidratos_g": 22.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0135.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne moída",
+    "enfeites": [
+      "ervas",
+      "queijo_ralado",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho de batata baroa",
+      "bolinho de mandioquinha assado",
+      "salgado assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

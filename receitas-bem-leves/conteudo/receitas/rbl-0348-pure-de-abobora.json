@@ -1,0 +1,130 @@
+{
+  "id": "rbl-0348",
+  "slug": "pure-de-abobora",
+  "nome": "Purê de abóbora",
+  "descricao": "Purê liso e alaranjado de abóbora cabotiá com manteiga, alho e noz-moscada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/2 xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de abóbora cabotiá descascada em cubos"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.75,
+      "medida": "colher_cha",
+      "texto": "3/4 de colher (chá) de sal"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a abóbora no vapor ou em pouca água por 15 minutos, até ficar bem macia. Escorra bem.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Na mesma panela, derreta a manteiga e doure o alho por 30 segundos."
+    },
+    {
+      "texto": "Junte a abóbora, o sal e a noz-moscada e amasse com um amassador até virar purê. Mexa em fogo baixo por 3 minutos para secar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Sirva com a cebolinha por cima."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manteiga por azeite ou requeijão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use abóbora pescoço ou moranga, que são mais aguadas: deixe secar mais tempo no fogo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 105,
+      "carboidratos_g": 17
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0348.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pure",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pure de abobora",
+      "creme de abobora",
+      "abobora amassada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

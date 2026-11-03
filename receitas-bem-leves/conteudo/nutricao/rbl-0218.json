@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0218",
+  "nome": "Maçã assada no micro-ondas",
+  "porcoes": 2,
+  "porcao": "1 maçã",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "maca",
+      "texto": "2 maçãs médias (300 g)",
+      "gramas": 300,
+      "kcal": 168,
+      "carboidratos_g": 45.6,
+      "fonte": "TACO 4ª ed. 222 Maçã, Fuji, com casca, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.2
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 colher (sopa) de aveia em flocos",
+      "gramas": 5.1,
+      "kcal": 20.1,
+      "carboidratos_g": 3.4,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    },
+    {
+      "ingrediente": "uva-passa",
+      "texto": "2 colheres (sopa) de uva-passa",
+      "gramas": 18.2,
+      "kcal": 54.4,
+      "carboidratos_g": 14.44,
+      "fonte": "USDA SR Legacy 168165 Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+      "por_100g": {
+        "kcal": 299,
+        "carboidratos_g": 79.32
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 colher (chá) de canela em pó",
+      "gramas": 2.6,
+      "kcal": 6.4,
+      "carboidratos_g": 2.1,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 colheres (sopa) de água",
+      "gramas": 30,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 248.9,
+    "carboidratos_g": 65.5
+  },
+  "por_porcao": {
+    "kcal": 124,
+    "carboidratos_g": 32.8
+  }
+}

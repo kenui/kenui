@@ -1,0 +1,150 @@
+{
+  "id": "rbl-0022",
+  "slug": "pao-de-frigideira-de-abobora-e-queijo",
+  "nome": "Pão de frigideira de abóbora e queijo",
+  "descricao": "Pão dourado de abóbora com polvilho e parmesão, macio por dentro e com casquinha na frigideira.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "total_min": 18
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "1 fatia de abóbora cabotiá sem casca (80 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de polvilho doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte a abóbora em cubos, coloque num prato com 1 colher (sopa) de água, cubra e leve ao micro-ondas por 4 minutos, até ficar macia.",
+      "aviso": "Cuidado ao tirar a tampa: sai vapor quente.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Escorra a água e amasse a abóbora com um garfo até virar um purê."
+    },
+    {
+      "texto": "Junte o ovo, o polvilho, o parmesão, a noz-moscada e o sal e misture até ficar uma massa lisa."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena (15 cm) com o azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje a massa, tampe e deixe 3 minutos, até firmar por baixo.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Vire com uma espátula e deixe mais 2 a 3 minutos, até dourar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Sirva quente, puro ou recheado com queijo branco."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioquinha ou batata-doce cozida no lugar da abóbora."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sobrou abóbora cozida do almoço? Use 1/3 de xícara do purê e pule os dois primeiros passos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 202,
+      "carboidratos_g": 21.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0022.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de abobora de frigideira",
+      "pao de frigideira com polvilho",
+      "pao de abobora rapido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

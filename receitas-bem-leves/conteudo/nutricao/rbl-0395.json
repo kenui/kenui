@@ -1,0 +1,115 @@
+{
+  "receita": "rbl-0395",
+  "nome": "Brownie de feijão-preto",
+  "porcoes": 16,
+  "porcao": "1 quadrado",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "feijao-preto-cozido",
+      "texto": "2 xícaras (chá) de feijão-preto cozido só com água, sem caldo e sem tempero",
+      "gramas": 344,
+      "kcal": 264.9,
+      "carboidratos_g": 48.16,
+      "fonte": "TACO 4ª ed. 567 Feijão, preto, cozido",
+      "por_100g": {
+        "kcal": 77,
+        "carboidratos_g": 14
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1/3 de xícara (chá) de óleo",
+      "gramas": 71.9,
+      "kcal": 635.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%",
+      "gramas": 43,
+      "kcal": 98,
+      "carboidratos_g": 24.9,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "gramas": 150,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1229.3,
+    "carboidratos_g": 78
+  },
+  "por_porcao": {
+    "kcal": 77,
+    "carboidratos_g": 4.9
+  }
+}

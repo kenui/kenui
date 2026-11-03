@@ -1,0 +1,123 @@
+{
+  "id": "rbl-0224",
+  "slug": "banana-na-frigideira-com-canela",
+  "nome": "Banana na frigideira com canela",
+  "descricao": "Banana dourada na manteiga e polvilhada com canela, quentinha e docinha.",
+  "categoria": "lanches",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 6,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "porções"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 banana"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas-nanicas maduras e firmes"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de iogurte natural para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as bananas e corte ao meio no comprido."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira antiaderente em fogo médio."
+    },
+    {
+      "texto": "Coloque as bananas com o corte para baixo e doure por 3 minutos de cada lado.",
+      "aviso": "Cuidado com a manteiga quente.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Polvilhe a canela e sirva quente, com o iogurte por cima se quiser."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manteiga por óleo de coco ou por 1 fio de óleo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com banana-da-terra madura: deixe 1 minuto a mais de cada lado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bananas maduras mas firmes douram sem desmanchar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 127,
+      "carboidratos_g": 28.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0224.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "banana frita",
+      "banana com canela",
+      "banana dourada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

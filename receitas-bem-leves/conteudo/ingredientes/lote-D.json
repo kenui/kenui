@@ -1,0 +1,359 @@
+{
+  "descricao": "Ingredientes do lote D",
+  "ingredientes": [
+    {
+      "id": "melancia",
+      "nome": "melancia",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:235",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 152,
+          "fonte": "USDA 167765: 1 cup, diced = 152 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "polpa-de-acerola",
+      "nome": "polpa de acerola congelada",
+      "sinonimos": [
+        "acerola"
+      ],
+      "fonte_nutricao": "taco:170",
+      "secao_mercado": "congelados",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "polpa-de-acai",
+      "nome": "polpa de açaí congelada (pura, sem adição)",
+      "sinonimos": [
+        "açaí",
+        "acai"
+      ],
+      "fonte_nutricao": "taco:168",
+      "secao_mercado": "congelados",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "tangerina",
+      "nome": "tangerina poncã",
+      "nome_plural": "tangerinas",
+      "sinonimos": [
+        "mexerica",
+        "bergamota"
+      ],
+      "fonte_nutricao": "taco:251",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 88,
+          "fonte": "USDA 169105: 1 medium = 88 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": "laranja"
+    },
+    {
+      "id": "pessego",
+      "nome": "pêssego",
+      "nome_plural": "pêssegos",
+      "sinonimos": [],
+      "fonte_nutricao": "taco:244",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 150,
+          "fonte": "USDA 169928: 1 medium = 150 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "fruta",
+      "enfeite": null
+    },
+    {
+      "id": "limao-taiti",
+      "nome": "limão taiti (inteiro)",
+      "nome_plural": "limões",
+      "sinonimos": [
+        "limão inteiro",
+        "limão com casca"
+      ],
+      "fonte_nutricao": "taco:220",
+      "secao_mercado": "hortifruti",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 67,
+          "fonte": "USDA 168155: 1 fruit (2\" dia) = 67 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "limao"
+    },
+    {
+      "id": "cafe-coado",
+      "nome": "café coado",
+      "sinonimos": [
+        "café",
+        "café passado"
+      ],
+      "fonte_nutricao": "taco:471",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 237,
+          "fonte": "USDA 171890: 1 cup (8 fl oz) = 237 g"
+        },
+        "ml": {
+          "g": 1.0,
+          "fonte": "USDA 171890: 1 fl oz (29,6 ml) = 29,6 g"
+        },
+        "colher_sopa": {
+          "g": 14.8,
+          "fonte": "USDA 171890: 1 cup = 237 g ÷ 16"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cafe-soluvel",
+      "nome": "café solúvel",
+      "sinonimos": [
+        "café instantâneo"
+      ],
+      "fonte_nutricao": "usda:171893",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_cha": {
+          "g": 1,
+          "fonte": "USDA 171893: 1 tsp = 1 g"
+        },
+        "colher_sopa": {
+          "g": 3,
+          "fonte": "USDA 171893: 1 tsp = 1 g × 3"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cha-mate-pronto",
+      "nome": "chá mate pronto (feito em casa)",
+      "sinonimos": [
+        "chá mate",
+        "mate tostado",
+        "erva-mate tostada"
+      ],
+      "fonte_nutricao": "taco:476",
+      "secao_mercado": "bebidas",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 240,
+          "fonte": "infusão com densidade ≈ 1 g/ml (xícara = 240 ml)"
+        },
+        "ml": {
+          "g": 1,
+          "fonte": "infusão com densidade ≈ 1 g/ml"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cha-preto-pronto",
+      "nome": "chá preto pronto (feito em casa)",
+      "sinonimos": [
+        "chá preto"
+      ],
+      "fonte_nutricao": "taco:477",
+      "secao_mercado": "bebidas",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 240,
+          "fonte": "infusão com densidade ≈ 1 g/ml (xícara = 240 ml)"
+        },
+        "ml": {
+          "g": 1,
+          "fonte": "infusão com densidade ≈ 1 g/ml"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "cha-de-hibisco-pronto",
+      "nome": "chá de hibisco pronto (feito em casa)",
+      "sinonimos": [
+        "chá de hibisco",
+        "flor de hibisco"
+      ],
+      "fonte_nutricao": "usda:171946",
+      "secao_mercado": "bebidas",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 237,
+          "fonte": "USDA 171946: 8 fl oz = 237 g"
+        },
+        "ml": {
+          "g": 1,
+          "fonte": "USDA 171946: 8 fl oz (237 ml) = 237 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "agua-de-coco",
+      "nome": "água de coco",
+      "sinonimos": [
+        "água de coco natural"
+      ],
+      "fonte_nutricao": "taco:478",
+      "secao_mercado": "bebidas",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "xicara": {
+          "g": 240,
+          "fonte": "USDA 170174: 1 cup = 240 g"
+        },
+        "ml": {
+          "g": 1,
+          "fonte": "USDA 170174: 1 cup (240 ml) = 240 g"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": null
+    },
+    {
+      "id": "pasta-de-amendoim-integral",
+      "nome": "pasta de amendoim integral (100% amendoim)",
+      "sinonimos": [
+        "pasta de amendoim",
+        "manteiga de amendoim"
+      ],
+      "fonte_nutricao": "usda:173806",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "colher_sopa": {
+          "g": 16,
+          "fonte": "USDA 172470: 2 tbsp = 32 g ÷ 2"
+        },
+        "colher_cha": {
+          "g": 5.3,
+          "fonte": "USDA 172470: 2 tbsp = 32 g ÷ 6"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": null,
+      "enfeite": "amendoim"
+    },
+    {
+      "id": "stevia",
+      "nome": "stevia líquida",
+      "sinonimos": [
+        "adoçante de stevia",
+        "estévia"
+      ],
+      "fonte_nutricao": "especial:stevia",
+      "secao_mercado": "mercearia",
+      "facil_de_achar": true,
+      "gramas_por_medida": {
+        "unidade": {
+          "g": 0.05,
+          "fonte": "1 gota ≈ 0,05 ml (conta-gotas padrão: 20 gotas = 1 ml), densidade ≈ 1 g/ml"
+        },
+        "g": {
+          "g": 1,
+          "fonte": "grama"
+        }
+      },
+      "proibido": false,
+      "adocante": "stevia",
+      "enfeite": null
+    }
+  ]
+}

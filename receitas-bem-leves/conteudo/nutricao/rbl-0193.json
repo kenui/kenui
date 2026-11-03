@@ -1,0 +1,60 @@
+{
+  "receita": "rbl-0193",
+  "nome": "Suco de abacaxi com hortelã",
+  "porcoes": 3,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "abacaxi",
+      "texto": "2 xícaras (chá) de abacaxi picado (cerca de 1/3 de abacaxi)",
+      "gramas": 330,
+      "kcal": 158.4,
+      "carboidratos_g": 40.59,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de folhas de hortelã",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água gelada",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "stevia",
+      "texto": "4 gotas de stevia, se quiser mais doce",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 160.9,
+    "carboidratos_g": 41.1
+  },
+  "por_porcao": {
+    "kcal": 54,
+    "carboidratos_g": 13.7
+  }
+}

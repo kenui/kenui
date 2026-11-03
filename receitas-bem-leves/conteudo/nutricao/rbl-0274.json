@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0274",
+  "nome": "Ensopado de músculo com abóbora",
+  "porcoes": 6,
+  "porcao": "1 prato fundo (cerca de 1 e 1/2 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "musculo",
+      "texto": "800 g de músculo em cubos grandes",
+      "gramas": 800,
+      "kcal": 1136,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 372 Carne, bovina, músculo, sem gordura, cru",
+      "por_100g": {
+        "kcal": 142,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1/2 colher (chá) de cominho",
+      "gramas": 1.1,
+      "kcal": 3.9,
+      "carboidratos_g": 0.46,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (sopa) de óleo",
+      "gramas": 13.6,
+      "kcal": 120.2,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola média picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "3 dentes de alho picados",
+      "gramas": 9,
+      "kcal": 10.2,
+      "carboidratos_g": 2.15,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates picados",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 xícaras (chá) de água quente (720 ml)",
+      "gramas": 720,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "texto": "500 g de abóbora cabotiá descascada, em cubos grandes",
+      "gramas": 500,
+      "kcal": 195,
+      "carboidratos_g": 42,
+      "fonte": "TACO 4ª ed. 65 Abóbora, cabotian, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.4
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "texto": "2 colheres (sopa) de coentro picado",
+      "gramas": 2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 169997 Coriander (cilantro) leaves, raw",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 3.67
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1545.8,
+    "carboidratos_g": 62.1
+  },
+  "por_porcao": {
+    "kcal": 258,
+    "carboidratos_g": 10.4
+  }
+}

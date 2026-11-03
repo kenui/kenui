@@ -1,0 +1,172 @@
+{
+  "id": "rbl-0437",
+  "slug": "panna-cotta-de-baunilha-com-calda-de-morango",
+  "nome": "Panna cotta de baunilha com calda de morango",
+  "descricao": "Creme italiano firme e delicado de baunilha, servido com calda de morango.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 15,
+    "descanso_min": 240,
+    "total_min": 270
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "forminhas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 forminha"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Creme",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "2 caixinhas de creme de leite (400 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "baunilha",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de essência de baunilha"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "morango",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de morangos picados"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Calda",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Numa panela, aqueça o creme de leite, o leite e o eritritol em fogo baixo por 5 minutos, mexendo, sem deixar ferver.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue, junte a gelatina hidratada e a baunilha e mexa até a gelatina dissolver por completo."
+    },
+    {
+      "texto": "Distribua em 6 forminhas ou copinhos e leve à geladeira por 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Calda: cozinhe os morangos com o eritritol e a água em fogo baixo por 8 minutos, amassando. Deixe esfriar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Sirva no copinho ou desenforme no prato, com a calda por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a calda de morango por frutas vermelhas congeladas sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para desenformar, passe a forminha rapidamente em água morna."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 194,
+      "carboidratos_g": 7.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0437.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pudim",
+    "massa": "clara",
+    "cobertura": "calda_morango",
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "panna cotta",
+      "pana cota",
+      "creme italiano de baunilha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

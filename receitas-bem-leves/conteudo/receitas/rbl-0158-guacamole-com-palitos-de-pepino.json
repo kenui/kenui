@@ -1,0 +1,145 @@
+{
+  "id": "rbl-0158",
+  "slug": "guacamole-com-palitos-de-pepino",
+  "nome": "Guacamole com palitos de pepino",
+  "descricao": "Pasta de abacate amassado com tomate, cebola, limão e coentro, servida com palitos de pepino.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de guacamole"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/2 xícara de guacamole com 1/4 do pepino"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacate",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1/2 abacate grande, só a polpa (300 g)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola pequena bem picada"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro picado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "pepino",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "1 pepino grande (300 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, amasse a polpa do abacate com um garfo, deixando alguns pedacinhos."
+    },
+    {
+      "texto": "Junte logo o suco de limão e misture, para o abacate não escurecer."
+    },
+    {
+      "texto": "Acrescente o tomate, a cebola, o coentro, o sal e a pimenta e misture."
+    },
+    {
+      "texto": "Corte o pepino em palitos e sirva com o guacamole."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Não gosta de coentro? Use salsinha ou cebolinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pepino por palitos de cenoura ou por chips de batata-doce assados."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Cubra a superfície com plástico encostado na pasta e guarde na geladeira por até 1 dia."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 92,
+      "carboidratos_g": 9.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0158.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "abacate",
+    "enfeites": [
+      "pepino",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "guacamole",
+      "pasta de abacate",
+      "abacate salgado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

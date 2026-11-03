@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0268",
+  "slug": "kafta-de-forno",
+  "nome": "Kafta de forno",
+  "descricao": "Espetinhos de carne moída com cebola, hortelã, salsinha e cominho, assados e servidos com limão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "kaftas"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 kaftas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de carne moída (patinho ou acém)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média ralada e espremida"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão em gomos para servir"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 220 °C e forre uma assadeira com papel-alumínio untado com o azeite."
+    },
+    {
+      "texto": "Misture a carne, a cebola, a hortelã, a salsinha, o cominho, o sal e a pimenta e sove com as mãos por 2 minutos, até a massa ficar bem lisa."
+    },
+    {
+      "texto": "Divida em 8 partes e modele cada uma em formato de charuto, em volta de um palito de churrasco ou só com as mãos."
+    },
+    {
+      "texto": "Arrume na assadeira e asse por 12 minutos.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Vire e asse mais 10 a 13 minutos, até dourar por fora.",
+      "temporizador_min": 13
+    },
+    {
+      "texto": "Sirva com os gomos de limão."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use carne moída de cordeiro ou metade carne e metade frango."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem hortelã fresca, use 1 colher (chá) de hortelã seca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as kaftas cruas por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 246,
+      "carboidratos_g": 3.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0268.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "kafta",
+      "kafta assada",
+      "espetinho de carne moida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

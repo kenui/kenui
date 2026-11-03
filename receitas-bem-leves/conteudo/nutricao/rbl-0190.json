@@ -1,0 +1,96 @@
+{
+  "receita": "rbl-0190",
+  "nome": "Açaí na tigela sem açúcar",
+  "porcoes": 2,
+  "porcao": "1 tigela (cerca de 1 xícara)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polpa-de-acai",
+      "texto": "2 pacotes de polpa de açaí pura congelada, sem adição (200 g)",
+      "gramas": 200,
+      "kcal": 116,
+      "carboidratos_g": 12.4,
+      "fonte": "TACO 4ª ed. 168 Açaí, polpa, congelada",
+      "por_100g": {
+        "kcal": 58,
+        "carboidratos_g": 6.2
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1 banana-nanica madura congelada em rodelas",
+      "gramas": 118,
+      "kcal": 108.6,
+      "carboidratos_g": 28.08,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1/4 de xícara (chá) de leite",
+      "gramas": 61,
+      "kcal": 37.2,
+      "carboidratos_g": 2.93,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1/2 banana em rodelas",
+      "gramas": 59,
+      "kcal": 54.3,
+      "carboidratos_g": 14.04,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "4 morangos picados",
+      "gramas": 48,
+      "kcal": 14.4,
+      "carboidratos_g": 3.26,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "2 colheres (sopa) de aveia em flocos",
+      "gramas": 10.2,
+      "kcal": 40.2,
+      "carboidratos_g": 6.79,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol, se quiser mais doce",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 370.6,
+    "carboidratos_g": 67.5
+  },
+  "por_porcao": {
+    "kcal": 185,
+    "carboidratos_g": 33.8
+  }
+}

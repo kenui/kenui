@@ -1,0 +1,114 @@
+{
+  "id": "rbl-0206",
+  "slug": "agua-saborizada-de-morango-com-manjericao",
+  "nome": "Água saborizada de morango com manjericão",
+  "descricao": "Água gelada com morangos fatiados e folhas de manjericão, levemente perfumada.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 120,
+    "total_min": 125
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água filtrada gelada"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 morangos fatiados"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "5 folhas de manjericão (1 colher (sopa))"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave os morangos e o manjericão. Corte os morangos em fatias.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Coloque os morangos e o manjericão numa jarra, amasse levemente as folhas e cubra com a água."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Sirva gelada, com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o manjericão por hortelã ou por rodelas de limão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 1 dia na geladeira. Depois disso os morangos ficam moles."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Morangos congelados também servem e deixam a água mais gelada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 6,
+      "carboidratos_g": 1.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0206.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "agua saborizada de morango",
+      "agua aromatizada",
+      "agua com fruta"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

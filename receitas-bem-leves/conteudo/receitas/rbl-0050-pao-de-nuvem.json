@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0050",
+  "slug": "pao-de-nuvem",
+  "nome": "Pão de nuvem",
+  "descricao": "Discos levíssimos de ovo e cream cheese, assados até dourar, que fazem as vezes de pão de sanduíche.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "discos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 discos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "cream-cheese",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cream cheese",
+      "alternativa": {
+        "ingrediente": "requeijao-cremoso",
+        "texto": "ou 3 colheres (sopa) de requeijão cremoso firme"
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 150 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Separe as claras das gemas, com cuidado para não cair gema nas claras."
+    },
+    {
+      "texto": "Bata as claras com o fermento na batedeira até virarem neve firme, que não escorre quando a tigela é virada."
+    },
+    {
+      "texto": "Em outra tigela, misture as gemas, o cream cheese e o sal até ficar liso."
+    },
+    {
+      "texto": "Junte a neve às gemas aos poucos, mexendo de baixo para cima, com delicadeza, para não perder o ar."
+    },
+    {
+      "texto": "Faça 6 montinhos na assadeira com uma colher grande, espalhando cada um num disco de 10 cm e 1,5 cm de altura."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar por cima.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Deixe esfriar 5 minutos na assadeira antes de tirar com uma espátula.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": {
+    "temperatura_c": 150,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem cream cheese? Use requeijão cremoso firme ou ricota bem amassada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Polvilhe orégano ou gergelim antes de assar para um sabor salgado mais marcado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira em pote fechado, com papel entre os discos, por até 3 dias. Eles ficam mais macios no dia seguinte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 123,
+      "carboidratos_g": 1.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0050.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao nuvem",
+      "cloud bread",
+      "pao de claras",
+      "pao low carb"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

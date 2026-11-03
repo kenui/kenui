@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0408",
+  "slug": "pao-de-minuto-doce",
+  "nome": "Pão de minuto doce",
+  "descricao": "Pãezinhos doces de fermento químico, sem sova e sem espera, prontos em meia hora.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga derretida"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+    },
+    {
+      "texto": "Junte o ovo, o leite, a baunilha e a manteiga e mexa com uma colher até formar uma massa grudenta, sem sovar."
+    },
+    {
+      "texto": "Com uma colher, faça 10 montinhos na assadeira, com espaço entre eles."
+    },
+    {
+      "texto": "Asse por 18 a 20 minutos, até dourar por cima.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por iogurte natural para pãezinhos mais macios."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não sove: quanto menos mexer, mais leve fica o pão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "São melhores no dia. Aqueça 10 segundos no micro-ondas no dia seguinte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 138,
+      "carboidratos_g": 20.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0408.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de minuto",
+      "pao doce rapido",
+      "pao sem sova"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

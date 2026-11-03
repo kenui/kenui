@@ -1,0 +1,196 @@
+{
+  "id": "rbl-0360",
+  "slug": "bolo-de-coco-gelado",
+  "nome": "Bolo de coco gelado",
+  "descricao": "Bolo branco molhadinho, regado com leite de coco e coberto de coco ralado, servido bem gelado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "descanso_min": 140,
+    "total_min": 200
+  },
+  "rendimento": {
+    "quantidade": 15,
+    "unidade": "pedaços"
+  },
+  "porcoes": 15,
+  "porcao": {
+    "descricao": "1 pedaço (1/15 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado sem açúcar (40 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Para molhar",
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "grupo": "Para molhar",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Para molhar",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado sem açúcar (40 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte a farinha e o coco ralado e mexa com um batedor até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Misture o leite de coco, o leite e o eritritol até dissolver."
+    },
+    {
+      "texto": "Com o bolo ainda quente, na própria forma, faça furos com um garfo e regue com a mistura de leite de coco."
+    },
+    {
+      "texto": "Espalhe o coco ralado por cima, cubra e leve à geladeira por pelo menos 2 horas.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use coco fresco ralado no lugar do coco seco na cobertura."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se o coco ralado é sem açúcar: muitos já vêm adoçados."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, coberto, por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 15.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0360.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo gelado de coco",
+      "bolo toalha felpuda",
+      "bolo de coco molhadinho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

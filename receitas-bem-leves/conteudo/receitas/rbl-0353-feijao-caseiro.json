@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0353",
+  "slug": "feijao-caseiro",
+  "nome": "Feijão caseiro",
+  "descricao": "Feijão-carioca cozido na pressão e temperado com alho e cebola, do jeito de todo dia.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 50,
+    "descanso_min": 480,
+    "total_min": 540
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 concha (cerca de 150 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "feijao-carioca",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de feijão-carioca cru"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 folhas de louro"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Escolha e lave o feijão. Deixe de molho em água fria por 8 horas e descarte a água.",
+      "temporizador_min": 480
+    },
+    {
+      "texto": "Coloque o feijão na panela de pressão com a água e o louro. Tampe e cozinhe por 25 minutos depois que pegar pressão.",
+      "aviso": "Espere a pressão sair sozinha antes de abrir a panela.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Numa frigideira, aqueça o azeite e doure a cebola e o alho."
+    },
+    {
+      "texto": "Junte ao refogado 1 concha de feijão, amasse bem e devolva tudo para a panela. Acrescente o sal."
+    },
+    {
+      "texto": "Cozinhe sem a tampa por 15 minutos, em fogo médio, até o caldo engrossar.",
+      "temporizador_min": 15
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use feijão-preto, do mesmo jeito."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o azeite por óleo ou banha, se preferir o sabor tradicional."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias ou congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 196,
+      "carboidratos_g": 31.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0353.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "feijao de panela de pressao",
+      "feijao temperado",
+      "feijao carioca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

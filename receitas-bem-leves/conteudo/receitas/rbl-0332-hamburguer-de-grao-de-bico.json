@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0332",
+  "slug": "hamburguer-de-grao-de-bico",
+  "nome": "Hambúrguer de grão-de-bico",
+  "descricao": "Hambúrgueres de grão-de-bico com aveia, cominho e salsinha, assados até ficarem firmes e dourados.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "descanso_min": 30,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "hambúrgueres"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 hambúrgueres"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de grão-de-bico cozido, bem escorrido"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "No processador, bata o grão-de-bico, a cebola e o alho em pulsos, até formar uma massa grossa, com alguns pedaços."
+    },
+    {
+      "texto": "Passe para uma tigela e misture a aveia, o ovo, o cominho, a páprica, a salsinha e o sal."
+    },
+    {
+      "texto": "Com as mãos úmidas, modele 6 hambúrgueres e leve à geladeira por 30 minutos, para firmar.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com 1 colher (sopa) de azeite."
+    },
+    {
+      "texto": "Arrume os hambúrgueres, pincele com o restante do azeite e asse por 12 minutos.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Vire com uma espátula e asse mais 10 a 12 minutos, até dourar dos dois lados.",
+      "temporizador_min": 12
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 24,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o grão-de-bico por feijão-branco ou lentilha cozidos e bem escorridos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use farelo de aveia no lugar da aveia em flocos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele crus, separados por papel-manteiga, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 393,
+      "carboidratos_g": 49
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0332.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "aveia",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "hamburguer vegetariano",
+      "hamburguer de grao de bico",
+      "burger de grao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

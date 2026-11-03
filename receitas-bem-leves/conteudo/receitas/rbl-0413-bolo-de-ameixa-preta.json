@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0413",
+  "slug": "bolo-de-ameixa-preta",
+  "nome": "Bolo de ameixa-preta",
+  "descricao": "Bolo úmido com ameixas-pretas picadas, adoçado em parte pela própria fruta.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "fatias"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ameixa-seca",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de ameixas-pretas secas sem caroço"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água quente"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Deixe as ameixas na água quente por 10 minutos, até amolecer.",
+      "aviso": "Cuidado com a água quente.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+    },
+    {
+      "texto": "Separe metade das ameixas e pique. Bata a outra metade com a água, os ovos, o óleo, o leite e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture as ameixas picadas e o fermento."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ameixa-preta por tâmaras sem caroço."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se a ameixa é seca natural, e não em calda."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias coberto."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 215,
+      "carboidratos_g": 26.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0413.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de ameixa",
+      "bolo de ameixa seca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

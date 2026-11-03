@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0247",
+  "slug": "coxinha-da-asa-assada-com-alho-e-limao",
+  "nome": "Coxinha da asa assada com alho e limão",
+  "descricao": "Coxinhas da asa marinadas no alho e limão, assadas em forno alto até ficarem bem douradas.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 40,
+    "descanso_min": 30,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "cerca de 6 coxinhas da asa"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "asa-de-frango",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 kg de coxinha da asa"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o alho, o limão, a páprica, o sal e a pimenta e envolva as coxinhas. Deixe 30 minutos na geladeira.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 220 °C. Forre uma assadeira com papel-alumínio e unte com o azeite."
+    },
+    {
+      "texto": "Escorra as coxinhas e arrume na assadeira com a pele para cima, sem encostar umas nas outras."
+    },
+    {
+      "texto": "Asse por 20 minutos, vire e asse mais 15 a 20 minutos, até a pele ficar dourada e firme.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Sirva com a salsinha."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxas no lugar da coxinha da asa: asse 10 minutos a mais."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica por orégano e um pouco de pimenta calabresa."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Seque bem as coxinhas com papel-toalha antes de levar ao forno: a pele fica mais crocante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 573,
+      "carboidratos_g": 2.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0247.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "coxinha da asa",
+      "asinha de frango assada",
+      "tulipa de frango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

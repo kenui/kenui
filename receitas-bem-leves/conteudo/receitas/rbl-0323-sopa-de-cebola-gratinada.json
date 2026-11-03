@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0323",
+  "slug": "sopa-de-cebola-gratinada",
+  "nome": "Sopa de cebola gratinada",
+  "descricao": "Cebolas cozidas devagar na manteiga até dourarem, num caldo com tomilho e queijo derretido por cima.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 55,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 cumbuca (cerca de 300 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 cebolas médias em fatias finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1200,
+      "medida": "ml",
+      "texto": "1,2 litro de água quente"
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de tomilho seco"
+    },
+    {
+      "ingrediente": "louro",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 folha de louro"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para gratinar",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "120 g de mussarela ralada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande e de fundo grosso, derreta a manteiga com o azeite e junte a cebola."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo por 30 minutos, mexendo de vez em quando, até a cebola ficar bem macia e dourada.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Junte o alho e a farinha e mexa por 1 minuto."
+    },
+    {
+      "texto": "Acrescente a água aos poucos, mexendo, e junte o tomilho, o louro, o sal e a pimenta. Cozinhe por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Preaqueça o forno a 220 °C."
+    },
+    {
+      "texto": "Retire o louro e distribua a sopa em cumbucas que possam ir ao forno. Cubra com a mussarela."
+    },
+    {
+      "texto": "Leve ao forno por 6 a 8 minutos, até o queijo derreter e dourar.",
+      "aviso": "As cumbucas saem muito quentes: sirva sobre um prato.",
+      "temporizador_min": 8
+    }
+  ],
+  "forno": {
+    "temperatura_c": 220,
+    "tempo_min": 8,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo prato ou parmesão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use caldo de legumes caseiro no lugar da água para mais sabor."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A paciência no começo é o segredo: cebola dourada devagar dá a cor e o sabor da sopa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 254,
+      "carboidratos_g": 17.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0323.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de cebola",
+      "sopa francesa",
+      "sopa gratinada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

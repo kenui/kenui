@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0289",
+  "slug": "tortilha-de-batata-e-cebola",
+  "nome": "Tortilha de batata e cebola",
+  "descricao": "Tortilha espanhola grossa de batata e cebola cozidas no azeite e envolvidas em ovos.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "fatias"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 fatia e meia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 batatas médias em fatias finas"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média em tiras finas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira antiaderente de 24 cm, aqueça o azeite em fogo médio-baixo e junte a batata, a cebola e 1 colher (chá) do sal."
+    },
+    {
+      "texto": "Cozinhe tampado por 15 minutos, mexendo de vez em quando, até a batata ficar macia sem dourar muito.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Bata os ovos com o restante do sal e a salsinha numa tigela grande. Junte a batata e a cebola escorridas e misture."
+    },
+    {
+      "texto": "Volte tudo à frigideira e cozinhe em fogo baixo, tampado, por 8 minutos, até as bordas firmarem.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra a frigideira com um prato maior, vire de uma vez e deslize a tortilha de volta. Cozinhe mais 5 minutos.",
+      "aviso": "Use luva ou pano ao virar: a frigideira está quente e pode escorrer óleo.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Espere 5 minutos e corte em 6 fatias."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da batata por abobrinha em rodelas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1/2 pimentão vermelho em tiras junto com a cebola."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 2 dias na geladeira. Fica boa fria, em temperatura ambiente."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 310,
+      "carboidratos_g": 27.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0289.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "batata",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tortilha espanhola",
+      "tortilha de batata",
+      "omelete de batata"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

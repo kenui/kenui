@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0448",
+  "slug": "picole-de-cacau-com-banana",
+  "nome": "Picolé de cacau com banana",
+  "descricao": "Picolé cremoso de chocolate feito com banana, leite e cacau, que lembra picolé de chocolate de padaria.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "picolés"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 picolé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 bananas nanicas maduras"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador as bananas, o leite, o cacau e o eritritol por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Despeje em 8 forminhas, coloque os palitos e leve ao congelador por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Para desenformar, passe a forminha rapidamente em água morna."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por leite de coco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol, ou deixe de fora se as bananas estiverem bem maduras."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 69,
+      "carboidratos_g": 11.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0448.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "picole",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picole de chocolate",
+      "picole de banana",
+      "sorvete de palito de cacau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

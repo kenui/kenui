@@ -1,0 +1,142 @@
+{
+  "id": "rbl-0498",
+  "slug": "docinho-de-tamara-nozes-e-cacau",
+  "nome": "Docinho de tâmara, nozes e cacau",
+  "descricao": "Docinhos de enrolar de tâmara, nozes e cacau, passados no coco ralado, para a mesa de doces da ceia.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 0,
+    "descanso_min": 30,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 24,
+    "unidade": "docinhos"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "2 docinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tamara",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de tâmaras sem caroço (cerca de 20)"
+    },
+    {
+      "ingrediente": "noz",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de nozes"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 25,
+      "medida": "g",
+      "texto": "1/4 de pacote (25 g) de coco ralado seco sem açúcar, para passar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Deixe as tâmaras de molho na água quente por 10 minutos, se estiverem duras.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Bata as nozes no processador por 30 segundos, até virar uma farofa grossa."
+    },
+    {
+      "texto": "Junte as tâmaras com a água, o cacau e o sal e bata até formar uma massa que gruda quando apertada.",
+      "aviso": "Desligue o processador antes de soltar a massa da lâmina com a espátula."
+    },
+    {
+      "texto": "Com as mãos levemente úmidas, enrole bolinhas do tamanho de uma noz e passe no coco ralado."
+    },
+    {
+      "texto": "Coloque em forminhas e leve à geladeira por 30 minutos, até firmar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as nozes por castanha-do-pará ou castanha-de-caju sem sal."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Em vez do coco, passe os docinhos em cacau em pó ou em nozes picadinhas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a massa ficar seca e esfarelando, junte mais 1 colher (sopa) de água. Se ficar mole, junte nozes."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, em pote fechado, por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 112,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0498.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "docinho de tamara",
+      "brigadeiro de tamara",
+      "doce de natal sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0207",
+  "nome": "Água saborizada de abacaxi com gengibre",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água filtrada gelada",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "1 xícara (chá) de abacaxi em pedaços",
+      "gramas": 165,
+      "kcal": 79.2,
+      "carboidratos_g": 20.3,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "gengibre",
+      "texto": "1 pedaço de gengibre de 3 cm em rodelas finas (10 g)",
+      "gramas": 10,
+      "kcal": 8,
+      "carboidratos_g": 1.78,
+      "fonte": "USDA SR Legacy 169231 Ginger root, raw",
+      "por_100g": {
+        "kcal": 80,
+        "carboidratos_g": 17.77
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 87.2,
+    "carboidratos_g": 22.1
+  },
+  "por_porcao": {
+    "kcal": 22,
+    "carboidratos_g": 5.5
+  }
+}

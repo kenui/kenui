@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0223",
+  "nome": "Espetinho de frutas com molho de iogurte",
+  "porcoes": 3,
+  "porcao": "2 espetinhos com molho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "morango",
+      "texto": "6 morangos",
+      "gramas": 72,
+      "kcal": 21.6,
+      "carboidratos_g": 4.9,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1 banana-nanica em rodelas grossas",
+      "gramas": 118,
+      "kcal": 108.6,
+      "carboidratos_g": 28.08,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "abacaxi",
+      "texto": "1 xícara (chá) de abacaxi em cubos",
+      "gramas": 165,
+      "kcal": 79.2,
+      "carboidratos_g": 20.3,
+      "fonte": "TACO 4ª ed. 164 Abacaxi, cru",
+      "por_100g": {
+        "kcal": 48,
+        "carboidratos_g": 12.3
+      }
+    },
+    {
+      "ingrediente": "uva",
+      "texto": "20 uvas sem semente (100 g)",
+      "gramas": 100,
+      "kcal": 53,
+      "carboidratos_g": 13.6,
+      "fonte": "TACO 4ª ed. 256 Uva, Itália, crua",
+      "por_100g": {
+        "kcal": 53,
+        "carboidratos_g": 13.6
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g)",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (chá) de eritritol",
+      "gramas": 4.2,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1 pitada de canela",
+      "gramas": 0.1,
+      "kcal": 0.2,
+      "carboidratos_g": 0.08,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1/2 colher (sopa) de suco de limão",
+      "gramas": 7.6,
+      "kcal": 1.7,
+      "carboidratos_g": 0.55,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 351,
+    "carboidratos_g": 70.7
+  },
+  "por_porcao": {
+    "kcal": 117,
+    "carboidratos_g": 23.6
+  }
+}

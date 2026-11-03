@@ -1,0 +1,88 @@
+// Webhook da Hotmart (versão 2.0.0) para o Receitas Bem Leves.
+// - Confere o token "hottok" enviado no cabeçalho X-HOTMART-HOTTOK.
+// - Compra aprovada ou completa: libera o acesso (cria o usuário) e manda o e-mail de boas-vindas.
+// - Reembolso, chargeback ou cancelamento: bloqueia o acesso.
+// Variáveis (Supabase > Edge Functions > Secrets): HOTMART_HOTTOK, RESEND_API_KEY, REMETENTE,
+// URL_APP e, opcional, HOTMART_PRODUTO_ID (para ignorar avisos de outros produtos).
+// SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY já existem nas funções do Supabase.
+import { createClient } from 'npm:@supabase/supabase-js@2.118.0';
+import { decidir, emailBoasVindas, lerEvento } from './regras.ts';
+
+const supabase = createClient(Deno.env.get('SUPABASE_URL')!, Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!, {
+  auth: { persistSession: false },
+});
+const BANIDO = '876000h'; // 100 anos
+
+const resposta = (status: number, texto: string) => new Response(JSON.stringify({ resultado: texto }), {
+  status,
+  headers: { 'content-type': 'application/json' },
+});
+
+async function acharOuCriarUsuario(email: string, nome?: string): Promise<string> {
+  const { data: existente } = await supabase.rpc('usuario_por_email', { p_email: email });
+  if (existente) return existente as string;
+  const { data, error } = await supabase.auth.admin.createUser({ email, email_confirm: true, user_metadata: { nome } });
+  if (error) {
+    const { data: depois } = await supabase.rpc('usuario_por_email', { p_email: email });
+    if (depois) return depois as string;
+    throw error;
+  }
+  return data.user.id;
+}
+
+async function enviarBoasVindas(email: string, nome?: string) {
+  const chave = Deno.env.get('RESEND_API_KEY');
+  if (!chave) { console.warn('RESEND_API_KEY ausente: e-mail de boas-vindas não enviado'); return; }
+  const { assunto, html, texto } = emailBoasVindas({ nome, email, urlApp: Deno.env.get('URL_APP') ?? 'https://app.dividaclara.com.br' });
+  const r = await fetch('https://api.resend.com/emails', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${chave}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ from: Deno.env.get('REMETENTE') ?? 'Receitas Bem Leves <acesso@dividaclara.com.br>', to: [email], subject: assunto, html, text: texto, reply_to: 'suporte@dividaclara.com.br' }),
+  });
+  if (!r.ok) console.error('Falha no envio do e-mail de boas-vindas', r.status, await r.text());
+}
+
+Deno.serve(async (req) => {
+  if (req.method !== 'POST') return resposta(405, 'use POST');
+
+  const hottok = req.headers.get('x-hotmart-hottok');
+  if (!hottok || hottok !== Deno.env.get('HOTMART_HOTTOK')) return resposta(401, 'hottok inválido');
+
+  let corpo: unknown;
+  try { corpo = await req.json(); } catch { return resposta(400, 'corpo inválido'); }
+  const ev = lerEvento(corpo);
+  if (!ev) return resposta(400, 'evento sem id, tipo ou e-mail');
+
+  const produtoEsperado = Deno.env.get('HOTMART_PRODUTO_ID');
+  if (produtoEsperado && ev.produto && ev.produto !== produtoEsperado) return resposta(200, 'outro produto: ignorado');
+
+  // Idempotência: o mesmo aviso pode chegar mais de uma vez.
+  const { error: erroEvento } = await supabase.from('eventos_hotmart').insert({ id: ev.id, tipo: ev.tipo, email: ev.email, transacao: ev.transacao, conteudo: corpo });
+  if (erroEvento) {
+    if (erroEvento.code === '23505') return resposta(200, 'aviso já processado');
+    console.error(erroEvento);
+    return resposta(500, 'erro ao registrar aviso');
+  }
+
+  const acao = decidir(ev.tipo);
+  if (acao === 'ignorar') return resposta(200, `evento ${ev.tipo} registrado sem ação`);
+
+  const { data: anterior } = await supabase.from('compradores').select('status').eq('email', ev.email).maybeSingle();
+  try {
+    const userId = await acharOuCriarUsuario(ev.email, ev.nome);
+    if (acao === 'liberar') {
+      await supabase.from('compradores').upsert({ email: ev.email, user_id: userId, nome: ev.nome, status: 'ativo', transacao: ev.transacao, produto: ev.produto, ultimo_evento: ev.tipo, atualizado_em: new Date().toISOString() });
+      await supabase.auth.admin.updateUserById(userId, { ban_duration: 'none' });
+      if (anterior?.status !== 'ativo') await enviarBoasVindas(ev.email, ev.nome);
+      return resposta(200, 'acesso liberado');
+    }
+    await supabase.from('compradores').upsert({ email: ev.email, user_id: userId, nome: ev.nome, status: 'bloqueado', transacao: ev.transacao, produto: ev.produto, ultimo_evento: ev.tipo, atualizado_em: new Date().toISOString() });
+    await supabase.auth.admin.updateUserById(userId, { ban_duration: BANIDO });
+    return resposta(200, 'acesso bloqueado');
+  } catch (e) {
+    console.error(e);
+    // Apaga o registro do aviso para a Hotmart poder tentar de novo.
+    await supabase.from('eventos_hotmart').delete().eq('id', ev.id);
+    return resposta(500, 'erro ao processar');
+  }
+});

@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0379",
+  "slug": "bolo-de-tamara",
+  "nome": "Bolo de tâmara",
+  "descricao": "Bolo escuro e úmido adoçado só com tâmaras batidas, sem nenhum adoçante.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia (1/10 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tamara",
+      "quantidade": 20,
+      "medida": "unidade",
+      "texto": "20 tâmaras sem caroço (cerca de 1 xícara)",
+      "alternativa": {
+        "ingrediente": "uva-passa",
+        "texto": "ou 1 xícara (chá) de uva-passa"
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de água fervente"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque as tâmaras numa tigela, cubra com a água fervente e deixe 10 minutos, até amolecer.",
+      "aviso": "Cuidado com a água fervente.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+    },
+    {
+      "texto": "Bata as tâmaras com a água, os ovos, o óleo e a baunilha no liquidificador até ficar um creme liso.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as tâmaras por ameixas secas sem caroço, na mesma quantidade."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por farinha de trigo branca."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A água das tâmaras entra no bolo: não jogue fora."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias coberto."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 24.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0379.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de tamaras",
+      "bolo adocado com fruta",
+      "bolo sem adocante"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

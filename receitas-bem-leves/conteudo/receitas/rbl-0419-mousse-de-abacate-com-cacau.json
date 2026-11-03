@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0419",
+  "slug": "mousse-de-abacate-com-cacau",
+  "nome": "Mousse de abacate com cacau",
+  "descricao": "Mousse de chocolate feita com abacate, aveludada e pronta em poucos minutos, sem ir ao fogo.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 60,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "taças"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacate",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de polpa de abacate maduro (cerca de 1/2 abacate grande)"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de castanha-de-caju picada (20 g)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador ou no processador o abacate, o cacau, o eritritol, o leite, a baunilha e o sal por 2 minutos, raspando as laterais, até ficar bem liso.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Prove e, se quiser mais doce, junte mais 1 colher (sopa) de eritritol."
+    },
+    {
+      "texto": "Distribua em 4 taças e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Sirva com a castanha-de-caju picada por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por leite de coco: o sabor fica mais suave."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-de-caju por nozes ou amendoim picado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Use abacate bem maduro, que cede ao apertar: o creme fica liso e sem gosto de verde."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde coberta com filme encostado na mousse, na geladeira, por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 107,
+      "carboidratos_g": 9.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0419.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mousse de abacate",
+      "mousse de chocolate com abacate",
+      "doce de abacate com cacau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0404",
+  "slug": "biscoito-de-creme-de-leite",
+  "nome": "Biscoito de creme de leite",
+  "descricao": "Biscoito macio tipo biscoito de nata, feito com uma caixinha de creme de leite.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 18,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "biscoitos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "3 biscoitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2.5,
+      "medida": "xicara",
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo, aproximadamente"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, misture o creme de leite, o eritritol e o ovo."
+    },
+    {
+      "texto": "Junte a farinha aos poucos e o fermento, amassando até a massa desgrudar das mãos. Pode não precisar de toda a farinha."
+    },
+    {
+      "texto": "Faça rolinhos, corte em pedaços de 4 cm ou modele em formato de S, e arrume na assadeira."
+    },
+    {
+      "texto": "Asse por 15 a 18 minutos, até dourar de leve embaixo.",
+      "temporizador_min": 18
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 18,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte raspas de 1 limão à massa para um biscoito perfumado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa deve ficar macia: farinha demais deixa o biscoito duro."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 164,
+      "carboidratos_g": 24.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0404.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de nata",
+      "bolacha de creme de leite",
+      "biscoito caseiro macio"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

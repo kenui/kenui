@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0455",
+  "slug": "geleia-de-frutas-vermelhas-com-chia",
+  "nome": "Geleia de frutas vermelhas com chia",
+  "descricao": "Geleia rápida de frutas vermelhas engrossada com chia, de cor intensa e sabor azedinho.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "descanso_min": 15,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 14,
+    "unidade": "colheres (sopa)"
+  },
+  "porcoes": 14,
+  "porcao": {
+    "descricao": "1 colher (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "frutas-vermelhas-congeladas",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de frutas vermelhas congeladas sem açúcar",
+      "alternativa": {
+        "ingrediente": "morango",
+        "texto": "ou a mesma medida de morangos picados"
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "chia",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de semente de chia (20 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe as frutas, o eritritol e o limão em fogo baixo por 8 a 10 minutos, amassando com um garfo.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Desligue, junte a chia e mexa bem."
+    },
+    {
+      "texto": "Deixe descansar 15 minutos, até engrossar, e passe para um pote limpo.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use só morangos se não encontrar frutas vermelhas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 21,
+      "carboidratos_g": 4.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0455.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "geleia_pote",
+    "massa": "chocolate",
+    "cobertura": "calda_frutas_vermelhas",
+    "recheio": null,
+    "enfeites": [
+      "frutas_vermelhas",
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "geleia de chia",
+      "geleia de frutas vermelhas",
+      "geleia sem acucar"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

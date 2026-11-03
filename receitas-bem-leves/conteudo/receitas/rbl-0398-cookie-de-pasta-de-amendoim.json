@@ -1,0 +1,136 @@
+{
+  "id": "rbl-0398",
+  "slug": "cookie-de-pasta-de-amendoim",
+  "nome": "Cookie de pasta de amendoim",
+  "descricao": "Cookies de 3 ingredientes, com gosto forte de amendoim e textura que derrete.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "descanso_min": 15,
+    "total_min": 37
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "cookies"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 cookies"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 xícara (chá) de pasta de amendoim integral, 100% amendoim (250 g)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Numa tigela, misture a pasta de amendoim, o eritritol, o ovo e o sal até formar uma massa."
+    },
+    {
+      "texto": "Faça 16 bolinhas e coloque na assadeira. Achate com um garfo, fazendo o desenho quadriculado."
+    },
+    {
+      "texto": "Asse por 10 a 12 minutos, até dourar de leve nas bordas.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Espere esfriar 15 minutos na assadeira: quentes, eles quebram.",
+      "temporizador_min": 15
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 12,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Se a pasta for muito mole, junte 2 colheres (sopa) de aveia em flocos finos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se a pasta de amendoim tem só amendoim."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 192,
+      "carboidratos_g": 6.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0398.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "amendoim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cookie de amendoim",
+      "biscoito de amendoim",
+      "cookie de 3 ingredientes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

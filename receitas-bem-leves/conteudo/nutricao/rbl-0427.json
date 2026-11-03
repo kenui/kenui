@@ -1,0 +1,65 @@
+{
+  "receita": "rbl-0427",
+  "nome": "Creme de papaia",
+  "porcoes": 3,
+  "porcao": "1 taça",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "mamao-papaia",
+      "texto": "1 mamão papaia médio, sem casca e sem sementes (300 g), em pedaços congelados",
+      "gramas": 300,
+      "kcal": 120,
+      "carboidratos_g": 31.2,
+      "fonte": "TACO 4ª ed. 226 Mamão, Papaia, cru",
+      "por_100g": {
+        "kcal": 40,
+        "carboidratos_g": 10.4
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1 pote de iogurte natural integral (170 g), gelado",
+      "gramas": 170,
+      "kcal": 86.7,
+      "carboidratos_g": 3.23,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "3 colheres (sopa) de creme de leite",
+      "gramas": 45,
+      "kcal": 99.5,
+      "carboidratos_g": 2.03,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol, se quiser mais doce",
+      "motivo": "opcional"
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "Folhas de hortelã para enfeitar",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 306.2,
+    "carboidratos_g": 36.5
+  },
+  "por_porcao": {
+    "kcal": 102,
+    "carboidratos_g": 12.2
+  }
+}

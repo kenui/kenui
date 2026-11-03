@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0179",
+  "nome": "Dadinho de tapioca de forno",
+  "porcoes": 6,
+  "porcao": "5 dadinhos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "tapioca-granulada",
+      "texto": "1 e 1/2 xícara (chá) de tapioca granulada",
+      "gramas": 228,
+      "kcal": 816.2,
+      "carboidratos_g": 202.21,
+      "fonte": "USDA SR Legacy 169717 Tapioca, pearl, dry",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 88.69
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "texto": "2 xícaras de queijo minas meia cura ralado (200 g)",
+      "gramas": 200,
+      "kcal": 642,
+      "carboidratos_g": 7.2,
+      "fonte": "TACO 4ª ed. 462 Queijo, minas, meia cura",
+      "por_100g": {
+        "kcal": 321,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "2 xícaras (chá) de leite",
+      "gramas": 488,
+      "kcal": 297.7,
+      "carboidratos_g": 23.42,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite para untar",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1876.7,
+    "carboidratos_g": 233.1
+  },
+  "por_porcao": {
+    "kcal": 313,
+    "carboidratos_g": 38.9
+  }
+}

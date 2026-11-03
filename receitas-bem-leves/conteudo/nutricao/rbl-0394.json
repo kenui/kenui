@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0394",
+  "nome": "Brownie de cacau com nozes",
+  "porcoes": 16,
+  "porcao": "1 quadrado",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "100 g de manteiga (cerca de 7 colheres de sopa)",
+      "gramas": 100,
+      "kcal": 726,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "1/2 xícara (chá) de cacau em pó 100%",
+      "gramas": 43,
+      "kcal": 98,
+      "carboidratos_g": 24.9,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "gramas": 150,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "baunilha",
+      "texto": "1 colher (chá) de essência de baunilha",
+      "gramas": 4.2,
+      "kcal": 12.1,
+      "carboidratos_g": 0.53,
+      "fonte": "USDA SR Legacy 173471 Vanilla extract",
+      "por_100g": {
+        "kcal": 288,
+        "carboidratos_g": 12.65
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1/2 xícara (chá) de farinha de trigo",
+      "gramas": 62.5,
+      "kcal": 225,
+      "carboidratos_g": 46.94,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz",
+      "texto": "1/2 xícara (chá) de nozes picadas",
+      "gramas": 58.5,
+      "kcal": 362.7,
+      "carboidratos_g": 10.76,
+      "fonte": "TACO 4ª ed. 597 Noz, crua",
+      "por_100g": {
+        "kcal": 620,
+        "carboidratos_g": 18.4
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1638.3,
+    "carboidratos_g": 85.6
+  },
+  "por_porcao": {
+    "kcal": 102,
+    "carboidratos_g": 5.4
+  }
+}

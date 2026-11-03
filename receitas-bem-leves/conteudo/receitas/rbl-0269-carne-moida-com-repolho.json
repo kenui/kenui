@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0269",
+  "slug": "carne-moida-com-repolho",
+  "nome": "Carne moída com repolho",
+  "descricao": "Refogado rápido de carne moída com repolho em tiras finas, cebola e tomate.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 xícara (chá) e meia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "repolho",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de repolho em tiras finas (cerca de 1/4 de repolho)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, refogue a cebola e o alho no azeite por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a carne, o sal e a pimenta e mexa por 8 minutos, até soltar e dourar levemente.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente o tomate e cozinhe 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte o repolho e mexa por 5 a 6 minutos, até murchar e ficar macio, mas ainda um pouco firme.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Desligue e misture a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use repolho roxo ou couve em tiras no lugar do repolho branco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne moída por linguiça sem pele esfarelada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Corte o repolho bem fino: ele cozinha rápido e fica macio sem soltar muita água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 225,
+      "carboidratos_g": 6.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0269.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne moida",
+    "enfeites": [
+      "folhas_verdes",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "carne moida com repolho",
+      "repolho refogado com carne",
+      "refogado de repolho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

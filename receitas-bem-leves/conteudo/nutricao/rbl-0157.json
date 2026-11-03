@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0157",
+  "nome": "Pasta de queijo minas com azeitona",
+  "porcoes": 4,
+  "porcao": "1/3 de xícara de pasta com 5 tomates-cereja",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 pedaço de queijo minas frescal (200 g)",
+      "gramas": 200,
+      "kcal": 528,
+      "carboidratos_g": 6.4,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "3 colheres (sopa) de iogurte natural",
+      "gramas": 45.9,
+      "kcal": 23.4,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "azeitona-verde",
+      "texto": "10 azeitonas verdes picadas",
+      "gramas": 44,
+      "kcal": 60.3,
+      "carboidratos_g": 1.8,
+      "fonte": "TACO 4ª ed. 521 Azeitona, verde, conserva",
+      "por_100g": {
+        "kcal": 137,
+        "carboidratos_g": 4.1
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "20 tomates-cereja (340 g)",
+      "gramas": 340,
+      "kcal": 51,
+      "carboidratos_g": 10.54,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 784.9,
+    "carboidratos_g": 20.4
+  },
+  "por_porcao": {
+    "kcal": 196,
+    "carboidratos_g": 5.1
+  }
+}

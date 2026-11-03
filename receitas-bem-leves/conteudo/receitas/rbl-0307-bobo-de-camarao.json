@@ -1,0 +1,180 @@
+{
+  "id": "rbl-0307",
+  "slug": "bobo-de-camarao",
+  "nome": "Bobó de camarão",
+  "descricao": "Creme de mandioca com leite de coco e dendê, com camarão refogado no tomate e coentro.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 concha grande"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mandioca",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de mandioca descascada em pedaços"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "camarao",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de camarão limpo"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "azeite-de-dende",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite de dendê",
+      "alternativa": {
+        "ingrediente": "azeite",
+        "texto": "ou 2 colheres (sopa) de azeite com 1 colher (chá) de páprica doce"
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de coentro picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioca em água por 25 a 30 minutos, até ficar bem macia. Reserve 1 xícara (chá) da água do cozimento e escorra.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Bata a mandioca no liquidificador com o leite de coco e a água reservada até virar um creme liso.",
+      "aviso": "Deixe a mandioca amornar antes de bater e segure a tampa com um pano."
+    },
+    {
+      "texto": "Tempere o camarão com o suco de limão e metade do sal."
+    },
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola, o alho, o tomate e o pimentão por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o creme de mandioca, o dendê e o restante do sal e cozinhe por 3 minutos, mexendo."
+    },
+    {
+      "texto": "Acrescente o camarão e cozinhe por 3 a 4 minutos, até ficar rosado. Desligue e misture o coentro.",
+      "temporizador_min": 4
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Quem não gosta de coentro pode usar salsinha e cebolinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioca congelada, já descascada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias. Ao aquecer, junte um pouco de água para afinar o creme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 324,
+      "carboidratos_g": 41.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0307.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bobo de camarao",
+      "creme de mandioca com camarao",
+      "comida baiana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0159",
+  "slug": "tomate-recheado-com-pate-de-ovo",
+  "nome": "Tomate recheado com patê de ovo",
+  "descricao": "Tomates cavados e recheados com patê de ovo cozido, requeijão e cebolinha.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "tomates recheados"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 tomate recheado"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates médios firmes"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os ovos numa panela, cubra com água e leve ao fogo. Quando ferver, conte 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Passe os ovos para uma tigela com água fria e deixe 5 minutos. Descasque.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Corte uma tampinha de cada tomate e tire as sementes com uma colher pequena. Polvilhe uma pitada de sal por dentro e deixe de boca para baixo."
+    },
+    {
+      "texto": "Amasse os ovos com um garfo e misture o requeijão, o azeite, a cebolinha, o sal e a pimenta."
+    },
+    {
+      "texto": "Recheie os tomates com o patê e sirva gelado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por iogurte natural ou por ricota."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Acrescente 1 colher (chá) de páprica ou de cúrcuma ao patê para dar cor."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O patê dura 2 dias na geladeira. Recheie os tomates no dia de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 129,
+      "carboidratos_g": 4.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0159.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "patê de ovo",
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tomate recheado",
+      "pate de ovo",
+      "pasta de ovo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

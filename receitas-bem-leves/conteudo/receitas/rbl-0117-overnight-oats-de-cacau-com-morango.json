@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0117",
+  "slug": "overnight-oats-de-cacau-com-morango",
+  "nome": "Overnight oats de cacau com morango",
+  "descricao": "Aveia de geladeira com cacau e chia, coberta de morangos frescos.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 240,
+    "total_min": 245
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pote"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pote"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "chia",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 colher (sopa) de chia (10 g)"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num pote com tampa, misture a aveia, a chia, o cacau e o eritritol."
+    },
+    {
+      "texto": "Junte o leite e mexa bem até o cacau dissolver."
+    },
+    {
+      "texto": "Tampe e leve à geladeira por pelo menos 4 horas ou de um dia para o outro.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Na hora de comer, mexa e cubra com os morangos."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o morango por banana ou frutas vermelhas congeladas sem açúcar."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem chia? Use 1 colher (sopa) de linhaça."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura até 2 dias na geladeira, bem tampado. Coloque a fruta só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 350,
+      "carboidratos_g": 47.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0117.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango",
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "overnight oats de chocolate",
+      "aveia de geladeira com cacau",
+      "aveia dormida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

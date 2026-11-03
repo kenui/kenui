@@ -1,0 +1,192 @@
+{
+  "id": "rbl-0335",
+  "slug": "pimentoes-recheados-com-arroz-integral",
+  "nome": "Pimentões recheados com arroz integral",
+  "descricao": "Pimentões assados recheados com arroz integral, abobrinha, tomate e mussarela.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 70,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pimentões"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 pimentão recheado"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Recheio",
+      "ingrediente": "arroz-integral",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de arroz integral cru"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água quente"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubinhos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "120 g de mussarela ralada"
+    },
+    {
+      "grupo": "Pimentões",
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 pimentões vermelhos grandes"
+    },
+    {
+      "grupo": "Pimentões",
+      "ingrediente": "pimentao-amarelo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 pimentões amarelos grandes"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe o arroz na água com metade do sal, com a panela tampada, por 35 a 40 minutos, até ficar macio e secar.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Numa frigideira, aqueça o azeite e refogue a cebola e o alho. Junte a abobrinha, o tomate e o restante do sal e cozinhe por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Misture o arroz, a salsinha e metade da mussarela ao refogado."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Corte uma tampa nos pimentões e retire as sementes."
+    },
+    {
+      "texto": "Encha os pimentões com o recheio, cubra com o restante da mussarela e arrume em pé numa assadeira com 1/2 xícara de água no fundo."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 20 minutos. Retire o papel e asse mais 10 minutos, até o queijo dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o arroz integral por quinoa ou lentilha cozida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use queijo minas meia cura no lugar da mussarela."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Aproveite sobras de arroz integral: são 2 xícaras de arroz cozido."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 346,
+      "carboidratos_g": 41.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0335.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "arroz integral e queijo",
+    "enfeites": [
+      "pimentao",
+      "queijo_derretido",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pimentao recheado",
+      "pimentao recheado vegetariano",
+      "pimentao com arroz"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

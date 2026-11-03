@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0320",
+  "slug": "creme-de-brocolis-com-ricota",
+  "nome": "Creme de brócolis com ricota",
+  "descricao": "Creme verde de brócolis batido com ricota, alho e raspas de limão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "brocolis",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "1 maço de brócolis em floretes, com os talos picados (500 g)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 800,
+      "medida": "ml",
+      "texto": "800 ml de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ricota",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 pedaço de ricota (150 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Raspas e suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, derreta a manteiga e refogue a cebola e o alho até ficarem macios."
+    },
+    {
+      "texto": "Junte o brócolis, a água e o sal. Tampe e cozinhe por 10 a 12 minutos, até o brócolis ficar macio e ainda verde.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Bata no liquidificador com a ricota até ficar liso.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Volte à panela, junte as raspas e o suco de limão e a pimenta e aqueça por 2 minutos, sem deixar ferver muito."
+    },
+    {
+      "texto": "Sirva quente."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por requeijão ou queijo cottage."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use couve-flor e brócolis meio a meio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não cozinhe demais o brócolis: o creme fica verde vivo e sem gosto forte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 124,
+      "carboidratos_g": 9.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0320.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "brocolis"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de brocolis",
+      "creme de brocolis",
+      "sopa verde de brocolis"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

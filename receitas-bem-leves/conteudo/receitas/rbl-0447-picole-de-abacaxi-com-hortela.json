@@ -1,0 +1,117 @@
+{
+  "id": "rbl-0447",
+  "slug": "picole-de-abacaxi-com-hortela",
+  "nome": "Picolé de abacaxi com hortelã",
+  "descricao": "Picolé de abacaxi batido com folhas de hortelã, só fruta e muito refrescante.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "picolés"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 picolé"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de abacaxi maduro picado"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de folhas de hortelã"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o abacaxi, a hortelã e a água por 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Se preferir sem fiapos, passe por uma peneira."
+    },
+    {
+      "texto": "Despeje em 8 forminhas, coloque os palitos e leve ao congelador por pelo menos 6 horas.",
+      "temporizador_min": 360
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por gengibre ralado (1 colher de chá)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade do abacaxi por manga."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Abacaxi bem maduro, com cheiro doce na base, dispensa adoçante."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 30,
+      "carboidratos_g": 7.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0447.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "picole",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "picole de abacaxi",
+      "picole de fruta",
+      "picole natural"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "rbl-0450",
+  "slug": "compota-de-maca-com-canela",
+  "nome": "Compota de maçã com canela",
+  "descricao": "Maçã em cubos cozida com canela e limão até ficar macia e perfumada, boa pura ou com iogurte.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1/2 xícara"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 maçãs fuji (600 g), descascadas e em cubos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque a maçã, a água, o suco de limão, a canela e o eritritol numa panela."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 12 a 15 minutos, mexendo de vez em quando, até a maçã ficar macia mas inteira.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Sirva morna ou gelada."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por pera, com o mesmo tempo de panela."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a canela em pó por 1 pau de canela, retirado no fim."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para virar purê de maçã, cozinhe 5 minutos a mais e amasse."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 58,
+      "carboidratos_g": 15.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0450.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "compota de maca",
+      "maca cozida",
+      "doce de maca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0141",
+  "nome": "Kibe de forno",
+  "porcoes": 8,
+  "porcao": "1 pedaço (1/8 da travessa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "trigo-para-kibe",
+      "texto": "1 xícara (chá) de trigo para kibe",
+      "gramas": 140,
+      "kcal": 478.8,
+      "carboidratos_g": 106.22,
+      "fonte": "USDA SR Legacy 170688 Bulgur, dry",
+      "por_100g": {
+        "kcal": 342,
+        "carboidratos_g": 75.87
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água para hidratar",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "texto": "500 g de carne moída de patinho",
+      "gramas": 500,
+      "kcal": 665,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 376 Carne, bovina, patinho, sem gordura, cru",
+      "por_100g": {
+        "kcal": 133,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola ralada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "3 colheres (sopa) de hortelã picada",
+      "gramas": 17.1,
+      "kcal": 7.5,
+      "carboidratos_g": 1.44,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/2 colher (chá) de sal",
+      "gramas": 9,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "2 pitadas de pimenta-do-reino",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "2 pitadas de cominho",
+      "gramas": 0.5,
+      "kcal": 2,
+      "carboidratos_g": 0.23,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1554.6,
+    "carboidratos_g": 117.8
+  },
+  "por_porcao": {
+    "kcal": 194,
+    "carboidratos_g": 14.7
+  }
+}

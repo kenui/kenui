@@ -1,0 +1,194 @@
+{
+  "id": "rbl-0160",
+  "slug": "sanduiche-natural-de-frango-no-pao-de-frigideira",
+  "nome": "Sanduíche natural de frango no pão de frigideira",
+  "descricao": "Sanduíche de frango com iogurte, cenoura e alface num pãozinho de aveia feito na hora na frigideira.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 12,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "sanduíches"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 sanduíche"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pão",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite para untar"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 xícara de peito de frango cozido e desfiado (150 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de iogurte natural"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cenoura",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cenoura ralada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alface",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "2 folhas de alface (50 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 tomate em rodelas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o frango, o iogurte, a cenoura, a salsinha e o sal. Reserve."
+    },
+    {
+      "texto": "Noutra tigela, bata os ovos com um garfo e misture a aveia, o requeijão e o sal. Junte o fermento por último."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena (15 cm) com metade do azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje metade da massa, tampe e deixe 3 minutos. Vire e deixe mais 2 a 3 minutos, até dourar.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Repita com o restante do azeite e da massa."
+    },
+    {
+      "texto": "Corte cada pão ao meio na horizontal e recheie com o frango, a alface e o tomate."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por atum escorrido ou por ovo cozido picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o iogurte por requeijão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O recheio dura 2 dias na geladeira. Para levar na marmita, monte o sanduíche na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 315,
+      "carboidratos_g": 11.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0160.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "sanduiche",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "folhas_verdes",
+      "tomate",
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sanduiche natural",
+      "lanche natural de frango",
+      "sanduiche sem pao de padaria"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

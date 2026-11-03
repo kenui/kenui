@@ -1,0 +1,181 @@
+{
+  "id": "rbl-0241",
+  "slug": "frango-com-legumes-na-panela-de-pressao",
+  "nome": "Frango com legumes na panela de pressão",
+  "descricao": "Coxas de frango cozidas na pressão com batata, cenoura e vagem, num caldinho temperado.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "porções"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 prato raso (2 coxas com legumes)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coxa-de-frango",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "10 coxas de frango sem pele (cerca de 1 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 240,
+      "medida": "ml",
+      "texto": "1 xícara (chá) de água (240 ml)"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas médias em 4 pedaços"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em pedaços grandes"
+    },
+    {
+      "ingrediente": "vagem",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de vagem em pedaços"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as coxas com o sal e a páprica."
+    },
+    {
+      "texto": "Na panela de pressão aberta, aqueça o óleo e doure as coxas por 6 minutos, virando.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Junte a cebola, o alho e o tomate e refogue 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a água, a batata, a cenoura e a vagem. Feche a panela."
+    },
+    {
+      "texto": "Quando pegar pressão, abaixe o fogo e cozinhe por 12 minutos.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela. Nunca force a tampa.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Abra, confira se a batata está macia e, se o caldo estiver ralo, deixe ferver 3 minutos sem tampa.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Finalize com a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a vagem por chuchu ou brócolis (o brócolis entra só depois de abrir a panela, por 3 minutos)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use sobrecoxas ou frango a passarinho no lugar das coxas."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira, em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 352,
+      "carboidratos_g": 19.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0241.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "frango na pressao",
+      "frango com legumes",
+      "coxa na panela de pressao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

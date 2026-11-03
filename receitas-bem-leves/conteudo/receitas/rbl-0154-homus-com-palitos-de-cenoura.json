@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0154",
+  "slug": "homus-com-palitos-de-cenoura",
+  "nome": "Homus com palitos de cenoura",
+  "descricao": "Pasta cremosa de grão-de-bico com tahine, limão e alho, servida com palitos de cenoura.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de homus"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1/3 de xícara de homus com 1/2 cenoura"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de grão-de-bico cozido e escorrido"
+    },
+    {
+      "ingrediente": "tahine",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de tahine",
+      "alternativa": {
+        "ingrediente": "azeite",
+        "texto": "ou mais 2 colheres (sopa) de azeite",
+        "observacao": "Fica mais leve e um pouco menos encorpado."
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de água gelada"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cominho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de páprica para finalizar"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cenoura",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 cenouras em palitos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "No processador ou no liquidificador, bata o grão-de-bico, o tahine, o limão, o alho, o cominho, o sal e 2 colheres (sopa) de azeite."
+    },
+    {
+      "texto": "Junte a água aos poucos, batendo, até ficar bem cremoso, cerca de 3 minutos.",
+      "aviso": "No liquidificador, pare e mexa com uma colher algumas vezes, com o aparelho desligado."
+    },
+    {
+      "texto": "Prove e acerte o sal e o limão."
+    },
+    {
+      "texto": "Passe para uma tigela, regue com o restante do azeite e polvilhe a páprica."
+    },
+    {
+      "texto": "Descasque as cenouras, corte em palitos e sirva ao lado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem tahine? Use mais 2 colheres (sopa) de azeite, ou 1 colher (sopa) de gergelim batido junto."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cenoura por palitos de pepino, de pimentão ou de salsão."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tire as peles do grão-de-bico antes de bater para um homus mais liso."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias na geladeira em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 192,
+      "carboidratos_g": 19.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0154.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "grão-de-bico",
+    "enfeites": [
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "homus",
+      "pasta de grao de bico",
+      "hummus"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0467",
+  "slug": "torta-de-ricota-com-uva-passa",
+  "nome": "Torta de ricota com uva-passa",
+  "descricao": "Torta de ricota assada, macia e perfumada com limão, com uvas-passas espalhadas na massa.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "descanso_min": 120,
+    "total_min": 175
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ricota",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "2 pedaços de ricota fresca (500 g)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "1/2 caixinha de creme de leite (100 g)"
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de amido de milho"
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de raspas de limão"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de uvas-passas"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com a manteiga uma forma de 20 cm com fundo removível."
+    },
+    {
+      "texto": "Bata no liquidificador a ricota, os ovos, o eritritol, o creme de leite e o amido até ficar liso."
+    },
+    {
+      "texto": "Misture as raspas de limão e as uvas-passas com uma colher e despeje na forma."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar por cima e um palito sair limpo do centro.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Deixe esfriar e leve à geladeira por 2 horas antes de desenformar.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as uvas-passas por damasco seco picado ou deixe sem."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Escorra a ricota se ela estiver muito úmida, para a torta não ficar aguada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 137,
+      "carboidratos_g": 7.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0467.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de ricota",
+      "cheesecake de ricota",
+      "torta de ricota doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

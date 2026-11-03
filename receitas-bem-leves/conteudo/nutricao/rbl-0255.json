@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0255",
+  "nome": "Bife acebolado",
+  "porcoes": 4,
+  "porcao": "1 bife com cebola",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "contra-file",
+      "texto": "4 bifes de contrafilé com cerca de 1,5 cm (600 g)",
+      "gramas": 600,
+      "kcal": 942,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 345 Carne, bovina, contra-filé, sem gordura, cru",
+      "por_100g": {
+        "kcal": 157,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho amassados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "2 colheres (sopa) de óleo",
+      "gramas": 27.2,
+      "kcal": 240.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "3 cebolas médias em rodelas finas",
+      "gramas": 330,
+      "kcal": 128.7,
+      "carboidratos_g": 29.37,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "vinagre",
+      "texto": "1 colher (sopa) de vinagre",
+      "gramas": 14.9,
+      "kcal": 2.7,
+      "carboidratos_g": 0.01,
+      "fonte": "USDA SR Legacy 172237 Vinegar, distilled",
+      "por_100g": {
+        "kcal": 18,
+        "carboidratos_g": 0.04
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/4 de xícara (chá) de água (60 ml)",
+      "gramas": 60,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "1 colher (sopa) de salsinha picada",
+      "gramas": 3.8,
+      "kcal": 1.3,
+      "carboidratos_g": 0.22,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1322.1,
+    "carboidratos_g": 31.1
+  },
+  "por_porcao": {
+    "kcal": 331,
+    "carboidratos_g": 7.8
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0201",
+  "nome": "Chá gelado de hibisco com laranja",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "cha-de-hibisco-pronto",
+      "texto": "4 xícaras (chá) de chá de hibisco (4 saquinhos ou 2 colheres (sopa) da flor seca e 1 litro de água)",
+      "gramas": 948,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 171946 Beverages, tea, hibiscus, brewed",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "suco de 1 laranja",
+      "gramas": 86,
+      "kcal": 28.4,
+      "carboidratos_g": 6.54,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "laranja",
+      "texto": "1 laranja em rodelas finas",
+      "gramas": 131,
+      "kcal": 48.5,
+      "carboidratos_g": 11.66,
+      "fonte": "TACO 4ª ed. 214 Laranja, pêra, crua",
+      "por_100g": {
+        "kcal": 37,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 76.9,
+    "carboidratos_g": 18.2
+  },
+  "por_porcao": {
+    "kcal": 19,
+    "carboidratos_g": 4.5
+  }
+}

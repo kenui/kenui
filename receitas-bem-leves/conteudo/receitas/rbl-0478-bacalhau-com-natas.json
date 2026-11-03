@@ -1,0 +1,209 @@
+{
+  "id": "rbl-0478",
+  "slug": "bacalhau-com-natas",
+  "nome": "Bacalhau com natas",
+  "descricao": "Lascas de bacalhau com cebola e batatinhas douradas num molho branco cremoso, gratinado no forno, como se faz em Portugal.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 70,
+    "descanso_min": 1440,
+    "total_min": 1540
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 prato raso"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "bacalhau-salgado",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de bacalhau salgado em postas"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 batatas médias em cubinhos de 1 cm"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em fatias finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de leite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha (200 g) de creme de leite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Dessalgue o bacalhau: deixe de molho em água fria na geladeira por 24 horas, trocando a água 4 vezes.",
+      "temporizador_min": 1440
+    },
+    {
+      "texto": "Escorra, ferva em água por 5 minutos e escorra de novo. Tire a pele e as espinhas e separe em lascas.",
+      "aviso": "Cuidado com a água fervente ao escorrer.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe as batatas numa assadeira com 2 colheres de azeite e asse por 25 minutos, mexendo na metade, até dourarem.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Numa frigideira grande, aqueça o restante do azeite e refogue a cebola por 6 a 8 minutos, até ficar macia e dourada. Junte o alho e o bacalhau e mexa por 2 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo com um batedor, e cozinhe por 6 minutos, até engrossar.",
+      "temporizador_min": 7
+    },
+    {
+      "texto": "Desligue, misture o creme de leite, a noz-moscada e a pimenta. Prove: o bacalhau já tem sal, então só ponha sal se precisar."
+    },
+    {
+      "texto": "Numa travessa, misture o bacalhau, as batatas e metade do molho. Cubra com o restante do molho e polvilhe o parmesão."
+    },
+    {
+      "texto": "Asse por 20 minutos, até dourar e borbulhar nas bordas. Salpique a salsinha e sirva.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o bacalhau tipo Porto por saithe ou polaca do Alasca salgados, que custam menos. Dessalgue por 12 a 18 horas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por mais 1 xícara de leite, para um molho mais leve."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para saber se dessalgou, prove uma lasquinha cozida: deve ter gosto leve de sal."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 435,
+      "carboidratos_g": 26.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0478.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "molho_branco",
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bacalhau com natas",
+      "bacalhau gratinado",
+      "bacalhau de natal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0384",
+  "slug": "bolo-de-caneca-de-cacau",
+  "nome": "Bolo de caneca de cacau",
+  "descricao": "Bolinho de chocolate individual, feito na caneca e pronto em 2 minutos no micro-ondas.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 2,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "bolo de caneca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 caneca"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa caneca grande (cerca de 300 ml), bata o ovo com um garfo."
+    },
+    {
+      "texto": "Junte o leite, o óleo e o eritritol e misture bem."
+    },
+    {
+      "texto": "Acrescente a aveia e o cacau e mexa até não ter grumos. Misture o fermento por último."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, até crescer e firmar por cima.",
+      "aviso": "A caneca sai muito quente: segure pela alça ou com um pano.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Espere 1 minuto e coma na própria caneca."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de trigo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Use uma caneca grande: o bolo dobra de tamanho e depois abaixa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 285,
+      "carboidratos_g": 16.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0384.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_caneca",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de caneca",
+      "bolo de microondas",
+      "bolo de caneca de chocolate"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

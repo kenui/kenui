@@ -1,0 +1,142 @@
+{
+  "id": "rbl-0275",
+  "slug": "bife-a-cavalo",
+  "nome": "Bife a cavalo",
+  "descricao": "Bife de contrafilé selado com um ovo frito de gema mole por cima, clássico de botequim.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 15,
+    "total_min": 20
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 bife com 1 ovo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "contra-file",
+      "quantidade": 520,
+      "medida": "g",
+      "texto": "4 bifes de contrafilé com cerca de 1 cm (520 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os bifes com o alho, a pimenta e quase todo o sal."
+    },
+    {
+      "texto": "Aqueça 1 colher (sopa) do óleo numa frigideira em fogo alto e frite os bifes 2 a 3 minutos de cada lado. Reserve em pratos.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Abaixe o fogo para médio, junte o restante do óleo e quebre os ovos, um de cada vez, numa xícara antes de colocar na frigideira."
+    },
+    {
+      "texto": "Frite por 3 minutos, até a clara firmar e a gema ainda ficar mole. Salpique uma pitada do sal restante.",
+      "aviso": "O óleo quente pode respingar quando o ovo entra: mantenha distância.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Coloque um ovo sobre cada bife e finalize com a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o contrafilé por patinho ou alcatra."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça o ovo na frigideira tampada com 1 colher (sopa) de água, sem óleo, para ficar mais leve."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com arroz, feijão e salada, ou com legumes refogados."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 337,
+      "carboidratos_g": 1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0275.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bife a cavalo",
+      "bife com ovo",
+      "contrafile com ovo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

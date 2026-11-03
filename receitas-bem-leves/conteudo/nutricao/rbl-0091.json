@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0091",
+  "nome": "Tapioca de banana com canela",
+  "porcoes": 1,
+  "porcao": "1 tapioca",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "5 colheres (sopa) de polvilho doce",
+      "gramas": 40,
+      "kcal": 140.4,
+      "carboidratos_g": 34.72,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 colher (sopa) de água",
+      "gramas": 15,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "banana-nanica",
+      "texto": "1/2 banana nanica madura em rodelas",
+      "gramas": 59,
+      "kcal": 54.3,
+      "carboidratos_g": 14.04,
+      "fonte": "TACO 4ª ed. 179 Banana, nanica, crua",
+      "por_100g": {
+        "kcal": 92,
+        "carboidratos_g": 23.8
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1/2 colher (chá) de manteiga",
+      "gramas": 2.4,
+      "kcal": 17.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/4 de colher (chá) de canela em pó",
+      "gramas": 0.7,
+      "kcal": 1.6,
+      "carboidratos_g": 0.52,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 213.8,
+    "carboidratos_g": 49.3
+  },
+  "por_porcao": {
+    "kcal": 214,
+    "carboidratos_g": 49.3
+  }
+}

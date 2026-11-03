@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0203",
+  "nome": "Chá gelado de pêssego",
+  "porcoes": 5,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "cha-preto-pronto",
+      "texto": "4 xícaras (chá) de chá preto (4 saquinhos e 1 litro de água)",
+      "gramas": 960,
+      "kcal": 19.2,
+      "carboidratos_g": 5.76,
+      "fonte": "TACO 4ª ed. 477 Chá, preto, infusão 5%",
+      "por_100g": {
+        "kcal": 2,
+        "carboidratos_g": 0.6
+      }
+    },
+    {
+      "ingrediente": "pessego",
+      "texto": "2 pêssegos maduros",
+      "gramas": 300,
+      "kcal": 108,
+      "carboidratos_g": 27.9,
+      "fonte": "TACO 4ª ed. 244 Pêssego, Aurora, cru",
+      "por_100g": {
+        "kcal": 36,
+        "carboidratos_g": 9.3
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "hortela",
+      "texto": "folhas de hortelã para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 132.5,
+    "carboidratos_g": 35.4
+  },
+  "por_porcao": {
+    "kcal": 26,
+    "carboidratos_g": 7.1
+  }
+}

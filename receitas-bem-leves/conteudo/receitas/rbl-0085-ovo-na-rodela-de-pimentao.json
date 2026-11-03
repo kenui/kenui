@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0085",
+  "slug": "ovo-na-rodela-de-pimentao",
+  "nome": "Ovo na rodela de pimentão",
+  "descricao": "Ovos fritos dentro de rodelas grossas de pimentão, que viram uma moldura colorida e adocicada.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 7,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "rodelas com ovo"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "2 rodelas com ovo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.33,
+      "medida": "unidade",
+      "texto": "2 rodelas grossas (1,5 cm) de pimentão vermelho"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte o pimentão em rodelas de 1,5 cm e tire as sementes.",
+      "aviso": "Apoie o pimentão deitado na tábua para cortar com segurança."
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente em fogo médio e coloque as rodelas. Deixe 1 minuto de cada lado.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Abaixe o fogo e quebre um ovo dentro de cada rodela, apertando o pimentão contra o fundo por alguns segundos para a clara não escapar."
+    },
+    {
+      "texto": "Tempere com sal e pimenta, tampe e deixe 3 a 4 minutos, até a clara firmar.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Retire com a espátula e salpique a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use pimentão amarelo ou verde, ou rodelas grossas de cebola."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cebolinha por orégano."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pimentão bem largo e reto fica mais firme e segura melhor o ovo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 193,
+      "carboidratos_g": 3.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0085.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "ovo no pimentão",
+    "enfeites": [
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo no pimentao",
+      "ovo frito no pimentao",
+      "ovo flor"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

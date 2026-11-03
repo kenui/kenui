@@ -1,0 +1,161 @@
+{
+  "id": "rbl-0046",
+  "slug": "pao-de-cenoura-de-liquidificador",
+  "nome": "Pão de cenoura de liquidificador",
+  "descricao": "Pão de forma alaranjado e fofinho, com a cenoura batida no liquidificador junto com os líquidos.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "descanso_min": 100,
+    "total_min": 165
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (12 fatias)"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 180,
+      "medida": "g",
+      "texto": "2 cenouras pequenas (180 g)"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água morna"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque e pique a cenoura. Bata no liquidificador com a água, o óleo, o ovo e o sal até ficar um creme liso."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha e o fermento."
+    },
+    {
+      "texto": "Despeje o creme de cenoura e misture até formar uma massa."
+    },
+    {
+      "texto": "Sove por 10 minutos numa bancada enfarinhada, até ficar lisa e elástica.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Enrole a massa como um rocambole e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar e soar oco ao bater por baixo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Desenforme e espere esfriar antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cenoura por beterraba crua para um pão rosado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de farinha de trigo integral no lugar de 1 xícara da comum."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Fatiado, dura 3 dias em saco fechado. Congela bem por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 203,
+      "carboidratos_g": 32.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0046.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de cenoura",
+      "pao de liquidificador",
+      "pao laranja caseiro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

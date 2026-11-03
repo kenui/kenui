@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0208",
+  "slug": "cafe-gelado-cremoso",
+  "nome": "Café gelado cremoso",
+  "descricao": "Café coado gelado batido com leite até ficar cremoso e espumado.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "cafe-coado",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de café coado forte, frio"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de gelo"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela para polvilhar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Passe o café com antecedência e deixe esfriar na geladeira."
+    },
+    {
+      "texto": "Bata no liquidificador o café, o leite, o leite em pó, o eritritol e o gelo por 1 minuto, até ficar cremoso e com espuma.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Sirva na hora, polvilhado com canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite em pó por 1 colher (sopa) de creme de leite para um café ainda mais cremoso."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use café descafeinado para tomar à noite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Faça cubos de gelo de café: o café gelado não fica aguado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 125,
+      "carboidratos_g": 10.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0208.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "xicara_bebida",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cafe gelado",
+      "frappe de cafe",
+      "cafe batido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "id": "rbl-0265",
+  "slug": "carne-louca",
+  "nome": "Carne louca",
+  "descricao": "Lagarto cozido na pressão, desfiado e misturado a um refogado de tomate, pimentões, vinagre e orégano.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 70,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 xícara (chá) cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lagarto",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 kg de lagarto em 4 pedaços"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 720,
+      "medida": "ml",
+      "texto": "3 xícaras (chá) de água (720 ml)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas médias em tiras"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho picados"
+    },
+    {
+      "ingrediente": "pimentao-verde",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão verde em tiras"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates picados"
+    },
+    {
+      "ingrediente": "vinagre",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de vinagre"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque o lagarto, 1 colher (chá) do sal e a água na panela de pressão. Cozinhe por 50 minutos depois de pegar pressão, até desfiar fácil.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Desfie a carne com dois garfos e guarde 1 xícara do caldo."
+    },
+    {
+      "texto": "Numa panela larga, refogue a cebola, o alho e os pimentões no azeite por 6 minutos.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Junte o tomate e o restante do sal e cozinhe 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Acrescente a carne, o caldo reservado, o vinagre e o orégano e cozinhe 6 minutos, mexendo, até ficar úmido.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Desligue e misture a salsinha. Sirva quente ou em temperatura ambiente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o lagarto por músculo ou acém."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o vinagre por suco de 1 limão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias na geladeira e congela por até 3 meses. Fria, fica ótima com salada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 226,
+      "carboidratos_g": 5.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0265.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne desfiada",
+    "enfeites": [
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "carne louca",
+      "carne desfiada",
+      "lagarto desfiado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

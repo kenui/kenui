@@ -1,0 +1,128 @@
+{
+  "id": "rbl-0202",
+  "slug": "cha-gelado-de-maca-com-canela",
+  "nome": "Chá gelado de maçã com canela",
+  "descricao": "Chá de frutas feito com maçã fervida e canela, servido gelado.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "descanso_min": 60,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 230 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 230 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água"
+    },
+    {
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã média em fatias finas (150 g)"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó (ou 2 paus de canela)"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque numa panela a água, a maçã e a canela e leve ao fogo.",
+      "aviso": "Cuidado com o líquido quente."
+    },
+    {
+      "texto": "Quando ferver, abaixe o fogo e cozinhe por 10 minutos, até a maçã ficar macia.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Desligue, junte o eritritol e deixe esfriar com a panela tampada."
+    },
+    {
+      "texto": "Coe, guardando algumas fatias de maçã para colocar na jarra, e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Sirva bem gelado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por 1 pera."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1 saquinho de chá preto no fim do cozimento para um chá mais encorpado."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura até 3 dias na geladeira em jarra fechada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 23,
+      "carboidratos_g": 6.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0202.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cha de maca",
+      "cha gelado de frutas",
+      "cha de canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

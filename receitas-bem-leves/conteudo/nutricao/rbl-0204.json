@@ -1,0 +1,60 @@
+{
+  "receita": "rbl-0204",
+  "nome": "Mate gelado com limão",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "cha-mate-pronto",
+      "texto": "4 xícaras (chá) de chá mate (4 saquinhos de mate tostado e 1 litro de água)",
+      "gramas": 960,
+      "kcal": 28.8,
+      "carboidratos_g": 5.76,
+      "fonte": "TACO 4ª ed. 476 Chá, mate, infusão 5%",
+      "por_100g": {
+        "kcal": 3,
+        "carboidratos_g": 0.6
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "suco de 2 limões",
+      "gramas": 96,
+      "kcal": 21.1,
+      "carboidratos_g": 7.01,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "limao-taiti",
+      "texto": "1 limão em rodelas para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 49.9,
+    "carboidratos_g": 12.8
+  },
+  "por_porcao": {
+    "kcal": 12,
+    "carboidratos_g": 3.2
+  }
+}

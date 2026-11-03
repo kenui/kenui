@@ -1,0 +1,182 @@
+{
+  "id": "rbl-0162",
+  "slug": "wrap-de-frango-com-massa-integral-caseira",
+  "nome": "Wrap de frango com massa integral caseira",
+  "descricao": "Discos finos de massa integral feitos na frigideira e enrolados com frango, cenoura, alface e tomate.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 10,
+    "descanso_min": 15,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "wraps"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 wrap"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água morna"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 xícaras de peito de frango cozido e desfiado (300 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura ralada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alface",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "4 folhas de alface (100 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate em tiras"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture as farinhas e o sal. Junte o azeite e a água aos poucos e amasse por 3 minutos, até a massa ficar lisa."
+    },
+    {
+      "texto": "Cubra com um pano e deixe descansar por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Divida em 4 bolinhas e abra cada uma com um rolo, bem fina, num disco de 22 cm."
+    },
+    {
+      "texto": "Aqueça uma frigideira grande sem óleo em fogo médio e doure cada disco por 1 minuto de cada lado, até aparecerem pintinhas douradas.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Empilhe os discos prontos dentro de um pano para ficarem macios."
+    },
+    {
+      "texto": "Misture o frango com o requeijão e o sal. Espalhe sobre cada disco, junte a cenoura, a alface e o tomate e enrole bem apertado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por atum, ovo mexido ou carne moída refogada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use só farinha de trigo comum, se preferir uma massa mais clara."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Os discos sem recheio duram 3 dias na geladeira, em saco fechado. Aqueça na frigideira por 20 segundos antes de rechear."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 382,
+      "carboidratos_g": 36.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0162.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "wrap",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "folhas_verdes",
+      "cenoura",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "wrap integral",
+      "rap10 caseiro",
+      "tortilha caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

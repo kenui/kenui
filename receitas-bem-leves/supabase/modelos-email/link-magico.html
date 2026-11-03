@@ -1,0 +1,13 @@
+<!-- Supabase > Authentication > Emails > Magic Link.
+     Assunto sugerido: Seu código de acesso: {{ .Token }}
+     Cole este HTML no corpo. Ele traz o botão (abre a página de confirmação do app) e o código de 6 dígitos. -->
+<div style="max-width:560px;margin:0 auto;padding:24px 16px;background:#FBF3E8;font-family:Arial,sans-serif;color:#2A1A1A">
+  <h1 style="font-family:Georgia,serif;font-weight:normal;color:#7B1E2C;font-size:30px;margin:0 0 16px">Receitas Bem Leves</h1>
+  <p style="font-size:19px;line-height:1.5">Toque no botão para entrar no app:</p>
+  <p style="margin:24px 0"><a href="{{ .SiteURL }}/entrar/confirmar/?token_hash={{ .TokenHash }}" style="background:#137A3D;color:#fff;text-decoration:none;font-size:20px;font-weight:bold;padding:16px 28px;border-radius:12px;display:inline-block">Entrar no app</a></p>
+  <p style="font-size:19px;line-height:1.5">Ou digite este código no app:</p>
+  <p style="font-size:40px;font-weight:bold;letter-spacing:8px;margin:8px 0 24px">{{ .Token }}</p>
+  <p style="font-size:17px;line-height:1.5">O botão e o código valem por 1 hora. Se você não pediu este e-mail, pode ignorar.</p>
+  <p style="font-size:17px;line-height:1.5">Ajuda: suporte@dividaclara.com.br</p>
+  <p style="font-size:14px;color:#5A4644;margin-top:28px">Receitas Bem Leves · Kenui Cabral · CNPJ 52.594.756/0001-00</p>
+</div>

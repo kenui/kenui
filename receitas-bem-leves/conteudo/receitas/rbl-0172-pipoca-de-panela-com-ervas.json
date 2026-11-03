@@ -1,0 +1,136 @@
+{
+  "id": "rbl-0172",
+  "slug": "pipoca-de-panela-com-ervas",
+  "nome": "Pipoca de panela com ervas",
+  "descricao": "Pipoca estourada na panela e temperada com manteiga, orégano, alecrim e sal.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 7,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "xícaras de pipoca"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 e 1/2 xícaras"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "milho-de-pipoca",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de milho para pipoca"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de alecrim seco esfarelado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande com tampa, aqueça o óleo com 3 grãos de milho em fogo médio."
+    },
+    {
+      "texto": "Quando os 3 grãos estourarem, junte o restante do milho, tampe e balance a panela de vez em quando."
+    },
+    {
+      "texto": "Quando o intervalo entre os estouros passar de 3 segundos, desligue e espere 1 minuto com a panela tampada.",
+      "aviso": "Abra a tampa longe do rosto: sai vapor quente.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a manteiga na mesma panela ou no micro-ondas e misture o orégano e o alecrim."
+    },
+    {
+      "texto": "Despeje a manteiga sobre a pipoca, polvilhe o sal e chacoalhe para temperar por igual."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manteiga por azeite e as ervas por páprica e parmesão ralado fino."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Panela larga e fogo médio evitam pipoca queimada e muito piruá."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Coma no mesmo dia. Guarde o que sobrar em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 166,
+      "carboidratos_g": 16.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0172.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pipoca salgada",
+      "pipoca de ervas",
+      "pipoca caseira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

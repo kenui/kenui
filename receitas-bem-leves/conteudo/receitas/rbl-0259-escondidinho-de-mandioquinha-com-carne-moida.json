@@ -1,0 +1,204 @@
+{
+  "id": "rbl-0259",
+  "slug": "escondidinho-de-mandioquinha-com-carne-moida",
+  "nome": "Escondidinho de mandioquinha com carne moída",
+  "descricao": "Carne moída com pimentão e azeitona sob um purê macio de mandioquinha, gratinado com queijo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 45,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Purê",
+      "ingrediente": "mandioquinha",
+      "quantidade": 700,
+      "medida": "g",
+      "texto": "700 g de mandioquinha descascada, em pedaços"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de leite"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Purê",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "pimentao-verde",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão verde picado"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Carne",
+      "ingrediente": "azeitona-verde",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 azeitonas verdes picadas"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe a mandioquinha em água fervente por 15 minutos, até desmanchar com o garfo. Escorra bem.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Amasse com o leite, a manteiga e o sal até virar um purê liso. Reserve."
+    },
+    {
+      "texto": "Numa frigideira, refogue a cebola, o alho e o pimentão no azeite por 4 minutos.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte a carne e o sal e mexa até soltar e perder a cor rosada, cerca de 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente o tomate e a azeitona e cozinhe mais 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Espalhe a carne numa travessa média, cubra com o purê e com a mussarela."
+    },
+    {
+      "texto": "Asse por 20 minutos, até dourar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mandioquinha por batata ou abóbora cabotiá."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Tire a azeitona e junte 1/2 xícara de milho-verde, se preferir."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Mandioquinha passa do ponto rápido: confira com o garfo a partir de 12 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 331,
+      "carboidratos_g": 32.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0259.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "carne moida",
+    "enfeites": [
+      "queijo_derretido",
+      "azeitona",
+      "pimentao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "escondidinho de mandioquinha",
+      "escondidinho de batata baroa",
+      "escondidinho de carne moida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

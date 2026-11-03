@@ -1,0 +1,133 @@
+{
+  "id": "rbl-0182",
+  "slug": "vitamina-de-abacate",
+  "nome": "Vitamina de abacate",
+  "descricao": "Vitamina cremosa e geladinha de abacate com leite e um toque de limão.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacate",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de abacate maduro picado (80 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite gelado"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de suco de limão"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 6 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "g",
+      "texto": "folhas de hortelã para enfeitar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tire a casca e o caroço do abacate e corte a polpa em pedaços.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador o abacate, o leite, o suco de limão e o eritritol por 1 minuto, até ficar bem liso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Prove e ajuste o doce, se precisar."
+    },
+    {
+      "texto": "Sirva na hora, com folhas de hortelã por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade do leite por iogurte natural para uma vitamina mais grossa."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Tome logo depois de bater: o abacate escurece com o tempo. O limão ajuda a manter a cor."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O abacate está maduro quando cede um pouco ao apertar com o dedo."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 189,
+      "carboidratos_g": 14.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0182.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "vitamina de abacate",
+      "batida de abacate",
+      "abacate com leite"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

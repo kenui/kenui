@@ -1,0 +1,157 @@
+{
+  "id": "rbl-0397",
+  "slug": "cookie-de-coco",
+  "nome": "Cookie de coco",
+  "descricao": "Cookies de coco dourados, crocantes por fora e macios no meio.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 15,
+    "descanso_min": 10,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "cookies"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 cookies"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 120,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara (chá) de coco ralado sem açúcar (120 g)"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Misture a manteiga com o eritritol até virar um creme. Junte o ovo e a baunilha."
+    },
+    {
+      "texto": "Acrescente o coco, a farinha e o fermento e misture até formar uma massa que dá liga."
+    },
+    {
+      "texto": "Com uma colher de sopa, faça montinhos na assadeira e achate de leve."
+    },
+    {
+      "texto": "Asse por 13 a 15 minutos, até dourar nas bordas.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Espere esfriar na assadeira antes de tirar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 15,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por farinha de amêndoas ou aveia batida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo se o coco ralado é sem açúcar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 176,
+      "carboidratos_g": 9.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0397.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de coco",
+      "cookie de coco ralado",
+      "bolacha de coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

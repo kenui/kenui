@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0095",
+  "nome": "Beiju de coco com leite de coco",
+  "porcoes": 1,
+  "porcao": "1 beiju",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "5 colheres (sopa) de polvilho doce",
+      "gramas": 40,
+      "kcal": 140.4,
+      "carboidratos_g": 34.72,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 colher (sopa) de água",
+      "gramas": 15,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "texto": "2 colheres (sopa) de coco ralado seco sem açúcar (16 g)",
+      "gramas": 16,
+      "kcal": 105.6,
+      "carboidratos_g": 3.78,
+      "fonte": "USDA SR Legacy 170170 Nuts, coconut meat, dried (desiccated), not sweetened",
+      "por_100g": {
+        "kcal": 660,
+        "carboidratos_g": 23.65
+      }
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "texto": "2 colheres (sopa) de leite de coco",
+      "gramas": 30,
+      "kcal": 49.8,
+      "carboidratos_g": 0.66,
+      "fonte": "TACO 4ª ed. 523 Leite, de coco",
+      "por_100g": {
+        "kcal": 166,
+        "carboidratos_g": 2.2
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (chá) de eritritol",
+      "gramas": 4.2,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 295.8,
+    "carboidratos_g": 39.2
+  },
+  "por_porcao": {
+    "kcal": 296,
+    "carboidratos_g": 39.2
+  }
+}

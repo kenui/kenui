@@ -1,0 +1,201 @@
+{
+  "id": "rbl-0500",
+  "slug": "rocambole-de-carne-recheado",
+  "nome": "Rocambole de carne recheado",
+  "descricao": "Rocambole de carne moída temperada, recheado com presunto e mussarela, assado até dourar por fora.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 55,
+    "descanso_min": 10,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 fatias grossas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 1000,
+      "medida": "g",
+      "texto": "1 kg de carne moída de patinho"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola ralada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "presunto",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "10 fatias de presunto (150 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "10 fatias de mussarela (200 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em palitos finos, cozida por 5 minutos"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para pincelar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture bem com as mãos a carne, o ovo, a aveia, a cebola, o alho, o sal, a pimenta, a salsinha e o orégano."
+    },
+    {
+      "texto": "Abra a massa de carne sobre um pedaço grande de papel-manteiga, formando um retângulo de cerca de 30 x 25 cm e 1,5 cm de altura."
+    },
+    {
+      "texto": "Cubra com o presunto e a mussarela, deixando 2 cm livres nas bordas, e espalhe os palitos de cenoura."
+    },
+    {
+      "texto": "Enrole com a ajuda do papel, apertando bem, e feche as pontas para o queijo não escapar."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Coloque o rocambole numa assadeira untada, com a emenda para baixo, e pincele o azeite."
+    },
+    {
+      "texto": "Cubra com papel-alumínio e asse por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Retire o papel e asse mais 15 a 20 minutos, até dourar.",
+      "aviso": "Cuidado: a assadeira e o caldo estão muito quentes.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Deixe descansar 10 minutos antes de fatiar, para não desmanchar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o presunto e a mussarela por espinafre refogado e queijo minas meia cura."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Use 1/2 xícara de farinha de rosca ou 3 colheres (sopa) de farinha de trigo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Molhe as mãos para abrir a carne: ela não gruda e fica com espessura uniforme."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele fatiado por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 320,
+      "carboidratos_g": 6.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0500.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "presunto_queijo",
+    "enfeites": [
+      "presunto",
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rocambole de carne",
+      "bolo de carne recheado",
+      "rocambole de carne moida"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

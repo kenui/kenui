@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0459",
+  "slug": "olho-de-sogra",
+  "nome": "Olho de sogra",
+  "descricao": "Docinho clássico de ameixa seca recheada com massa de coco, sem leite condensado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 8,
+    "descanso_min": 60,
+    "total_min": 98
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "docinhos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 docinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ameixa-seca",
+      "quantidade": 20,
+      "medida": "unidade",
+      "texto": "20 ameixas secas sem caroço"
+    },
+    {
+      "grupo": "Massa de coco",
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "2/3 de xícara (chá) de coco ralado seco sem açúcar (60 g)"
+    },
+    {
+      "grupo": "Massa de coco",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa de coco",
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "grupo": "Massa de coco",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa de coco",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, fora do fogo, misture o coco, o leite, o leite em pó, o eritritol e o ovo."
+    },
+    {
+      "texto": "Leve ao fogo baixo, mexendo sem parar, por 6 a 8 minutos, até a massa desgrudar do fundo da panela.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Passe para um prato e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Abra cada ameixa pela lateral, sem separar as metades."
+    },
+    {
+      "texto": "Faça bolinhas pequenas com a massa de coco e coloque uma dentro de cada ameixa, deixando aparecer o branco."
+    },
+    {
+      "texto": "Coloque em forminhas de papel."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as ameixas por tâmaras sem caroço."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Ameixas bem macias abrem sem rasgar; se estiverem secas, deixe 10 minutos em água morna e seque."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 132,
+      "carboidratos_g": 16.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0459.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "olho de sogra sem acucar",
+      "docinho de ameixa",
+      "ameixa recheada com coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

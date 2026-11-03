@@ -1,0 +1,190 @@
+{
+  "id": "rbl-0333",
+  "slug": "abobora-cabotia-recheada",
+  "nome": "Abóbora cabotiá recheada",
+  "descricao": "Metades de abóbora assadas e recheadas com refogado de legumes e cogumelos, gratinadas com queijo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 60,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1/4 de abóbora recheada"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 1200,
+      "medida": "g",
+      "texto": "1 abóbora cabotiá pequena (cerca de 1,2 kg)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cogumelo-paris",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 bandeja de cogumelo-paris fatiado (200 g)",
+      "alternativa": {
+        "ingrediente": "champignon",
+        "texto": "ou 1 vidro de champignon em conserva, escorrido"
+      }
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubinhos"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de queijo minas frescal em cubos"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "80 g de mussarela ralada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Corte a abóbora ao meio, tire as sementes e pincele o interior com 1 colher (sopa) de azeite e metade do sal.",
+      "aviso": "A casca é dura: apoie a abóbora num pano úmido e use faca grande."
+    },
+    {
+      "texto": "Coloque as metades com o corte para baixo numa assadeira, cubra com papel-alumínio e asse por 40 minutos, até ficar macia ao espetar um garfo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Recheio: refogue a cebola e o alho no restante do azeite. Junte o cogumelo e cozinhe até secar a água. Acrescente a abobrinha, o tomate, o orégano e o restante do sal e cozinhe por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e misture o queijo minas."
+    },
+    {
+      "texto": "Vire as metades de abóbora, encha com o recheio, cubra com a mussarela e asse mais 15 minutos, até gratinar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Corte cada metade em duas e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 55,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o cogumelo por espinafre ou brócolis picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use abóbora moranga no lugar da cabotiá."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 384,
+      "carboidratos_g": 35.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0333.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "legumes e queijo",
+    "enfeites": [
+      "abobora",
+      "cogumelo",
+      "queijo_derretido"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "abobora recheada",
+      "cabotia recheada",
+      "abobora gratinada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

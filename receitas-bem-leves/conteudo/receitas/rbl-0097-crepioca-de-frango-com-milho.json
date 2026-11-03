@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0097",
+  "slug": "crepioca-de-frango-com-milho",
+  "nome": "Crepioca de frango com milho",
+  "descricao": "Crepioca dobrada com frango desfiado, milho e requeijão, um lanche completo de frigideira.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 6,
+    "total_min": 11
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "crepioca"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 crepioca"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "polvilho-doce",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de polvilho doce"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de frango cozido e desfiado (40 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "milho-verde",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de milho-verde em lata escorrido"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de requeijão cremoso"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num prato fundo, bata o ovo com o polvilho e o sal até não ter grumos."
+    },
+    {
+      "texto": "Misture o frango, o milho e o requeijão numa tigelinha."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente com o azeite e aqueça em fogo médio-baixo."
+    },
+    {
+      "texto": "Despeje a massa e espalhe girando a frigideira. Deixe 2 minutos, até soltar do fundo.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Vire, coloque o recheio numa metade, dobre e deixe mais 1 a 2 minutos, até aquecer.",
+      "temporizador_min": 2
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por 1 colher (sopa) de iogurte natural com uma pitada de sal."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use ervilha no lugar do milho."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Aqueça o recheio 30 segundos no micro-ondas se o frango estiver gelado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 272,
+      "carboidratos_g": 18.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0097.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "crepioca",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango com milho",
+    "enfeites": [
+      "frango_desfiado",
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "crepioca de frango",
+      "crepioca recheada",
+      "crepioca salgada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

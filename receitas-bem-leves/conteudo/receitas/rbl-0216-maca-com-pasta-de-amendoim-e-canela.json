@@ -1,0 +1,112 @@
+{
+  "id": "rbl-0216",
+  "slug": "maca-com-pasta-de-amendoim-e-canela",
+  "nome": "Maçã com pasta de amendoim e canela",
+  "descricao": "Fatias de maçã com pasta de amendoim integral e canela, um lanche rápido e crocante.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "prato"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 maçã com 1 colher (sopa) de pasta"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maçã média (150 g)"
+    },
+    {
+      "ingrediente": "pasta-de-amendoim-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de pasta de amendoim integral"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave a maçã, tire o miolo e corte em fatias.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Espalhe um pouco de pasta de amendoim em cada fatia, ou sirva a pasta num potinho para mergulhar."
+    },
+    {
+      "texto": "Polvilhe a canela e sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por pera ou banana."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a pasta de amendoim por 1 colher (sopa) de amendoim torrado picado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pingue umas gotas de limão nas fatias se for levar na marmita: a maçã não escurece."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 178,
+      "carboidratos_g": 26.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0216.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "amendoim",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "maca com pasta de amendoim",
+      "lanche rapido",
+      "maca com amendoim"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

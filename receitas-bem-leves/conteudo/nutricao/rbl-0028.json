@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0028",
+  "nome": "Pão de queijo de frigideira",
+  "porcoes": 1,
+  "porcao": "1 pão",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "3 colheres (sopa) de polvilho doce",
+      "gramas": 24,
+      "kcal": 84.2,
+      "carboidratos_g": 20.83,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "texto": "1 colher (sopa) de requeijão cremoso",
+      "gramas": 15,
+      "kcal": 38.6,
+      "carboidratos_g": 0.36,
+      "fonte": "TACO 4ª ed. 468 Queijo, requeijão, cremoso",
+      "por_100g": {
+        "kcal": 257,
+        "carboidratos_g": 2.4
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1/4 de xícara (chá) de queijo mussarela ralado (30 g)",
+      "gramas": 30,
+      "kcal": 99,
+      "carboidratos_g": 0.9,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 293.3,
+    "carboidratos_g": 22.9
+  },
+  "por_porcao": {
+    "kcal": 293,
+    "carboidratos_g": 22.9
+  }
+}

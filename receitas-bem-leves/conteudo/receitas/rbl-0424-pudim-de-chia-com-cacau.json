@@ -1,0 +1,137 @@
+{
+  "id": "rbl-0424",
+  "slug": "pudim-de-chia-com-cacau",
+  "nome": "Pudim de chia com cacau",
+  "descricao": "Pudim de chia com cacau e banana, cremoso e com gosto de chocolate, feito na véspera.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 240,
+    "total_min": 250
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "potes"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 pote"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "chia",
+      "quantidade": 40,
+      "medida": "g",
+      "texto": "4 colheres (sopa) de semente de chia (40 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "banana-nanica",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 banana nanica em rodelas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Num pote, misture bem o cacau e o eritritol com um pouco do leite até dissolver."
+    },
+    {
+      "texto": "Junte o resto do leite e a chia e mexa com um garfo."
+    },
+    {
+      "texto": "Espere 10 minutos e mexa de novo.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Tampe e leve à geladeira por pelo menos 4 horas, até firmar.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Distribua em 3 potinhos e cubra com as rodelas de banana."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por 1/2 banana amassada misturada ao creme."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana de cima por morangos picados."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias; corte a banana só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 184,
+      "carboidratos_g": 22.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0424.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pudim de chia com chocolate",
+      "chia com cacau",
+      "sobremesa de chia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

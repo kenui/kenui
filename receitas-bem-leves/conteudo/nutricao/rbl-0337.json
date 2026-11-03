@@ -1,0 +1,187 @@
+{
+  "receita": "rbl-0337",
+  "nome": "Charuto de repolho com arroz e lentilha",
+  "porcoes": 4,
+  "porcao": "3 charutos com molho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "repolho",
+      "texto": "12 folhas grandes de repolho (cerca de 500 g)",
+      "gramas": 500,
+      "kcal": 85,
+      "carboidratos_g": 19.5,
+      "fonte": "TACO 4ª ed. 149 Repolho, branco, cru",
+      "por_100g": {
+        "kcal": 17,
+        "carboidratos_g": 3.9
+      }
+    },
+    {
+      "ingrediente": "lentilha",
+      "texto": "1/2 xícara (chá) de lentilha crua",
+      "gramas": 96,
+      "kcal": 325.4,
+      "carboidratos_g": 59.52,
+      "fonte": "TACO 4ª ed. 578 Lentilha, crua",
+      "por_100g": {
+        "kcal": 339,
+        "carboidratos_g": 62
+      }
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "texto": "1/2 xícara (chá) de arroz branco cru, lavado",
+      "gramas": 92.5,
+      "kcal": 331.2,
+      "carboidratos_g": 72.89,
+      "fonte": "TACO 4ª ed. 4 Arroz, tipo 1, cru",
+      "por_100g": {
+        "kcal": 358,
+        "carboidratos_g": 78.8
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1 cebola bem picada",
+      "gramas": 110,
+      "kcal": 42.9,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "2 colheres (sopa) de hortelã picada",
+      "gramas": 11.4,
+      "kcal": 5,
+      "carboidratos_g": 0.96,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "2 colheres (sopa) de salsinha picada",
+      "gramas": 7.6,
+      "kcal": 2.5,
+      "carboidratos_g": 0.43,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1/2 colher (chá) de cominho",
+      "gramas": 1.1,
+      "kcal": 3.9,
+      "carboidratos_g": 0.46,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "4 tomates maduros batidos ou ralados",
+      "gramas": 492,
+      "kcal": 73.8,
+      "carboidratos_g": 15.25,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 xícaras (chá) de água",
+      "gramas": 480,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1126,
+    "carboidratos_g": 183.8
+  },
+  "por_porcao": {
+    "kcal": 281,
+    "carboidratos_g": 45.9
+  }
+}

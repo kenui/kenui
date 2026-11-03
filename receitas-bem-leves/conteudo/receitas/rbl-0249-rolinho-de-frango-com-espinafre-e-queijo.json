@@ -1,0 +1,172 @@
+{
+  "id": "rbl-0249",
+  "slug": "rolinho-de-frango-com-espinafre-e-queijo",
+  "nome": "Rolinho de frango com espinafre e queijo",
+  "descricao": "Bifes de frango enrolados com espinafre refogado e queijo minas, assados e servidos em fatias.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 35,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "rolinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 rolinho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "ingrediente": "peito-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 bifes grandes e finos de peito de frango (600 g)"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite (1 para o recheio, 1 para regar)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "espinafre",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de folhas de espinafre"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de queijo minas frescal em tiras"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque cada bife entre dois plásticos e bata de leve com o fundo de uma panela até ficar com cerca de 0,5 cm. Tempere com o sal, a pimenta e o limão."
+    },
+    {
+      "texto": "Refogue o alho em 1 colher (sopa) do azeite por 30 segundos, junte o espinafre e mexa 2 minutos, até murchar. Tempere com a noz-moscada e deixe esfriar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Espalhe o espinafre sobre os bifes, coloque o queijo numa ponta e enrole bem apertado. Prenda com palitos."
+    },
+    {
+      "texto": "Arrume numa assadeira untada com a emenda para baixo e regue com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até dourar por fora e o centro ficar branco.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Espere 5 minutos, tire os palitos e corte em fatias."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por mussarela ou ricota temperada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar do espinafre, use couve refogada ou cenoura ralada."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Enrole bem firme e deixe a emenda para baixo: assim o rolinho não abre no forno."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 344,
+      "carboidratos_g": 2.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0249.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "espinafre e queijo",
+    "enfeites": [
+      "folhas_verdes",
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rolinho de frango",
+      "frango recheado",
+      "enrolado de frango com espinafre"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

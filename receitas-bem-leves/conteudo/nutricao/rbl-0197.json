@@ -1,0 +1,60 @@
+{
+  "receita": "rbl-0197",
+  "nome": "Suco de goiaba",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "goiaba",
+      "texto": "2 goiabas vermelhas grandes e maduras (300 g)",
+      "gramas": 300,
+      "kcal": 162,
+      "carboidratos_g": 39,
+      "fonte": "TACO 4ª ed. 200 Goiaba, vermelha, com casca, crua",
+      "por_100g": {
+        "kcal": 54,
+        "carboidratos_g": 13
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "3 xícaras (chá) de água gelada",
+      "gramas": 720,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "hortela",
+      "texto": "folhas de hortelã para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 162,
+    "carboidratos_g": 39
+  },
+  "por_porcao": {
+    "kcal": 41,
+    "carboidratos_g": 9.8
+  }
+}

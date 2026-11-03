@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0060",
+  "slug": "torradas-de-batata-doce",
+  "nome": "Torradas de batata-doce",
+  "descricao": "Fatias de batata-doce assadas até dourar, que fazem o papel da torrada com coberturas salgadas.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "fatias"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 fatias"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "2 batatas-doces médias (400 g)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Lave bem as batatas e corte no comprido em fatias de 0,5 cm, com casca.",
+      "aviso": "Batata-doce é dura: apoie bem na tábua e use uma faca grande e afiada."
+    },
+    {
+      "texto": "Espalhe as fatias na assadeira, pincele com o azeite dos dois lados e tempere com o sal e a páprica."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire as fatias e asse mais 10 a 13 minutos, até ficarem macias por dentro e douradas nas bordas.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Sirva com a cobertura que quiser: ovo mexido, ricota com ervas, abacate amassado ou queijo branco com tomate."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioquinha ou abóbora em fatias, com o mesmo tempo de forno."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Fatias da mesma grossura assam por igual."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Asse a mais e guarde na geladeira por 3 dias. Para servir, aqueça na torradeira ou na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 149,
+      "carboidratos_g": 28.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0060.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torrada de batata doce",
+      "batata doce no lugar do pao",
+      "fatia de batata doce assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

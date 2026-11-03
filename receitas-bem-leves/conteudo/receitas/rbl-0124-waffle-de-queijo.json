@@ -1,0 +1,125 @@
+{
+  "id": "rbl-0124",
+  "slug": "waffle-de-queijo",
+  "nome": "Waffle de queijo",
+  "descricao": "Waffle salgado de ovo e mussarela, crocante nas bordas, feito na máquina de waffle.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 12,
+    "total_min": 17
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "waffles pequenos"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 waffles pequenos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de mussarela ralada"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de polvilho doce"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ligue a máquina de waffle para esquentar."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com um garfo e misture a mussarela, o polvilho e o orégano."
+    },
+    {
+      "texto": "Coloque 1/4 da massa na máquina quente, espalhe e feche."
+    },
+    {
+      "texto": "Asse por 3 a 4 minutos, até dourar e ficar crocante.",
+      "aviso": "A máquina e o vapor queimam: abra com cuidado.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Retire com um garfo e repita com o resto da massa. Os waffles firmam mais ao amornar."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da mussarela por parmesão ralado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem polvilho? Use 1 colher (sopa) de farinha de trigo ou de aveia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Um pouco de queijo escorre pelas bordas: é ele que forma a casquinha crocante."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 270,
+      "carboidratos_g": 6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0124.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "waffle",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_derretido",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "waffle de queijo",
+      "chaffle",
+      "waffle salgado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

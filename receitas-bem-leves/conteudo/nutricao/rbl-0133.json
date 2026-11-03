@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0133",
+  "nome": "Pão de batata-doce na frigideira",
+  "porcoes": 1,
+  "porcao": "1 pão",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "batata-doce",
+      "texto": "1 batata-doce pequena (100 g)",
+      "gramas": 100,
+      "kcal": 118,
+      "carboidratos_g": 28.2,
+      "fonte": "TACO 4ª ed. 89 Batata, doce, crua",
+      "por_100g": {
+        "kcal": 118,
+        "carboidratos_g": 28.2
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "2 colheres (sopa) de polvilho doce",
+      "gramas": 16,
+      "kcal": 56.2,
+      "carboidratos_g": 13.89,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "1 colher (sopa) de queijo parmesão ralado",
+      "gramas": 5,
+      "kcal": 22.7,
+      "carboidratos_g": 0.09,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1/2 colher (chá) de fermento químico em pó",
+      "gramas": 2.3,
+      "kcal": 2.1,
+      "carboidratos_g": 1.01,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1/2 colher (chá) de azeite para untar",
+      "gramas": 2.3,
+      "kcal": 19.9,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 290.7,
+    "carboidratos_g": 44
+  },
+  "por_porcao": {
+    "kcal": 291,
+    "carboidratos_g": 44
+  }
+}

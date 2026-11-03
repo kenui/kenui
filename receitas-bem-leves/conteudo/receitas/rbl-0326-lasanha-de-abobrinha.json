@@ -1,0 +1,213 @@
+{
+  "id": "rbl-0326",
+  "slug": "lasanha-de-abobrinha",
+  "nome": "Lasanha de abobrinha",
+  "descricao": "Lâminas de abobrinha no lugar da massa, com recheio de ricota e espinafre, molho de tomate e queijo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 50,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Camadas",
+      "ingrediente": "abobrinha",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 abobrinhas grandes em lâminas finas, no comprimento"
+    },
+    {
+      "grupo": "Camadas",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ricota",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 pedaço de ricota (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "espinafre",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de folhas de espinafre picadas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "tomate",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 tomates maduros picados"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de mussarela ralada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C. Arrume as lâminas de abobrinha em assadeiras, tempere com o sal e asse por 10 minutos, para soltar a água.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Molho: refogue a cebola e o alho no azeite, junte o tomate, o sal e o orégano e cozinhe por 15 minutos, até encorpar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Recheio: amasse a ricota com o ovo, o espinafre, a noz-moscada e o sal."
+    },
+    {
+      "texto": "Numa travessa, faça camadas: molho, abobrinha, recheio de ricota e um pouco de mussarela. Repita e termine com abobrinha, molho, o restante da mussarela e o parmesão."
+    },
+    {
+      "texto": "Asse por 25 minutos, até dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere 10 minutos antes de cortar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use berinjela em lâminas no lugar da abobrinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por brócolis picado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Seque bem as lâminas com papel-toalha depois de assar: a lasanha não fica aguada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 229,
+      "carboidratos_g": 12.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0326.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "ricota com espinafre",
+    "enfeites": [
+      "abobrinha",
+      "queijo_derretido",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lasanha sem massa",
+      "lasanha de legumes",
+      "abobrinha gratinada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

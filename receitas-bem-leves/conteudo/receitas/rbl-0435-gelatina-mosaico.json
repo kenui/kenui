@@ -1,0 +1,187 @@
+{
+  "id": "rbl-0435",
+  "slug": "gelatina-mosaico",
+  "nome": "Gelatina mosaico",
+  "descricao": "Cubinhos coloridos de gelatina de laranja e de uva presos num creme branco firme, para fatiar.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 3,
+    "descanso_min": 420,
+    "total_min": 453
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "fatias"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Cubos de laranja",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 6,
+      "medida": "g",
+      "texto": "1/2 envelope (6 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Cubos de laranja",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Cubos de laranja",
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de suco de laranja natural, coado"
+    },
+    {
+      "grupo": "Cubos de uva",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 6,
+      "medida": "g",
+      "texto": "1/2 envelope (6 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Cubos de uva",
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Cubos de uva",
+      "ingrediente": "uva",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de uvas roxas batidas com 1/4 de xícara de água e coadas"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Hidrate cada porção de gelatina na sua água fria por 5 minutos, em potinhos separados, e derreta no micro-ondas por 10 a 15 segundos, sem ferver.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Misture uma das gelatinas de 6 g ao suco de laranja e a outra ao suco de uva. Despeje cada um num recipiente pequeno e leve à geladeira por 3 horas, até firmar bem.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Corte as duas gelatinas em cubinhos e espalhe numa forma de bolo inglês untada com um fio de água."
+    },
+    {
+      "texto": "Bata no liquidificador o leite, o creme de leite, o eritritol e a gelatina de 12 g derretida. Despeje sobre os cubinhos."
+    },
+    {
+      "texto": "Leve à geladeira por 4 horas. Desenforme passando a forma rapidamente em água morna e corte em fatias.",
+      "temporizador_min": 240
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o suco de uva por suco de morango batido e coado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por 1 pote de iogurte natural, para um creme mais azedinho."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O creme precisa estar frio ao cobrir os cubos, senão eles derretem."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 87,
+      "carboidratos_g": 7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0435.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pave",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja",
+      "uva"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "gelatina colorida",
+      "gelatina de mosaico",
+      "gelatina colorida com creme"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

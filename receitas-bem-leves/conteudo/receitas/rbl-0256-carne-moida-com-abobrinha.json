@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0256",
+  "slug": "carne-moida-com-abobrinha",
+  "nome": "Carne moída com abobrinha",
+  "descricao": "Carne moída refogada com tomate e abobrinha em cubos, rápida e boa para o almoço da semana.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 xícara (chá) cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 abobrinhas médias em cubos"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa frigideira grande, refogue a cebola e o alho no azeite por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a carne e o sal e mexa, desfazendo os grumos, por 8 minutos, até soltar e perder a cor rosada.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente o tomate e cozinhe 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte a abobrinha e o orégano, tampe e cozinhe 5 minutos, até a abobrinha ficar macia, mas inteira.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Desligue e misture a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por chuchu (cozinhe 5 minutos a mais) ou por berinjela."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use carne moída de acém ou frango moído."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Serve para rechear omelete e panqueca."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 237,
+      "carboidratos_g": 9.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0256.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne moida",
+    "enfeites": [
+      "abobrinha",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "carne moida com abobrinha",
+      "abobrinha com carne moida",
+      "carne moida refogada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

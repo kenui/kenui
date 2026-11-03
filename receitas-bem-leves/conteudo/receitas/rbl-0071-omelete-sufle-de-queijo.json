@@ -1,0 +1,143 @@
+{
+  "id": "rbl-0071",
+  "slug": "omelete-sufle-de-queijo",
+  "nome": "Omelete suflê de queijo",
+  "descricao": "Omelete alta e aerada, feita com as claras batidas em neve e recheada com mussarela.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 6,
+    "cozimento_min": 6,
+    "total_min": 12
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "omelete"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 omelete"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos, claras e gemas separadas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de manteiga"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 20,
+      "medida": "g",
+      "texto": "1 fatia de mussarela (20 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela limpa e seca, bata as claras com o sal na batedeira ou com um batedor de arame até ficarem firmes, em ponto de neve."
+    },
+    {
+      "texto": "Em outro prato, misture as gemas com o parmesão e a cebolinha."
+    },
+    {
+      "texto": "Junte as gemas às claras com uma espátula, em movimentos de baixo para cima, sem bater, para não perder o ar."
+    },
+    {
+      "texto": "Derreta a manteiga numa frigideira antiaderente de 20 cm em fogo baixo e espalhe a mistura."
+    },
+    {
+      "texto": "Tampe e deixe 3 a 4 minutos, até a omelete crescer e firmar por cima.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Coloque a mussarela sobre uma metade, dobre e deixe mais 1 minuto para o queijo derreter.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas ou por presunto e queijo."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use salsinha ou orégano no lugar da cebolinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Qualquer pingo de gema ou de gordura na tigela impede a clara de crescer: separe os ovos com cuidado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 266,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0071.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "queijo",
+    "enfeites": [
+      "queijo_derretido",
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete sufle",
+      "omelete fofinha",
+      "omelete de claras em neve"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0260",
+  "slug": "abobrinha-recheada-com-carne-moida",
+  "nome": "Abobrinha recheada com carne moída",
+  "descricao": "Metades de abobrinha recheadas com carne moída ao tomate, cobertas com mussarela e assadas.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "metades"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 metades"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 abobrinhas médias"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de carne moída de patinho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal (1 na carne, 1/2 na abobrinha)"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte as abobrinhas ao meio no comprimento e retire o miolo com uma colher, deixando 1 cm de borda. Pique o miolo.",
+      "aviso": "Apoie a abobrinha com o lado cortado para baixo para ela não rolar na hora de cortar."
+    },
+    {
+      "texto": "Tempere as canoas com 1/2 colher (chá) do sal."
+    },
+    {
+      "texto": "Refogue a cebola e o alho no azeite por 3 minutos. Junte a carne e o restante do sal e mexa por 8 minutos, até soltar.",
+      "temporizador_min": 11
+    },
+    {
+      "texto": "Acrescente o tomate e o miolo picado e cozinhe 5 minutos, até secar um pouco. Misture a salsinha.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C. Arrume as canoas numa assadeira e recheie bem."
+    },
+    {
+      "texto": "Cubra com a mussarela e o orégano e asse por 20 a 25 minutos, até a abobrinha ficar macia e o queijo dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a carne por frango desfiado ou por atum."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com chuchu, cozido 8 minutos antes de rechear."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a abobrinha soltar muita água, asse as canoas vazias por 8 minutos antes de rechear."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 263,
+      "carboidratos_g": 12.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0260.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "carne moida",
+    "enfeites": [
+      "abobrinha",
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "abobrinha recheada",
+      "canoa de abobrinha",
+      "abobrinha com carne no forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

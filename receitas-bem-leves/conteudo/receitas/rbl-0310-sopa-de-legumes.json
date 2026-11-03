@@ -1,0 +1,177 @@
+{
+  "id": "rbl-0310",
+  "slug": "sopa-de-legumes",
+  "nome": "Sopa de legumes",
+  "descricao": "Sopa caseira com batata, cenoura, chuchu, abobrinha e vagem em pedaços, num caldo leve de tomate.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "pratos"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 400 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "batata",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 batatas médias em cubos"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cenouras em cubos"
+    },
+    {
+      "ingrediente": "chuchu",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 chuchu em cubos"
+    },
+    {
+      "ingrediente": "vagem",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de vagem em pedaços"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubos"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1500,
+      "medida": "ml",
+      "texto": "1 e 1/2 litro de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela grande, aqueça o azeite e refogue a cebola até ficar transparente. Junte o alho e o tomate e mexa por 2 minutos."
+    },
+    {
+      "texto": "Acrescente a batata, a cenoura e o chuchu, refogue por 2 minutos e cubra com a água quente. Junte o sal."
+    },
+    {
+      "texto": "Cozinhe com a panela semitampada por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte a vagem e a abobrinha e cozinhe mais 10 minutos, até todos os legumes ficarem macios.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Tempere com a pimenta, acerte o sal e desligue. Espalhe a salsinha na hora de servir."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use os legumes que tiver: abóbora, mandioquinha, couve e repolho também combinam."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para uma sopa mais sustanciosa, junte 200 g de frango desfiado no final."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele em potes por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 121,
+      "carboidratos_g": 18.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0310.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "abobrinha",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de legumes caseira",
+      "sopa de verduras",
+      "sopa simples"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

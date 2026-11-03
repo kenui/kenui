@@ -1,0 +1,175 @@
+{
+  "receita": "rbl-0151",
+  "nome": "Falafel de forno com molho de iogurte",
+  "porcoes": 4,
+  "porcao": "4 falafels com molho",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "texto": "2 xícaras (chá) de grão-de-bico cozido e bem escorrido",
+      "gramas": 328,
+      "kcal": 537.9,
+      "carboidratos_g": 89.94,
+      "fonte": "USDA SR Legacy 173757 Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "por_100g": {
+        "kcal": 164,
+        "carboidratos_g": 27.42
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "3 colheres (sopa) de salsinha",
+      "gramas": 11.4,
+      "kcal": 3.8,
+      "carboidratos_g": 0.65,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "coentro",
+      "texto": "2 colheres (sopa) de coentro",
+      "gramas": 2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 169997 Coriander (cilantro) leaves, raw",
+      "por_100g": {
+        "kcal": 23,
+        "carboidratos_g": 3.67
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1 colher (chá) de cominho",
+      "gramas": 2.1,
+      "kcal": 7.9,
+      "carboidratos_g": 0.93,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "3 colheres (sopa) de farinha de trigo",
+      "gramas": 23.4,
+      "kcal": 84.2,
+      "carboidratos_g": 17.57,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1/2 xícara (chá) de iogurte natural",
+      "gramas": 122.5,
+      "kcal": 62.5,
+      "carboidratos_g": 2.33,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "1 colher (sopa) de suco de limão",
+      "gramas": 15.2,
+      "kcal": 3.3,
+      "carboidratos_g": 1.11,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "hortela",
+      "texto": "1 colher (sopa) de hortelã picada",
+      "gramas": 5.7,
+      "kcal": 2.5,
+      "carboidratos_g": 0.48,
+      "fonte": "USDA SR Legacy 173475 Spearmint, fresh",
+      "por_100g": {
+        "kcal": 44,
+        "carboidratos_g": 8.41
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 969.5,
+    "carboidratos_g": 119.4
+  },
+  "por_porcao": {
+    "kcal": 242,
+    "carboidratos_g": 29.9
+  }
+}

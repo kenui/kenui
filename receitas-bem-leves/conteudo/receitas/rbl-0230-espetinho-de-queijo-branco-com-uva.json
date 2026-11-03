@@ -1,0 +1,127 @@
+{
+  "id": "rbl-0230",
+  "slug": "espetinho-de-queijo-branco-com-uva",
+  "nome": "Espetinho de queijo branco com uva",
+  "descricao": "Espetinhos de queijo minas frescal e uva com folhinhas de manjericão, um lanche salgado e docinho.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "espetinhos"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "2 espetinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 pedaço de queijo minas frescal (200 g)"
+    },
+    {
+      "ingrediente": "uva",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "20 uvas sem semente (100 g)"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "20 folhinhas de manjericão"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte o queijo em 20 cubos.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Lave as uvas e o manjericão e seque bem."
+    },
+    {
+      "texto": "Monte 10 palitos com 2 cubos de queijo, 2 uvas e 2 folhas de manjericão, alternando."
+    },
+    {
+      "texto": "Regue com o azeite, salpique a pimenta e sirva."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por ricota firme em cubos ou queijo coalho grelhado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a uva por tomate-cereja para uma versão só salgada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Monte até 2 horas antes e guarde na geladeira coberto com filme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 124,
+      "carboidratos_g": 4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0230.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco",
+      "uva",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "espetinho de queijo",
+      "queijo com uva",
+      "petisco frio"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

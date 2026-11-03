@@ -1,0 +1,167 @@
+{
+  "id": "rbl-0141",
+  "slug": "kibe-de-forno",
+  "nome": "Kibe de forno",
+  "descricao": "Kibe assado em travessa com trigo, carne moída, cebola e hortelã, cortado em losangos.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "descanso_min": 30,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "pedaços"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 pedaço (1/8 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "trigo-para-kibe",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de trigo para kibe"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de água para hidratar"
+    },
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de carne moída de patinho"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola ralada"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de cominho"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Deixe o trigo de molho na água por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Escorra numa peneira e aperte bem com as mãos para tirar toda a água."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma travessa de 20 x 30 cm com 1 colher (sopa) de azeite."
+    },
+    {
+      "texto": "Numa tigela, misture o trigo, a carne, a cebola, a hortelã, o sal, a pimenta e o cominho, amassando bem com as mãos por 3 minutos, até ficar uma massa homogênea."
+    },
+    {
+      "texto": "Espalhe a massa na travessa e aperte para nivelar."
+    },
+    {
+      "texto": "Com uma faca, marque losangos até o fundo e regue com o restante do azeite."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar por cima.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da carne por 1 xícara de abóbora cozida e espremida, para um kibe mais leve."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem hortelã fresca? Use 1 colher (chá) de hortelã seca."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com coalhada ou iogurte natural com limão e um fio de azeite."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias ou congele em pedaços por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 194,
+      "carboidratos_g": 14.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0141.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "carne moída",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "quibe assado",
+      "kibe assado",
+      "quibe de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

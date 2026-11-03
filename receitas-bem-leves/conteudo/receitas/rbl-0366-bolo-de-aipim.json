@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0366",
+  "slug": "bolo-de-aipim",
+  "nome": "Bolo de aipim",
+  "descricao": "Bolo de mandioca ralada com coco, sem farinha, cremoso por dentro e dourado por fora.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 55,
+    "descanso_min": 30,
+    "total_min": 110
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pedaços"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pedaço (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "mandioca",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de mandioca crua descascada e ralada fino"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "1 vidro de leite de coco (200 ml)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 3/4 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 50,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado sem açúcar (50 g)"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga derretida"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com manteiga uma forma quadrada de 20 cm."
+    },
+    {
+      "texto": "Rale a mandioca no lado fino do ralador.",
+      "aviso": "Cuidado com os dedos no fim do pedaço de mandioca."
+    },
+    {
+      "texto": "Numa tigela, misture bem a mandioca, os ovos, o leite de coco, o leite, o eritritol, o coco, a manteiga e o sal."
+    },
+    {
+      "texto": "Despeje na forma e alise por cima."
+    },
+    {
+      "texto": "Asse por 50 a 55 minutos, até ficar bem dourado por cima e nas bordas.",
+      "temporizador_min": 55
+    },
+    {
+      "texto": "Espere pelo menos 30 minutos antes de cortar: ele firma ao esfriar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 55,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use mandioca congelada já descascada: descongele e rale normalmente."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A mandioca tem que assar bem: se a superfície ainda estiver clara, deixe mais 10 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias e sirva frio ou amornado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 158,
+      "carboidratos_g": 17.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0366.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de mandioca",
+      "bolo de macaxeira",
+      "bolo de aipim com coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0066",
+  "slug": "pao-de-abobrinha",
+  "nome": "Pão de abobrinha",
+  "descricao": "Pão salgado de forma com abobrinha ralada, aveia e parmesão, úmido e fácil de fatiar.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (10 fatias)"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 fatia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 abobrinhas médias"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos finos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de azeite"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e forre uma forma de bolo inglês (25 cm) com papel-manteiga."
+    },
+    {
+      "texto": "Rale as abobrinhas no ralo grosso, coloque num pano limpo e torça bem para tirar a água."
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o azeite usando um garfo."
+    },
+    {
+      "texto": "Junte a abobrinha, a aveia, o parmesão, o orégano e o sal e misture."
+    },
+    {
+      "texto": "Acrescente o fermento e misture só para incorporar."
+    },
+    {
+      "texto": "Despeje na forma e asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Espere esfriar na forma antes de fatiar."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 45,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade da abobrinha por cenoura ralada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem aveia? Use 3/4 de xícara de farinha de trigo integral."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde fatiado na geladeira por até 4 dias e toste na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 133,
+      "carboidratos_g": 8.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0066.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobrinha",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de abobrinha",
+      "pao salgado de abobrinha",
+      "pao de legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

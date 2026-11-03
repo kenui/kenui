@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0262",
+  "slug": "hamburguer-caseiro-de-carne",
+  "nome": "Hambúrguer caseiro de carne",
+  "descricao": "Hambúrgueres de carne moída temperados só com sal, pimenta e cebola, servidos no prato com queijo derretido e tomate.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 10,
+    "descanso_min": 15,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "hambúrgueres"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 hambúrguer (150 g) com queijo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "carne-moida-patinho",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de carne moída (patinho ou acém)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada e espremida"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de óleo"
+    },
+    {
+      "ingrediente": "queijo-prato",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "4 fatias de queijo prato (80 g)"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate em rodelas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture a carne com a cebola, o alho e a pimenta, sem amassar demais. Não coloque o sal ainda."
+    },
+    {
+      "texto": "Divida em 4 partes e modele discos de 2 cm, um pouco maiores que o tamanho final, com uma covinha no centro."
+    },
+    {
+      "texto": "Leve à geladeira por 15 minutos para firmar.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Aqueça uma frigideira de fundo grosso com o óleo em fogo alto. Salpique o sal nos dois lados dos hambúrgueres e coloque na frigideira."
+    },
+    {
+      "texto": "Doure 4 minutos sem mexer, vire, ponha o queijo por cima, tampe e deixe mais 4 minutos para o ponto médio.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Sirva com as rodelas de tomate."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Para hambúrguer mais suculento, use metade acém e metade fraldinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo prato por mussarela ou queijo minas meia cura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os discos crus, separados por papel-manteiga, por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 292,
+      "carboidratos_g": 2.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0262.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "hamburguer",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "hamburguer caseiro",
+      "hamburguer no prato",
+      "hamburguer de carne"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

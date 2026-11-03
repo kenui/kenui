@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0240",
+  "nome": "Filé de frango empanado de forno",
+  "porcoes": 4,
+  "porcao": "2 filés",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "peito-de-frango",
+      "texto": "600 g de filé de peito de frango, em 8 bifes finos",
+      "gramas": 600,
+      "kcal": 714,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 409 Frango, peito, sem pele, cru",
+      "por_100g": {
+        "kcal": 119,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho amassados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos batidos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "farinha-de-amendoas",
+      "texto": "1 xícara (chá) de farinha de amêndoas (cerca de 100 g)",
+      "gramas": 100,
+      "kcal": 590,
+      "carboidratos_g": 18.67,
+      "fonte": "USDA SR Legacy 170568 Nuts, almonds, blanched",
+      "por_100g": {
+        "kcal": 590,
+        "carboidratos_g": 18.67
+      }
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado",
+      "gramas": 15,
+      "kcal": 68,
+      "carboidratos_g": 0.26,
+      "fonte": "TACO 4ª ed. 464 Queijo, parmesão",
+      "por_100g": {
+        "kcal": 453,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1 colher (chá) de páprica doce",
+      "gramas": 2.3,
+      "kcal": 6.5,
+      "carboidratos_g": 1.24,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1652.8,
+    "carboidratos_g": 25
+  },
+  "por_porcao": {
+    "kcal": 413,
+    "carboidratos_g": 6.2
+  }
+}

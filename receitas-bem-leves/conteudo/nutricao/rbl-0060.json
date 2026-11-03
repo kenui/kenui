@@ -1,0 +1,67 @@
+{
+  "receita": "rbl-0060",
+  "nome": "Torradas de batata-doce",
+  "porcoes": 4,
+  "porcao": "4 fatias",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "batata-doce",
+      "texto": "2 batatas-doces médias (400 g)",
+      "gramas": 400,
+      "kcal": 472,
+      "carboidratos_g": 112.8,
+      "fonte": "TACO 4ª ed. 89 Batata, doce, crua",
+      "por_100g": {
+        "kcal": 118,
+        "carboidratos_g": 28.2
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1/2 colher (chá) de páprica doce",
+      "gramas": 1.2,
+      "kcal": 3.2,
+      "carboidratos_g": 0.62,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 594.7,
+    "carboidratos_g": 113.4
+  },
+  "por_porcao": {
+    "kcal": 149,
+    "carboidratos_g": 28.4
+  }
+}

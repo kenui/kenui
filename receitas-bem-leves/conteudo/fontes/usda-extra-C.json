@@ -1,0 +1,121 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "168893": {
+      "descricao": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 120
+        }
+      ],
+      "lipidios_g": 2.5,
+      "carboidratos_g": 71.97,
+      "kcal": 340,
+      "proteina_g": 13.21,
+      "fibra_g": 10.7
+    },
+    "169717": {
+      "descricao": "Tapioca, pearl, dry",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 152
+        }
+      ],
+      "proteina_g": 0.19,
+      "fibra_g": 0.9,
+      "lipidios_g": 0.02,
+      "carboidratos_g": 88.69,
+      "kcal": 358
+    },
+    "170162": {
+      "descricao": "Nuts, cashew nuts, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "proteina_g": 18.22,
+      "lipidios_g": 43.85,
+      "carboidratos_g": 30.19,
+      "kcal": 553,
+      "fibra_g": 3.3
+    },
+    "170189": {
+      "descricao": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 15
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "lipidios_g": 53.76,
+      "carboidratos_g": 21.19,
+      "kcal": 595,
+      "proteina_g": 17,
+      "fibra_g": 9.3
+    },
+    "170246": {
+      "descricao": "Snacks, popcorn, air-popped (Unsalted)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 8
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "fibra_g": 15.1,
+      "lipidios_g": 4.2,
+      "carboidratos_g": 77.9,
+      "kcal": 382,
+      "proteina_g": 12
+    },
+    "170688": {
+      "descricao": "Bulgur, dry",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 140
+        }
+      ],
+      "fibra_g": 12.5,
+      "lipidios_g": 1.33,
+      "carboidratos_g": 75.87,
+      "kcal": 342,
+      "proteina_g": 12.29
+    },
+    "173757": {
+      "descricao": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 164
+        }
+      ],
+      "fibra_g": 7.6,
+      "carboidratos_g": 27.42,
+      "kcal": 164,
+      "lipidios_g": 2.59,
+      "proteina_g": 8.86
+    }
+  }
+}

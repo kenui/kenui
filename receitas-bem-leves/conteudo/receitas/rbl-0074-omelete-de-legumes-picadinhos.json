@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0074",
+  "slug": "omelete-de-legumes-picadinhos",
+  "nome": "Omelete de legumes picadinhos",
+  "descricao": "Omelete grande e colorida com cenoura, pimentão e cebola, para dividir em dois.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 8,
+    "cozimento_min": 10,
+    "total_min": 18
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "omelete grande"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1/2 omelete"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cenoura ralada"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "1/4 de pimentão vermelho picadinho"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "1/4 de cebola picadinha"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente grande (24 cm) em fogo médio."
+    },
+    {
+      "texto": "Refogue a cebola, o pimentão e a cenoura por 3 a 4 minutos, até amaciarem.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Numa tigela, bata os ovos com o sal, a pimenta e a cebolinha."
+    },
+    {
+      "texto": "Abaixe o fogo, despeje os ovos sobre os legumes e espalhe bem. Tampe e deixe 4 a 5 minutos, até firmar por cima.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Dobre ao meio com a espátula, corte em duas partes e sirva."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use os legumes que tiver: abobrinha, brócolis picadinho ou milho também combinam."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a cebolinha por salsinha ou orégano."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Sobrou? Guarde na geladeira por até 1 dia e aqueça na frigideira tampada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 197,
+      "carboidratos_g": 5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0074.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "legumes",
+    "enfeites": [
+      "cenoura",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de legumes",
+      "omelete colorida",
+      "omelete para dois"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

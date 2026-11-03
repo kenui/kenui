@@ -1,0 +1,171 @@
+{
+  "id": "rbl-0306",
+  "slug": "tilapia-grelhada-com-molho-de-iogurte",
+  "nome": "Tilápia grelhada com molho de iogurte",
+  "descricao": "Filés de tilápia dourados na frigideira, servidos com molho fresco de iogurte, pepino e hortelã.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé com molho"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Peixe",
+      "ingrediente": "tilapia",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 filés de tilápia (cerca de 600 g)"
+    },
+    {
+      "grupo": "Peixe",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Peixe",
+      "ingrediente": "paprica",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de páprica doce"
+    },
+    {
+      "grupo": "Peixe",
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "grupo": "Peixe",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "pepino",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 pepino pequeno ralado e espremido (150 g)"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho amassado"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de hortelã picada"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Molho",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Molho: misture o iogurte, o pepino, o alho, a hortelã, o sal e o azeite. Leve à geladeira."
+    },
+    {
+      "texto": "Tempere os filés com o sal, a páprica e o suco de limão."
+    },
+    {
+      "texto": "Aqueça bem uma frigideira antiaderente com o azeite e grelhe os filés por 3 a 4 minutos de cada lado, até dourar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Sirva o peixe com o molho por cima ou ao lado."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por endro ou salsinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use merluza ou pescada no lugar da tilápia."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Esprema bem o pepino ralado com as mãos: assim o molho não fica aguado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 214,
+      "carboidratos_g": 2.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0306.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pepino",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tilapia na frigideira",
+      "peixe com molho de iogurte",
+      "tilapia grelhada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

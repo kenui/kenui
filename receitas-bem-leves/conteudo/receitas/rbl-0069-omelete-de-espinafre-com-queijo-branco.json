@@ -1,0 +1,140 @@
+{
+  "id": "rbl-0069",
+  "slug": "omelete-de-espinafre-com-queijo-branco",
+  "nome": "Omelete de espinafre com queijo branco",
+  "descricao": "Omelete macia dobrada com espinafre refogado e queijo minas derretendo por dentro.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 4,
+    "cozimento_min": 6,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "omelete"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 omelete"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de folhas de espinafre picadas"
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "2 colheres (sopa) de queijo minas frescal esfarelado (30 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente média em fogo médio e refogue o espinafre por 1 a 2 minutos, até murchar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Num prato fundo, bata os ovos com o sal e a pimenta com um garfo até a clara e a gema se misturarem."
+    },
+    {
+      "texto": "Abaixe o fogo, despeje os ovos sobre o espinafre e espalhe girando a frigideira."
+    },
+    {
+      "texto": "Tampe e deixe 2 a 3 minutos, até a omelete firmar quase toda por cima.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Espalhe o queijo sobre uma metade, dobre a outra metade por cima e deixe mais 1 minuto para o queijo amolecer.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve picada fininha ou por rúcula."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "No lugar do queijo minas, use 2 colheres (sopa) de ricota."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Esprema o espinafre refogado com a colher se soltar muita água, para a omelete não ficar molhada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 267,
+      "carboidratos_g": 3.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0069.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "omelete",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "espinafre e queijo",
+    "enfeites": [
+      "folhas_verdes",
+      "queijo_branco"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "omelete de espinafre",
+      "omelete verde",
+      "omelete com queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

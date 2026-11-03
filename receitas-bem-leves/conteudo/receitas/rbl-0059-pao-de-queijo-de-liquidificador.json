@@ -1,0 +1,142 @@
+{
+  "id": "rbl-0059",
+  "slug": "pao-de-queijo-de-liquidificador",
+  "nome": "Pão de queijo de liquidificador",
+  "descricao": "Pão de queijo de massa mole batida no liquidificador e assada em forminhas, sem sovar.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 30,
+    "unidade": "pães de queijo"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "3 pães de queijo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "2 xícaras (250 g) de polvilho doce"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte com óleo forminhas de minimuffin ou de empada."
+    },
+    {
+      "texto": "Bata no liquidificador os ovos, o leite, o óleo e o sal por 1 minuto."
+    },
+    {
+      "texto": "Junte o polvilho e o queijo e bata até ficar uma massa lisa e mole, parando para raspar as laterais."
+    },
+    {
+      "texto": "Distribua a massa nas forminhas, enchendo até 3/4. Mexa a massa com uma colher antes de cada concha, porque o polvilho assenta no fundo."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até crescer e dourar.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere 5 minutos e desenforme com a ponta de uma faca."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o parmesão por queijo minas meia cura ralado: ponha 1/2 colher (chá) a mais de sal."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Forminhas de silicone dispensam untar e facilitam desenformar."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde os assados na geladeira por até 3 dias e aqueça no forno por 5 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 259,
+      "carboidratos_g": 23.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0059.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de queijo de liquidificador",
+      "pao de queijo de forminha",
+      "pao de queijo facil"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0481",
+  "slug": "farofa-de-couve-com-ovos",
+  "nome": "Farofa de couve com ovos",
+  "descricao": "Farofa úmida de couve-manteiga fatiada fininha e ovos mexidos, boa para acompanhar o pernil.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 15,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "porções"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "3 colheres (sopa)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "couve",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "1 maço de couve-manteiga fatiada fininha (4 xícaras)"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "200 g de farinha de mandioca torrada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave a couve, enrole as folhas como um charuto e fatie bem fininho.",
+      "aviso": "Cuidado com a faca: fatie devagar, com os dedos dobrados."
+    },
+    {
+      "texto": "Numa frigideira grande, derreta a manteiga e refogue a cebola e o alho por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte os ovos batidos com uma pitada de sal e mexa por 2 minutos, até ficarem cozidos e soltos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Acrescente a couve e refogue por 2 minutos, só até murchar e ficar verde vivo.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte a farinha aos poucos, mexendo, e toste por 5 minutos em fogo baixo. Tempere com o restante do sal e a pimenta.",
+      "temporizador_min": 5
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a couve por espinafre ou por folhas de mostarda."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem manteiga? Use 3 colheres (sopa) de azeite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não deixe a couve cozinhar demais: ela perde a cor e fica amarga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Melhor no dia. Na geladeira dura até 2 dias; aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 177,
+      "carboidratos_g": 25
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0481.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "farofa de couve",
+      "farofa com ovo",
+      "farofa mineira"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

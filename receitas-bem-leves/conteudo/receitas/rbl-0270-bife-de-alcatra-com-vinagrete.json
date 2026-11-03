@@ -1,0 +1,183 @@
+{
+  "id": "rbl-0270",
+  "slug": "bife-de-alcatra-com-vinagrete",
+  "nome": "Bife de alcatra com vinagrete",
+  "descricao": "Bifes de alcatra grelhados com alho, servidos com vinagrete fresco de tomate, cebola e pimentão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 10,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "bifes"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 bife com vinagrete"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Bifes",
+      "ingrediente": "alcatra",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 bifes de alcatra com 1,5 cm (600 g)"
+    },
+    {
+      "grupo": "Bifes",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Bifes",
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Bifes",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "grupo": "Bifes",
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates sem sementes em cubinhos"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola em cubinhos"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "pimentao-verde",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão verde em cubinhos"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "vinagre",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de vinagre"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Vinagrete",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture todos os ingredientes do vinagrete e deixe na geladeira enquanto prepara a carne."
+    },
+    {
+      "texto": "Tempere os bifes com o sal, a pimenta e o alho."
+    },
+    {
+      "texto": "Aqueça uma frigideira ou grelha de fundo grosso com o óleo em fogo alto, até sair fumaça."
+    },
+    {
+      "texto": "Grelhe os bifes 3 minutos de cada lado, sem mexer, para ficarem ao ponto.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Deixe descansar 2 minutos e sirva com o vinagrete por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a alcatra por contrafilé, patinho ou peito de frango."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use limão no lugar do vinagre no vinagrete."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O vinagrete dura 2 dias na geladeira, em pote fechado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 356,
+      "carboidratos_g": 4.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0270.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bife com vinagrete",
+      "alcatra grelhada",
+      "bife grelhado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

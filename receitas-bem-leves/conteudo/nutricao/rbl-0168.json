@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0168",
+  "nome": "Muffin de espinafre com queijo",
+  "porcoes": 5,
+  "porcao": "2 muffins",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "3 ovos",
+      "gramas": 150,
+      "kcal": 214.5,
+      "carboidratos_g": 2.4,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "texto": "1/2 xícara (chá) de iogurte natural",
+      "gramas": 122.5,
+      "kcal": 62.5,
+      "carboidratos_g": 2.33,
+      "fonte": "TACO 4ª ed. 448 Iogurte, natural",
+      "por_100g": {
+        "kcal": 51,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 xícara (chá) de farinha de trigo",
+      "gramas": 125,
+      "kcal": 450,
+      "carboidratos_g": 93.88,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "texto": "1 pitada de noz-moscada",
+      "gramas": 0.1,
+      "kcal": 0.5,
+      "carboidratos_g": 0.05,
+      "fonte": "USDA SR Legacy 171326 Spices, nutmeg, ground",
+      "por_100g": {
+        "kcal": 525,
+        "carboidratos_g": 49.29
+      }
+    },
+    {
+      "ingrediente": "espinafre",
+      "texto": "2 xícaras (chá) de folhas de espinafre picadas",
+      "gramas": 60,
+      "kcal": 9.6,
+      "carboidratos_g": 1.56,
+      "fonte": "TACO 4ª ed. 119 Espinafre, Nova Zelândia, cru",
+      "por_100g": {
+        "kcal": 16,
+        "carboidratos_g": 2.6
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "texto": "1 xícara de queijo minas meia cura ralado (100 g)",
+      "gramas": 100,
+      "kcal": 321,
+      "carboidratos_g": 3.6,
+      "fonte": "TACO 4ª ed. 462 Queijo, minas, meia cura",
+      "por_100g": {
+        "kcal": 321,
+        "carboidratos_g": 3.6
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "2 colheres (chá) de fermento químico em pó",
+      "gramas": 9.2,
+      "kcal": 8.3,
+      "carboidratos_g": 4.04,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1424.4,
+    "carboidratos_g": 107.9
+  },
+  "por_porcao": {
+    "kcal": 285,
+    "carboidratos_g": 21.6
+  }
+}

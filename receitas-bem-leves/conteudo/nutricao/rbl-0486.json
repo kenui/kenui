@@ -1,0 +1,127 @@
+{
+  "receita": "rbl-0486",
+  "nome": "Salada de folhas com romã",
+  "porcoes": 8,
+  "porcao": "1 prato de sobremesa cheio",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "alface",
+      "texto": "1 pé de alface crespa",
+      "gramas": 360,
+      "kcal": 39.6,
+      "carboidratos_g": 6.12,
+      "fonte": "TACO 4ª ed. 78 Alface, crespa, crua",
+      "por_100g": {
+        "kcal": 11,
+        "carboidratos_g": 1.7
+      }
+    },
+    {
+      "ingrediente": "rucula",
+      "texto": "1 maço de rúcula (4 xícaras de folhas)",
+      "gramas": 80,
+      "kcal": 20,
+      "carboidratos_g": 2.92,
+      "fonte": "USDA SR Legacy 169387 Arugula, raw",
+      "por_100g": {
+        "kcal": 25,
+        "carboidratos_g": 3.65
+      }
+    },
+    {
+      "ingrediente": "roma",
+      "texto": "1 romã",
+      "gramas": 282,
+      "kcal": 157.9,
+      "carboidratos_g": 42.58,
+      "fonte": "TACO 4ª ed. 249 Romã, crua",
+      "por_100g": {
+        "kcal": 56,
+        "carboidratos_g": 15.1
+      }
+    },
+    {
+      "ingrediente": "noz",
+      "texto": "1/2 xícara (chá) de nozes picadas",
+      "gramas": 58.5,
+      "kcal": 362.7,
+      "carboidratos_g": 10.76,
+      "fonte": "TACO 4ª ed. 597 Noz, crua",
+      "por_100g": {
+        "kcal": 620,
+        "carboidratos_g": 18.4
+      }
+    },
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 pedaço de queijo minas frescal em cubos (200 g)",
+      "gramas": 200,
+      "kcal": 528,
+      "carboidratos_g": 6.4,
+      "fonte": "TACO 4ª ed. 461 Queijo, minas, frescal",
+      "por_100g": {
+        "kcal": 264,
+        "carboidratos_g": 3.2
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "4 colheres (sopa) de azeite",
+      "gramas": 54,
+      "kcal": 477.4,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1596.4,
+    "carboidratos_g": 72.4
+  },
+  "por_porcao": {
+    "kcal": 200,
+    "carboidratos_g": 9
+  }
+}

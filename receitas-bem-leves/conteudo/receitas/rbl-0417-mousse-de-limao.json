@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0417",
+  "slug": "mousse-de-limao",
+  "nome": "Mousse de limão",
+  "descricao": "Mousse de limão bem cremosa e perfumada pelas raspas da casca, ótima para depois do almoço.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 1,
+    "descanso_min": 180,
+    "total_min": 196
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "taças"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "2 caixinhas de creme de leite (400 g)"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "Suco de 3 limões"
+    },
+    {
+      "ingrediente": "raspas-de-limao",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de raspas de limão (metade para enfeitar)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Bata no liquidificador o creme de leite, o leite em pó e o eritritol por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Com o liquidificador ligado, junte o suco de limão aos poucos: a mistura vai engrossar."
+    },
+    {
+      "texto": "Junte a gelatina derretida e metade das raspas e bata mais 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Distribua em 6 taças e leve à geladeira por 3 horas, até firmar.",
+      "temporizador_min": 180
+    },
+    {
+      "texto": "Enfeite com o restante das raspas na hora de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o limão-taiti por limão-cravo ou siciliano, na mesma medida de suco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Rale só a parte verde da casca: a parte branca amarga."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 266,
+      "carboidratos_g": 13.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0417.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mousse de limao sem acucar",
+      "mousse de limao facil",
+      "sobremesa de limao"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

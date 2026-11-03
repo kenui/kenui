@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0389",
+  "slug": "muffin-de-morango",
+  "nome": "Muffin de morango",
+  "descricao": "Muffins fofinhos com pedaços de morango fresco e um pouco de farinha integral.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 22,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "muffins"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 muffin"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos picados"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Com um batedor, misture os ovos, o óleo, o leite e o eritritol."
+    },
+    {
+      "texto": "Junte as duas farinhas e o fermento e mexa só até sumir a farinha seca. Massa de muffin não deve ser batida demais."
+    },
+    {
+      "texto": "Misture os morangos com delicadeza."
+    },
+    {
+      "texto": "Distribua nas forminhas até 3/4 da altura e asse por 20 a 22 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 22
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 22,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque os morangos por banana ou maçã picadinha."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Passe os morangos picados em 1 colher de farinha antes de misturar: eles não afundam."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 140,
+      "carboidratos_g": 15.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0389.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de morango",
+      "bolinho de morango"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

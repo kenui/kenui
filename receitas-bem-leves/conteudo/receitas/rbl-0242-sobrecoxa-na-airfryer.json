@@ -1,0 +1,152 @@
+{
+  "id": "rbl-0242",
+  "slug": "sobrecoxa-na-airfryer",
+  "nome": "Sobrecoxa na airfryer",
+  "descricao": "Sobrecoxas temperadas com alho, limão, páprica e cominho, que ficam douradas e suculentas na fritadeira elétrica sem óleo.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "sobrecoxas"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 sobrecoxas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "6 sobrecoxas de frango sem pele (cerca de 800 g)"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce ou defumada"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cominho"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture o alho, o limão, a páprica, o cominho, o sal e o azeite e esfregue nas sobrecoxas. Se puder, deixe 20 minutos na geladeira."
+    },
+    {
+      "texto": "Preaqueça a airfryer a 200 °C por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Arrume as sobrecoxas no cesto com o lado liso para baixo, sem empilhar. Se não couberem, faça em duas levas."
+    },
+    {
+      "texto": "Asse por 12 minutos a 200 °C.",
+      "aviso": "O cesto e a gordura que escorre ficam muito quentes: use pegador.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Vire as sobrecoxas e asse mais 10 a 12 minutos, até dourar e o caldo sair transparente ao espetar com um garfo.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Sirva com a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com coxas: acrescente 5 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a páprica e o cominho por ervas finas e raspas de limão."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sobrecoxa com osso também dá certo: asse 5 a 8 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 481,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0242.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sobrecoxa airfryer",
+      "frango na airfryer",
+      "sobrecoxa na fritadeira sem oleo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

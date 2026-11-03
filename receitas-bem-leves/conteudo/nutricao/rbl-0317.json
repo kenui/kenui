@@ -1,0 +1,120 @@
+{
+  "receita": "rbl-0317",
+  "nome": "Sopa de mandioquinha com alho-poró",
+  "porcoes": 4,
+  "porcao": "1 prato fundo (cerca de 350 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "alho-poro",
+      "texto": "1 talo de alho-poró em rodelas finas",
+      "gramas": 89,
+      "kcal": 28.5,
+      "carboidratos_g": 6.14,
+      "fonte": "TACO 4ª ed. 83 Alho-poró, cru",
+      "por_100g": {
+        "kcal": 32,
+        "carboidratos_g": 6.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho picado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "mandioquinha",
+      "texto": "600 g de mandioquinha descascada em rodelas",
+      "gramas": 600,
+      "kcal": 606,
+      "carboidratos_g": 144,
+      "fonte": "TACO 4ª ed. 87 Batata, baroa, crua",
+      "por_100g": {
+        "kcal": 101,
+        "carboidratos_g": 24
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água quente",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/4 colher (chá) de sal",
+      "gramas": 7.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "cebolinha",
+      "texto": "2 colheres (sopa) de cebolinha picada",
+      "gramas": 6,
+      "kcal": 1.2,
+      "carboidratos_g": 0.2,
+      "fonte": "TACO 4ª ed. 108 Cebolinha, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 3.4
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "2 colheres (sopa) de creme de leite para servir",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 742.4,
+    "carboidratos_g": 151.1
+  },
+  "por_porcao": {
+    "kcal": 186,
+    "carboidratos_g": 37.8
+  }
+}

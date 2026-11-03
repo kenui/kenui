@@ -1,0 +1,133 @@
+{
+  "id": "rbl-0110",
+  "slug": "mingau-de-fuba-com-canela",
+  "nome": "Mingau de fubá com canela",
+  "descricao": "Mingau quentinho de fubá cozido no leite com canela, cremoso e reconfortante.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 10,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "tigelas"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de fubá"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 colher (sopa) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, misture o fubá no leite ainda frio, com um batedor de arame, até não ter grumos."
+    },
+    {
+      "texto": "Junte o eritritol e o sal e leve ao fogo médio-baixo."
+    },
+    {
+      "texto": "Cozinhe mexendo sem parar por 8 a 10 minutos, até engrossar e o fubá perder o gosto cru.",
+      "aviso": "Mingau quente espirra: mexa com colher de cabo longo.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Sirva em tigelas, polvilhado com a canela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por 1/2 banana madura amassada no fim do cozimento."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de leite e 1 de leite de coco diluído para variar o sabor."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Misturar o fubá no leite frio é o que evita os carocinhos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 191,
+      "carboidratos_g": 21.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0110.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "mingau de fuba",
+      "angu doce",
+      "papa de fuba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

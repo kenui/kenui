@@ -1,0 +1,113 @@
+{
+  "id": "rbl-0207",
+  "slug": "agua-saborizada-de-abacaxi-com-gengibre",
+  "nome": "Água saborizada de abacaxi com gengibre",
+  "descricao": "Água gelada com pedaços de abacaxi e rodelas de gengibre, refrescante e levemente picante.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "descanso_min": 120,
+    "total_min": 125
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água filtrada gelada"
+    },
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de abacaxi em pedaços"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 pedaço de gengibre de 3 cm em rodelas finas (10 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque o abacaxi e o gengibre e corte em pedaços e rodelas finas.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Coloque numa jarra e cubra com a água."
+    },
+    {
+      "texto": "Leve à geladeira por pelo menos 2 horas.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Sirva gelada, com gelo e alguns pedaços de abacaxi no copo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o gengibre por 2 paus de canela."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 1 dia na geladeira."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A casca do abacaxi bem lavada também dá sabor: junte algumas tiras na jarra."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 22,
+      "carboidratos_g": 5.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0207.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "agua de abacaxi",
+      "agua saborizada",
+      "agua com gengibre"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

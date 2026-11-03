@@ -1,0 +1,175 @@
+{
+  "id": "rbl-0294",
+  "slug": "tilapia-assada-com-legumes",
+  "nome": "Tilápia assada com legumes",
+  "descricao": "Filés de tilápia temperados com limão e alho, assados sobre tomate, pimentão e abobrinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 35,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 filé com legumes"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tilapia",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 filés de tilápia (cerca de 600 g)"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em rodelas"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em rodelas"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em rodelas finas"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os filés com o suco de limão, o alho, metade do sal e a pimenta. Reserve por 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Espalhe numa assadeira a cebola, a abobrinha, o pimentão e o tomate. Tempere com o restante do sal e regue com 1 colher (sopa) de azeite."
+    },
+    {
+      "texto": "Asse os legumes por 15 minutos.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Coloque os filés por cima dos legumes, regue com o restante do azeite e asse mais 15 a 20 minutos, até o peixe ficar branco e se soltar em lascas com o garfo.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Salpique a salsinha e sirva."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a tilápia por merluza, pescada ou saint-peter."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use chuchu ou berinjela no lugar da abobrinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Filé congelado deve descongelar na geladeira e ser bem seco com papel-toalha antes de temperar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 245,
+      "carboidratos_g": 9.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0294.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "peixe",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "abobrinha",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "tilapia no forno",
+      "peixe assado",
+      "file de tilapia"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

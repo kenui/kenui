@@ -1,0 +1,170 @@
+{
+  "id": "rbl-0274",
+  "slug": "ensopado-de-musculo-com-abobora",
+  "nome": "Ensopado de músculo com abóbora",
+  "descricao": "Músculo cozido na pressão até ficar macio, com abóbora cabotiá, tomate e coentro num caldo encorpado.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 50,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 1 e 1/2 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "musculo",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de músculo em cubos grandes"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 720,
+      "medida": "ml",
+      "texto": "3 xícaras (chá) de água quente (720 ml)"
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de abóbora cabotiá descascada, em cubos grandes"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro picado",
+      "alternativa": {
+        "ingrediente": "salsa",
+        "texto": "ou salsinha"
+      }
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o músculo com o sal e o cominho."
+    },
+    {
+      "texto": "Na panela de pressão aberta, aqueça o óleo e doure a carne por 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola, o alho e o tomate e refogue 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente a água, feche e cozinhe por 30 minutos depois de pegar pressão.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Abra, junte a abóbora e cozinhe sem pressão, com a panela semitampada, por 12 a 15 minutos, até a abóbora ficar macia e engrossar o caldo.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Acerte o sal e finalize com o coentro."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abóbora por mandioca: ela vai junto com a carne na pressão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use acém no lugar do músculo, com o mesmo tempo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 4 dias na geladeira e congela por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 258,
+      "carboidratos_g": 10.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0274.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "ervas",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "musculo com abobora",
+      "carne com abobora",
+      "ensopado de carne"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

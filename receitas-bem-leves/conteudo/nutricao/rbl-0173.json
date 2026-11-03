@@ -1,0 +1,103 @@
+{
+  "receita": "rbl-0173",
+  "nome": "Berinjela à pizzaiolo",
+  "porcoes": 4,
+  "porcao": "4 rodelas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "berinjela",
+      "texto": "1 berinjela grande (400 g)",
+      "gramas": 400,
+      "kcal": 80,
+      "carboidratos_g": 17.6,
+      "fonte": "TACO 4ª ed. 96 Berinjela, crua",
+      "por_100g": {
+        "kcal": 20,
+        "carboidratos_g": 4.4
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "2 colheres (sopa) de azeite",
+      "gramas": 27,
+      "kcal": 238.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "2 tomates em rodelas finas",
+      "gramas": 246,
+      "kcal": 36.9,
+      "carboidratos_g": 7.63,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1 e 1/2 xícara (150 g) de queijo mussarela ralado",
+      "gramas": 150,
+      "kcal": 495,
+      "carboidratos_g": 4.5,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "manjericao",
+      "texto": "10 folhas de manjericão",
+      "gramas": 5.3,
+      "kcal": 1.1,
+      "carboidratos_g": 0.19,
+      "fonte": "TACO 4ª ed. 133 Manjericão, cru",
+      "por_100g": {
+        "kcal": 21,
+        "carboidratos_g": 3.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 854.3,
+    "carboidratos_g": 30.6
+  },
+  "por_porcao": {
+    "kcal": 214,
+    "carboidratos_g": 7.7
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "rbl-0393",
+  "slug": "muffin-de-cacau-com-recheio-de-ricota",
+  "nome": "Muffin de cacau com recheio de ricota",
+  "descricao": "Muffins de cacau com um coração cremoso de ricota adoçada.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 22,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "muffins"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 muffin"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "ricota",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "150 g de ricota"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel."
+    },
+    {
+      "texto": "Recheio: amasse a ricota com o eritritol até virar um creme."
+    },
+    {
+      "texto": "Massa: com um batedor, misture os ovos, o óleo, o leite e o eritritol. Junte a farinha, o cacau e o fermento e mexa só até misturar."
+    },
+    {
+      "texto": "Coloque 1 colher (sopa) de massa em cada forminha, 1 colher (chá) de recheio no centro e cubra com mais massa."
+    },
+    {
+      "texto": "Asse por 20 a 22 minutos, até um palito sair limpo na borda.",
+      "temporizador_min": 22
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 22,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a ricota por cream cheese."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por farinha de trigo branca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Por causa do recheio, guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 137,
+      "carboidratos_g": 11.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0393.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": "ricota",
+    "enfeites": [],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de chocolate",
+      "muffin recheado",
+      "bolinho de cacau"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

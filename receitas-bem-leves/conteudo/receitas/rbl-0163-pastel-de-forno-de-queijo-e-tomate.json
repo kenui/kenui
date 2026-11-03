@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0163",
+  "slug": "pastel-de-forno-de-queijo-e-tomate",
+  "nome": "Pastel de forno de queijo e tomate",
+  "descricao": "Pastéis assados de massa de iogurte, macia e dourada, recheados com mussarela, tomate e orégano.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 25,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "pastéis"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 pastéis"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural (170 g)"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "2 xícaras (200 g) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates sem sementes picados"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Para pincelar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a farinha, o sal e o fermento. Junte o iogurte e a manteiga e amasse até a massa ficar lisa e soltar das mãos."
+    },
+    {
+      "texto": "Misture a mussarela, o tomate e o orégano numa tigela."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre 2 assadeiras com papel-manteiga."
+    },
+    {
+      "texto": "Abra a massa com um rolo em superfície enfarinhada até ficar com 3 mm e corte discos de 10 cm com um pires."
+    },
+    {
+      "texto": "Coloque 1 colher (sopa) de recheio em cada disco, dobre ao meio e aperte as bordas com um garfo."
+    },
+    {
+      "texto": "Arrume nas assadeiras, pincele com o ovo batido e asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o recheio por frango desfiado com requeijão ou por carne moída refogada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pastéis crus por até 2 meses. Asse sem descongelar, com 5 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 259,
+      "carboidratos_g": 26
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0163.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "queijo e tomate",
+    "enfeites": [
+      "queijo_derretido",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pastel assado",
+      "pastel de forno",
+      "pastelzinho de queijo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

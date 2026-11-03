@@ -1,0 +1,159 @@
+{
+  "id": "rbl-0177",
+  "slug": "bolinho-de-abobrinha-de-forno",
+  "nome": "Bolinho de abobrinha de forno",
+  "descricao": "Bolinhos de abobrinha ralada com aveia, queijo e cebolinha, assados até ficarem dourados.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abobrinha",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 abobrinhas médias raladas"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
+    },
+    {
+      "ingrediente": "queijo-minas-meia-cura",
+      "quantidade": 80,
+      "medida": "g",
+      "texto": "3/4 de xícara de queijo minas meia cura ralado (80 g)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de hortelã picada"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Misture a abobrinha ralada com o sal e deixe numa peneira por 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Esprema bem a abobrinha com as mãos ou num pano para tirar a água."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma assadeira com o azeite."
+    },
+    {
+      "texto": "Numa tigela, misture a abobrinha, os ovos, a aveia, o queijo, a cebolinha e a hortelã. Por último, junte o fermento."
+    },
+    {
+      "texto": "Coloque colheradas da massa na assadeira, achatando de leve."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire e asse mais 10 a 12 minutos, até dourar.",
+      "temporizador_min": 24
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 24,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por salsinha ou orégano."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas meia cura por parmesão; aí use só uma pitada de sal."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 2 dias na geladeira. Aqueça no forno ou na frigideira para voltarem a ficar sequinhos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 190,
+      "carboidratos_g": 12.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0177.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobrinha",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho de abobrinha",
+      "abobrinha assada",
+      "panqueca de abobrinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

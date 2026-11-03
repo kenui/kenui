@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0113",
+  "slug": "iogurte-com-manga-maracuja-e-coco",
+  "nome": "Iogurte com manga, maracujá e coco",
+  "descricao": "Iogurte natural com manga madura, polpa de maracujá e coco ralado, sabor de praia.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g)"
+    },
+    {
+      "ingrediente": "manga",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de manga em cubos"
+    },
+    {
+      "ingrediente": "maracuja",
+      "quantidade": 25,
+      "medida": "g",
+      "texto": "Polpa de 1/2 maracujá (25 g)"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 8,
+      "medida": "g",
+      "texto": "1 colher (sopa) de coco ralado seco sem açúcar (8 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte o maracujá ao meio e retire a polpa de uma metade com uma colher.",
+      "aviso": "Corte o maracujá apoiado na tábua, com a faca para longe da mão."
+    },
+    {
+      "texto": "Coloque o iogurte na tigela e cubra com a manga."
+    },
+    {
+      "texto": "Regue com a polpa de maracujá e salpique o coco."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a manga por abacaxi em cubinhos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem coco seco, use lascas de coco fresco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Toste o coco 1 minuto numa frigideira seca para ficar mais perfumado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 199,
+      "carboidratos_g": 18.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0113.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "manga",
+      "maracuja",
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte tropical",
+      "iogurte com manga",
+      "iogurte com maracuja"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

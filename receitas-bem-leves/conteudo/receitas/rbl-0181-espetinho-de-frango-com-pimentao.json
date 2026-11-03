@@ -1,0 +1,163 @@
+{
+  "id": "rbl-0181",
+  "slug": "espetinho-de-frango-com-pimentao",
+  "nome": "Espetinho de frango com pimentão",
+  "descricao": "Espetinhos de frango marinado no limão, alho e páprica, intercalado com pimentão e cebola e assado.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "descanso_min": 30,
+    "total_min": 75
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "espetinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 espetinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango sem pele, em cubos de 3 cm"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em quadrados"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em pétalas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture o limão, o alho, o azeite, a páprica, o orégano e o sal. Junte o frango e deixe na geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-alumínio untado."
+    },
+    {
+      "texto": "Monte os espetinhos intercalando frango, pimentão e cebola.",
+      "aviso": "A ponta do palito é afiada: monte com cuidado."
+    },
+    {
+      "texto": "Arrume na assadeira e regue com o tempero que sobrou na tigela."
+    },
+    {
+      "texto": "Asse por 12 minutos, vire e asse mais 10 a 13 minutos, até o frango ficar dourado e sem partes rosadas por dentro.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por cubos de alcatra ou por linguiça de frango."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pimentão por abobrinha em rodelas grossas ou tomate-cereja."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se usar palitos de bambu, deixe de molho em água por 15 minutos antes, para não queimarem."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e aqueça na frigideira."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 233,
+      "carboidratos_g": 5.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0181.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "frango",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "espetinho de frango",
+      "churrasquinho de frango no forno",
+      "espetinho assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

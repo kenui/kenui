@@ -1,0 +1,179 @@
+{
+  "id": "rbl-0279",
+  "slug": "pernil-desfiado",
+  "nome": "Pernil desfiado",
+  "descricao": "Pernil suíno temperado, cozido na pressão e desfiado num refogado de tomate e pimentão, bom no prato ou para rechear.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 70,
+    "descanso_min": 60,
+    "total_min": 150
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "porções"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 xícara (chá) cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "pernil-suino",
+      "quantidade": 1200,
+      "medida": "g",
+      "texto": "1,2 kg de pernil suíno sem osso, em 4 pedaços"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 5,
+      "medida": "dente",
+      "texto": "5 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "Suco de 2 limões"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_cha",
+      "texto": "2 e 1/2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água (480 ml)"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 cebolas em tiras"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em tiras"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o pernil com o alho, o limão, o sal, o orégano e o cominho. Deixe 1 hora na geladeira.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Coloque a carne com o tempero e a água na panela de pressão e cozinhe por 45 minutos depois de pegar pressão.",
+      "aviso": "Espere toda a pressão sair antes de abrir a panela.",
+      "temporizador_min": 45
+    },
+    {
+      "texto": "Retire a carne, guarde o caldo e desfie com dois garfos, tirando a gordura que sobrar."
+    },
+    {
+      "texto": "Numa panela larga, refogue a cebola e o pimentão no azeite por 5 minutos. Junte o tomate e cozinhe 3 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Acrescente o pernil e 1 xícara do caldo e cozinhe 8 minutos, mexendo, até ficar úmido e bem temperado.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue e misture a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o pernil por paleta suína ou por acém."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use o caldo que sobrar para cozinhar arroz ou feijão."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 255,
+      "carboidratos_g": 4.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0279.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "pernil desfiado",
+    "enfeites": [
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pernil desfiado",
+      "pernil na pressao",
+      "carne de porco desfiada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

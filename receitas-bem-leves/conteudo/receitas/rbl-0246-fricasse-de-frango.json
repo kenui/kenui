@@ -1,0 +1,209 @@
+{
+  "id": "rbl-0246",
+  "slug": "fricasse-de-frango",
+  "nome": "Fricassê de frango",
+  "descricao": "Frango desfiado num creme de requeijão com milho, coberto de queijo e gratinado no forno.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 45,
+    "total_min": 65
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 pedaço (1/6 da travessa)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Frango",
+      "ingrediente": "peito-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de peito de frango"
+    },
+    {
+      "grupo": "Frango",
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água para cozinhar"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "amido-de-milho",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de amido de milho"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "milho-verde",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de milho-verde escorrido"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Creme",
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo mussarela ralado"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Cozinhe o frango na água fervente por 20 minutos. Escorra e desfie.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa panela, refogue a cebola e o alho no azeite por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Dissolva o amido no leite frio e despeje na panela, mexendo sem parar até engrossar, cerca de 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Desligue e misture o requeijão, o creme de leite, o milho, o sal, a noz-moscada e o frango."
+    },
+    {
+      "texto": "Espalhe numa travessa média, cubra com a mussarela e o parmesão."
+    },
+    {
+      "texto": "Asse por 20 minutos, até borbulhar e dourar.",
+      "temporizador_min": 20
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o milho por ervilha ou palmito picado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use frango que sobrou do almoço: pule o primeiro passo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Reaqueça no forno para o queijo voltar a ficar dourado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 315,
+      "carboidratos_g": 11.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0246.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "queijo_gratinado",
+    "recheio": "fricasse",
+    "enfeites": [
+      "queijo_derretido",
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "fricasse",
+      "fricasse de frango",
+      "frango gratinado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

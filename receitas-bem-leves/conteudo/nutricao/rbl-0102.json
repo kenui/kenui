@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0102",
+  "nome": "Cuscuz recheado com queijo",
+  "porcoes": 2,
+  "porcao": "1/2 cuscuz",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "flocao-de-milho",
+      "texto": "1 xícara (chá) de flocão de milho (100 g)",
+      "gramas": 100,
+      "kcal": 351,
+      "carboidratos_g": 79.1,
+      "fonte": "TACO 4ª ed. 33 Farinha, de milho, amarela",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 79.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1/2 xícara (chá) de água",
+      "gramas": 120,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "3 fatias de mussarela (60 g)",
+      "gramas": 60,
+      "kcal": 198,
+      "carboidratos_g": 1.8,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (chá) de manteiga",
+      "gramas": 4.7,
+      "kcal": 34.1,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 583.4,
+    "carboidratos_g": 81
+  },
+  "por_porcao": {
+    "kcal": 292,
+    "carboidratos_g": 40.5
+  }
+}

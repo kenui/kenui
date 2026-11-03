@@ -1,0 +1,169 @@
+{
+  "id": "rbl-0318",
+  "slug": "sopa-de-tomate-assado",
+  "nome": "Sopa de tomate assado",
+  "descricao": "Tomates, cebola e alho assados até ficarem macios e batidos com manjericão fresco.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 45,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 300 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tomate",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 tomates maduros cortados ao meio (cerca de 1,2 kg)"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em quatro"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 6,
+      "medida": "dente",
+      "texto": "6 dentes de alho com casca"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 500,
+      "medida": "ml",
+      "texto": "500 ml de água quente"
+    },
+    {
+      "ingrediente": "manjericao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de folhas de manjericão"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de parmesão ralado para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C."
+    },
+    {
+      "texto": "Numa assadeira, arrume os tomates com o corte para cima, a cebola e o alho. Regue com o azeite e tempere com o sal e o orégano."
+    },
+    {
+      "texto": "Asse por 35 minutos, até os tomates murcharem e dourarem nas bordas.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Aperte o alho para tirar da casca. Bata tudo no liquidificador com a água e o manjericão até ficar liso.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Leve à panela, tempere com a pimenta e ferva por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Sirva com parmesão por cima, se quiser."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o manjericão por salsinha ou tomilho."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para um creme mais encorpado, junte 2 colheres (sopa) de requeijão ao bater."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Tomate italiano bem maduro deixa a sopa naturalmente adocicada."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 152,
+      "carboidratos_g": 13.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0318.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de tomate",
+      "creme de tomate",
+      "tomate assado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

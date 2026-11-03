@@ -1,0 +1,148 @@
+{
+  "id": "rbl-0129",
+  "slug": "maca-assada-com-canela-e-nozes",
+  "nome": "Maçã assada com canela e nozes",
+  "descricao": "Maçãs assadas inteiras, recheadas com nozes, canela e manteiga, macias e perfumadas.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 35,
+    "total_min": 45
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "maçãs"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 maçã"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 maçãs médias (300 g)"
+    },
+    {
+      "ingrediente": "noz",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de nozes picadas"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de manteiga"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de água"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de iogurte natural para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Lave as maçãs e retire o miolo com uma faquinha ou colher, sem furar o fundo.",
+      "aviso": "Faca afiada: segure a maçã firme na tábua e corte para longe da mão."
+    },
+    {
+      "texto": "Misture as nozes com a canela e recheie as maçãs. Coloque 1 colher (chá) de manteiga por cima de cada uma."
+    },
+    {
+      "texto": "Arrume num refratário pequeno e coloque a água no fundo."
+    },
+    {
+      "texto": "Asse por 30 a 35 minutos, até as maçãs ficarem macias quando espetadas com um garfo.",
+      "temporizador_min": 35
+    },
+    {
+      "texto": "Sirva morna, regada com o caldinho do refratário e, se quiser, com iogurte."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 35,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque as nozes por castanha-do-pará ou aveia em flocos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use pera no lugar da maçã: asse 5 minutos a menos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça 1 minuto no micro-ondas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 165,
+      "carboidratos_g": 24.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0129.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "legumes_assados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "nozes e canela",
+    "enfeites": [
+      "maca",
+      "canela",
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "maca assada",
+      "maca no forno",
+      "maca com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

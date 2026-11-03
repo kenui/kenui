@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0423",
+  "slug": "curau-de-milho-verde",
+  "nome": "Curau de milho verde",
+  "descricao": "Curau cremoso de milho verde fresco batido com leite, cozido na panela e polvilhado com canela.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 20,
+    "descanso_min": 120,
+    "total_min": 160
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "tigelinhas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 tigelinha"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "milho-verde-cru",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de grãos de milho verde fresco (cerca de 4 espigas)",
+      "alternativa": {
+        "ingrediente": "milho-verde",
+        "texto": "ou 3 xícaras (chá) de milho verde em lata escorrido"
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó para polvilhar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Corte os grãos das espigas com uma faca, de cima para baixo, com a espiga em pé sobre uma tábua.",
+      "aviso": "Cuidado com a faca: apoie bem a espiga."
+    },
+    {
+      "texto": "Bata os grãos com o leite no liquidificador por 3 minutos e passe por uma peneira, apertando bem o bagaço.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Coloque o líquido numa panela com o eritritol, a manteiga e o sal."
+    },
+    {
+      "texto": "Cozinhe em fogo baixo, mexendo sem parar, por 15 a 20 minutos, até engrossar como um creme de colher.",
+      "aviso": "O curau espirra quando engrossa: use colher de cabo longo.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Distribua em tigelinhas, polvilhe canela e leve à geladeira por 2 horas.",
+      "temporizador_min": 120
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o milho fresco por milho verde em lata escorrido: o curau fica um pouco menos encorpado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque 1 xícara do leite por 1 vidro de leite de coco."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se o curau não engrossar, o milho estava pouco maduro: cozinhe mais 5 minutos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 193,
+      "carboidratos_g": 26.9
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0423.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela",
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "curau sem acucar",
+      "canjica de milho verde",
+      "creme de milho doce"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

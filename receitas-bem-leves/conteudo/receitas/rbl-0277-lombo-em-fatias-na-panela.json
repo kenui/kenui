@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0277",
+  "slug": "lombo-em-fatias-na-panela",
+  "nome": "Lombo em fatias na panela",
+  "descricao": "Fatias de lombo suíno douradas e cozidas rapidamente num molho de tomate com páprica e cebolinha.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "3 fatias com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "lombo-suino",
+      "quantidade": 800,
+      "medida": "g",
+      "texto": "800 g de lombo suíno em fatias de 1,5 cm"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Suco de 1/2 limão"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.5,
+      "medida": "colher_cha",
+      "texto": "1 e 1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em tiras"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 120,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) de água (120 ml)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere as fatias com o limão, o alho, o sal e a páprica."
+    },
+    {
+      "texto": "Numa panela larga, aqueça o óleo e doure as fatias em fogo médio-alto, 3 minutos de cada lado, em levas. Reserve.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma panela, refogue a cebola por 3 minutos e junte o tomate.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Volte o lombo, junte a água, tampe e cozinhe em fogo baixo por 12 minutos, até a carne ficar macia e o molho encorpar.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Finalize com a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o lombo por filé mignon suíno, que fica pronto 4 minutos antes."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1/2 pimentão vermelho junto com a cebola."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira e congela por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 408,
+      "carboidratos_g": 5.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0277.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "lombo na panela",
+      "lombo em fatias",
+      "bife de lombo"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

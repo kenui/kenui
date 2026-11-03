@@ -1,0 +1,78 @@
+{
+  "receita": "rbl-0108",
+  "nome": "Mingau de milho-verde",
+  "porcoes": 3,
+  "porcao": "1 tigela",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "milho-verde",
+      "texto": "2 xícaras (chá) de milho-verde em lata escorrido",
+      "gramas": 328,
+      "kcal": 321.4,
+      "carboidratos_g": 56.09,
+      "fonte": "TACO 4ª ed. 45 Milho, verde, enlatado, drenado",
+      "por_100g": {
+        "kcal": 98,
+        "carboidratos_g": 17.1
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "2 xícaras (chá) de leite",
+      "gramas": 488,
+      "kcal": 297.7,
+      "carboidratos_g": 23.42,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 pitada de sal",
+      "gramas": 0.4,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "canela",
+      "texto": "1/4 de colher (chá) de canela em pó para polvilhar",
+      "gramas": 0.7,
+      "kcal": 1.6,
+      "carboidratos_g": 0.52,
+      "fonte": "USDA SR Legacy 171320 Spices, cinnamon, ground",
+      "por_100g": {
+        "kcal": 247,
+        "carboidratos_g": 80.59
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 620.8,
+    "carboidratos_g": 80.1
+  },
+  "por_porcao": {
+    "kcal": 207,
+    "carboidratos_g": 26.7
+  }
+}

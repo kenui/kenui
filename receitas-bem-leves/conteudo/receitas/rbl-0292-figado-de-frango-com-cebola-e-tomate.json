@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0292",
+  "slug": "figado-de-frango-com-cebola-e-tomate",
+  "nome": "Fígado de frango com cebola e tomate",
+  "descricao": "Fígados de frango dourados no alho e refogados com cebola e tomate, rápidos e baratos.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 15,
+    "total_min": 25
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "cerca de 3/4 de xícara (125 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "figado-de-frango",
+      "quantidade": 500,
+      "medida": "g",
+      "texto": "500 g de fígado de frango limpo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de óleo"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média em tiras"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates picados"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Retire as partes brancas e esverdeadas dos fígados e corte os maiores ao meio. Seque com papel-toalha."
+    },
+    {
+      "texto": "Aqueça o óleo numa frigideira grande em fogo alto e doure os fígados 2 minutos de cada lado, sem mexer.",
+      "aviso": "O fígado espirra ao entrar no óleo: use tampa por cima, deixando uma fresta.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Junte o alho e a cebola e mexa por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente o tomate, o sal e a pimenta e cozinhe 4 minutos, até o tomate amolecer e o fígado ficar sem sangue no centro.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Desligue e misture a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o tomate por pimentão vermelho em tiras."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com moela, cozida antes na pressão por 20 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não cozinhe demais: passado do ponto, o fígado fica arenoso."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 186,
+      "carboidratos_g": 5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0292.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "figado de frango",
+      "figado de galinha",
+      "fiapo de frango acebolado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

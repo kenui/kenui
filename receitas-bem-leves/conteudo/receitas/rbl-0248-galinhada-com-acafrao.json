@@ -1,0 +1,182 @@
+{
+  "id": "rbl-0248",
+  "slug": "galinhada-com-acafrao",
+  "nome": "Galinhada com açafrão",
+  "descricao": "Arroz cozido junto com o frango, açafrão-da-terra e cheiro-verde, prato único de panela à moda goiana.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 40,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 prato raso (cerca de 1 e 1/2 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "sobrecoxa-de-frango",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de sobrecoxa de frango desossada, em pedaços"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola média picada"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de açafrão-da-terra (cúrcuma)"
+    },
+    {
+      "ingrediente": "arroz-branco",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de arroz branco cru, lavado e escorrido"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 900,
+      "medida": "ml",
+      "texto": "3 e 3/4 xícaras (chá) de água fervente (900 ml)"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere o frango com o sal e o alho."
+    },
+    {
+      "texto": "Numa panela grande e funda, aqueça o óleo e doure o frango em fogo médio-alto por 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte a cebola, o pimentão e o tomate e refogue 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Acrescente o açafrão-da-terra e o arroz e mexa por 2 minutos, para os grãos pegarem cor.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Despeje a água fervente, mexa uma vez, tampe deixando uma fresta e cozinhe em fogo baixo por 20 minutos, até a água secar e o arroz ficar macio.",
+      "aviso": "Cuidado com o vapor ao despejar a água fervente na panela quente.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Desligue, tampe e deixe descansar 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Solte com um garfo e misture a salsinha e a cebolinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use arroz integral: aumente a água para 5 xícaras e o cozimento para 35 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1/2 xícara de ervilha ou milho-verde no final."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Para reaquecer, pingue um pouco de água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 439,
+      "carboidratos_g": 52.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0248.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "pimentao",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "galinhada",
+      "arroz com frango",
+      "galinhada goiana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

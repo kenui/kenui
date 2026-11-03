@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0433",
+  "slug": "gelatina-de-laranja",
+  "nome": "Gelatina de laranja",
+  "descricao": "Gelatina de suco de laranja espremido na hora, refrescante e com gosto de fruta de verdade.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 1,
+    "descanso_min": 240,
+    "total_min": 256
+  },
+  "rendimento": {
+    "quantidade": 5,
+    "unidade": "taças"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "gelatina-incolor",
+      "quantidade": 12,
+      "medida": "g",
+      "texto": "1 envelope (12 g) de gelatina incolor sem sabor"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 5,
+      "medida": "colher_sopa",
+      "texto": "5 colheres (sopa) de água fria"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 2.25,
+      "medida": "xicara",
+      "texto": "2 e 1/4 xícaras (chá) de suco de laranja natural (cerca de 7 laranjas), coado"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 2 colheres (sopa) de xilitol"
+      }
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "laranja",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 laranja em gomos para enfeitar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema as laranjas e coe o suco."
+    },
+    {
+      "texto": "Polvilhe a gelatina sobre a água fria e deixe hidratar por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Derreta a gelatina no micro-ondas por 10 a 15 segundos ou em banho-maria, sem deixar ferver."
+    },
+    {
+      "texto": "Dissolva o eritritol no suco. Junte a gelatina derretida a 1 xícara do suco, mexa bem e acrescente o resto."
+    },
+    {
+      "texto": "Distribua em 5 taças e leve à geladeira por 4 horas, até firmar.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Sirva com gomos de laranja por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a laranja-pera por mexerica ou laranja-lima, que são mais doces."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não use abacaxi, mamão ou kiwi crus em gelatina: eles impedem que ela firme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 45,
+      "carboidratos_g": 8.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0433.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "mousse_taca",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "gelatina de laranja caseira",
+      "gelatina de suco de laranja",
+      "gelatina natural"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0183",
+  "nome": "Vitamina de mamão com aveia",
+  "porcoes": 2,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "mamao-papaia",
+      "texto": "1 xícara (chá) de mamão papaia picado (meio mamão pequeno)",
+      "gramas": 145,
+      "kcal": 58,
+      "carboidratos_g": 15.08,
+      "fonte": "TACO 4ª ed. 226 Mamão, Papaia, cru",
+      "por_100g": {
+        "kcal": 40,
+        "carboidratos_g": 10.4
+      }
+    },
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 e 1/2 xícara (chá) de leite gelado",
+      "gramas": 366,
+      "kcal": 223.3,
+      "carboidratos_g": 17.57,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "2 colheres (sopa) de aveia em flocos",
+      "gramas": 10.2,
+      "kcal": 40.2,
+      "carboidratos_g": 6.79,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 321.4,
+    "carboidratos_g": 39.4
+  },
+  "por_porcao": {
+    "kcal": 161,
+    "carboidratos_g": 19.7
+  }
+}

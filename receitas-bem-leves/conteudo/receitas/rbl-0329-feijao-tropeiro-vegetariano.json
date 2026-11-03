@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0329",
+  "slug": "feijao-tropeiro-vegetariano",
+  "nome": "Feijão tropeiro vegetariano",
+  "descricao": "Feijão-carioca refogado com farinha de mandioca, ovos mexidos e couve, sem bacon nem linguiça.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 20,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "1 concha cheia"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "ingrediente": "couve",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 maço pequeno de couve fatiada fininha (150 g)"
+    },
+    {
+      "ingrediente": "feijao-carioca-cozido",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de feijão-carioca cozido, bem escorrido"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "farinha-de-mandioca",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "3/4 de xícara (chá) de farinha de mandioca torrada (100 g)"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela larga, aqueça o azeite e refogue a cebola até dourar. Junte o alho e mexa por 1 minuto."
+    },
+    {
+      "texto": "Abra um espaço no centro, quebre os ovos e mexa até ficarem cozidos. Misture com a cebola."
+    },
+    {
+      "texto": "Junte a couve e refogue por 2 minutos, até murchar."
+    },
+    {
+      "texto": "Acrescente o feijão, o sal e a pimenta e mexa por 3 minutos, até aquecer."
+    },
+    {
+      "texto": "Junte a farinha aos poucos, mexendo, até o feijão ficar soltinho e úmido."
+    },
+    {
+      "texto": "Desligue, misture a cebolinha e a salsinha e sirva."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de mandioca por farinha de milho (flocão)."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Se quiser a versão com carne, doure 150 g de linguiça em cubinhos antes da cebola."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O feijão precisa estar bem escorrido, senão a farinha empapa."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 238,
+      "carboidratos_g": 30.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0329.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "folhas_verdes",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "feijao tropeiro",
+      "tropeiro sem carne",
+      "feijao com farinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

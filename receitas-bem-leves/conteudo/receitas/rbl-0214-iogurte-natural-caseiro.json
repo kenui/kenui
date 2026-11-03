@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0214",
+  "slug": "iogurte-natural-caseiro",
+  "nome": "Iogurte natural caseiro",
+  "descricao": "Iogurte firme e cremoso feito em casa com leite e um pote de iogurte natural.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 10,
+    "descanso_min": 720,
+    "total_min": 735
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções de 3/4 de xícara"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "3/4 de xícara (chá) (cerca de 190 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de leite integral"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pote de iogurte natural integral (170 g), em temperatura ambiente"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "morango",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "morangos picados para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Aqueça o leite numa panela até começar a subir.",
+      "aviso": "Cuidado com o líquido quente.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue e deixe amornar até dar para manter o dedo no leite por 10 segundos (cerca de 45 °C)."
+    },
+    {
+      "texto": "Numa tigela, misture o iogurte com 1 xícara do leite morno. Junte ao resto do leite e mexa devagar."
+    },
+    {
+      "texto": "Passe para um pote com tampa, embrulhe num pano grosso e deixe num lugar sem vento, como dentro do micro-ondas desligado, por 8 horas, sem mexer.",
+      "temporizador_min": 480
+    },
+    {
+      "texto": "Quando estiver firme, leve à geladeira por 4 horas.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Sirva puro ou com frutas."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use leite desnatado: o iogurte fica um pouco mais mole."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 5 dias na geladeira. Guarde 1/2 xícara para começar o próximo iogurte."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não mexa nem balance o pote enquanto ele firma: é isso que deixa o iogurte cremoso."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 119,
+      "carboidratos_g": 8.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0214.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "morango"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte caseiro",
+      "como fazer iogurte",
+      "iogurte natural em casa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "rbl-0140",
+  "slug": "bolinho-de-arroz-de-forno",
+  "nome": "Bolinho de arroz de forno",
+  "descricao": "Bolinho feito com sobra de arroz, queijo e cheiro-verde, assado até ficar dourado e crocante por fora.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "4 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "arroz-cozido",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de arroz branco cozido"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola ralada"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 200 °C e unte uma forma de minimuffin (ou uma assadeira) com o azeite."
+    },
+    {
+      "texto": "Numa tigela, amasse o arroz com um garfo para quebrar um pouco os grãos."
+    },
+    {
+      "texto": "Junte os ovos, o parmesão, a cebola, a salsinha, a cebolinha e o sal e misture bem."
+    },
+    {
+      "texto": "Acrescente a farinha e o fermento e mexa até formar uma massa grossa que pare na colher."
+    },
+    {
+      "texto": "Distribua a massa às colheradas nas forminhas ou na assadeira."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar e firmar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use arroz integral cozido no lugar do branco."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha de trigo por 4 colheres (sopa) de aveia em flocos finos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "O arroz do dia anterior, frio, dá mais liga."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça no forno por 5 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 252,
+      "carboidratos_g": 29.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0140.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_ralado",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinho de arroz assado",
+      "sobra de arroz",
+      "bolinho de arroz sem fritura"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0088",
+  "slug": "ninho-de-batata-doce-ralada-com-ovos",
+  "nome": "Ninho de batata-doce ralada com ovos",
+  "descricao": "Batata-doce ralada dourada na frigideira, com dois ovos cozidos no meio dela.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 8,
+    "cozimento_min": 15,
+    "total_min": 23
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "ninho"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 ninho com 2 ovos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "batata-doce",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 batata-doce pequena ralada no ralo grosso"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2,
+      "medida": "pitada",
+      "texto": "2 pitadas de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de azeite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque e rale a batata-doce no ralo grosso. Misture com 1 pitada de sal."
+    },
+    {
+      "texto": "Aqueça o azeite numa frigideira antiaderente de 20 cm em fogo médio. Espalhe a batata e aperte com a espátula, formando um disco."
+    },
+    {
+      "texto": "Tampe e cozinhe por 7 a 8 minutos, até o fundo dourar e a batata amaciar.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Abra 2 buracos no disco e quebre um ovo em cada um. Tempere com o resto do sal e a pimenta."
+    },
+    {
+      "texto": "Tampe e deixe em fogo baixo por 5 a 6 minutos, até as claras firmarem.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Salpique a cebolinha e sirva direto da frigideira."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a batata-doce por batata inglesa ou por abobrinha bem espremida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use orégano ou páprica no lugar da cebolinha."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não mexa a batata enquanto doura: é isso que forma a casquinha."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 377,
+      "carboidratos_g": 38.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0088.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "ovos",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "rosti de batata doce",
+      "batata doce com ovo",
+      "ovo no ninho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

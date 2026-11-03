@@ -1,0 +1,158 @@
+{
+  "id": "rbl-0023",
+  "slug": "pao-de-frigideira-de-linhaca",
+  "nome": "Pão de frigideira de linhaça",
+  "descricao": "Pão escurinho e firme de linhaça e ovo, pronto em 10 minutos e bom para sanduíche.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 6,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "pão (2 fatias)"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 pão"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "linhaca-moida",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de linhaça moída"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de leite"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de azeite para untar"
+    },
+    {
+      "ingrediente": "gergelim",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gergelim para polvilhar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, bata o ovo com o leite usando um garfo."
+    },
+    {
+      "texto": "Junte a linhaça, o parmesão e o sal e misture. Deixe descansar 1 minuto para a linhaça absorver o líquido.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Acrescente o fermento e mexa só para misturar."
+    },
+    {
+      "texto": "Unte uma frigideira antiaderente pequena com o azeite e aqueça em fogo baixo."
+    },
+    {
+      "texto": "Despeje a massa, polvilhe o gergelim, tampe e deixe 3 minutos, até a borda soltar.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Vire e deixe mais 2 minutos, até firmar.",
+      "aviso": "Fogo baixo: a linhaça escurece rápido e pode queimar.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Corte ao meio na horizontal e recheie."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a linhaça moída por farelo de aveia: o pão fica mais claro e macio."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Linhaça dourada deixa o pão com sabor mais suave que a marrom."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a linhaça moída em pote fechado na geladeira para não ficar com gosto rançoso."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 195,
+      "carboidratos_g": 8.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0023.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pao_frigideira",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de linhaca",
+      "pao de frigideira low carb",
+      "pao sem farinha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

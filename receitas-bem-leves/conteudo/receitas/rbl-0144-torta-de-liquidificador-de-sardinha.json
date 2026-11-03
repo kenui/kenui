@@ -1,0 +1,201 @@
+{
+  "id": "rbl-0144",
+  "slug": "torta-de-liquidificador-de-sardinha",
+  "nome": "Torta de liquidificador de sardinha",
+  "descricao": "Torta salgada clássica de massa batida no liquidificador, recheada com sardinha, tomate e pimentão.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 40,
+    "total_min": 70
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "torta de 22 x 30 cm"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 pedaço (1/10 da torta)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sardinha-em-lata",
+      "quantidade": 170,
+      "medida": "g",
+      "texto": "2 latas de sardinha em óleo escorridas (170 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeitona-verde",
+      "quantidade": 10,
+      "medida": "unidade",
+      "texto": "10 azeitonas verdes picadas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte com óleo e enfarinhe uma forma de 22 x 30 cm."
+    },
+    {
+      "texto": "Numa tigela, amasse a sardinha com um garfo, tirando a espinha do meio se quiser, e misture o tomate, a cebola, o pimentão, as azeitonas e a salsinha."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto."
+    },
+    {
+      "texto": "Junte a farinha aos poucos e bata até ficar uma massa lisa. Misture o fermento com uma colher."
+    },
+    {
+      "texto": "Despeje metade da massa na forma, espalhe o recheio e cubra com o restante da massa."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    },
+    {
+      "texto": "Espere 10 minutos antes de cortar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a sardinha por 2 latas de atum ou por 2 xícaras de frango desfiado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca, se preferir."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura 3 dias na geladeira. Também pode ser congelada em pedaços por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 289,
+      "carboidratos_g": 22.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0144.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "torta",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "sardinha",
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "azeitona"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "torta de sardinha",
+      "torta salgada de liquidificador",
+      "torta de sardinha facil"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

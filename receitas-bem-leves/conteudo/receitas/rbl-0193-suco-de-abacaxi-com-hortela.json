@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0193",
+  "slug": "suco-de-abacaxi-com-hortela",
+  "nome": "Suco de abacaxi com hortelã",
+  "descricao": "O clássico suco de abacaxi batido com folhas de hortelã, bem gelado.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de abacaxi picado (cerca de 1/3 de abacaxi)"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de folhas de hortelã"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "stevia",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 gotas de stevia, se quiser mais doce",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque o abacaxi e corte a polpa em pedaços, sem o miolo duro.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata no liquidificador o abacaxi, a hortelã e a água por 1 minuto.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Coe se preferir, prove e, se quiser, adoce com a stevia."
+    },
+    {
+      "texto": "Sirva com gelo."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a hortelã por 1 pedacinho de gengibre."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use a mesma quantidade de polpa de abacaxi congelada no lugar da fruta."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em jarra fechada na geladeira por até 1 dia. Mexa antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 54,
+      "carboidratos_g": 13.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0193.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abacaxi",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de abacaxi",
+      "abacaxi com hortela",
+      "suco refrescante"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

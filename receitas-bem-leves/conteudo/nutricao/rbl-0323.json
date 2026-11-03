@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0323",
+  "nome": "Sopa de cebola gratinada",
+  "porcoes": 4,
+  "porcao": "1 cumbuca (cerca de 300 ml)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "manteiga",
+      "texto": "2 colheres (sopa) de manteiga",
+      "gramas": 28.4,
+      "kcal": 206.2,
+      "carboidratos_g": 0.03,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "1 colher (sopa) de azeite",
+      "gramas": 13.5,
+      "kcal": 119.3,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "6 cebolas médias em fatias finas",
+      "gramas": 660,
+      "kcal": 257.4,
+      "carboidratos_g": 58.74,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "2 dentes de alho picados",
+      "gramas": 6,
+      "kcal": 6.8,
+      "carboidratos_g": 1.43,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 colher (sopa) de farinha de trigo",
+      "gramas": 7.8,
+      "kcal": 28.1,
+      "carboidratos_g": 5.86,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1,2 litro de água quente",
+      "gramas": 1200,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "tomilho-seco",
+      "texto": "1/2 colher (chá) de tomilho seco",
+      "gramas": 0.5,
+      "kcal": 1.4,
+      "carboidratos_g": 0.32,
+      "fonte": "USDA SR Legacy 170938 Spices, thyme, dried",
+      "por_100g": {
+        "kcal": 276,
+        "carboidratos_g": 63.94
+      }
+    },
+    {
+      "ingrediente": "louro",
+      "texto": "1 folha de louro",
+      "gramas": 0.2,
+      "kcal": 0.6,
+      "carboidratos_g": 0.15,
+      "fonte": "USDA SR Legacy 170917 Spices, bay leaf",
+      "por_100g": {
+        "kcal": 313,
+        "carboidratos_g": 74.97
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 e 1/4 colher (chá) de sal",
+      "gramas": 7.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "120 g de mussarela ralada",
+      "gramas": 120,
+      "kcal": 396,
+      "carboidratos_g": 3.6,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1016,
+    "carboidratos_g": 70.2
+  },
+  "por_porcao": {
+    "kcal": 254,
+    "carboidratos_g": 17.5
+  }
+}

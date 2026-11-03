@@ -1,0 +1,134 @@
+{
+  "id": "rbl-0218",
+  "slug": "maca-assada-no-micro-ondas",
+  "nome": "Maçã assada no micro-ondas",
+  "descricao": "Maçã macia e perfumada recheada com aveia, uva-passa e canela, pronta em poucos minutos.",
+  "categoria": "lanches",
+  "destaques": [
+    "doces_e_bolos",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 5,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "maçãs"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 maçã"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maca",
+      "quantidade": 300,
+      "medida": "g",
+      "texto": "2 maçãs médias (300 g)"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de aveia em flocos"
+    },
+    {
+      "ingrediente": "uva-passa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de uva-passa"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Lave as maçãs e tire o miolo com uma faca pequena, sem furar o fundo.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Misture a aveia, a uva-passa e a canela e recheie as maçãs."
+    },
+    {
+      "texto": "Coloque as maçãs num refratário próprio para micro-ondas, regue com a água e cubra com uma tampa de micro-ondas."
+    },
+    {
+      "texto": "Leve ao micro-ondas em potência alta por 4 minutos, até a maçã ficar macia ao espetar com um garfo.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Deixe descansar 1 minuto e sirva morna, com a caldinha do fundo.",
+      "aviso": "Cuidado: o recheio sai muito quente.",
+      "temporizador_min": 1
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a uva-passa por castanhas picadas."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a maçã por pera."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Sirva com 1 colher (sopa) de iogurte natural por cima."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 124,
+      "carboidratos_g": 32.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0218.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "maca",
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "maca assada",
+      "maca no microondas",
+      "maca com canela"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "rbl-0082",
+  "slug": "ovos-recheados-com-atum",
+  "nome": "Ovos recheados com atum",
+  "descricao": "Metades de ovo cozido recheadas com creme de gema, atum e cebolinha, polvilhadas com páprica.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 12,
+    "descanso_min": 5,
+    "total_min": 32
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "metades"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 metades"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "atum-em-lata",
+      "quantidade": 60,
+      "medida": "g",
+      "texto": "1/2 lata de atum escorrido (60 g)"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 0.25,
+      "medida": "unidade",
+      "texto": "Suco de 1/4 de limão"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de cebolinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de sal"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 0.25,
+      "medida": "colher_cha",
+      "texto": "1/4 de colher (chá) de páprica doce para polvilhar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque os ovos numa panela, cubra com água e leve ao fogo. Quando ferver, conte 10 minutos.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Passe os ovos para uma tigela com água fria e deixe 5 minutos, para esfriar e descascar fácil.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Descasque, corte ao meio no comprido e retire as gemas.",
+      "aviso": "Use faca afiada e corte devagar."
+    },
+    {
+      "texto": "Amasse as gemas com um garfo e misture o atum, o requeijão, o limão, a cebolinha e o sal até virar um creme."
+    },
+    {
+      "texto": "Recheie as claras com o creme, usando uma colher de chá, e polvilhe a páprica."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por iogurte natural."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use frango desfiado ou sardinha no lugar do atum."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira, em pote fechado, por até 2 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 117,
+      "carboidratos_g": 1.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0082.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "salada",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "gema com atum",
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovo recheado",
+      "ovos cozidos recheados",
+      "ovo com atum"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

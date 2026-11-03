@@ -1,0 +1,114 @@
+{
+  "receita": "rbl-0403",
+  "nome": "Rosquinhas de laranja",
+  "porcoes": 8,
+  "porcao": "3 rosquinhas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "farinha-de-trigo",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
+      "gramas": 187.5,
+      "kcal": 675,
+      "carboidratos_g": 140.81,
+      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 75.1
+      }
+    },
+    {
+      "ingrediente": "amido-de-milho",
+      "texto": "1/2 xícara (chá) de amido de milho",
+      "gramas": 64,
+      "kcal": 231,
+      "carboidratos_g": 55.74,
+      "fonte": "TACO 4ª ed. 42 Milho, amido, cru",
+      "por_100g": {
+        "kcal": 361,
+        "carboidratos_g": 87.1
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "gramas": 100,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "texto": "1 ovo",
+      "gramas": 50,
+      "kcal": 71.5,
+      "carboidratos_g": 0.8,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente",
+      "gramas": 42.6,
+      "kcal": 309.3,
+      "carboidratos_g": 0.04,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "4 colheres (sopa) de suco de laranja",
+      "gramas": 62,
+      "kcal": 20.5,
+      "carboidratos_g": 4.71,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "raspas-de-laranja",
+      "texto": "1 colher (sopa) de raspas de casca de laranja",
+      "gramas": 6,
+      "kcal": 5.8,
+      "carboidratos_g": 1.5,
+      "fonte": "USDA SR Legacy 169103 Orange peel, raw",
+      "por_100g": {
+        "kcal": 97,
+        "carboidratos_g": 25
+      }
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "texto": "1 colher (chá) de fermento químico em pó",
+      "gramas": 4.6,
+      "kcal": 4.1,
+      "carboidratos_g": 2.02,
+      "fonte": "TACO 4ª ed. 513 Fermento em pó, químico",
+      "por_100g": {
+        "kcal": 90,
+        "carboidratos_g": 43.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1317.2,
+    "carboidratos_g": 205.6
+  },
+  "por_porcao": {
+    "kcal": 165,
+    "carboidratos_g": 25.7
+  }
+}

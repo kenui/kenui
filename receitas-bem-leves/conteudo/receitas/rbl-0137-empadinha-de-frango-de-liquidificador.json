@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0137",
+  "slug": "empadinha-de-frango-de-liquidificador",
+  "nome": "Empadinha de frango de liquidificador",
+  "descricao": "Empadinha macia de massa batida no liquidificador, recheada com frango, milho e tomate.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 30,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "empadinhas"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "2 empadinhas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 250,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara de peito de frango cozido e desfiado (250 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "milho-verde",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de milho verde escorrido"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate sem sementes picado"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 12 forminhas de empada ou de muffin com óleo."
+    },
+    {
+      "texto": "Numa tigela, misture todos os ingredientes do recheio e reserve."
+    },
+    {
+      "texto": "No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto."
+    },
+    {
+      "texto": "Junte a farinha aos poucos e bata até a massa ficar lisa. Por último, misture o fermento com uma colher."
+    },
+    {
+      "texto": "Coloque 1 colher (sopa) de massa no fundo de cada forminha, distribua o recheio e cubra com o restante da massa."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Espere 10 minutos antes de desenformar, para não quebrar.",
+      "temporizador_min": 10
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o frango por palmito picado ou por atum escorrido."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use 3/4 de xícara de farinha de trigo e 3/4 de xícara de farinha de trigo integral, se preferir."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Duram 3 dias na geladeira. Aqueça no forno por 8 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 386,
+      "carboidratos_g": 30
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0137.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "milho",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "empada de liquidificador",
+      "empadinha facil",
+      "torta de frango individual"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

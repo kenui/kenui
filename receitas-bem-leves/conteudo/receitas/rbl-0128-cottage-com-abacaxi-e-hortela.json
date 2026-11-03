@@ -1,0 +1,121 @@
+{
+  "id": "rbl-0128",
+  "slug": "cottage-com-abacaxi-e-hortela",
+  "nome": "Cottage com abacaxi e hortelã",
+  "descricao": "Queijo cottage fresquinho com abacaxi picado, hortelã e gergelim, salgadinho e doce ao mesmo tempo.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "tigela"
+  },
+  "porcoes": 1,
+  "porcao": {
+    "descricao": "1 tigela"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "queijo-cottage",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de queijo cottage"
+    },
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "2 fatias finas de abacaxi picadas (100 g)"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 0.5,
+      "medida": "colher_sopa",
+      "texto": "4 folhas de hortelã picadas"
+    },
+    {
+      "ingrediente": "gergelim",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gergelim"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque e pique o abacaxi em cubinhos, tirando o miolo duro.",
+      "aviso": "Faca afiada: corte o abacaxi deitado na tábua."
+    },
+    {
+      "texto": "Coloque o cottage na tigela e cubra com o abacaxi e a hortelã."
+    },
+    {
+      "texto": "Salpique o gergelim e sirva gelado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o abacaxi por manga, kiwi ou mamão."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use ricota esfarelada no lugar do cottage."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Toste o gergelim 1 minuto numa frigideira seca: fica mais perfumado."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 177,
+      "carboidratos_g": 17
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0128.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "queijo_branco",
+      "abacaxi",
+      "ervas",
+      "gergelim"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cottage com fruta",
+      "cottage com abacaxi",
+      "queijo com abacaxi"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

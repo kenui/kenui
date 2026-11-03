@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0124",
+  "nome": "Waffle de queijo",
+  "porcoes": 2,
+  "porcao": "2 waffles pequenos",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "ovo",
+      "texto": "2 ovos",
+      "gramas": 100,
+      "kcal": 143,
+      "carboidratos_g": 1.6,
+      "fonte": "TACO 4ª ed. 489 Ovo, de galinha, inteiro, cru",
+      "por_100g": {
+        "kcal": 143,
+        "carboidratos_g": 1.6
+      }
+    },
+    {
+      "ingrediente": "queijo-mussarela",
+      "texto": "1 xícara (chá) de mussarela ralada",
+      "gramas": 112,
+      "kcal": 369.6,
+      "carboidratos_g": 3.36,
+      "fonte": "TACO 4ª ed. 463 Queijo, mozarela",
+      "por_100g": {
+        "kcal": 330,
+        "carboidratos_g": 3
+      }
+    },
+    {
+      "ingrediente": "polvilho-doce",
+      "texto": "1 colher (sopa) de polvilho doce",
+      "gramas": 8,
+      "kcal": 28.1,
+      "carboidratos_g": 6.94,
+      "fonte": "TACO 4ª ed. 146 Polvilho, doce",
+      "por_100g": {
+        "kcal": 351,
+        "carboidratos_g": 86.8
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 pitada de orégano",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.07,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 540.9,
+    "carboidratos_g": 12
+  },
+  "por_porcao": {
+    "kcal": 270,
+    "carboidratos_g": 6
+  }
+}

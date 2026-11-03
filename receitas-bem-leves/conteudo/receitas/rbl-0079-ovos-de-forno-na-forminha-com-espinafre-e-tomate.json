@@ -1,0 +1,151 @@
+{
+  "id": "rbl-0079",
+  "slug": "ovos-de-forno-na-forminha-com-espinafre-e-tomate",
+  "nome": "Ovos de forno na forminha com espinafre e tomate",
+  "descricao": "Bolinhos de ovo assados em forminha de muffin, com espinafre, tomate e parmesão.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "bolinhos"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "2 bolinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "ovo",
+      "quantidade": 6,
+      "medida": "unidade",
+      "texto": "6 ovos"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de espinafre picado"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado sem sementes"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de azeite para untar"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte 6 cavidades de uma forma de muffin com o azeite."
+    },
+    {
+      "texto": "Divida o espinafre e o tomate entre as cavidades."
+    },
+    {
+      "texto": "Numa jarra, bata os ovos com o sal e a pimenta e despeje nas forminhas, até 3/4 da altura."
+    },
+    {
+      "texto": "Polvilhe o parmesão por cima."
+    },
+    {
+      "texto": "Asse por 18 a 20 minutos, até crescerem e o centro ficar firme ao toque.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Espere 3 minutos e solte as bordas com uma faquinha antes de desenformar.",
+      "temporizador_min": 3
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 20,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use forminhas de silicone ou de papel se não tiver forma de muffin."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por brócolis picadinho ou abobrinha ralada."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias em pote fechado. Aqueça 30 segundos no micro-ondas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 179,
+      "carboidratos_g": 3.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0079.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "muffin",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": "espinafre e tomate",
+    "enfeites": [
+      "folhas_verdes",
+      "tomate",
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "muffin de ovo",
+      "ovo de forminha",
+      "omelete de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

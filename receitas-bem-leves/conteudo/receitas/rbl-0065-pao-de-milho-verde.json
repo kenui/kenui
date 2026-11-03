@@ -1,0 +1,164 @@
+{
+  "id": "rbl-0065",
+  "slug": "pao-de-milho-verde",
+  "nome": "Pão de milho verde",
+  "descricao": "Pão macio com milho verde batido e um pouco de fubá na massa, de cor amarelinha e sabor de milho.",
+  "categoria": "paes_substitutos",
+  "destaques": [
+    "substitutos_do_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 30,
+    "descanso_min": 90,
+    "total_min": 150
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pãezinhos"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pãozinho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "milho-verde",
+      "quantidade": 170,
+      "medida": "g",
+      "texto": "1 lata de milho-verde escorrido (170 g)"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite morno"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3.5,
+      "medida": "xicara",
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de fubá"
+    },
+    {
+      "ingrediente": "fermento-biologico-seco",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de fermento biológico seco"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o milho, o leite morno, o óleo, o ovo e o sal até ficar um creme."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha, o fubá e o fermento."
+    },
+    {
+      "texto": "Despeje o creme de milho e misture até formar uma massa. Se grudar muito, ponha mais farinha aos poucos."
+    },
+    {
+      "texto": "Sove por 8 minutos, até ficar lisa.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada polvilhada com fubá. Cubra e deixe crescer mais 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C."
+    },
+    {
+      "texto": "Asse por 25 a 30 minutos, até dourar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 30,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 2 espigas de milho cru debulhadas no lugar do milho de lata."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Confira no rótulo do milho em lata: o ideal é que tenha só milho, água e sal."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele os pãezinhos assados por até 2 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 218,
+      "carboidratos_g": 34.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0065.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "pao_forma",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "milho"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de milho",
+      "pao de milho verde",
+      "pao caseiro de milho"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

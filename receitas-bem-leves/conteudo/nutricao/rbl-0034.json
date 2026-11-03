@@ -1,0 +1,102 @@
+{
+  "receita": "rbl-0034",
+  "nome": "Crackers de sementes",
+  "porcoes": 8,
+  "porcao": "4 pedaços",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "linhaca",
+      "texto": "1/2 xícara (chá) de linhaça",
+      "gramas": 84,
+      "kcal": 415.8,
+      "carboidratos_g": 36.37,
+      "fonte": "TACO 4ª ed. 594 Linhaça, semente",
+      "por_100g": {
+        "kcal": 495,
+        "carboidratos_g": 43.3
+      }
+    },
+    {
+      "ingrediente": "gergelim",
+      "texto": "1/2 xícara (chá) de gergelim",
+      "gramas": 72,
+      "kcal": 420.5,
+      "carboidratos_g": 15.55,
+      "fonte": "TACO 4ª ed. 593 Gergelim, semente",
+      "por_100g": {
+        "kcal": 584,
+        "carboidratos_g": 21.6
+      }
+    },
+    {
+      "ingrediente": "semente-de-girassol",
+      "texto": "1/2 xícara (chá) de semente de girassol sem casca",
+      "gramas": 70,
+      "kcal": 408.8,
+      "carboidratos_g": 14,
+      "fonte": "USDA SR Legacy 170562 Seeds, sunflower seed kernels, dried",
+      "por_100g": {
+        "kcal": 584,
+        "carboidratos_g": 20
+      }
+    },
+    {
+      "ingrediente": "semente-de-abobora",
+      "texto": "1/4 de xícara (chá) de semente de abóbora sem casca",
+      "gramas": 32.3,
+      "kcal": 180.3,
+      "carboidratos_g": 3.45,
+      "fonte": "USDA SR Legacy 170556 Seeds, pumpkin and squash seed kernels, dried",
+      "por_100g": {
+        "kcal": 559,
+        "carboidratos_g": 10.71
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1428.3,
+    "carboidratos_g": 70.1
+  },
+  "por_porcao": {
+    "kcal": 179,
+    "carboidratos_g": 8.8
+  }
+}

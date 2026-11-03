@@ -1,0 +1,165 @@
+{
+  "id": "rbl-0361",
+  "slug": "bolo-de-fuba-cremoso",
+  "nome": "Bolo de fubá cremoso",
+  "descricao": "Bolo de fubá de liquidificador com uma camada cremosa no meio, que se forma sozinha no forno.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 50,
+    "descanso_min": 30,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pedaços"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pedaço (1/12 do bolo)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de leite"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "fuba",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de fubá"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de queijo parmesão ralado"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com manteiga uma forma retangular de 20 x 30 cm."
+    },
+    {
+      "texto": "Bata no liquidificador o leite, os ovos, o eritritol, o fubá, a farinha, a manteiga e o queijo por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Junte o fermento e bata só mais alguns segundos."
+    },
+    {
+      "texto": "Despeje na forma. A massa é bem líquida mesmo."
+    },
+    {
+      "texto": "Asse por 45 a 50 minutos, até dourar por cima e firmar nas bordas. O meio fica cremoso.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Espere pelo menos 30 minutos antes de cortar, para o creme assentar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem parmesão? Use queijo minas meia cura ralado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Não abra o forno nos primeiros 30 minutos: é isso que forma a camada cremosa."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias. Frio, o creme fica mais firme."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 160,
+      "carboidratos_g": 18.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0361.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "queijo",
+    "cobertura": null,
+    "recheio": "creme de fubá",
+    "enfeites": [
+      "queijo_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolo de fuba",
+      "bolo de fuba com queijo",
+      "bolo cremoso de fuba"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

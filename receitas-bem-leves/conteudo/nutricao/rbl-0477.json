@@ -1,0 +1,151 @@
+{
+  "receita": "rbl-0477",
+  "nome": "Peixe assado inteiro com batatas",
+  "porcoes": 8,
+  "porcao": "1 posta de peixe com batatas",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "pescada-inteira",
+      "texto": "1 pescada inteira limpa, sem escamas (cerca de 2 kg)",
+      "gramas": 2000,
+      "kcal": 2220,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 304 Pescada, branca, crua",
+      "por_100g": {
+        "kcal": 111,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (sopa) de sal",
+      "gramas": 18,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 3 limões",
+      "gramas": 144,
+      "kcal": 31.7,
+      "carboidratos_g": 10.51,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "5 dentes de alho amassados",
+      "gramas": 15,
+      "kcal": 17,
+      "carboidratos_g": 3.59,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "5 colheres (sopa) de azeite",
+      "gramas": 67.5,
+      "kcal": 596.7,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "2 pitadas de pimenta-do-reino",
+      "gramas": 0.2,
+      "kcal": 0.5,
+      "carboidratos_g": 0.13,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "batata",
+      "texto": "4 batatas médias em rodelas finas",
+      "gramas": 852,
+      "kcal": 545.3,
+      "carboidratos_g": 125.24,
+      "fonte": "TACO 4ª ed. 92 Batata, inglesa, crua",
+      "por_100g": {
+        "kcal": 64,
+        "carboidratos_g": 14.7
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "2 cebolas em rodelas",
+      "gramas": 220,
+      "kcal": 85.8,
+      "carboidratos_g": 19.58,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "3 tomates em rodelas",
+      "gramas": 369,
+      "kcal": 55.4,
+      "carboidratos_g": 11.44,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    },
+    {
+      "ingrediente": "salsa",
+      "texto": "4 colheres (sopa) de salsinha picada",
+      "gramas": 15.2,
+      "kcal": 5,
+      "carboidratos_g": 0.87,
+      "fonte": "TACO 4ª ed. 153 Salsa, crua",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 5.7
+      }
+    },
+    {
+      "ingrediente": "oregano",
+      "texto": "1 colher (chá) de orégano",
+      "gramas": 1,
+      "kcal": 2.7,
+      "carboidratos_g": 0.69,
+      "fonte": "USDA SR Legacy 171328 Spices, oregano, dried",
+      "por_100g": {
+        "kcal": 265,
+        "carboidratos_g": 68.92
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 3559.9,
+    "carboidratos_g": 172
+  },
+  "por_porcao": {
+    "kcal": 445,
+    "carboidratos_g": 21.5
+  }
+}

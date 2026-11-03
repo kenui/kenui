@@ -1,0 +1,176 @@
+{
+  "id": "rbl-0496",
+  "slug": "salada-de-frutas-natalina-com-chantilly",
+  "nome": "Salada de frutas natalina com chantilly",
+  "descricao": "Manga, abacaxi, uva, kiwi, morango e romã no suco de laranja, servidos com chantilly caseiro de creme de leite fresco.",
+  "categoria": "ceia",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 0,
+    "descanso_min": 30,
+    "total_min": 60
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "taças"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 taça (cerca de 1 xícara)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manga",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 manga grande em cubos"
+    },
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de abacaxi em cubos"
+    },
+    {
+      "ingrediente": "uva",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de uva sem semente cortada ao meio"
+    },
+    {
+      "ingrediente": "kiwi",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 kiwis em meias-luas"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos em 4"
+    },
+    {
+      "ingrediente": "maca",
+      "quantidade": 180,
+      "medida": "g",
+      "texto": "1 maçã média em cubinhos, com casca (180 g)"
+    },
+    {
+      "ingrediente": "roma",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "Sementes de 1/2 romã"
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de suco de laranja natural"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "creme-de-leite-fresco",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de creme de leite fresco bem gelado"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "eritritol",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Chantilly",
+      "ingrediente": "baunilha",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de essência de baunilha"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela grande, coloque a maçã e regue logo com o suco de laranja, para não escurecer."
+    },
+    {
+      "texto": "Junte a manga, o abacaxi, a uva, o kiwi e o morango e misture com cuidado."
+    },
+    {
+      "texto": "Cubra e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Chantilly: bata o creme de leite fresco gelado com o eritritol e a baunilha na batedeira por 3 a 5 minutos, até formar picos firmes.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Sirva as frutas em taças com uma colherada de chantilly e as sementes de romã por cima."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use as frutas da estação: pêssego, ameixa fresca, mamão e lichia também combinam."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem creme de leite fresco? Sirva com iogurte natural integral bem gelado."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Coloque a banana só na hora, se quiser usar: ela escurece e amolece rápido."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "As frutas duram 1 dia na geladeira. Bata o chantilly perto da hora de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 168,
+      "carboidratos_g": 22.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0496.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "chantilly",
+    "recheio": null,
+    "enfeites": [
+      "manga",
+      "abacaxi",
+      "uva",
+      "chantilly"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "salada de frutas",
+      "salada de frutas com chantilly",
+      "sobremesa de natal"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

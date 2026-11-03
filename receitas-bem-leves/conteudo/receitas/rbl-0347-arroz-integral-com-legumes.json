@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0347",
+  "slug": "arroz-integral-com-legumes",
+  "nome": "Arroz integral com legumes",
+  "descricao": "Arroz integral soltinho cozido com cenoura, brócolis e vagem.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 40,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "3/4 de xícara (chá)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "arroz-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de arroz integral, lavado"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 960,
+      "medida": "ml",
+      "texto": "4 xícaras (chá) de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em cubinhos"
+    },
+    {
+      "ingrediente": "vagem",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de vagem picada"
+    },
+    {
+      "ingrediente": "brocolis",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de brócolis em floretes pequenos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola e o alho até ficarem macios."
+    },
+    {
+      "texto": "Junte o arroz e mexa por 2 minutos. Acrescente a água quente e o sal."
+    },
+    {
+      "texto": "Quando ferver, abaixe o fogo, tampe parcialmente e cozinhe por 25 minutos.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Junte a cenoura, a vagem e o brócolis por cima, sem mexer, tampe e cozinhe mais 10 a 12 minutos, até a água secar e o arroz ficar macio.",
+      "temporizador_min": 12
+    },
+    {
+      "texto": "Desligue, espere 5 minutos com a panela tampada e solte com um garfo.",
+      "temporizador_min": 5
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use ervilha fresca, milho ou abobrinha no lugar da vagem."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade do arroz integral por arroz parboilizado: cozinha mais rápido."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 4 dias ou congele em porções."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 220,
+      "carboidratos_g": 38.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0347.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "arroz_graos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "cenoura",
+      "brocolis"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "arroz integral",
+      "arroz colorido",
+      "arroz com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

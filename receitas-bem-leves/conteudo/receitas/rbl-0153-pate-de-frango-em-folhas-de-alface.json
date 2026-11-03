@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0153",
+  "slug": "pate-de-frango-em-folhas-de-alface",
+  "nome": "Patê de frango em folhas de alface",
+  "descricao": "Patê de frango batido com requeijão e cheiro-verde, servido em barquinhas de alface com tomate.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "total_min": 15
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "xícaras de patê"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "2 barquinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "peito-de-frango-cozido",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 e 1/2 xícara de peito de frango cozido e desfiado (200 g)"
+    },
+    {
+      "ingrediente": "requeijao-cremoso",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de requeijão cremoso"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho pequeno"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "noz-moscada",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de noz-moscada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "alface",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "8 folhas grandes de alface (200 g)"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "tomate",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 tomate picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "No processador ou no liquidificador, bata o frango, o requeijão, o azeite, o alho, o sal e a noz-moscada até virar uma pasta.",
+      "aviso": "No liquidificador, pare e mexa com uma colher algumas vezes, com o aparelho desligado."
+    },
+    {
+      "texto": "Passe para uma tigela e misture a salsinha."
+    },
+    {
+      "texto": "Lave e seque as folhas de alface."
+    },
+    {
+      "texto": "Coloque 2 colheres (sopa) de patê em cada folha e finalize com o tomate picado."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o requeijão por ricota ou por iogurte natural mais firme."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a alface por rodelas de pepino ou palitos de cenoura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "O patê dura 3 dias na geladeira. Monte as barquinhas só na hora de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 162,
+      "carboidratos_g": 2.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0153.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "pate_com_palitos",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "frango",
+    "enfeites": [
+      "frango_desfiado",
+      "folhas_verdes",
+      "tomate"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pate de frango",
+      "pasta de frango",
+      "barquinha de alface"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

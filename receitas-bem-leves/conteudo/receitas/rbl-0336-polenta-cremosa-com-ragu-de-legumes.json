@@ -1,0 +1,213 @@
+{
+  "id": "rbl-0336",
+  "slug": "polenta-cremosa-com-ragu-de-legumes",
+  "nome": "Polenta cremosa com ragu de legumes",
+  "descricao": "Polenta mole de fubá com parmesão, coberta por um ragu de tomate, abobrinha, cenoura e pimentão.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 35,
+    "total_min": 55
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Ragu",
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura em cubinhos"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 pimentão vermelho em cubinhos"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "abobrinha",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 abobrinha em cubinhos"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "tomate",
+      "quantidade": 5,
+      "medida": "unidade",
+      "texto": "5 tomates maduros picados"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "oregano",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Ragu",
+      "ingrediente": "manjericao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manjericão picado"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "fuba",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de fubá"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Polenta",
+      "ingrediente": "queijo-parmesao",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de queijo parmesão ralado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Ragu: aqueça o azeite numa panela e refogue a cebola, o alho e a cenoura por 5 minutos.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o pimentão e a abobrinha e refogue por 3 minutos. Acrescente o tomate, o sal e o orégano, tampe e cozinhe em fogo baixo por 20 minutos, mexendo de vez em quando, até encorpar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Polenta: enquanto o ragu cozinha, dissolva o fubá em 2 xícaras da água fria. Ferva o restante da água com o sal numa panela funda."
+    },
+    {
+      "texto": "Despeje o fubá dissolvido na água fervente, mexendo sem parar com um batedor, até engrossar."
+    },
+    {
+      "texto": "Abaixe o fogo e cozinhe por 20 a 25 minutos, mexendo de vez em quando, até a polenta ficar cremosa e sem gosto de cru.",
+      "aviso": "A polenta espirra: use colher de cabo longo e panela semitampada.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Desligue e misture a manteiga e o parmesão."
+    },
+    {
+      "texto": "Junte o manjericão ao ragu e sirva sobre a polenta."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use fubá pré-cozido: a polenta fica pronta em 5 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a abobrinha por berinjela ou cogumelos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "A polenta firma quando esfria: fatie, doure na frigideira e sirva com o ragu no dia seguinte."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 268,
+      "carboidratos_g": 36.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0336.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": null,
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "abobrinha",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "polenta mole",
+      "polenta com molho",
+      "angu com legumes"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

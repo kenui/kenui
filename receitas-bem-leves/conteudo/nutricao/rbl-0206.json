@@ -1,0 +1,54 @@
+{
+  "receita": "rbl-0206",
+  "nome": "Água saborizada de morango com manjericão",
+  "porcoes": 4,
+  "porcao": "1 copo de 250 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "agua",
+      "texto": "1 litro de água filtrada gelada",
+      "gramas": 1000,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "morango",
+      "texto": "6 morangos fatiados",
+      "gramas": 72,
+      "kcal": 21.6,
+      "carboidratos_g": 4.9,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "manjericao",
+      "texto": "5 folhas de manjericão (1 colher (sopa))",
+      "gramas": 2.7,
+      "kcal": 0.6,
+      "carboidratos_g": 0.1,
+      "fonte": "TACO 4ª ed. 133 Manjericão, cru",
+      "por_100g": {
+        "kcal": 21,
+        "carboidratos_g": 3.6
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 22.2,
+    "carboidratos_g": 5
+  },
+  "por_porcao": {
+    "kcal": 6,
+    "carboidratos_g": 1.2
+  }
+}

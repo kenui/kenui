@@ -1,0 +1,175 @@
+{
+  "id": "rbl-0330",
+  "slug": "grao-de-bico-ensopado-com-abobora",
+  "nome": "Grão-de-bico ensopado com abóbora",
+  "descricao": "Grão-de-bico cozido com abóbora, tomate, cúrcuma e cominho, finalizado com espinafre.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "porções"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola picada"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 3,
+      "medida": "dente",
+      "texto": "3 dentes de alho picados"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de gengibre ralado"
+    },
+    {
+      "ingrediente": "acafrao-da-terra",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de açafrão-da-terra (cúrcuma)"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de cominho"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 tomates picados"
+    },
+    {
+      "ingrediente": "abobora-cabotia",
+      "quantidade": 400,
+      "medida": "g",
+      "texto": "400 g de abóbora cabotiá em cubos"
+    },
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de grão-de-bico cozido, escorrido"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 480,
+      "medida": "ml",
+      "texto": "2 xícaras (chá) de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "espinafre",
+      "quantidade": 100,
+      "medida": "g",
+      "texto": "100 g de folhas de espinafre"
+    },
+    {
+      "ingrediente": "coentro",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de coentro picado"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, aqueça o azeite e refogue a cebola até ficar transparente. Junte o alho, o gengibre, o açafrão e o cominho e mexa por 1 minuto."
+    },
+    {
+      "texto": "Acrescente o tomate e cozinhe por 5 minutos, até desmanchar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte a abóbora, o grão-de-bico, a água e o sal. Tampe e cozinhe por 15 minutos, até a abóbora ficar macia.",
+      "temporizador_min": 15
+    },
+    {
+      "texto": "Junte o espinafre e mexa até murchar. Desligue e espalhe o coentro."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o espinafre por couve fatiada."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use batata-doce no lugar da abóbora."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para cozinhar o grão-de-bico: deixe 1 e 1/2 xícara de grão cru de molho por 8 horas e cozinhe na pressão por 20 minutos."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 336,
+      "carboidratos_g": 49.5
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0330.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "abobora",
+      "folhas_verdes",
+      "tomate",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "grao de bico com abobora",
+      "ensopado vegetariano",
+      "curry de grao de bico"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

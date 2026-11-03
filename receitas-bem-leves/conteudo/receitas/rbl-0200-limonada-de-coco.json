@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0200",
+  "slug": "limonada-de-coco",
+  "nome": "Limonada de coco",
+  "descricao": "Limonada cremosa de leite de coco com limão, refrescante e perfumada.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "copos de 220 ml"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 copo de 220 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "limao",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "suco de 2 limões"
+    },
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite de coco"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água gelada"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol",
+      "alternativa": {
+        "ingrediente": "stevia",
+        "texto": "ou 10 gotas de stevia"
+      }
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão em rodelas para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema os limões."
+    },
+    {
+      "texto": "Bata no liquidificador o suco de limão, o leite de coco, a água e o eritritol por 30 segundos, até espumar."
+    },
+    {
+      "texto": "Sirva na hora, com gelo e rodelas de limão."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite de coco por 1/2 xícara de leite integral para uma limonada cremosa mais suave."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Na geladeira o leite de coco se separa: bata de novo antes de servir."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Leia o rótulo do leite de coco: escolha um que tenha só coco e água."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 52,
+      "carboidratos_g": 2.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0200.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "limonada de coco",
+      "limonada cremosa",
+      "limao com coco"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "receita": "rbl-0262",
+  "nome": "Hambúrguer caseiro de carne",
+  "porcoes": 4,
+  "porcao": "1 hambúrguer (150 g) com queijo",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "carne-moida-patinho",
+      "texto": "600 g de carne moída (patinho ou acém)",
+      "gramas": 600,
+      "kcal": 798,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 376 Carne, bovina, patinho, sem gordura, cru",
+      "por_100g": {
+        "kcal": 133,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cebola",
+      "texto": "1/2 cebola ralada e espremida",
+      "gramas": 55,
+      "kcal": 21.5,
+      "carboidratos_g": 4.89,
+      "fonte": "TACO 4ª ed. 107 Cebola, crua",
+      "por_100g": {
+        "kcal": 39,
+        "carboidratos_g": 8.9
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho amassado",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1 colher (chá) de sal",
+      "gramas": 6,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "texto": "1 pitada de pimenta-do-reino",
+      "gramas": 0.1,
+      "kcal": 0.3,
+      "carboidratos_g": 0.06,
+      "fonte": "USDA SR Legacy 170931 Spices, pepper, black",
+      "por_100g": {
+        "kcal": 251,
+        "carboidratos_g": 63.95
+      }
+    },
+    {
+      "ingrediente": "oleo",
+      "texto": "1 colher (chá) de óleo",
+      "gramas": 4.5,
+      "kcal": 39.8,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 272 Óleo, de soja",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "queijo-prato",
+      "texto": "4 fatias de queijo prato (80 g)",
+      "gramas": 80,
+      "kcal": 288,
+      "carboidratos_g": 1.52,
+      "fonte": "TACO 4ª ed. 467 Queijo, prato",
+      "por_100g": {
+        "kcal": 360,
+        "carboidratos_g": 1.9
+      }
+    },
+    {
+      "ingrediente": "tomate",
+      "texto": "1 tomate em rodelas",
+      "gramas": 123,
+      "kcal": 18.5,
+      "carboidratos_g": 3.81,
+      "fonte": "TACO 4ª ed. 157 Tomate, com semente, cru",
+      "por_100g": {
+        "kcal": 15,
+        "carboidratos_g": 3.1
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1169.3,
+    "carboidratos_g": 11
+  },
+  "por_porcao": {
+    "kcal": 292,
+    "carboidratos_g": 2.8
+  }
+}

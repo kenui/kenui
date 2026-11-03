@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0213",
+  "slug": "iogurte-batido-com-mamao-e-linhaca",
+  "nome": "Iogurte batido com mamão e linhaça",
+  "descricao": "Iogurte natural batido com mamão papaia e linhaça, cremoso e levemente azedinho.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 5,
+    "cozimento_min": 0,
+    "total_min": 5
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 250 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 250 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 potes de iogurte natural integral (340 g)"
+    },
+    {
+      "ingrediente": "mamao-papaia",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de mamão papaia picado"
+    },
+    {
+      "ingrediente": "linhaca",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de linhaça"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de eritritol, se quiser mais doce",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tire as sementes do mamão e pique a polpa."
+    },
+    {
+      "texto": "Bata no liquidificador o iogurte, o mamão e a linhaça por 1 minuto, até ficar liso.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Prove e, se quiser mais doce, junte o eritritol e bata de novo."
+    },
+    {
+      "texto": "Sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a linhaça por 1 colher (sopa) de aveia em flocos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o mamão por 1 banana madura."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Dura até 1 dia na geladeira em pote fechado; mexa antes de tomar."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 141,
+      "carboidratos_g": 13
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0213.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "sementes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "iogurte batido",
+      "iogurte com mamao",
+      "iogurte com linhaca"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

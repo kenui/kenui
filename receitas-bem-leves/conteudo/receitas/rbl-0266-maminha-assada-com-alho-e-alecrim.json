@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0266",
+  "slug": "maminha-assada-com-alho-e-alecrim",
+  "nome": "Maminha assada com alho e alecrim",
+  "descricao": "Peça de maminha temperada com alho, alecrim e sal, assada inteira e fatiada fina.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 50,
+    "descanso_min": 20,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 6,
+    "unidade": "porções"
+  },
+  "porcoes": 6,
+  "porcao": {
+    "descricao": "3 fatias (cerca de 150 g)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "maminha",
+      "quantidade": 1200,
+      "medida": "g",
+      "texto": "1 peça de maminha (cerca de 1,2 kg)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 2.5,
+      "medida": "colher_cha",
+      "texto": "2 e 1/2 colheres (chá) de sal"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 4,
+      "medida": "dente",
+      "texto": "4 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "alecrim-seco",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de alecrim seco"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "azeite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cebola em rodelas grossas"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tire a carne da geladeira 20 minutos antes. Preaqueça o forno a 200 °C.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Misture o sal, o alho, o alecrim, a pimenta e o azeite e esfregue em toda a peça."
+    },
+    {
+      "texto": "Forre uma assadeira com a cebola e coloque a maminha por cima, com a capa de gordura para cima."
+    },
+    {
+      "texto": "Asse por 45 a 50 minutos para ficar ao ponto, rosada no centro. Para bem passada, deixe mais 10 minutos.",
+      "temporizador_min": 50
+    },
+    {
+      "texto": "Tire do forno, cubra com papel-alumínio e deixe descansar 10 minutos."
+    },
+    {
+      "texto": "Fatie fino, contra as fibras, e regue com o caldo da assadeira.",
+      "aviso": "Use faca bem afiada e garfo para firmar a peça."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 50,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Faça com fraldinha: asse 35 minutos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alecrim por tomilho ou orégano."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Cortar contra as fibras deixa a fatia muito mais macia."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 356,
+      "carboidratos_g": 2.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0266.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "maminha assada",
+      "maminha no forno",
+      "carne assada"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

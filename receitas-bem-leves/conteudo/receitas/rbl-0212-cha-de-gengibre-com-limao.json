@@ -1,0 +1,122 @@
+{
+  "id": "rbl-0212",
+  "slug": "cha-de-gengibre-com-limao",
+  "nome": "Chá de gengibre com limão",
+  "descricao": "Chá quente de gengibre fresco com limão, bom para as noites frias.",
+  "categoria": "lanches",
+  "destaques": [
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 3,
+    "cozimento_min": 10,
+    "total_min": 13
+  },
+  "rendimento": {
+    "quantidade": 3,
+    "unidade": "xícaras de 200 ml"
+  },
+  "porcoes": 3,
+  "porcao": {
+    "descricao": "1 xícara de 200 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "agua",
+      "quantidade": 3,
+      "medida": "xicara",
+      "texto": "3 xícaras (chá) de água"
+    },
+    {
+      "ingrediente": "gengibre",
+      "quantidade": 10,
+      "medida": "g",
+      "texto": "1 pedaço de gengibre de 3 cm em rodelas (10 g)"
+    },
+    {
+      "ingrediente": "limao-taiti",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 limão taiti: metade em suco e metade em rodelas"
+    },
+    {
+      "ingrediente": "stevia",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 gotas de stevia, se quiser adoçar",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Coloque a água e o gengibre numa panela e leve ao fogo.",
+      "aviso": "Cuidado com o líquido quente."
+    },
+    {
+      "texto": "Quando ferver, abaixe o fogo e cozinhe por 8 minutos.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Desligue, junte o suco de meio limão e as rodelas da outra metade e deixe 2 minutos.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Coe, adoce com a stevia se quiser e sirva quente."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o limão por 1 pau de canela e 2 cravos-da-índia."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 2 dias e tome gelado, com gelo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para um chá mais forte, rale o gengibre em vez de cortar em rodelas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 10,
+      "carboidratos_g": 3.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0212.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "xicara_bebida",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "limao"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cha de gengibre",
+      "gengibre com limao",
+      "cha quente"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

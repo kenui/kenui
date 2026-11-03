@@ -1,0 +1,153 @@
+{
+  "id": "rbl-0457",
+  "slug": "brigadeiro-de-cacau",
+  "nome": "Brigadeiro de cacau",
+  "descricao": "Brigadeiro de enrolar feito com leite em pó, cacau e eritritol, sem leite condensado.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 10,
+    "descanso_min": 60,
+    "total_min": 95
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "docinhos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "2 docinhos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Para enrolar",
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "grupo": "Para enrolar",
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 30,
+      "medida": "g",
+      "texto": "ou castanha-de-caju picada bem fina (30 g)",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, fora do fogo, misture o leite, o leite em pó, o eritritol e o cacau até não ter grumos."
+    },
+    {
+      "texto": "Junte a manteiga e leve ao fogo baixo, mexendo sem parar, por 8 a 10 minutos, até a massa desgrudar do fundo da panela.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Passe para um prato untado com manteiga e deixe esfriar. Leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Unte as mãos com manteiga, faça bolinhas e passe no cacau ou na castanha picada."
+    },
+    {
+      "texto": "Coloque em forminhas de papel."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Para brigadeiro de colher, desligue o fogo 3 minutos antes, quando ainda estiver mole."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bata o eritritol no liquidificador antes, para o docinho ficar liso e sem grãozinhos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 5 dias."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 127,
+      "carboidratos_g": 10.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0457.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "brigadeiro sem acucar",
+      "brigadeiro sem leite condensado",
+      "brigadeiro de leite em po"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

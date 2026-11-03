@@ -1,0 +1,185 @@
+{
+  "id": "rbl-0084",
+  "slug": "shakshuka",
+  "nome": "Shakshuka",
+  "descricao": "Ovos cozidos num molho caseiro de tomate, pimentão e cominho, direto na frigideira.",
+  "categoria": "cafe_da_manha",
+  "destaques": [
+    "cafe_sem_pao"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 25,
+    "total_min": 35
+  },
+  "rendimento": {
+    "quantidade": 1,
+    "unidade": "frigideira de 24 cm"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "2 ovos com molho"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 cebola picada"
+    },
+    {
+      "ingrediente": "pimentao-vermelho",
+      "quantidade": 0.5,
+      "medida": "unidade",
+      "texto": "1/2 pimentão vermelho picado"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho picados"
+    },
+    {
+      "ingrediente": "cominho",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de cominho em pó"
+    },
+    {
+      "ingrediente": "paprica",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de páprica doce"
+    },
+    {
+      "ingrediente": "tomate",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 tomates maduros picados"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de água"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 ovos"
+    },
+    {
+      "ingrediente": "salsa",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Aqueça o azeite numa frigideira grande (24 cm) com tampa, em fogo médio. Refogue a cebola e o pimentão por 5 minutos, até amaciarem.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o alho, o cominho e a páprica e mexa por 1 minuto, até perfumar.",
+      "temporizador_min": 1
+    },
+    {
+      "texto": "Acrescente os tomates, a água, o sal e a pimenta. Tampe e cozinhe por 10 minutos, amassando os tomates com a colher.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Destampe e cozinhe mais 3 a 5 minutos, até o molho engrossar.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Abra 4 covinhas no molho e quebre um ovo em cada uma."
+    },
+    {
+      "texto": "Tampe e cozinhe em fogo baixo por 6 a 8 minutos, até as claras ficarem brancas e as gemas ainda moles.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Salpique a salsinha e sirva na própria frigideira.",
+      "aviso": "Coloque a frigideira quente sobre um descanso de panela."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a salsinha por coentro."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem pimentão? Use abobrinha em cubinhos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Gosta de picante? Junte uma pitada de pimenta calabresa com o alho."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 267,
+      "carboidratos_g": 15.1
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0084.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "travessa_gratinada",
+    "massa": null,
+    "cobertura": "molho_tomate",
+    "recheio": "ovos no molho de tomate",
+    "enfeites": [
+      "tomate",
+      "pimentao",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ovos no molho de tomate",
+      "ovo na frigideira com tomate",
+      "shakshouka"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "receita": "rbl-0451",
+  "nome": "Doce de goiaba de colher",
+  "porcoes": 15,
+  "porcao": "2 colheres (sopa)",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "goiaba",
+      "texto": "10 goiabas vermelhas maduras (800 g)",
+      "gramas": 800,
+      "kcal": 432,
+      "carboidratos_g": 104,
+      "fonte": "TACO 4ª ed. 200 Goiaba, vermelha, com casca, crua",
+      "por_100g": {
+        "kcal": 54,
+        "carboidratos_g": 13
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 xícara (chá) de água",
+      "gramas": 240,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2/3 de xícara (chá) de eritritol",
+      "gramas": 132,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1/2 limão",
+      "gramas": 24,
+      "kcal": 5.3,
+      "carboidratos_g": 1.75,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    }
+  ],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "queijo-minas-frescal",
+      "texto": "1 fatia de queijo minas frescal para servir (100 g)",
+      "motivo": "opcional"
+    }
+  ],
+  "total": {
+    "kcal": 437.3,
+    "carboidratos_g": 105.8
+  },
+  "por_porcao": {
+    "kcal": 29,
+    "carboidratos_g": 7.1
+  }
+}

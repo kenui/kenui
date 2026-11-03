@@ -1,0 +1,129 @@
+{
+  "id": "rbl-0220",
+  "slug": "bolinhas-de-tamara-e-castanha",
+  "nome": "Bolinhas de tâmara e castanha",
+  "descricao": "Bolinhas macias de tâmara, castanha-de-caju e cacau, feitas no processador sem ir ao fogo.",
+  "categoria": "lanches",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 0,
+    "descanso_min": 30,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 16,
+    "unidade": "bolinhas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "2 bolinhas"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "tamara",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de tâmaras sem caroço (cerca de 20)",
+      "alternativa": {
+        "ingrediente": "uva-passa",
+        "texto": "ou 1 xícara de uva-passa"
+      }
+    },
+    {
+      "ingrediente": "castanha-de-caju",
+      "quantidade": 70,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de castanha-de-caju (70 g)"
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cacau em pó 100%"
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 15,
+      "medida": "g",
+      "texto": "3 colheres (sopa) de coco ralado seco sem açúcar, para enrolar (15 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Se as tâmaras estiverem duras, deixe de molho em água quente por 10 minutos e escorra bem.",
+      "temporizador_min": 10
+    },
+    {
+      "texto": "Bata a castanha no processador até virar uma farofa."
+    },
+    {
+      "texto": "Junte as tâmaras e o cacau e bata até formar uma massa que gruda quando apertada entre os dedos."
+    },
+    {
+      "texto": "Faça 16 bolinhas com as mãos e passe no coco ralado."
+    },
+    {
+      "texto": "Leve à geladeira por 30 minutos para firmar.",
+      "temporizador_min": 30
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a castanha-de-caju por amendoim torrado sem sal ou nozes."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem coco, passe as bolinhas no cacau em pó."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado na geladeira por até 1 semana."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 117,
+      "carboidratos_g": 17.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0220.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "docinhos",
+    "massa": "chocolate",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "castanhas",
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinha de tamara",
+      "docinho de tamara",
+      "bolinha de castanha"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "rbl-0145",
+  "slug": "bolinha-de-queijo-assada",
+  "nome": "Bolinha de queijo assada",
+  "descricao": "Bolinha de massa cozida de leite recheada com mussarela, empanada na aveia e assada até dourar.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 40,
+    "cozimento_min": 30,
+    "descanso_min": 20,
+    "total_min": 90
+  },
+  "rendimento": {
+    "quantidade": 20,
+    "unidade": "bolinhas"
+  },
+  "porcoes": 5,
+  "porcao": {
+    "descricao": "4 bolinhas"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-mussarela",
+      "quantidade": 150,
+      "medida": "g",
+      "texto": "1 pedaço de queijo mussarela em 20 cubinhos (150 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo batido"
+    },
+    {
+      "grupo": "Para empanar",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, leve o leite, a manteiga e o sal ao fogo até ferver."
+    },
+    {
+      "texto": "Junte a farinha de uma vez e mexa sem parar por 3 a 4 minutos, até a massa soltar do fundo da panela.",
+      "aviso": "A massa espirra e fica muito quente.",
+      "temporizador_min": 4
+    },
+    {
+      "texto": "Passe para uma superfície untada e deixe esfriar por 20 minutos.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Sove a massa por 2 minutos, até ficar lisa."
+    },
+    {
+      "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
+    },
+    {
+      "texto": "Pegue porções do tamanho de uma noz, abra na mão, coloque um cubo de queijo e uma pitada de orégano e feche muito bem, enrolando uma bolinha sem rachaduras."
+    },
+    {
+      "texto": "Passe as bolinhas no ovo batido e depois na aveia e arrume na assadeira."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar.",
+      "temporizador_min": 25
+    }
+  ],
+  "forno": {
+    "temperatura_c": 200,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a mussarela por queijo minas meia cura ou por queijo prato em cubos."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia por farinha de milho para empanar."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Se a bolinha tiver rachadura, o queijo vaza no forno: feche bem e alise com as mãos."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele as bolinhas cruas e empanadas por até 2 meses. Asse sem descongelar, com 5 minutos a mais."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 286,
+      "carboidratos_g": 27.7
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0145.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolinhos_salgados",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "queijo",
+    "enfeites": [
+      "queijo_derretido",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bolinha de queijo assada",
+      "salgadinho de queijo",
+      "bolinha de queijo de forno"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

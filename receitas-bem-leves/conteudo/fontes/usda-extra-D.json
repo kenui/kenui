@@ -1,0 +1,66 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "171893": {
+      "descricao": "Beverages, coffee, instant, regular, powder",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "tsp",
+          "gramas": 1
+        },
+        {
+          "quantidade": 1,
+          "medida": "packet",
+          "gramas": 2
+        }
+      ],
+      "proteina_g": 12.2,
+      "fibra_g": 0,
+      "lipidios_g": 0.5,
+      "carboidratos_g": 75.4,
+      "kcal": 353
+    },
+    "171946": {
+      "descricao": "Beverages, tea, hibiscus, brewed",
+      "porcoes": [
+        {
+          "quantidade": 8,
+          "medida": "fl oz",
+          "gramas": 237
+        }
+      ],
+      "carboidratos_g": 0,
+      "lipidios_g": 0,
+      "kcal": 0,
+      "fibra_g": 0,
+      "proteina_g": 0
+    },
+    "173806": {
+      "descricao": "Peanuts, all types, dry-roasted, without salt",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 146
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        },
+        {
+          "quantidade": 1,
+          "medida": "peanut",
+          "gramas": 1
+        }
+      ],
+      "fibra_g": 8.4,
+      "proteina_g": 24.35,
+      "carboidratos_g": 21.26,
+      "kcal": 587,
+      "lipidios_g": 49.66
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "rbl-0374",
+  "slug": "cuca-de-banana",
+  "nome": "Cuca de banana",
+  "descricao": "Cuca de massa macia coberta de banana e farofinha crocante de aveia e canela.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 25,
+    "cozimento_min": 40,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 12,
+    "unidade": "pedaços"
+  },
+  "porcoes": 12,
+  "porcao": {
+    "descricao": "1 pedaço (1/12 da cuca)"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Massa",
+      "ingrediente": "ovo",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 ovos"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "oleo",
+      "quantidade": 0.25,
+      "medida": "xicara",
+      "texto": "1/4 de xícara (chá) de óleo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "eritritol",
+      "quantidade": 0.33,
+      "medida": "xicara",
+      "texto": "1/3 de xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/3 de xícara (chá) de xilitol"
+      }
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Cobertura",
+      "ingrediente": "banana-nanica",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 bananas nanicas maduras em rodelas"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de farinha de trigo"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de aveia em flocos"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "eritritol",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de eritritol"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "manteiga",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de manteiga gelada"
+    },
+    {
+      "grupo": "Farofa",
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm."
+    },
+    {
+      "texto": "Farofa: numa tigela, misture a farinha, a aveia, o eritritol e a canela. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa úmida. Leve à geladeira."
+    },
+    {
+      "texto": "Massa: com um batedor, misture os ovos, o leite, o óleo e o eritritol. Junte a farinha e mexa até ficar liso. Misture o fermento por último."
+    },
+    {
+      "texto": "Espalhe a massa na forma e cubra com as rodelas de banana."
+    },
+    {
+      "texto": "Espalhe a farofa por cima de tudo."
+    },
+    {
+      "texto": "Asse por 35 a 40 minutos, até a farofa dourar e um palito sair limpo.",
+      "temporizador_min": 40
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 40,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a banana por fatias de maçã ou por uva sem semente."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Deixar a farofa na geladeira enquanto prepara a massa garante que ela fique crocante."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde na geladeira por até 3 dias e aqueça um pouco antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 184,
+      "carboidratos_g": 25.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0374.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "bolo_forma",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela",
+      "aveia"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "cuca",
+      "cuca alema de banana",
+      "cuca com farofa"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

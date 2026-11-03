@@ -1,0 +1,149 @@
+{
+  "id": "rbl-0499",
+  "slug": "ponche-de-frutas-sem-alcool",
+  "nome": "Ponche de frutas sem álcool",
+  "descricao": "Ponche gelado de suco de laranja, água com gás e frutas picadas, com hortelã, para brindar com a família toda.",
+  "categoria": "ceia",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 0,
+    "descanso_min": 60,
+    "total_min": 80
+  },
+  "rendimento": {
+    "quantidade": 10,
+    "unidade": "copos"
+  },
+  "porcoes": 10,
+  "porcao": {
+    "descricao": "1 copo (cerca de 250 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 4,
+      "medida": "xicara",
+      "texto": "4 xícaras (chá) de suco de laranja natural (cerca de 12 laranjas)"
+    },
+    {
+      "ingrediente": "abacaxi",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de abacaxi em cubinhos"
+    },
+    {
+      "ingrediente": "maca",
+      "quantidade": 180,
+      "medida": "g",
+      "texto": "1 maçã média em cubinhos, com casca (180 g)"
+    },
+    {
+      "ingrediente": "uva",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de uva cortada ao meio"
+    },
+    {
+      "ingrediente": "morango",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de morangos fatiados"
+    },
+    {
+      "ingrediente": "limao",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "Suco de 1 limão"
+    },
+    {
+      "ingrediente": "hortela",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de folhas de hortelã"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água com gás bem gelada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador 1 xícara do abacaxi com 1 xícara do suco de laranja e coe, se preferir."
+    },
+    {
+      "texto": "Numa jarra grande ou poncheira, misture o suco batido, o restante do suco de laranja, o suco de limão e as frutas picadas."
+    },
+    {
+      "texto": "Junte as folhas de hortelã amassadas de leve com os dedos e leve à geladeira por 1 hora.",
+      "temporizador_min": 60
+    },
+    {
+      "texto": "Na hora de servir, complete com a água com gás gelada e gelo à vontade."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a água com gás por chá de hibisco ou de frutas vermelhas sem açúcar, gelado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem morango? Use pêssego fresco ou kiwi em cubos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Para adoçar mais, sem mudar o sabor, junte algumas gotas de stevia ou 1 colher (sopa) de eritritol."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde a mistura de suco e frutas na geladeira por até 1 dia. Junte a água com gás só na hora."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 73,
+      "carboidratos_g": 17.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0499.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja",
+      "abacaxi",
+      "morango",
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "ponche sem alcool",
+      "ponche de natal",
+      "drink sem alcool"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

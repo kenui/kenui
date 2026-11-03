@@ -1,0 +1,156 @@
+{
+  "id": "rbl-0255",
+  "slug": "bife-acebolado",
+  "nome": "Bife acebolado",
+  "descricao": "Bifes de contrafilé selados na frigideira bem quente e cobertos com cebola dourada.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 20,
+    "total_min": 30
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "bifes"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 bife com cebola"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "contra-file",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "4 bifes de contrafilé com cerca de 1,5 cm (600 g)"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 2,
+      "medida": "dente",
+      "texto": "2 dentes de alho amassados"
+    },
+    {
+      "ingrediente": "oleo",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de óleo"
+    },
+    {
+      "ingrediente": "cebola",
+      "quantidade": 3,
+      "medida": "unidade",
+      "texto": "3 cebolas médias em rodelas finas"
+    },
+    {
+      "ingrediente": "vinagre",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de vinagre"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 60,
+      "medida": "ml",
+      "texto": "1/4 de xícara (chá) de água (60 ml)"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "salsa",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de salsinha picada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Tempere os bifes com o sal, a pimenta e o alho logo antes de fritar."
+    },
+    {
+      "texto": "Aqueça 1 colher (sopa) do óleo numa frigideira grande em fogo alto, até começar a sair fumaça."
+    },
+    {
+      "texto": "Frite os bifes 3 minutos de cada lado, sem mexer, para ficarem ao ponto. Tire e reserve num prato.",
+      "temporizador_min": 6
+    },
+    {
+      "texto": "Na mesma frigideira, junte o restante do óleo e a cebola. Doure em fogo médio por 8 minutos, mexendo de vez em quando.",
+      "temporizador_min": 8
+    },
+    {
+      "texto": "Junte o vinagre e a água e raspe o fundo da frigideira para soltar o douradinho."
+    },
+    {
+      "texto": "Volte os bifes por 1 minuto, cobrindo com a cebola, e sirva com a salsinha."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o contrafilé por patinho ou alcatra em bifes."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use cebola roxa para um acebolado mais suave."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Frigideira muito quente e poucos bifes por vez: se encher demais, a carne solta água e não doura."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 331,
+      "carboidratos_g": 7.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0255.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "carne",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "bife acebolado",
+      "bife com cebola",
+      "contrafile acebolado"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

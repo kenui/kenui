@@ -1,0 +1,120 @@
+{
+  "id": "rbl-0191",
+  "slug": "suco-de-laranja-com-cenoura",
+  "nome": "Suco de laranja com cenoura",
+  "descricao": "Suco natural de laranja batido com cenoura, docinho e bem colorido.",
+  "categoria": "lanches",
+  "destaques": [
+    "cafe_sem_pao",
+    "rapidas_15min"
+  ],
+  "refeicoes_do_plano": [
+    "cafe_da_manha",
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "total_min": 10
+  },
+  "rendimento": {
+    "quantidade": 2,
+    "unidade": "copos de 220 ml"
+  },
+  "porcoes": 2,
+  "porcao": {
+    "descricao": "1 copo de 220 ml"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "suco-de-laranja",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "suco de 4 laranjas-pera (cerca de 1 e 1/2 xícara)"
+    },
+    {
+      "ingrediente": "cenoura",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 cenoura média descascada"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de água gelada"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Esprema as laranjas e reserve o suco."
+    },
+    {
+      "texto": "Corte a cenoura em rodelas.",
+      "aviso": "Cuidado com a faca ao cortar."
+    },
+    {
+      "texto": "Bata a cenoura com a água no liquidificador por 2 minutos, até ficar bem triturada.",
+      "temporizador_min": 2
+    },
+    {
+      "texto": "Junte o suco de laranja e bata só mais alguns segundos."
+    },
+    {
+      "texto": "Coe, se preferir, e sirva na hora."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque metade das laranjas por tangerinas para um suco mais doce."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Junte 1 pedacinho de gengibre ao bater a cenoura para um suco picante."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Tome logo: o suco de laranja fica amargo depois de algumas horas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 67,
+      "carboidratos_g": 15.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0191.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "vitamina_copo",
+    "massa": "cenoura",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "laranja",
+      "cenoura"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "suco de cenoura",
+      "laranja com cenoura",
+      "suco natural"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

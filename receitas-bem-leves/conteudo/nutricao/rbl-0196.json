@@ -1,0 +1,66 @@
+{
+  "receita": "rbl-0196",
+  "nome": "Suco de acerola com laranja",
+  "porcoes": 3,
+  "porcao": "1 copo de 200 ml",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "polpa-de-acerola",
+      "texto": "1 pacote de polpa de acerola congelada (100 g)",
+      "gramas": 100,
+      "kcal": 22,
+      "carboidratos_g": 5.5,
+      "fonte": "TACO 4ª ed. 170 Acerola, polpa, congelada",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 5.5
+      }
+    },
+    {
+      "ingrediente": "suco-de-laranja",
+      "texto": "suco de 2 laranjas-pera",
+      "gramas": 172,
+      "kcal": 56.8,
+      "carboidratos_g": 13.07,
+      "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
+      "por_100g": {
+        "kcal": 33,
+        "carboidratos_g": 7.6
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "1 e 1/2 xícara (chá) de água gelada",
+      "gramas": 360,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "1 colher (sopa) de eritritol",
+      "gramas": 12.5,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 78.8,
+    "carboidratos_g": 18.6
+  },
+  "por_porcao": {
+    "kcal": 26,
+    "carboidratos_g": 6.2
+  }
+}

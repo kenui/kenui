@@ -1,0 +1,231 @@
+{
+  "fonte": "USDA FoodData Central, SR Legacy (abril/2018). Valores por 100 g. Porções em gramas tiradas da tabela food_portion.",
+  "url": "https://fdc.nal.usda.gov/",
+  "alimentos": {
+    "168162": {
+      "descricao": "Plums, dried (prunes), uncooked",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, pitted",
+          "gramas": 174
+        },
+        {
+          "quantidade": 1,
+          "medida": "prune, pitted",
+          "gramas": 9.5
+        }
+      ],
+      "carboidratos_g": 63.88,
+      "kcal": 240,
+      "fibra_g": 7.1,
+      "proteina_g": 2.18,
+      "lipidios_g": 0.38
+    },
+    "168165": {
+      "descricao": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, packed",
+          "gramas": 165
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup (not packed)",
+          "gramas": 145
+        },
+        {
+          "quantidade": 1,
+          "medida": "miniature box (.5 oz)",
+          "gramas": 14
+        },
+        {
+          "quantidade": 1,
+          "medida": "small box (1.5 oz)",
+          "gramas": 43
+        },
+        {
+          "quantidade": 50,
+          "medida": "raisins",
+          "gramas": 26
+        },
+        {
+          "quantidade": 1,
+          "medida": "oz (60 raisins)",
+          "gramas": 28.35
+        }
+      ],
+      "fibra_g": 4.5,
+      "proteina_g": 3.3,
+      "lipidios_g": 0.25,
+      "carboidratos_g": 79.32,
+      "kcal": 299
+    },
+    "169387": {
+      "descricao": "Arugula, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "leaf",
+          "gramas": 2
+        },
+        {
+          "quantidade": 0.5,
+          "medida": "cup",
+          "gramas": 10
+        }
+      ],
+      "carboidratos_g": 3.65,
+      "fibra_g": 1.6,
+      "proteina_g": 2.58,
+      "lipidios_g": 0.66,
+      "kcal": 25
+    },
+    "170170": {
+      "descricao": "Nuts, coconut meat, dried (desiccated), not sweetened",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "oz",
+          "gramas": 28.35
+        }
+      ],
+      "fibra_g": 16.3,
+      "lipidios_g": 64.53,
+      "kcal": 660,
+      "proteina_g": 6.88,
+      "carboidratos_g": 23.65
+    },
+    "170859": {
+      "descricao": "Cream, fluid, heavy whipping",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, whipped",
+          "gramas": 120
+        },
+        {
+          "quantidade": 1,
+          "medida": "cup, fluid (yields 2 cups whipped)",
+          "gramas": 238
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 15
+        },
+        {
+          "quantidade": 1,
+          "medida": "fl oz",
+          "gramas": 29.8
+        }
+      ],
+      "lipidios_g": 36.08,
+      "kcal": 340,
+      "proteina_g": 2.84,
+      "fibra_g": 0,
+      "carboidratos_g": 2.84
+    },
+    "171081": {
+      "descricao": "Turkey, whole, meat and skin, raw",
+      "porcoes": [
+        {
+          "quantidade": 4,
+          "medida": "oz",
+          "gramas": 113
+        },
+        {
+          "quantidade": 1,
+          "medida": "bird",
+          "gramas": 5002
+        }
+      ],
+      "carboidratos_g": 0.14,
+      "kcal": 144,
+      "fibra_g": 0,
+      "proteina_g": 21.64,
+      "lipidios_g": 5.64
+    },
+    "171726": {
+      "descricao": "Dates, deglet noor",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, chopped",
+          "gramas": 147
+        },
+        {
+          "quantidade": 1,
+          "medida": "date, pitted",
+          "gramas": 7.1
+        }
+      ],
+      "carboidratos_g": 75.03,
+      "kcal": 282,
+      "lipidios_g": 0.39,
+      "proteina_g": 2.45,
+      "fibra_g": 8
+    },
+    "173475": {
+      "descricao": "Spearmint, fresh",
+      "porcoes": [
+        {
+          "quantidade": 2,
+          "medida": "leaves",
+          "gramas": 0.3
+        },
+        {
+          "quantidade": 2,
+          "medida": "tbsp",
+          "gramas": 11.4
+        }
+      ],
+      "lipidios_g": 0.73,
+      "carboidratos_g": 8.41,
+      "kcal": 44,
+      "proteina_g": 3.29,
+      "fibra_g": 6.8
+    },
+    "173756": {
+      "descricao": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup",
+          "gramas": 200
+        },
+        {
+          "quantidade": 1,
+          "medida": "tbsp",
+          "gramas": 12.5
+        }
+      ],
+      "carboidratos_g": 62.95,
+      "kcal": 378,
+      "fibra_g": 12.2,
+      "proteina_g": 20.47,
+      "lipidios_g": 6.04
+    },
+    "173941": {
+      "descricao": "Apricots, dried, sulfured, uncooked",
+      "porcoes": [
+        {
+          "quantidade": 1,
+          "medida": "cup, halves",
+          "gramas": 130
+        },
+        {
+          "quantidade": 1,
+          "medida": "half",
+          "gramas": 3.5
+        }
+      ],
+      "carboidratos_g": 62.64,
+      "kcal": 241,
+      "lipidios_g": 0.51,
+      "proteina_g": 3.39,
+      "fibra_g": 7.3
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "rbl-0442",
+  "slug": "sorvete-de-coco",
+  "nome": "Sorvete de coco",
+  "descricao": "Sorvete de coco de pote, feito com leite de coco e coco ralado, cremoso sem máquina.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 375
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "bolas"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 bola"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "leite-de-coco",
+      "quantidade": 400,
+      "medida": "ml",
+      "texto": "2 vidros de leite de coco (400 ml)"
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "1 caixinha de creme de leite (200 g)"
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite em pó integral"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "coco-ralado-seco",
+      "quantidade": 45,
+      "medida": "g",
+      "texto": "1/2 xícara (chá) de coco ralado seco sem açúcar (45 g)"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Bata no liquidificador o leite de coco, o creme de leite, o leite em pó e o eritritol por 3 minutos.",
+      "temporizador_min": 3
+    },
+    {
+      "texto": "Misture o coco ralado e despeje num pote com tampa."
+    },
+    {
+      "texto": "Leve ao congelador por 2 horas. Tire, bata com um garfo ou batedor para quebrar os cristais e volte ao congelador.",
+      "temporizador_min": 120
+    },
+    {
+      "texto": "Repita mais uma vez depois de 2 horas e deixe congelar por mais 2 horas, até ficar firme.",
+      "temporizador_min": 240
+    },
+    {
+      "texto": "Tire do congelador 10 minutos antes de servir."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol: o sorvete fica um pouco mais macio."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o creme de leite por mais 1/2 xícara de leite em pó e 1/2 xícara de leite."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bater durante o congelamento é o que deixa o sorvete cremoso, sem pedrinhas de gelo."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 211,
+      "carboidratos_g": 6.6
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0442.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": true
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "clara",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "coco_ralado"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sorvete de coco caseiro",
+      "sorvete de coco sem acucar",
+      "sorvete sem maquina"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

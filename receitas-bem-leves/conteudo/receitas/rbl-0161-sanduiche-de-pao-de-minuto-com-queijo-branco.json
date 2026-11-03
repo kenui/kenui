@@ -1,0 +1,183 @@
+{
+  "id": "rbl-0161",
+  "slug": "sanduiche-de-pao-de-minuto-com-queijo-branco",
+  "nome": "Sanduíche de pão de minuto com queijo branco",
+  "descricao": "Pãezinhos caseiros de minuto, sem fermentar, recheados com queijo minas, tomate, alface e orégano.",
+  "categoria": "lanches",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "lanche",
+    "cafe_da_manha"
+  ],
+  "tempo": {
+    "preparo_min": 20,
+    "cozimento_min": 25,
+    "total_min": 50
+  },
+  "rendimento": {
+    "quantidade": 8,
+    "unidade": "sanduíches"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "1 sanduíche"
+  },
+  "ingredientes": [
+    {
+      "grupo": "Pão",
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 2,
+      "medida": "xicara",
+      "texto": "2 xícaras (chá) de farinha de trigo"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "fermento-quimico",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de fermento químico em pó"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "sal",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de sal"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "manteiga",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "grupo": "Pão",
+      "ingrediente": "leite-integral",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de leite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "queijo-minas-frescal",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "8 fatias de queijo minas frescal (200 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "tomate",
+      "quantidade": 2,
+      "medida": "unidade",
+      "texto": "2 tomates em rodelas"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "alface",
+      "quantidade": 200,
+      "medida": "g",
+      "texto": "8 folhas de alface (200 g)"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "azeite",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de azeite"
+    },
+    {
+      "grupo": "Recheio",
+      "ingrediente": "oregano",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de orégano"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Preaqueça o forno a 180 °C e unte uma assadeira com manteiga."
+    },
+    {
+      "texto": "Numa tigela, misture a farinha, o fermento e o sal. Junte a manteiga e esfarele com as pontas dos dedos."
+    },
+    {
+      "texto": "Acrescente o ovo e o leite e misture até formar uma massa macia que solta das mãos. Se grudar, junte 1 colher (sopa) de farinha."
+    },
+    {
+      "texto": "Divida em 8 bolinhas, achate de leve e arrume na assadeira com espaço entre elas."
+    },
+    {
+      "texto": "Asse por 20 a 25 minutos, até dourar por cima.",
+      "temporizador_min": 25
+    },
+    {
+      "texto": "Espere amornar, abra os pães ao meio e recheie com o queijo, o tomate e a alface. Regue com o azeite e polvilhe o orégano."
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 25,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca na massa."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o queijo minas por ricota temperada ou por peito de peru."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Os pães sem recheio duram 2 dias em pote fechado e podem ser congelados por 1 mês."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 260,
+      "carboidratos_g": 27.3
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0161.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sanduiche",
+    "massa": null,
+    "cobertura": null,
+    "recheio": "queijo e tomate",
+    "enfeites": [
+      "queijo_branco",
+      "tomate",
+      "folhas_verdes"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "pao de minuto",
+      "sanduiche de queijo branco",
+      "pao caseiro rapido"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

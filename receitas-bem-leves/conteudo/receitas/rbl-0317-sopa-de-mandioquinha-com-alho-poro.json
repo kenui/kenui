@@ -1,0 +1,154 @@
+{
+  "id": "rbl-0317",
+  "slug": "sopa-de-mandioquinha-com-alho-poro",
+  "nome": "Sopa de mandioquinha com alho-poró",
+  "descricao": "Creme aveludado de mandioquinha refogada com alho-poró na manteiga.",
+  "categoria": "almoco_jantar",
+  "destaques": [],
+  "refeicoes_do_plano": [
+    "almoco",
+    "jantar"
+  ],
+  "tempo": {
+    "preparo_min": 15,
+    "cozimento_min": 25,
+    "total_min": 40
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "pratos"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 prato fundo (cerca de 350 ml)"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 1,
+      "medida": "colher_sopa",
+      "texto": "1 colher (sopa) de manteiga"
+    },
+    {
+      "ingrediente": "alho-poro",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 talo de alho-poró em rodelas finas"
+    },
+    {
+      "ingrediente": "alho",
+      "quantidade": 1,
+      "medida": "dente",
+      "texto": "1 dente de alho picado"
+    },
+    {
+      "ingrediente": "mandioquinha",
+      "quantidade": 600,
+      "medida": "g",
+      "texto": "600 g de mandioquinha descascada em rodelas"
+    },
+    {
+      "ingrediente": "agua",
+      "quantidade": 1000,
+      "medida": "ml",
+      "texto": "1 litro de água quente"
+    },
+    {
+      "ingrediente": "sal",
+      "quantidade": 1.25,
+      "medida": "colher_cha",
+      "texto": "1 e 1/4 colher (chá) de sal"
+    },
+    {
+      "ingrediente": "pimenta-do-reino",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de pimenta-do-reino"
+    },
+    {
+      "ingrediente": "cebolinha",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de cebolinha picada"
+    },
+    {
+      "grupo": "Para servir",
+      "ingrediente": "creme-de-leite",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de creme de leite para servir",
+      "opcional": true
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa panela, derreta a manteiga e refogue o alho-poró por 5 minutos, até murchar. Junte o alho e mexa por 1 minuto.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte a mandioquinha, a água e o sal. Tampe e cozinhe por 18 a 20 minutos, até a mandioquinha desmanchar.",
+      "temporizador_min": 20
+    },
+    {
+      "texto": "Bata no liquidificador até ficar liso.",
+      "aviso": "Deixe amornar um pouco antes de bater, encha o liquidificador só até a metade e segure a tampa com um pano."
+    },
+    {
+      "texto": "Volte à panela, tempere com a pimenta e aqueça por 2 minutos. Se ficar grosso, junte um pouco de água quente."
+    },
+    {
+      "texto": "Sirva com a cebolinha e um fio de creme de leite, se quiser."
+    }
+  ],
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o alho-poró por 1 cebola."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Use batata-baroa e batata comum meio a meio."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Congele em porções por até 3 meses."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 186,
+      "carboidratos_g": 37.8
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0317.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "sopa",
+    "massa": null,
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "ervas"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sopa de mandioquinha",
+      "creme de batata baroa",
+      "sopa de alho poro"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

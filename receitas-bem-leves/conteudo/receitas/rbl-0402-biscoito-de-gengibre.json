@@ -1,0 +1,160 @@
+{
+  "id": "rbl-0402",
+  "slug": "biscoito-de-gengibre",
+  "nome": "Biscoito de gengibre",
+  "descricao": "Biscoitos firmes e perfumados de gengibre, canela e cravo, cortados com forminha.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 30,
+    "cozimento_min": 12,
+    "descanso_min": 30,
+    "total_min": 72
+  },
+  "rendimento": {
+    "quantidade": 24,
+    "unidade": "biscoitos"
+  },
+  "porcoes": 8,
+  "porcao": {
+    "descricao": "3 biscoitos"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "manteiga",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de manteiga em temperatura ambiente"
+    },
+    {
+      "ingrediente": "eritritol",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de eritritol",
+      "alternativa": {
+        "ingrediente": "xilitol",
+        "texto": "ou 1/2 xícara (chá) de xilitol"
+      }
+    },
+    {
+      "ingrediente": "ovo",
+      "quantidade": 1,
+      "medida": "unidade",
+      "texto": "1 ovo"
+    },
+    {
+      "ingrediente": "farinha-de-trigo",
+      "quantidade": 1.75,
+      "medida": "xicara",
+      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo"
+    },
+    {
+      "ingrediente": "gengibre-em-po",
+      "quantidade": 2,
+      "medida": "colher_cha",
+      "texto": "2 colheres (chá) de gengibre em pó"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "cravo-em-po",
+      "quantidade": 1,
+      "medida": "pitada",
+      "texto": "1 pitada de cravo em pó"
+    },
+    {
+      "ingrediente": "fermento-quimico",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de fermento químico em pó"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Numa tigela, misture a manteiga com o eritritol até virar um creme. Junte o ovo."
+    },
+    {
+      "texto": "Acrescente a farinha, o gengibre, a canela, o cravo e o fermento e amasse até formar uma massa lisa."
+    },
+    {
+      "texto": "Embrulhe em filme e leve à geladeira por 30 minutos.",
+      "temporizador_min": 30
+    },
+    {
+      "texto": "Preaqueça o forno a 180 °C. Abra a massa entre dois plásticos com um rolo, com 0,5 cm de espessura, e corte com forminhas."
+    },
+    {
+      "texto": "Coloque numa assadeira forrada e asse por 10 a 12 minutos, até as bordas dourarem.",
+      "temporizador_min": 12
+    }
+  ],
+  "forno": {
+    "temperatura_c": 180,
+    "tempo_min": 12,
+    "preaquecer": true
+  },
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Sem gengibre em pó? Use 1 colher (sopa) de gengibre fresco bem ralado."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o eritritol por xilitol na mesma medida."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa gelada é mais fácil de abrir e os biscoitos não perdem o formato."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde em pote fechado por até 2 semanas."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 162,
+      "carboidratos_g": 21.4
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0402.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "cookie",
+    "massa": "integral",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "biscoito de natal",
+      "cookie de gengibre",
+      "bolacha de gengibre"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

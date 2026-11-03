@@ -1,0 +1,90 @@
+{
+  "receita": "rbl-0461",
+  "nome": "Bombom de morango",
+  "porcoes": 6,
+  "porcao": "2 bombons",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "morango",
+      "texto": "12 morangos médios, lavados e bem secos",
+      "gramas": 144,
+      "kcal": 43.2,
+      "carboidratos_g": 9.79,
+      "fonte": "TACO 4ª ed. 239 Morango, cru",
+      "por_100g": {
+        "kcal": 30,
+        "carboidratos_g": 6.8
+      }
+    },
+    {
+      "ingrediente": "leite-em-po-integral",
+      "texto": "1 xícara (chá) de leite em pó integral",
+      "gramas": 128,
+      "kcal": 636.2,
+      "carboidratos_g": 50.18,
+      "fonte": "TACO 4ª ed. 459 Leite, de vaca, integral, pó",
+      "por_100g": {
+        "kcal": 497,
+        "carboidratos_g": 39.2
+      }
+    },
+    {
+      "ingrediente": "creme-de-leite",
+      "texto": "4 colheres (sopa) de creme de leite",
+      "gramas": 60,
+      "kcal": 132.6,
+      "carboidratos_g": 2.7,
+      "fonte": "TACO 4ª ed. 447 Creme de Leite",
+      "por_100g": {
+        "kcal": 221,
+        "carboidratos_g": 4.5
+      }
+    },
+    {
+      "ingrediente": "eritritol",
+      "texto": "2 colheres (sopa) de eritritol",
+      "gramas": 25,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Eritritol",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "manteiga",
+      "texto": "1 colher (sopa) de manteiga",
+      "gramas": 14.2,
+      "kcal": 103.1,
+      "carboidratos_g": 0.01,
+      "fonte": "TACO 4ª ed. 261 Manteiga, com sal",
+      "por_100g": {
+        "kcal": 726,
+        "carboidratos_g": 0.1
+      }
+    },
+    {
+      "ingrediente": "cacau-em-po",
+      "texto": "2 colheres (sopa) de cacau em pó 100%",
+      "gramas": 10.8,
+      "kcal": 24.6,
+      "carboidratos_g": 6.25,
+      "fonte": "USDA SR Legacy 169593 Cocoa, dry powder, unsweetened",
+      "por_100g": {
+        "kcal": 228,
+        "carboidratos_g": 57.9
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 939.7,
+    "carboidratos_g": 68.9
+  },
+  "por_porcao": {
+    "kcal": 157,
+    "carboidratos_g": 11.5
+  }
+}

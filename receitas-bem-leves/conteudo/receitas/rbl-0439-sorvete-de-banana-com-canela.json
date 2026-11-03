@@ -1,0 +1,126 @@
+{
+  "id": "rbl-0439",
+  "slug": "sorvete-de-banana-com-canela",
+  "nome": "Sorvete de banana com canela",
+  "descricao": "Sorvete cremoso de uma fruta só: banana congelada batida com canela, sem máquina.",
+  "categoria": "doces_bolos",
+  "destaques": [
+    "doces_e_bolos"
+  ],
+  "refeicoes_do_plano": [
+    "lanche"
+  ],
+  "tempo": {
+    "preparo_min": 10,
+    "cozimento_min": 0,
+    "descanso_min": 360,
+    "total_min": 370
+  },
+  "rendimento": {
+    "quantidade": 4,
+    "unidade": "bolas grandes"
+  },
+  "porcoes": 4,
+  "porcao": {
+    "descricao": "1 taça"
+  },
+  "ingredientes": [
+    {
+      "ingrediente": "banana-nanica",
+      "quantidade": 4,
+      "medida": "unidade",
+      "texto": "4 bananas nanicas maduras, em rodelas, congeladas"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 4,
+      "medida": "colher_sopa",
+      "texto": "4 colheres (sopa) de leite"
+    },
+    {
+      "ingrediente": "canela",
+      "quantidade": 0.5,
+      "medida": "colher_cha",
+      "texto": "1/2 colher (chá) de canela em pó"
+    },
+    {
+      "ingrediente": "baunilha",
+      "quantidade": 1,
+      "medida": "colher_cha",
+      "texto": "1 colher (chá) de essência de baunilha"
+    }
+  ],
+  "preparo": [
+    {
+      "texto": "Descasque as bananas, corte em rodelas, espalhe num pote e congele por pelo menos 6 horas.",
+      "temporizador_min": 360
+    },
+    {
+      "texto": "Bata as rodelas congeladas no processador por 3 a 5 minutos, parando para raspar as laterais. Primeiro vira farofa, depois um creme liso.",
+      "temporizador_min": 5
+    },
+    {
+      "texto": "Junte o leite, a canela e a baunilha e bata mais 30 segundos."
+    },
+    {
+      "texto": "Sirva na hora, com textura de sorvete cremoso, ou congele por mais 1 hora para ficar firme."
+    }
+  ],
+  "forno": null,
+  "dicas": [
+    {
+      "tipo": "substituicao",
+      "texto": "Troque o leite por leite de coco ou iogurte natural."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Sem processador? Use o liquidificador com o copo bem cheio e pulse, mexendo entre as batidas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Bananas bem pintadinhas deixam o sorvete mais doce."
+    },
+    {
+      "tipo": "conservacao",
+      "texto": "Guarde no congelador por até 1 mês; tire 10 minutos antes de servir."
+    }
+  ],
+  "nutricao": {
+    "por_porcao": {
+      "kcal": 122,
+      "carboidratos_g": 29.2
+    },
+    "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
+    "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
+    "arquivo_calculo": "conteudo/nutricao/rbl-0439.json",
+    "aproximado": true
+  },
+  "etiquetas": {
+    "sem_acucar_adicionado": true,
+    "low_carb": false
+  },
+  "ilustracao": {
+    "prato_base": "tigela",
+    "massa": "banana",
+    "cobertura": null,
+    "recheio": null,
+    "enfeites": [
+      "banana_rodelas",
+      "canela"
+    ],
+    "louca": "auto",
+    "mesa": "auto",
+    "forcar": false
+  },
+  "busca": {
+    "termos_extras": [
+      "sorvete de banana congelada",
+      "sorvete de uma fruta",
+      "sorvete caseiro de banana"
+    ]
+  },
+  "revisao": {
+    "status": "gerada",
+    "observacoes": ""
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "receita": "rbl-0154",
+  "nome": "Homus com palitos de cenoura",
+  "porcoes": 6,
+  "porcao": "1/3 de xícara de homus com 1/2 cenoura",
+  "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
+  "linhas": [
+    {
+      "ingrediente": "grao-de-bico-cozido",
+      "texto": "2 xícaras (chá) de grão-de-bico cozido e escorrido",
+      "gramas": 328,
+      "kcal": 537.9,
+      "carboidratos_g": 89.94,
+      "fonte": "USDA SR Legacy 173757 Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+      "por_100g": {
+        "kcal": 164,
+        "carboidratos_g": 27.42
+      }
+    },
+    {
+      "ingrediente": "tahine",
+      "texto": "2 colheres (sopa) de tahine",
+      "gramas": 30,
+      "kcal": 178.5,
+      "carboidratos_g": 6.36,
+      "fonte": "USDA SR Legacy 170189 Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+      "por_100g": {
+        "kcal": 595,
+        "carboidratos_g": 21.19
+      }
+    },
+    {
+      "ingrediente": "limao",
+      "texto": "Suco de 1 limão",
+      "gramas": 48,
+      "kcal": 10.6,
+      "carboidratos_g": 3.5,
+      "fonte": "TACO 4ª ed. 219 Limão, galego, suco",
+      "por_100g": {
+        "kcal": 22,
+        "carboidratos_g": 7.3
+      }
+    },
+    {
+      "ingrediente": "alho",
+      "texto": "1 dente de alho",
+      "gramas": 3,
+      "kcal": 3.4,
+      "carboidratos_g": 0.72,
+      "fonte": "TACO 4ª ed. 82 Alho, cru",
+      "por_100g": {
+        "kcal": 113,
+        "carboidratos_g": 23.9
+      }
+    },
+    {
+      "ingrediente": "azeite",
+      "texto": "3 colheres (sopa) de azeite",
+      "gramas": 40.5,
+      "kcal": 358,
+      "carboidratos_g": 0,
+      "fonte": "TACO 4ª ed. 260 Azeite, de oliva, extra virgem",
+      "por_100g": {
+        "kcal": 884,
+        "carboidratos_g": 0
+      },
+      "observacao": "A TACO marca carboidrato como 'não aplicável' para óleos e gorduras."
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "4 colheres (sopa) de água gelada",
+      "gramas": 60,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "cominho",
+      "texto": "1 pitada de cominho",
+      "gramas": 0.3,
+      "kcal": 1,
+      "carboidratos_g": 0.12,
+      "fonte": "USDA SR Legacy 170923 Spices, cumin seed",
+      "por_100g": {
+        "kcal": 375,
+        "carboidratos_g": 44.24
+      }
+    },
+    {
+      "ingrediente": "sal",
+      "texto": "1/2 colher (chá) de sal",
+      "gramas": 3,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "USDA SR Legacy 173468 Salt, table",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
+      }
+    },
+    {
+      "ingrediente": "paprica",
+      "texto": "1/4 de colher (chá) de páprica para finalizar",
+      "gramas": 0.6,
+      "kcal": 1.6,
+      "carboidratos_g": 0.31,
+      "fonte": "USDA SR Legacy 171329 Spices, paprika",
+      "por_100g": {
+        "kcal": 282,
+        "carboidratos_g": 53.99
+      }
+    },
+    {
+      "ingrediente": "cenoura",
+      "texto": "3 cenouras em palitos",
+      "gramas": 183,
+      "kcal": 62.2,
+      "carboidratos_g": 14.09,
+      "fonte": "TACO 4ª ed. 110 Cenoura, crua",
+      "por_100g": {
+        "kcal": 34,
+        "carboidratos_g": 7.7
+      }
+    }
+  ],
+  "fora_do_calculo": [],
+  "total": {
+    "kcal": 1153.4,
+    "carboidratos_g": 115.1
+  },
+  "por_porcao": {
+    "kcal": 192,
+    "carboidratos_g": 19.2
+  }
+}
