@@ -55,10 +55,10 @@
       "texto": "1 e 1/2 xícara (chá) de fubá"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "manteiga",
@@ -84,7 +84,7 @@
       "texto": "Preaqueça o forno a 180 °C. Unte com manteiga uma forma retangular de 20 x 30 cm."
     },
     {
-      "texto": "Bata no liquidificador o leite, os ovos, o eritritol, o fubá, a farinha, a manteiga e o queijo por 3 minutos.",
+      "texto": "Bata no liquidificador o leite, os ovos, o eritritol, o fubá, a farinha integral, a manteiga e o queijo por 3 minutos.",
       "temporizador_min": 3
     },
     {
@@ -117,6 +117,10 @@
       "texto": "Sem parmesão? Use queijo minas meia cura ralado."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 3 colheres (sopa) de aveia em flocos."
+    },
+    {
       "tipo": "dica",
       "texto": "Não abra o forno nos primeiros 30 minutos: é isso que forma a camada cremosa."
     },
@@ -127,8 +131,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 160,
-      "carboidratos_g": 18.2
+      "kcal": 159,
+      "carboidratos_g": 18.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -160,6 +164,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido mantido."
   }
 }

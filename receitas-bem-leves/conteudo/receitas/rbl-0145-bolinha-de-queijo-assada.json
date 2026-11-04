@@ -2,7 +2,7 @@
   "id": "rbl-0145",
   "slug": "bolinha-de-queijo-assada",
   "nome": "Bolinha de queijo assada",
-  "descricao": "Bolinha de massa cozida de leite recheada com mussarela, empanada na aveia e assada até dourar.",
+  "descricao": "Bolinha de massa integral cozida no leite, recheada com mussarela, empanada na aveia e assada até dourar.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -26,9 +26,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 1,
+      "quantidade": 1.12,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite"
     },
     {
       "grupo": "Massa",
@@ -46,10 +46,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Recheio",
@@ -85,16 +85,16 @@
       "texto": "Numa panela, leve o leite, a manteiga e o sal ao fogo até ferver."
     },
     {
-      "texto": "Junte a farinha de uma vez e mexa sem parar por 3 a 4 minutos, até a massa soltar do fundo da panela.",
+      "texto": "Junte a farinha integral de uma vez e mexa sem parar por 4 a 5 minutos, até a massa soltar do fundo da panela.",
       "aviso": "A massa espirra e fica muito quente.",
-      "temporizador_min": 4
+      "temporizador_min": 5
     },
     {
       "texto": "Passe para uma superfície untada e deixe esfriar por 20 minutos.",
       "temporizador_min": 20
     },
     {
-      "texto": "Sove a massa por 2 minutos, até ficar lisa."
+      "texto": "Sove a massa por 2 minutos, até ficar lisa. A massa integral fica um pouco mais firme e com pontinhos escuros: é assim mesmo."
     },
     {
       "texto": "Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga."
@@ -125,6 +125,10 @@
       "texto": "Troque a aveia por farinha de milho para empanar."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a aveia de empanar por farelo de aveia ou por farinha de amêndoas."
+    },
+    {
       "tipo": "dica",
       "texto": "Se a bolinha tiver rachadura, o queijo vaza no forno: feche bem e alise com as mãos."
     },
@@ -135,8 +139,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 286,
-      "carboidratos_g": 27.7
+      "kcal": 281,
+      "carboidratos_g": 26.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -169,6 +173,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e tempo de panela ajustados."
   }
 }

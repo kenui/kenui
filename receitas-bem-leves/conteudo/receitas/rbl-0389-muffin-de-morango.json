@@ -2,7 +2,7 @@
   "id": "rbl-0389",
   "slug": "muffin-de-morango",
   "nome": "Muffin de morango",
-  "descricao": "Muffins fofinhos com pedaços de morango fresco e um pouco de farinha integral.",
+  "descricao": "Muffins fofinhos com pedaços de morango fresco, feitos com farinha integral e aveia.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -39,9 +39,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
+      "quantidade": 0.66,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite"
+      "texto": "2/3 de xícara (chá) de leite"
     },
     {
       "ingrediente": "eritritol",
@@ -54,16 +54,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "3/4 de xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 0.5,
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -83,10 +83,13 @@
       "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel."
     },
     {
+      "texto": "Bata a aveia no liquidificador até virar farinha."
+    },
+    {
       "texto": "Com um batedor, misture os ovos, o óleo, o leite e o eritritol."
     },
     {
-      "texto": "Junte as duas farinhas e o fermento e mexa só até sumir a farinha seca. Massa de muffin não deve ser batida demais."
+      "texto": "Junte a aveia batida, a farinha integral e o fermento e mexa só até sumir a farinha seca. Massa de muffin não deve ser batida demais."
     },
     {
       "texto": "Misture os morangos com delicadeza."
@@ -112,7 +115,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "Passe os morangos picados em 1 colher de farinha antes de misturar: eles não afundam."
+      "texto": "Passe os morangos picados em 1 colher de farinha integral antes de misturar: eles não afundam."
     },
     {
       "tipo": "conservacao",
@@ -121,8 +124,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 140,
-      "carboidratos_g": 15.8
+      "kcal": 142,
+      "carboidratos_g": 15
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -131,7 +134,7 @@
   },
   "etiquetas": {
     "sem_acucar_adicionado": true,
-    "low_carb": false
+    "low_carb": true
   },
   "ilustracao": {
     "prato_base": "muffin",
@@ -153,6 +156,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por aveia em flocos batida, junto com a farinha integral; líquido ajustado."
   }
 }

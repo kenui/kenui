@@ -32,10 +32,10 @@
       "texto": "2 xícaras (chá) de fubá"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "ovo",
@@ -45,9 +45,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "quantidade": 270,
+      "medida": "ml",
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)"
     },
     {
       "ingrediente": "oleo",
@@ -82,7 +82,7 @@
       "texto": "Bata no liquidificador os ovos, o leite, o óleo e o sal por 1 minuto."
     },
     {
-      "texto": "Numa tigela, misture o fubá, a farinha e a erva-doce. Despeje o líquido e misture bem com um batedor de arame."
+      "texto": "Numa tigela, misture o fubá, a farinha integral e a erva-doce. Despeje o líquido e misture bem com um batedor de arame."
     },
     {
       "texto": "Acrescente o fermento e mexa só para incorporar."
@@ -113,12 +113,16 @@
     {
       "tipo": "conservacao",
       "texto": "Guarde em pote fechado por até 3 dias, fora da geladeira."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 1 e 1/4 xícara de aveia em flocos batida: a broa fica mais macia."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 221,
-      "carboidratos_g": 25.6
+      "kcal": 220,
+      "carboidratos_g": 25.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -150,6 +154,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite ajustado."
   }
 }

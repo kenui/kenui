@@ -67,15 +67,27 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "2 xícaras (chá) de farinha de trigo",
-      "gramas": 250,
-      "kcal": 900,
-      "carboidratos_g": 187.75,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 xícara (chá) de farinha de trigo integral",
+      "gramas": 120,
+      "kcal": 408,
+      "carboidratos_g": 86.36,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1 xícara (chá) de aveia em flocos",
+      "gramas": 81,
+      "kcal": 319.1,
+      "carboidratos_g": 53.95,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
       }
     },
     {
@@ -93,11 +105,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 2189.3,
-    "carboidratos_g": 200
+    "kcal": 2016.4,
+    "carboidratos_g": 152.5
   },
   "por_porcao": {
-    "kcal": 182,
-    "carboidratos_g": 16.7
+    "kcal": 168,
+    "carboidratos_g": 12.7
   }
 }

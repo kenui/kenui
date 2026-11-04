@@ -59,10 +59,17 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -105,11 +112,14 @@
       "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 24 cm, sem furo, e forre o fundo com papel-manteiga."
     },
     {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
+    },
+    {
       "texto": "No liquidificador, bata as maçãs picadas, os ovos, o óleo e o eritritol por 3 minutos, até ficar liso.",
       "temporizador_min": 3
     },
     {
-      "texto": "Numa tigela, misture a farinha e a canela. Junte o creme de maçã e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Numa tigela, misture a farinha integral, a aveia batida e a canela. Junte o creme de maçã e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Despeje na forma e arrume as fatias de maçã por cima, uma ao lado da outra."
@@ -137,7 +147,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral."
+      "texto": "Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia: o bolo fica mais rústico."
     },
     {
       "tipo": "dica",
@@ -150,8 +160,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 197,
-      "carboidratos_g": 22.6
+      "kcal": 182,
+      "carboidratos_g": 18.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -164,7 +174,7 @@
   },
   "ilustracao": {
     "prato_base": "bolo_redondo",
-    "massa": "clara",
+    "massa": "integral",
     "cobertura": null,
     "recheio": null,
     "enfeites": [
@@ -184,6 +194,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

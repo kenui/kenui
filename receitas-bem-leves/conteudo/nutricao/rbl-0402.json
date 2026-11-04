@@ -42,15 +42,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo",
-      "gramas": 218.8,
-      "kcal": 787.5,
-      "carboidratos_g": 164.28,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo integral",
+      "gramas": 210,
+      "kcal": 714,
+      "carboidratos_g": 151.14,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -102,13 +102,19 @@
       }
     }
   ],
-  "fora_do_calculo": [],
+  "fora_do_calculo": [
+    {
+      "ingrediente": "leite-integral",
+      "texto": "1 a 2 colheres (sopa) de leite, se a massa esfarelar",
+      "motivo": "opcional"
+    }
+  ],
   "total": {
-    "kcal": 1292.4,
-    "carboidratos_g": 170.9
+    "kcal": 1218.7,
+    "carboidratos_g": 157.7
   },
   "por_porcao": {
-    "kcal": 162,
-    "carboidratos_g": 21.4
+    "kcal": 152,
+    "carboidratos_g": 19.7
   }
 }

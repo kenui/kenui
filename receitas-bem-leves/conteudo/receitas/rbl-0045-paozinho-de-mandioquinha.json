@@ -2,7 +2,7 @@
   "id": "rbl-0045",
   "slug": "paozinho-de-mandioquinha",
   "nome": "Pãozinho de mandioquinha",
-  "descricao": "Pãozinho dourado e macio de mandioquinha, com sabor delicado e miolo úmido.",
+  "descricao": "Pãozinho dourado e macio de mandioquinha com farinha integral, de sabor delicado e miolo úmido.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 35,
     "cozimento_min": 45,
-    "descanso_min": 90,
-    "total_min": 170
+    "descanso_min": 115,
+    "total_min": 195
   },
   "rendimento": {
     "quantidade": 12,
@@ -33,10 +33,10 @@
       "texto": "3 mandioquinhas médias (300 g)"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -66,8 +66,7 @@
       "ingrediente": "agua",
       "quantidade": 4,
       "medida": "colher_sopa",
-      "texto": "2 a 4 colheres (sopa) de água morna, se precisar",
-      "opcional": true
+      "texto": "4 colheres (sopa) de água morna, mais 2 se precisar"
     }
   ],
   "preparo": [
@@ -83,19 +82,19 @@
       "texto": "Numa tigela, misture o purê, o ovo e a manteiga."
     },
     {
-      "texto": "Junte o fermento, o sal e a farinha aos poucos, sovando até a massa ficar lisa e macia. Se ficar seca, ponha a água morna aos poucos."
+      "texto": "Junte o fermento, o sal, a água e a farinha integral aos poucos, misturando até a massa ficar macia. Se ficar seca, ponha mais 1 ou 2 colheres (sopa) de água morna."
     },
     {
       "texto": "Sove por 8 minutos.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -122,12 +121,16 @@
     {
       "tipo": "conservacao",
       "texto": "Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa com farinha integral fica um pouco grudenta: unte as mãos com manteiga para modelar as bolinhas."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 172,
-      "carboidratos_g": 29.8
+      "kcal": 161,
+      "carboidratos_g": 27.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -157,6 +160,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água e tempo de crescimento ajustados."
   }
 }

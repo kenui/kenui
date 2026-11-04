@@ -90,15 +90,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "3 colheres (sopa) de farinha de trigo",
-      "gramas": 23.4,
-      "kcal": 84.2,
-      "carboidratos_g": 17.57,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "aveia-em-flocos",
+      "texto": "4 colheres (sopa) de aveia em flocos finos",
+      "gramas": 20.4,
+      "kcal": 80.4,
+      "carboidratos_g": 13.59,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 394,
+        "carboidratos_g": 66.6
       }
     },
     {
@@ -165,11 +165,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 969.5,
-    "carboidratos_g": 119.4
+    "kcal": 965.6,
+    "carboidratos_g": 115.4
   },
   "por_porcao": {
-    "kcal": 242,
-    "carboidratos_g": 29.9
+    "kcal": 241,
+    "carboidratos_g": 28.9
   }
 }

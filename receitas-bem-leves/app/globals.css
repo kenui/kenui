@@ -243,3 +243,36 @@ img { max-width: 100%; }
   .dia { break-inside: avoid; }
   a { color: #000; text-decoration: none; }
 }
+
+/* Produtos extras: 12 semanas e folhas para imprimir */
+.semanas-12 { grid-template-columns: repeat(3, 1fr); }
+.area-folhas { display: none; }
+@media print {
+  body.imprimindo-folhas .conteudo > *:not(.texto-longo), body.imprimindo-folhas .texto-longo > *:not(.area-folhas) { display: none !important; }
+  body.imprimindo-folhas .area-folhas { display: block; }
+  .folha-receita { break-after: page; font-size: 14pt; line-height: 1.4; }
+  .folha-receita h2 { font-size: 24pt; margin: 8px 0; }
+  .folha-receita h3 { font-size: 15pt; margin: 8px 0 4px; }
+  .folha-imagem { width: 7cm; float: right; margin: 0 0 8px 12px; }
+  .folha-imagem svg { width: 100%; height: auto; display: block; }
+  .folha-meta { font-size: 11pt; color: #444; }
+  .folha-colunas ul, .folha-colunas ol { padding-left: 20px; margin: 0; }
+  .folha-colunas li { margin-bottom: 4px; }
+  .folha-anotacoes { margin-top: 16px; color: #555; }
+}
+
+/* Páginas do funil (upsell, downsell, obrigado) */
+.faixa-aviso { background: var(--verde-escuro); color: var(--branco); font-weight: 700; text-align: center;
+  padding-block: calc(12px + env(safe-area-inset-top, 0px)) 12px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.conteudo-oferta { padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px)); }
+.titulo-oferta { font-size: 34px; color: var(--vinho); }
+.subtitulo-oferta { font-size: 26px; color: var(--vinho); }
+.duas-telas { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.duas-telas img, .tela-unica { width: 100%; height: auto; border-radius: 16px; border: 6px solid var(--texto); }
+.tela-unica { max-width: 260px; align-self: center; }
+.lista-oferta { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 10px; }
+.caixa-preco { background: var(--branco); border: 2px solid var(--verde-escuro); border-radius: 18px; padding: 18px; }
+.preco-oferta { font-family: var(--titulo); font-size: 40px; color: var(--verde-escuro); }
+.preco-oferta small { font-family: var(--corpo); font-size: 17px; color: var(--texto-suave); }
+.botoes-hotmart { min-height: 120px; }

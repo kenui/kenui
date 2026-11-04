@@ -2,7 +2,7 @@
   "id": "rbl-0068",
   "slug": "pao-de-batata-recheado-com-frango",
   "nome": "Pão de batata recheado com frango",
-  "descricao": "Pãozinho macio de batata com recheio de frango refogado com tomate e salsinha.",
+  "descricao": "Pãozinho macio de batata e farinha integral, com recheio de frango refogado com tomate e salsinha.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -13,8 +13,8 @@
   "tempo": {
     "preparo_min": 50,
     "cozimento_min": 60,
-    "descanso_min": 90,
-    "total_min": 200
+    "descanso_min": 115,
+    "total_min": 225
   },
   "rendimento": {
     "quantidade": 16,
@@ -34,10 +34,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 4,
       "medida": "xicara",
-      "texto": "4 xícaras (chá) de farinha de trigo"
+      "texto": "4 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -63,9 +63,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite morno"
+      "quantidade": 135,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de leite morno (135 ml)"
     },
     {
       "grupo": "Massa",
@@ -134,12 +134,12 @@
       "texto": "Numa tigela, misture o purê, o ovo, o leite morno e a manteiga."
     },
     {
-      "texto": "Junte o fermento, o sal e a farinha aos poucos, sovando até a massa ficar lisa e macia. Sove por 8 minutos.",
+      "texto": "Junte o fermento, o sal e a farinha integral aos poucos, sovando até a massa ficar macia. Sove por 8 minutos. Se grudar, unte as mãos com manteiga.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
       "texto": "Enquanto isso, aqueça o azeite numa frigideira e refogue a cebola e o alho por 3 minutos, até murchar.",
@@ -153,8 +153,8 @@
       "texto": "Divida a massa em 16 partes. Abra cada uma na mão, coloque 1 colher (sopa) de recheio, feche bem e coloque com a emenda para baixo numa assadeira untada."
     },
     {
-      "texto": "Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -185,8 +185,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 193,
-      "carboidratos_g": 27
+      "kcal": 184,
+      "carboidratos_g": 25.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -219,6 +219,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

@@ -54,10 +54,10 @@
       "texto": "1 ovo"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "baunilha",
@@ -80,7 +80,7 @@
       "texto": "Misture a manteiga com o eritritol até virar um creme. Junte o ovo e a baunilha."
     },
     {
-      "texto": "Acrescente o coco, a farinha e o fermento e misture até formar uma massa que dá liga."
+      "texto": "Acrescente o coco, a farinha integral e o fermento e misture até formar uma massa que dá liga."
     },
     {
       "texto": "Com uma colher de sopa, faça montinhos na assadeira e achate de leve."
@@ -102,7 +102,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por farinha de amêndoas ou aveia batida."
+      "texto": "Troque a farinha integral por farinha de amêndoas ou por 3/4 de xícara (chá) de aveia batida."
     },
     {
       "tipo": "substituicao",
@@ -119,8 +119,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 176,
-      "carboidratos_g": 9.7
+      "kcal": 174,
+      "carboidratos_g": 9.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -152,6 +152,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

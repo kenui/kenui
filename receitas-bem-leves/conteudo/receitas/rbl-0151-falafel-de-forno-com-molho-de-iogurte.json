@@ -74,10 +74,10 @@
     },
     {
       "grupo": "Falafel",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 3,
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 4,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "4 colheres (sopa) de aveia em flocos finos"
     },
     {
       "grupo": "Falafel",
@@ -127,7 +127,7 @@
       "aviso": "Desligue o processador antes de mexer na lâmina."
     },
     {
-      "texto": "Junte a farinha e misture com as mãos."
+      "texto": "Junte a aveia e misture com as mãos. Deixe a massa descansar 5 minutos para a aveia absorver a umidade."
     },
     {
       "texto": "Modele 16 bolinhas, achate de leve e arrume na assadeira. Pincele com o restante do azeite."
@@ -152,7 +152,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por farinha de grão-de-bico ou por aveia em flocos finos."
+      "texto": "Troque a aveia por farinha de grão-de-bico ou por farinha de trigo integral na mesma medida."
     },
     {
       "tipo": "conservacao",
@@ -161,8 +161,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 242,
-      "carboidratos_g": 29.9
+      "kcal": 241,
+      "carboidratos_g": 28.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -194,6 +194,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por aveia em flocos finos; quantidade ajustada."
   }
 }

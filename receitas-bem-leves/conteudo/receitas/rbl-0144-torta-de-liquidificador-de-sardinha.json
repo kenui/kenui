@@ -2,7 +2,7 @@
   "id": "rbl-0144",
   "slug": "torta-de-liquidificador-de-sardinha",
   "nome": "Torta de liquidificador de sardinha",
-  "descricao": "Torta salgada clássica de massa batida no liquidificador, recheada com sardinha, tomate e pimentão.",
+  "descricao": "Torta salgada de massa integral batida no liquidificador, recheada com sardinha, tomate e pimentão.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -11,8 +11,8 @@
   ],
   "tempo": {
     "preparo_min": 20,
-    "cozimento_min": 40,
-    "total_min": 70
+    "cozimento_min": 45,
+    "total_min": 75
   },
   "rendimento": {
     "quantidade": 1,
@@ -33,9 +33,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 1,
+      "quantidade": 1.2,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "texto": "1 xícara (chá) mais 3 colheres (sopa) de leite"
     },
     {
       "grupo": "Massa",
@@ -46,10 +46,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -117,7 +117,7 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C e unte com óleo e enfarinhe uma forma de 22 x 30 cm."
+      "texto": "Preaqueça o forno a 180 °C e unte com óleo e polvilhe farinha integral numa forma de 22 x 30 cm."
     },
     {
       "texto": "Numa tigela, amasse a sardinha com um garfo, tirando a espinha do meio se quiser, e misture o tomate, a cebola, o pimentão, as azeitonas e a salsinha."
@@ -126,14 +126,14 @@
       "texto": "No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto."
     },
     {
-      "texto": "Junte a farinha aos poucos e bata até ficar uma massa lisa. Misture o fermento com uma colher."
+      "texto": "Junte a farinha integral aos poucos e bata até ficar uma massa lisa e cremosa, um pouco mais grossa que a de bolo. Misture o fermento com uma colher."
     },
     {
       "texto": "Despeje metade da massa na forma, espalhe o recheio e cubra com o restante da massa."
     },
     {
-      "texto": "Asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
-      "temporizador_min": 40
+      "texto": "Asse por 40 a 45 minutos, até dourar e um palito sair limpo.",
+      "temporizador_min": 45
     },
     {
       "texto": "Espere 10 minutos antes de cortar.",
@@ -142,7 +142,7 @@
   ],
   "forno": {
     "temperatura_c": 180,
-    "tempo_min": 40,
+    "tempo_min": 45,
     "preaquecer": true
   },
   "dicas": [
@@ -152,7 +152,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca, se preferir."
+      "texto": "Troque 1 xícara da farinha integral por 1 xícara de aveia em flocos: a massa fica mais leve."
     },
     {
       "tipo": "conservacao",
@@ -161,8 +161,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 289,
-      "carboidratos_g": 22.2
+      "kcal": 283,
+      "carboidratos_g": 21
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -175,7 +175,7 @@
   },
   "ilustracao": {
     "prato_base": "torta",
-    "massa": null,
+    "massa": "integral",
     "cobertura": null,
     "recheio": "sardinha",
     "enfeites": [
@@ -196,6 +196,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e tempo de forno ajustados."
   }
 }

@@ -70,7 +70,9 @@
     "frutose",
     "agave",
     "ketchup",
-    "granola"
+    "granola",
+    "farinha de trigo",
+    "farinha branca"
   ],
   "expressoes_permitidas_com_termo_proibido": [
     "sem açúcar",
@@ -79,7 +81,11 @@
     "zero açúcar",
     "açúcar adicionado",
     "sem leite condensado",
-    "sem mel"
+    "sem mel",
+    "farinha de trigo integral",
+    "farinhas de trigo integral",
+    "sem farinha branca",
+    "sem farinha de trigo"
   ],
   "termos_promessa_de_saude": [
     "glicemia",

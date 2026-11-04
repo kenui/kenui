@@ -1,0 +1,234 @@
+{
+  "produto": "marmitas",
+  "slug": "guia-de-marmitas",
+  "titulo": "Guia de Marmitas da Semana",
+  "resumo": "Como cozinhar no domingo, em cerca de 2 horas, e ter almoço e jantar prontos para a semana.",
+  "blocos": [
+    {
+      "t": "p",
+      "texto": "A semana fica muito mais fácil quando a comida já está pronta na geladeira e no congelador. Este guia mostra como organizar um domingo de cozinha, quais receitas do app congelam bem e como guardar e esquentar sem perder o sabor."
+    },
+    {
+      "t": "h",
+      "texto": "O domingo de cozinha, passo a passo"
+    },
+    {
+      "t": "lista",
+      "itens": [
+        "Escolha 2 pratos principais, 1 acompanhamento e 1 lanche (veja os 4 domingos prontos abaixo).",
+        "Gere a lista de compras dessas 4 receitas no app e faça as compras no sábado.",
+        "Comece pelo que vai ao forno, porque é o que mais demora. Enquanto assa, cozinhe o que vai na panela.",
+        "Por último, prepare o lanche e corte os legumes da semana.",
+        "Espere a comida amornar (no máximo 2 horas fora da geladeira), divida em potes e guarde."
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "Quanto tempo dura"
+    },
+    {
+      "t": "tabela",
+      "cabecalho": [
+        "Onde",
+        "Quanto tempo",
+        "Como fazer"
+      ],
+      "linhas": [
+        [
+          "Geladeira",
+          "até 3 dias",
+          "Potes bem fechados. O que você vai comer até quarta fica na geladeira."
+        ],
+        [
+          "Congelador",
+          "até 2 meses",
+          "O que vai comer de quinta em diante vai para o congelador. Escreva o nome e a data na tampa."
+        ],
+        [
+          "Descongelar",
+          "de um dia para o outro",
+          "Passe o pote do congelador para a geladeira na noite anterior. Não descongele em cima da pia."
+        ],
+        [
+          "Esquentar",
+          "até ficar bem quente",
+          "No micro-ondas, mexa na metade do tempo. Esquente só a porção que vai comer."
+        ]
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "Potes e porções"
+    },
+    {
+      "t": "lista",
+      "itens": [
+        "Potes de vidro com tampa servem para geladeira, congelador e micro-ondas (tire a tampa para esquentar).",
+        "Monte a marmita como um prato: metade de legumes ou salada, um quarto de carne, frango, peixe ou ovo e um quarto de acompanhamento.",
+        "Folhas e saladas cruas não congelam: guarde à parte e monte na hora.",
+        "Arroz, feijão, carnes ensopadas, sopas, escondidinhos e molhos congelam bem."
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "4 domingos prontos"
+    },
+    {
+      "t": "domingos",
+      "domingos": [
+        {
+          "principais": [
+            "rbl-0011",
+            "rbl-0232"
+          ],
+          "acompanhamento": "rbl-0013",
+          "lanche": "rbl-0003"
+        },
+        {
+          "principais": [
+            "rbl-0234",
+            "rbl-0238"
+          ],
+          "acompanhamento": "rbl-0310",
+          "lanche": "rbl-0004"
+        },
+        {
+          "principais": [
+            "rbl-0239",
+            "rbl-0243"
+          ],
+          "acompanhamento": "rbl-0319",
+          "lanche": "rbl-0010"
+        },
+        {
+          "principais": [
+            "rbl-0245",
+            "rbl-0250"
+          ],
+          "acompanhamento": "rbl-0346",
+          "lanche": "rbl-0029"
+        }
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "Pratos principais que congelam bem"
+    },
+    {
+      "t": "receitas_ids",
+      "ids": [
+        "rbl-0011",
+        "rbl-0232",
+        "rbl-0234",
+        "rbl-0238",
+        "rbl-0239",
+        "rbl-0243",
+        "rbl-0245",
+        "rbl-0250",
+        "rbl-0251",
+        "rbl-0253",
+        "rbl-0254",
+        "rbl-0257",
+        "rbl-0258",
+        "rbl-0262",
+        "rbl-0263",
+        "rbl-0265",
+        "rbl-0267",
+        "rbl-0268",
+        "rbl-0272",
+        "rbl-0274",
+        "rbl-0277",
+        "rbl-0279",
+        "rbl-0282",
+        "rbl-0291",
+        "rbl-0294",
+        "rbl-0298",
+        "rbl-0307",
+        "rbl-0312",
+        "rbl-0313",
+        "rbl-0317",
+        "rbl-0322",
+        "rbl-0324",
+        "rbl-0325",
+        "rbl-0328",
+        "rbl-0331",
+        "rbl-0332"
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "Acompanhamentos que congelam bem"
+    },
+    {
+      "t": "receitas_ids",
+      "ids": [
+        "rbl-0013",
+        "rbl-0310",
+        "rbl-0319",
+        "rbl-0346",
+        "rbl-0347",
+        "rbl-0348",
+        "rbl-0351",
+        "rbl-0353"
+      ]
+    },
+    {
+      "t": "h",
+      "texto": "Lanches e pães que congelam bem"
+    },
+    {
+      "t": "receitas_ids",
+      "ids": [
+        "rbl-0003",
+        "rbl-0004",
+        "rbl-0010",
+        "rbl-0029",
+        "rbl-0030",
+        "rbl-0038",
+        "rbl-0039",
+        "rbl-0040",
+        "rbl-0041",
+        "rbl-0042",
+        "rbl-0043",
+        "rbl-0044",
+        "rbl-0045",
+        "rbl-0046",
+        "rbl-0051",
+        "rbl-0052",
+        "rbl-0053",
+        "rbl-0055",
+        "rbl-0057",
+        "rbl-0058",
+        "rbl-0065",
+        "rbl-0068",
+        "rbl-0112",
+        "rbl-0117",
+        "rbl-0118",
+        "rbl-0119",
+        "rbl-0123",
+        "rbl-0134",
+        "rbl-0139",
+        "rbl-0141",
+        "rbl-0144",
+        "rbl-0145",
+        "rbl-0161",
+        "rbl-0163",
+        "rbl-0166",
+        "rbl-0167",
+        "rbl-0169",
+        "rbl-0176",
+        "rbl-0179",
+        "rbl-0184",
+        "rbl-0185",
+        "rbl-0186",
+        "rbl-0189",
+        "rbl-0190",
+        "rbl-0193",
+        "rbl-0195",
+        "rbl-0197",
+        "rbl-0206",
+        "rbl-0228"
+      ]
+    }
+  ]
+}

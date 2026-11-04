@@ -161,7 +161,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem aveia? Use 1 e 1/2 xícara (chá) de farinha de trigo."
+      "texto": "Sem aveia? Use 1 e 1/2 xícara (chá) de farinha de trigo integral e mais 2 colheres (sopa) de leite."
     },
     {
       "tipo": "dica",
@@ -202,6 +202,6 @@
   },
   "revisao": {
     "status": "piloto",
-    "observacoes": ""
+    "observacoes": "Dica de troca da aveia atualizada para farinha de trigo integral."
   }
 }

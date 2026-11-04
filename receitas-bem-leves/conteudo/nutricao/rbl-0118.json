@@ -6,15 +6,27 @@
   "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
   "linhas": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 xícara (chá) de farinha de trigo",
-      "gramas": 125,
-      "kcal": 450,
-      "carboidratos_g": 93.88,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 60,
+      "kcal": 204,
+      "carboidratos_g": 43.18,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
       }
     },
     {
@@ -79,10 +91,10 @@
     },
     {
       "ingrediente": "leite-integral",
-      "texto": "4 colheres (sopa) de leite",
-      "gramas": 60,
-      "kcal": 36.6,
-      "carboidratos_g": 2.88,
+      "texto": "6 colheres (sopa) de leite",
+      "gramas": 90,
+      "kcal": 54.9,
+      "carboidratos_g": 4.32,
       "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
       "por_100g": {
         "kcal": 61,
@@ -128,11 +140,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 863.8,
-    "carboidratos_g": 132
+    "kcal": 795.7,
+    "carboidratos_g": 109.7
   },
   "por_porcao": {
-    "kcal": 216,
-    "carboidratos_g": 33
+    "kcal": 199,
+    "carboidratos_g": 27.4
   }
 }

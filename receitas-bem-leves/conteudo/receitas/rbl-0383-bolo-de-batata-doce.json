@@ -60,10 +60,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.5,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "3/4 de xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "noz-moscada",
@@ -84,7 +90,10 @@
       "temporizador_min": 20
     },
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador até virar farinha."
     },
     {
       "texto": "No liquidificador, bata a batata-doce, os ovos, o óleo, o leite e o eritritol por 3 minutos.",
@@ -92,7 +101,7 @@
       "temporizador_min": 3
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha e a noz-moscada e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Passe para uma tigela, junte a aveia batida, a farinha integral e a noz-moscada e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
@@ -124,8 +133,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 167,
-      "carboidratos_g": 20.2
+      "kcal": 163,
+      "carboidratos_g": 18.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -154,6 +163,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade aveia em flocos batida e metade farinha de trigo integral."
   }
 }

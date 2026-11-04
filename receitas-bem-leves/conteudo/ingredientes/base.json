@@ -76,9 +76,10 @@
           "fonte": "grama"
         }
       },
-      "proibido": false,
+      "proibido": true,
       "adocante": null,
-      "enfeite": null
+      "enfeite": null,
+      "motivo_proibido": "A página de vendas promete receitas sem farinha branca. Use farinha de trigo integral, aveia, farinha de amêndoas, centeio ou polvilho."
     },
     {
       "id": "fermento-quimico",

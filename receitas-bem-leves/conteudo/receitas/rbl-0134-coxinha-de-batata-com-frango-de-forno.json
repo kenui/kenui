@@ -31,10 +31,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -120,7 +120,7 @@
       "temporizador_min": 25
     },
     {
-      "texto": "Escorra e esprema as batatas ainda quentes. Junte a manteiga, o sal e a farinha e misture até formar uma massa que não gruda nas mãos. Deixe amornar.",
+      "texto": "Escorra e esprema as batatas ainda quentes. Junte a manteiga, o sal e a farinha integral e misture até formar uma massa que não gruda nas mãos. Deixe amornar.",
       "aviso": "Cuidado: a batata sai da panela muito quente."
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "Se a massa grudar nas mãos, molhe as mãos com um pouco de água ou acrescente mais 1 colher (sopa) de farinha."
+      "texto": "Se a massa grudar nas mãos, molhe as mãos com um pouco de água ou acrescente mais 1 colher (sopa) de farinha integral."
     },
     {
       "tipo": "conservacao",
@@ -170,8 +170,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 215,
-      "carboidratos_g": 22
+      "kcal": 212,
+      "carboidratos_g": 21.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -205,6 +205,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

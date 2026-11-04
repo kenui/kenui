@@ -38,10 +38,10 @@
     },
     {
       "grupo": "Molho branco",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "colher_sopa",
-      "texto": "1 e 1/2 colher (sopa) de farinha de trigo"
+      "texto": "1 e 1/2 colher (sopa) de farinha de trigo integral"
     },
     {
       "grupo": "Molho branco",
@@ -85,8 +85,8 @@
       "temporizador_min": 5
     },
     {
-      "texto": "Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo sem parar, e cozinhe até engrossar, cerca de 5 minutos. Tempere com o sal e a noz-moscada.",
-      "temporizador_min": 5
+      "texto": "Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo sem parar, e cozinhe até engrossar, cerca de 5 a 6 minutos. O molho fica com pontinhos escuros. Tempere com o sal e a noz-moscada.",
+      "temporizador_min": 6
     },
     {
       "texto": "Preaqueça o forno a 200 °C."
@@ -114,14 +114,18 @@
       "texto": "Troque a mussarela por queijo minas meia cura."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 2 colheres (chá) de amido de milho dissolvidas no leite frio."
+    },
+    {
       "tipo": "conservacao",
       "texto": "Guarde na geladeira por até 2 dias e aqueça no forno."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 145,
-      "carboidratos_g": 8.3
+      "kcal": 144,
+      "carboidratos_g": 8.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -154,6 +158,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral no molho branco; líquido mantido."
   }
 }

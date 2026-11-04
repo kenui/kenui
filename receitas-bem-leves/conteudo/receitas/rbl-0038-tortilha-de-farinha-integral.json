@@ -2,7 +2,7 @@
   "id": "rbl-0038",
   "slug": "tortilha-de-farinha-integral",
   "nome": "Tortilha de farinha integral",
-  "descricao": "Tortilha caseira fina e macia, feita na frigideira, para enrolar recheios ou fazer quesadilla.",
+  "descricao": "Tortilha caseira 100% integral, fina e macia, feita na frigideira, para enrolar recheios ou fazer quesadilla.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 20,
     "cozimento_min": 15,
-    "descanso_min": 20,
-    "total_min": 55
+    "descanso_min": 30,
+    "total_min": 65
   },
   "rendimento": {
     "quantidade": 6,
@@ -28,15 +28,9 @@
   "ingredientes": [
     {
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 1,
+      "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo integral"
-    },
-    {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -58,27 +52,27 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de água morna"
+      "quantidade": 135,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de água morna (135 ml)"
     }
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture as farinhas, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal."
     },
     {
       "texto": "Junte o azeite e a água morna e misture até formar uma massa."
     },
     {
-      "texto": "Sove por 3 minutos numa bancada enfarinhada, até ficar lisa. Se grudar, ponha um pouco de farinha."
+      "texto": "Sove por 3 minutos, até ficar lisa. Se grudar, unte as mãos com um pouco de azeite."
     },
     {
-      "texto": "Cubra com um pano e deixe descansar 20 minutos.",
-      "temporizador_min": 20
+      "texto": "Cubra com um pano e deixe descansar 30 minutos, para a farinha integral hidratar e a massa abrir sem rasgar.",
+      "temporizador_min": 30
     },
     {
-      "texto": "Divida em 6 bolinhas e abra cada uma com o rolo, bem fina, num disco de 20 cm."
+      "texto": "Divida em 6 bolinhas e abra cada uma com o rolo, bem fina, num disco de 20 cm, polvilhando a bancada com farinha integral."
     },
     {
       "texto": "Aqueça uma frigideira grande, sem untar, em fogo médio."
@@ -95,7 +89,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Use só farinha integral (1 e 1/2 xícara): a massa fica mais firme, então ponha 1 colher (sopa) a mais de água."
+      "texto": "Troque 1/4 de xícara da farinha integral por aveia em flocos batida: fica mais macia, mas rasga mais fácil ao enrolar."
     },
     {
       "tipo": "dica",
@@ -108,8 +102,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 166,
-      "carboidratos_g": 22.4
+      "kcal": 162,
+      "carboidratos_g": 21.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -140,6 +134,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral (100% integral); água e descanso ajustados."
   }
 }

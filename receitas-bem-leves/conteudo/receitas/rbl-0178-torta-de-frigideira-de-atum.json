@@ -132,7 +132,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por aveia em flocos finos ou por farinha de trigo comum."
+      "texto": "Troque a farinha integral por aveia em flocos finos na mesma medida."
     },
     {
       "tipo": "conservacao",
@@ -176,6 +176,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica de troca refeita com aveia; massa já era integral."
   }
 }

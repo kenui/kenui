@@ -2,7 +2,7 @@
   "id": "rbl-0405",
   "slug": "rosca-doce-de-laranja",
   "nome": "Rosca doce de laranja",
-  "descricao": "Rosca trançada de massa fofinha com suco e raspas de laranja, para o café da manhã.",
+  "descricao": "Rosca trançada de massa integral fofinha com suco e raspas de laranja, para o café da manhã.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 35,
-    "descanso_min": 100,
-    "total_min": 175
+    "descanso_min": 140,
+    "total_min": 215
   },
   "rendimento": {
     "quantidade": 16,
@@ -28,10 +28,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3.5,
       "medida": "xicara",
-      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -43,9 +43,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
+      "quantidade": 0.66,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite morno"
+      "texto": "2/3 de xícara (chá) de leite morno"
     },
     {
       "grupo": "Massa",
@@ -103,26 +103,26 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela grande, misture a farinha, o fermento, o eritritol e as raspas de laranja."
+      "texto": "Numa tigela grande, misture a farinha integral, o fermento, o eritritol e as raspas de laranja."
     },
     {
-      "texto": "Junte o leite morno, o suco, o ovo e a manteiga e misture até a massa juntar.",
+      "texto": "Junte o leite morno, o suco, o ovo e a manteiga e misture até a massa juntar. Ela fica um pouco mais úmida que massa branca: é assim mesmo.",
       "aviso": "O leite deve estar morno, não quente, para não matar o fermento."
     },
     {
-      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 10 minutos, até a massa ficar lisa e elástica.",
+      "texto": "Acrescente o sal e sove numa bancada polvilhada com farinha integral por 10 minutos, até a massa ficar lisa e elástica.",
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por cerca de 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora e 20 minutos a 1 hora e 30 minutos, até dobrar de volume.",
+      "temporizador_min": 90
     },
     {
-      "texto": "Divida em 3 partes, faça rolos de 40 cm e trance. Una as pontas formando uma rosca e coloque numa assadeira untada."
+      "texto": "Divida em 3 partes, faça rolos de 40 cm com cuidado, sem esticar demais, e trance. Una as pontas formando uma rosca e coloque numa assadeira untada."
     },
     {
-      "texto": "Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
+      "temporizador_min": 50
     },
     {
       "texto": "Pincele o ovo batido e asse por 30 a 35 minutos, até dourar bem.",
@@ -140,7 +140,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de trigo integral e junte 2 colheres (sopa) de leite."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos: a rosca fica mais macia."
     },
     {
       "tipo": "substituicao",
@@ -148,7 +148,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "O eritritol não alimenta o fermento: é normal a massa levar 1 hora para crescer."
+      "texto": "A farinha integral e o eritritol deixam a massa mais lenta: é normal levar até 1 hora e 30 minutos para crescer. A rosca fica um pouco mais densa que a de padaria."
     },
     {
       "tipo": "conservacao",
@@ -157,8 +157,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 136,
-      "carboidratos_g": 21.9
+      "kcal": 129,
+      "carboidratos_g": 20.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -190,6 +190,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido aumentado e tempo de crescimento maior."
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0407",
   "slug": "pao-doce-de-coco",
   "nome": "Pão doce de coco",
-  "descricao": "Pãezinhos doces de massa fofa com leite de coco, cobertos com coco ralado.",
+  "descricao": "Pãezinhos doces de massa integral com leite de coco, cobertos com coco ralado.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 25,
-    "descanso_min": 100,
-    "total_min": 170
+    "descanso_min": 130,
+    "total_min": 200
   },
   "rendimento": {
     "quantidade": 12,
@@ -28,10 +28,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3.5,
       "medida": "xicara",
-      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -50,9 +50,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "agua",
-      "quantidade": 0.25,
-      "medida": "xicara",
-      "texto": "1/4 de xícara (chá) de água morna"
+      "quantidade": 100,
+      "medida": "ml",
+      "texto": "100 ml de água morna (1/3 de xícara mais 1 colher de sopa)"
     },
     {
       "grupo": "Massa",
@@ -103,10 +103,10 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela grande, misture a farinha, o fermento e o eritritol."
+      "texto": "Numa tigela grande, misture a farinha integral, o fermento e o eritritol."
     },
     {
-      "texto": "Junte o leite de coco, a água, o ovo e a manteiga e misture até juntar.",
+      "texto": "Junte o leite de coco, a água, o ovo e a manteiga e misture até juntar. A massa fica um pouco úmida: é assim mesmo.",
       "aviso": "Os líquidos devem estar mornos, não quentes, para não matar o fermento."
     },
     {
@@ -114,15 +114,15 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por cerca de 1 hora, até dobrar.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar.",
+      "temporizador_min": 80
     },
     {
       "texto": "Divida em 12 bolinhas e arrume numa assadeira untada, com espaço entre elas."
     },
     {
-      "texto": "Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
+      "temporizador_min": 50
     },
     {
       "texto": "Pincele o ovo batido, polvilhe o coco e asse por 20 a 25 minutos, até dourar.",
@@ -148,14 +148,18 @@
       "texto": "Confira no rótulo se o coco ralado é sem açúcar."
     },
     {
+      "tipo": "dica",
+      "texto": "A massa integral cresce mais devagar e o pão fica um pouco mais denso. Espere dobrar de volume, mesmo que passe do tempo."
+    },
+    {
       "tipo": "conservacao",
       "texto": "Guarde em saco fechado por 3 dias, ou congele."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 206,
-      "carboidratos_g": 28.8
+      "kcal": 194,
+      "carboidratos_g": 26.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -187,6 +191,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido aumentado e tempo de crescimento maior."
   }
 }

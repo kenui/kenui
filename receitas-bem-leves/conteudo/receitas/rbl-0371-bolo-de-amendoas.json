@@ -2,7 +2,7 @@
   "id": "rbl-0371",
   "slug": "bolo-de-amendoas",
   "nome": "Bolo de amêndoas",
-  "descricao": "Bolo baixinho e úmido de farinha de amêndoas com raspas de laranja, quase sem farinha de trigo.",
+  "descricao": "Bolo baixinho e úmido de farinha de amêndoas com raspas de laranja, sem farinha de trigo.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -30,9 +30,8 @@
       "medida": "g",
       "texto": "2 xícaras (chá) de farinha de amêndoas (200 g)",
       "alternativa": {
-        "ingrediente": "farinha-de-trigo",
-        "texto": "ou 1 e 1/2 xícara (chá) de farinha de trigo",
-        "observacao": "Com farinha de trigo, junte 1/4 de xícara de leite à massa."
+        "ingrediente": "aveia-em-flocos",
+        "texto": "ou 2 e 1/2 xícaras (chá) de aveia em flocos batida no liquidificador"
       }
     },
     {
@@ -106,7 +105,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Sem farinha de amêndoas? Use farinha de trigo como indicado na lista, ou castanha-do-pará bem moída."
+      "texto": "Sem farinha de amêndoas? Use aveia em flocos batida como indicado na lista, ou castanha-do-pará bem moída."
     },
     {
       "tipo": "substituicao",
@@ -152,6 +151,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Alternativa de farinha de trigo trocada por aveia batida; massa principal mantida."
   }
 }

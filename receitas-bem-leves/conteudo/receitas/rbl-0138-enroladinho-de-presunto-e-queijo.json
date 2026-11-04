@@ -116,7 +116,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem aveia? Use 4 colheres (sopa) de farinha de trigo."
+      "texto": "Sem aveia? Use 4 colheres (sopa) de farinha de trigo integral."
     },
     {
       "tipo": "conservacao",
@@ -160,6 +160,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica de troca da aveia atualizada para farinha de trigo integral."
   }
 }

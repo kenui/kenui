@@ -117,7 +117,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por farinha de trigo comum."
+      "texto": "Troque a farinha integral por mais 3/4 de xícara de aveia em flocos: o muffin fica mais macio."
     },
     {
       "tipo": "conservacao",
@@ -161,6 +161,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica de troca refeita com aveia; massa já era integral."
   }
 }

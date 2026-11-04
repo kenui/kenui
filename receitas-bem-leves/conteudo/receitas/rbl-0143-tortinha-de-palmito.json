@@ -2,7 +2,7 @@
   "id": "rbl-0143",
   "slug": "tortinha-de-palmito",
   "nome": "Tortinha de palmito",
-  "descricao": "Tortinhas abertas de massa integral com azeite, recheadas com palmito, tomate e azeitona.",
+  "descricao": "Tortinhas abertas de massa 100% integral com azeite, recheadas com palmito, tomate e azeitona.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -25,16 +25,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 1,
+      "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo integral"
-    },
-    {
-      "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -53,9 +46,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "agua",
-      "quantidade": 3,
+      "quantidade": 4,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de água"
+      "texto": "4 colheres (sopa) de água"
     },
     {
       "grupo": "Massa",
@@ -123,7 +116,7 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture as farinhas e o sal. Junte o azeite, o ovo e a água e amasse até formar uma massa lisa que não gruda nas mãos."
+      "texto": "Numa tigela, misture a farinha integral e o sal. Junte o azeite, o ovo e a água e amasse até formar uma massa lisa que não gruda nas mãos. Se esfarelar, junte mais 1 colher (sopa) de água."
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -162,7 +155,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem farinha integral? Use 1 e 1/2 xícara só de farinha de trigo."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida no liquidificador: a massa fica mais leve."
     },
     {
       "tipo": "conservacao",
@@ -171,8 +164,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 266,
-      "carboidratos_g": 27.2
+      "kcal": 263,
+      "carboidratos_g": 26.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -206,6 +199,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

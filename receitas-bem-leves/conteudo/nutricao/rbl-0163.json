@@ -6,15 +6,15 @@
   "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
   "linhas": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "2 xícaras (chá) de farinha de trigo",
-      "gramas": 250,
-      "kcal": 900,
-      "carboidratos_g": 187.75,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "2 xícaras (chá) de farinha de trigo integral",
+      "gramas": 240,
+      "kcal": 816,
+      "carboidratos_g": 172.73,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -63,6 +63,18 @@
       "por_100g": {
         "kcal": 90,
         "carboidratos_g": 43.9
+      }
+    },
+    {
+      "ingrediente": "agua",
+      "texto": "2 colheres (sopa) de água",
+      "gramas": 30,
+      "kcal": 0,
+      "carboidratos_g": 0,
+      "fonte": "Regra do app Água",
+      "por_100g": {
+        "kcal": 0,
+        "carboidratos_g": 0
       }
     },
     {
@@ -116,11 +128,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 2071.2,
-    "carboidratos_g": 208.2
+    "kcal": 1987.2,
+    "carboidratos_g": 193.1
   },
   "por_porcao": {
-    "kcal": 259,
-    "carboidratos_g": 26
+    "kcal": 248,
+    "carboidratos_g": 24.1
   }
 }

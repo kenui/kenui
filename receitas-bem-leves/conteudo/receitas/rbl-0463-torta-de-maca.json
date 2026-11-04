@@ -2,7 +2,7 @@
   "id": "rbl-0463",
   "slug": "torta-de-maca",
   "nome": "Torta de maçã",
-  "descricao": "Torta de massa amanteigada com recheio de maçã e canela, coberta com tirinhas de massa.",
+  "descricao": "Torta de massa amanteigada integral com recheio de maçã e canela, coberta com tirinhas de massa.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -27,10 +27,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -66,6 +66,13 @@
       "quantidade": 1,
       "medida": "pitada",
       "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "1 a 2 colheres (sopa) de água gelada"
     },
     {
       "grupo": "Recheio",
@@ -109,10 +116,10 @@
   ],
   "preparo": [
     {
-      "texto": "Misture a farinha, a aveia, o eritritol e o sal. Junte a manteiga gelada em pedaços e esfarele com a ponta dos dedos."
+      "texto": "Misture a farinha integral, a aveia, o eritritol e o sal. Junte a manteiga gelada em pedaços e esfarele com a ponta dos dedos."
     },
     {
-      "texto": "Junte o ovo e amasse só até a massa ficar lisa. Embrulhe em filme e leve à geladeira por 30 minutos.",
+      "texto": "Junte o ovo e amasse só até a massa ficar lisa. Se esfarelar, junte a água gelada aos poucos. Embrulhe em filme e leve à geladeira por 30 minutos.",
       "temporizador_min": 30
     },
     {
@@ -122,10 +129,10 @@
       "texto": "Preaqueça o forno a 180 °C."
     },
     {
-      "texto": "Abra 2/3 da massa e forre o fundo e a lateral de uma forma de 22 cm com fundo removível. Coloque o recheio."
+      "texto": "Abra 2/3 da massa entre dois plásticos e forre o fundo e a lateral de uma forma de 22 cm com fundo removível. Coloque o recheio."
     },
     {
-      "texto": "Abra o restante da massa, corte em tiras e cruze por cima do recheio."
+      "texto": "Abra o restante da massa entre os plásticos, corte em tiras e cruze por cima do recheio. Se as tiras quebrarem, emende com os dedos."
     },
     {
       "texto": "Asse por 40 a 45 minutos, até a massa dourar e o recheio borbulhar.",
@@ -144,7 +151,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+      "texto": "Troque a aveia por mais 1/2 xícara (chá) de farinha de trigo integral."
     },
     {
       "tipo": "substituicao",
@@ -161,8 +168,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 201,
-      "carboidratos_g": 27.1
+      "kcal": 195,
+      "carboidratos_g": 25.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -195,6 +202,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água gelada para dar liga à massa."
   }
 }

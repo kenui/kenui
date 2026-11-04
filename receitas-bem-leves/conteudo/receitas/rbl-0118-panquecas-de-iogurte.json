@@ -13,9 +13,9 @@
     "lanche"
   ],
   "tempo": {
-    "preparo_min": 10,
+    "preparo_min": 15,
     "cozimento_min": 16,
-    "total_min": 26
+    "total_min": 31
   },
   "rendimento": {
     "quantidade": 8,
@@ -28,10 +28,16 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -75,9 +81,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 4,
+      "quantidade": 6,
       "medida": "colher_sopa",
-      "texto": "4 colheres (sopa) de leite"
+      "texto": "6 colheres (sopa) de leite"
     },
     {
       "grupo": "Massa",
@@ -103,13 +109,14 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+      "texto": "Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o eritritol, o fermento e o sal."
     },
     {
       "texto": "Em outra tigela, bata o iogurte, o ovo, o leite e a manteiga com um garfo."
     },
     {
-      "texto": "Junte os líquidos aos secos e mexa só até sumir a farinha seca. A massa fica grossa e com alguns carocinhos."
+      "texto": "Junte os líquidos aos secos e mexa só até sumir a farinha seca. Deixe descansar 5 minutos: a massa fica grossa e com alguns carocinhos.",
+      "temporizador_min": 5
     },
     {
       "texto": "Aqueça uma frigideira antiaderente em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca, espalhando num círculo de 10 cm."
@@ -126,7 +133,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Use farinha de trigo integral no lugar de metade da farinha branca."
+      "texto": "Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia e ponha mais 2 colheres (sopa) de leite."
     },
     {
       "tipo": "substituicao",
@@ -139,8 +146,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 216,
-      "carboidratos_g": 33
+      "kcal": 199,
+      "carboidratos_g": 27.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -173,6 +180,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia; leite ajustado."
   }
 }

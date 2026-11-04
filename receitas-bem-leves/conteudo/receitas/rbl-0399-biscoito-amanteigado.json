@@ -2,7 +2,7 @@
   "id": "rbl-0399",
   "slug": "biscoito-amanteigado",
   "nome": "Biscoito amanteigado",
-  "descricao": "Biscoitinhos amanteigados que derretem na boca, para o café ou para dar de presente.",
+  "descricao": "Biscoitinhos amanteigados de farinha integral, quebradiços e macios, para o café ou para dar de presente.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -54,10 +54,10 @@
       "texto": "1 colher (chá) de essência de baunilha"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral fina, aproximadamente"
     }
   ],
   "preparo": [
@@ -68,7 +68,7 @@
       "texto": "Junte o ovo e a baunilha e misture bem."
     },
     {
-      "texto": "Acrescente a farinha aos poucos, misturando com as mãos, até a massa desgrudar das mãos."
+      "texto": "Acrescente a farinha integral aos poucos, misturando com as mãos, até a massa desgrudar das mãos. Pode não precisar de toda a farinha."
     },
     {
       "texto": "Embrulhe em filme e leve à geladeira por 30 minutos.",
@@ -97,11 +97,15 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque 1/2 xícara da farinha por amido de milho para biscoitos ainda mais macios."
+      "texto": "Troque 1/2 xícara da farinha integral por amido de milho para biscoitos mais macios."
     },
     {
       "tipo": "dica",
       "texto": "O eritritol em pó deixa o biscoito liso; em cristais, ele fica arenoso."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A farinha integral deixa o biscoito mais arenoso e com sabor tostado. Use a mais fina que encontrar."
     },
     {
       "tipo": "conservacao",
@@ -110,8 +114,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 207,
-      "carboidratos_g": 18.9
+      "kcal": 199,
+      "carboidratos_g": 17.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -141,6 +145,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral fina; ponto da massa ajustado."
   }
 }

@@ -60,10 +60,10 @@
       "texto": "1 colher (chá) de essência de baunilha"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "sal",
@@ -94,7 +94,7 @@
       "texto": "Junte a mistura de cacau e mexa bem."
     },
     {
-      "texto": "Acrescente a farinha e o sal e mexa só até sumir a farinha. Misture as nozes."
+      "texto": "Acrescente a farinha integral e o sal e mexa só até sumir a farinha. Misture as nozes."
     },
     {
       "texto": "Espalhe na forma e asse por 20 a 25 minutos, até a casquinha firmar e o centro ainda estar úmido.",
@@ -117,7 +117,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por farinha de amêndoas na mesma medida."
+      "texto": "Troque a farinha integral por farinha de amêndoas na mesma medida."
     },
     {
       "tipo": "dica",
@@ -130,8 +130,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 102,
-      "carboidratos_g": 5.4
+      "kcal": 101,
+      "carboidratos_g": 5.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -163,6 +163,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

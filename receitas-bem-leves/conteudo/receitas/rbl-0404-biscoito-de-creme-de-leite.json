@@ -48,10 +48,10 @@
       "texto": "1 ovo"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2.5,
       "medida": "xicara",
-      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo, aproximadamente"
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo integral, aproximadamente"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -68,7 +68,7 @@
       "texto": "Numa tigela, misture o creme de leite, o eritritol e o ovo."
     },
     {
-      "texto": "Junte a farinha aos poucos e o fermento, amassando até a massa desgrudar das mãos. Pode não precisar de toda a farinha."
+      "texto": "Junte a farinha integral aos poucos e o fermento, amassando até a massa desgrudar das mãos. Pode não precisar de toda a farinha."
     },
     {
       "texto": "Faça rolinhos, corte em pedaços de 4 cm ou modele em formato de S, e arrume na assadeira."
@@ -94,7 +94,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "A massa deve ficar macia: farinha demais deixa o biscoito duro."
+      "texto": "A massa deve ficar macia: farinha demais deixa o biscoito duro. A integral absorve mais, então vá devagar no fim."
     },
     {
       "tipo": "conservacao",
@@ -103,8 +103,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 164,
-      "carboidratos_g": 24.7
+      "kcal": 154,
+      "carboidratos_g": 22.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -134,6 +134,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; ponto da massa ajustado."
   }
 }

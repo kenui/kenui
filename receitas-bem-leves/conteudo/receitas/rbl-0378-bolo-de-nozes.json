@@ -80,7 +80,7 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
     },
     {
       "texto": "Com um batedor, misture bem os ovos, o óleo, o leite e o eritritol."
@@ -108,7 +108,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por farinha de trigo branca na mesma medida."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida no liquidificador: o bolo fica mais leve."
     },
     {
       "tipo": "conservacao",
@@ -150,6 +150,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica com farinha de trigo branca trocada por aveia; massa já era integral."
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0046",
   "slug": "pao-de-cenoura-de-liquidificador",
   "nome": "Pão de cenoura de liquidificador",
-  "descricao": "Pão de forma alaranjado e fofinho, com a cenoura batida no liquidificador junto com os líquidos.",
+  "descricao": "Pão de forma alaranjado e macio de farinha integral, com a cenoura batida no liquidificador junto com os líquidos.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 25,
     "cozimento_min": 40,
-    "descanso_min": 100,
-    "total_min": 165
+    "descanso_min": 125,
+    "total_min": 190
   },
   "rendimento": {
     "quantidade": 1,
@@ -34,9 +34,9 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 0.5,
+      "quantidade": 0.67,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de água morna"
+      "texto": "2/3 de xícara (chá) de água morna"
     },
     {
       "ingrediente": "oleo",
@@ -57,10 +57,10 @@
       "texto": "1 colher (chá) de sal"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 4,
       "medida": "xicara",
-      "texto": "4 xícaras (chá) de farinha de trigo"
+      "texto": "4 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -74,22 +74,22 @@
       "texto": "Descasque e pique a cenoura. Bata no liquidificador com a água, o óleo, o ovo e o sal até ficar um creme liso."
     },
     {
-      "texto": "Numa tigela, misture a farinha e o fermento."
+      "texto": "Numa tigela, misture a farinha integral e o fermento."
     },
     {
       "texto": "Despeje o creme de cenoura e misture até formar uma massa."
     },
     {
-      "texto": "Sove por 10 minutos numa bancada enfarinhada, até ficar lisa e elástica.",
+      "texto": "Sove por 10 minutos, até ficar mais lisa e elástica. Se grudar, unte as mãos com óleo em vez de pôr mais farinha.",
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Enrole a massa como um rocambole e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.",
-      "temporizador_min": 40
+      "texto": "Enrole a massa como um rocambole e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 50 minutos.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -114,7 +114,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 1 xícara de farinha de trigo integral no lugar de 1 xícara da comum."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida: o miolo fica mais macio."
     },
     {
       "tipo": "conservacao",
@@ -123,8 +123,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 203,
-      "carboidratos_g": 32.8
+      "kcal": 189,
+      "carboidratos_g": 30.3
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -156,6 +156,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água e tempo de crescimento ajustados."
   }
 }

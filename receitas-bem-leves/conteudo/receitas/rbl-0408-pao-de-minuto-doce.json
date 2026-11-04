@@ -26,10 +26,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "eritritol",
@@ -61,9 +61,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
+      "quantidade": 0.66,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite"
+      "texto": "2/3 de xícara (chá) de leite"
     },
     {
       "ingrediente": "baunilha",
@@ -83,7 +83,7 @@
       "texto": "Preaqueça o forno a 200 °C e unte uma assadeira."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o eritritol, o fermento e o sal."
     },
     {
       "texto": "Junte o ovo, o leite, a baunilha e a manteiga e mexa com uma colher até formar uma massa grudenta, sem sovar."
@@ -121,8 +121,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 138,
-      "carboidratos_g": 20.1
+      "kcal": 132,
+      "carboidratos_g": 18.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -152,6 +152,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

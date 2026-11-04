@@ -2,7 +2,7 @@
   "id": "rbl-0412",
   "slug": "bolo-de-goiaba",
   "nome": "Bolo de goiaba",
-  "descricao": "Bolo de massa clara com pedaços de goiaba vermelha fresca, cor de rosa por dentro.",
+  "descricao": "Bolo de aveia e farinha integral com pedaços de goiaba vermelha fresca, cor de rosa por dentro.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -44,9 +44,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite"
+      "texto": "1 xícara (chá) de leite"
     },
     {
       "ingrediente": "eritritol",
@@ -59,10 +59,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
+      "medida": "xicara",
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -73,20 +79,23 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
     },
     {
       "texto": "Lave as goiabas, corte ao meio e tire as sementes com uma colher. Pique a polpa em cubinhos."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador até virar farinha."
     },
     {
       "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
       "temporizador_min": 2
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento."
+      "texto": "Passe para uma tigela, junte a aveia batida e a farinha integral e mexa até ficar liso. Misture o fermento."
     },
     {
-      "texto": "Passe a goiaba picada em 1 colher (sopa) de farinha e misture à massa com delicadeza."
+      "texto": "Passe a goiaba picada em 1 colher (sopa) de farinha integral e misture à massa com delicadeza."
     },
     {
       "texto": "Despeje na forma e asse por 40 a 45 minutos, até um palito sair limpo.",
@@ -118,8 +127,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 197,
-      "carboidratos_g": 20.3
+      "kcal": 199,
+      "carboidratos_g": 18.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -148,6 +157,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade aveia em flocos batida e metade farinha de trigo integral; líquido ajustado."
   }
 }

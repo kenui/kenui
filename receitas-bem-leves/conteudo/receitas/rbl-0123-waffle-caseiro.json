@@ -13,9 +13,9 @@
     "lanche"
   ],
   "tempo": {
-    "preparo_min": 10,
+    "preparo_min": 15,
     "cozimento_min": 20,
-    "total_min": 30
+    "total_min": 35
   },
   "rendimento": {
     "quantidade": 4,
@@ -28,10 +28,16 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -68,9 +74,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
-      "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite"
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "3/4 de xícara (chá) mais 1 colher (sopa) de leite (200 ml)"
     },
     {
       "grupo": "Massa",
@@ -99,13 +105,14 @@
       "texto": "Ligue a máquina de waffle para esquentar."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o eritritol, o fermento e o sal."
+      "texto": "Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o eritritol, o fermento e o sal."
     },
     {
       "texto": "Em outra tigela, bata o ovo, o leite, a manteiga e a baunilha."
     },
     {
-      "texto": "Junte os líquidos aos secos e mexa só até não ter farinha seca."
+      "texto": "Junte os líquidos aos secos e mexa só até não ter farinha seca. Deixe descansar 5 minutos.",
+      "temporizador_min": 5
     },
     {
       "texto": "Pincele a máquina com um pouco de manteiga, despeje cerca de 1/2 xícara de massa e feche."
@@ -123,7 +130,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha por aveia em flocos finos."
+      "texto": "Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia: o waffle fica mais firme e escurinho."
     },
     {
       "tipo": "substituicao",
@@ -136,8 +143,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 223,
-      "carboidratos_g": 28.9
+      "kcal": 205,
+      "carboidratos_g": 23.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -169,6 +176,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia; leite ajustado."
   }
 }

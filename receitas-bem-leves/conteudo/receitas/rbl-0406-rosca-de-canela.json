@@ -2,7 +2,7 @@
   "id": "rbl-0406",
   "slug": "rosca-de-canela",
   "nome": "Rosca de canela",
-  "descricao": "Caracóis de massa fofa recheados com manteiga e canela, assados juntinhos numa forma redonda.",
+  "descricao": "Caracóis de massa integral fofa recheados com manteiga e canela, assados juntinhos numa forma redonda.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 45,
     "cozimento_min": 28,
-    "descanso_min": 100,
-    "total_min": 175
+    "descanso_min": 130,
+    "total_min": 205
   },
   "rendimento": {
     "quantidade": 12,
@@ -28,10 +28,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -43,9 +43,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
+      "quantidade": 0.875,
       "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite morno"
+      "texto": "3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno"
     },
     {
       "grupo": "Massa",
@@ -103,10 +103,10 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela grande, misture a farinha, o fermento e o eritritol."
+      "texto": "Numa tigela grande, misture a farinha integral, o fermento e o eritritol."
     },
     {
-      "texto": "Junte o leite morno, o ovo e a manteiga e misture até a massa juntar.",
+      "texto": "Junte o leite morno, o ovo e a manteiga e misture até a massa juntar. Ela fica um pouco úmida: é assim mesmo.",
       "aviso": "O leite deve estar morno, não quente, para não matar o fermento."
     },
     {
@@ -114,21 +114,21 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por cerca de 1 hora, até dobrar.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar.",
+      "temporizador_min": 80
     },
     {
       "texto": "Recheio: misture a manteiga mole, o eritritol e a canela até virar uma pasta."
     },
     {
-      "texto": "Abra a massa num retângulo de 30 x 40 cm, espalhe o recheio e enrole pelo lado mais comprido."
+      "texto": "Abra a massa sobre a bancada polvilhada com farinha integral num retângulo de 30 x 40 cm, espalhe o recheio e enrole pelo lado mais comprido."
     },
     {
       "texto": "Corte em 12 fatias e arrume, com o corte para cima, numa forma redonda de 26 cm untada."
     },
     {
-      "texto": "Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.",
+      "temporizador_min": 50
     },
     {
       "texto": "Asse por 25 a 28 minutos, até dourar.",
@@ -154,14 +154,18 @@
       "texto": "Corte os caracóis com uma linha de costura: eles não amassam."
     },
     {
+      "tipo": "dica",
+      "texto": "A massa integral cresce mais devagar e fica um pouco mais densa. Em dia frio, deixe crescer dentro do forno desligado com a luz acesa."
+    },
+    {
       "tipo": "conservacao",
       "texto": "Guarde coberto por 2 dias. Aqueça 15 segundos no micro-ondas antes de comer."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 184,
-      "carboidratos_g": 25.1
+      "kcal": 175,
+      "carboidratos_g": 23.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -193,6 +197,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido aumentado e tempo de crescimento maior."
   }
 }

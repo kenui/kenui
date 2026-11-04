@@ -39,15 +39,15 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite"
+      "quantidade": 135,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de leite (135 ml)"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "sal",
@@ -85,7 +85,7 @@
       "texto": "Bata no liquidificador o milho, o ovo e o leite por 1 minuto."
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha e o sal e mexa até ficar liso. Misture o fermento, o queijo e a salsinha."
+      "texto": "Passe para uma tigela, junte a farinha integral e o sal e mexa até ficar liso. Deixe descansar 3 minutos e misture o fermento, o queijo e a salsinha."
     },
     {
       "texto": "Unte uma frigideira antiaderente com um pouco do óleo e aqueça em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca."
@@ -111,12 +111,16 @@
     {
       "tipo": "conservacao",
       "texto": "Guarde na geladeira por até 2 dias e aqueça na frigideira."
+    },
+    {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 1/2 xícara de aveia em flocos batida."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 300,
-      "carboidratos_g": 35.1
+      "kcal": 295,
+      "carboidratos_g": 33.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -150,6 +154,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite ajustado."
   }
 }

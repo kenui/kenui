@@ -2,7 +2,7 @@
   "id": "rbl-0162",
   "slug": "wrap-de-frango-com-massa-integral-caseira",
   "nome": "Wrap de frango com massa integral caseira",
-  "descricao": "Discos finos de massa integral feitos na frigideira e enrolados com frango, cenoura, alface e tomate.",
+  "descricao": "Discos finos de massa 100% integral feitos na frigideira e enrolados com frango, cenoura, alface e tomate.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -12,8 +12,8 @@
   "tempo": {
     "preparo_min": 20,
     "cozimento_min": 10,
-    "descanso_min": 15,
-    "total_min": 45
+    "descanso_min": 20,
+    "total_min": 50
   },
   "rendimento": {
     "quantidade": 4,
@@ -27,16 +27,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 1,
+      "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo integral"
-    },
-    {
-      "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -55,9 +48,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "agua",
-      "quantidade": 0.5,
+      "quantidade": 0.56,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de água morna"
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de água morna"
     },
     {
       "grupo": "Recheio",
@@ -104,14 +97,14 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture as farinhas e o sal. Junte o azeite e a água aos poucos e amasse por 3 minutos, até a massa ficar lisa."
+      "texto": "Numa tigela, misture a farinha integral e o sal. Junte o azeite e a água aos poucos e amasse por 3 minutos, até a massa ficar lisa."
     },
     {
-      "texto": "Cubra com um pano e deixe descansar por 15 minutos.",
-      "temporizador_min": 15
+      "texto": "Cubra com um pano e deixe descansar por 20 minutos: a farinha integral precisa desse tempo para ficar elástica.",
+      "temporizador_min": 20
     },
     {
-      "texto": "Divida em 4 bolinhas e abra cada uma com um rolo, bem fina, num disco de 22 cm."
+      "texto": "Divida em 4 bolinhas e abra cada uma com um rolo, bem fina, num disco de 22 cm. Polvilhe a bancada com farinha integral para não grudar."
     },
     {
       "texto": "Aqueça uma frigideira grande sem óleo em fogo médio e doure cada disco por 1 minuto de cada lado, até aparecerem pintinhas douradas.",
@@ -131,8 +124,8 @@
       "texto": "Troque o frango por atum, ovo mexido ou carne moída refogada."
     },
     {
-      "tipo": "substituicao",
-      "texto": "Use só farinha de trigo comum, se preferir uma massa mais clara."
+      "tipo": "dica",
+      "texto": "A massa integral rasga mais fácil que a comum: se rasgar, junte as bordas, faça a bolinha de novo e espere 5 minutos antes de abrir."
     },
     {
       "tipo": "conservacao",
@@ -141,8 +134,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 382,
-      "carboidratos_g": 36.1
+      "kcal": 376,
+      "carboidratos_g": 35.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -177,6 +170,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e descanso ajustados."
   }
 }

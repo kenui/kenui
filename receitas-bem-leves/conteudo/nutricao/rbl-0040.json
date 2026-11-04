@@ -6,15 +6,15 @@
   "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
   "linhas": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "3 xícaras (chá) de farinha de trigo",
-      "gramas": 375,
-      "kcal": 1350,
-      "carboidratos_g": 281.62,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "3 xícaras (chá) de farinha de trigo integral",
+      "gramas": 360,
+      "kcal": 1224,
+      "carboidratos_g": 259.09,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -43,10 +43,10 @@
     },
     {
       "ingrediente": "leite-integral",
-      "texto": "3/4 de xícara (chá) de leite morno",
-      "gramas": 183,
-      "kcal": 111.6,
-      "carboidratos_g": 8.78,
+      "texto": "3/4 de xícara (chá) mais 1 colher (sopa) de leite morno (200 ml)",
+      "gramas": 206,
+      "kcal": 125.7,
+      "carboidratos_g": 9.89,
       "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
       "por_100g": {
         "kcal": 61,
@@ -104,11 +104,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 1930.1,
-    "carboidratos_g": 297.2
+    "kcal": 1818.1,
+    "carboidratos_g": 275.8
   },
   "por_porcao": {
-    "kcal": 241,
-    "carboidratos_g": 37.2
+    "kcal": 227,
+    "carboidratos_g": 34.5
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0163",
   "slug": "pastel-de-forno-de-queijo-e-tomate",
   "nome": "Pastel de forno de queijo e tomate",
-  "descricao": "Pastéis assados de massa de iogurte, macia e dourada, recheados com mussarela, tomate e orégano.",
+  "descricao": "Pastéis assados de massa integral com iogurte, macia e dourada, recheados com mussarela, tomate e orégano.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -11,7 +11,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 25,
-    "total_min": 65
+    "total_min": 75,
+    "descanso_min": 10
   },
   "rendimento": {
     "quantidade": 16,
@@ -24,10 +25,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -56,6 +57,13 @@
       "quantidade": 1,
       "medida": "colher_cha",
       "texto": "1 colher (chá) de fermento químico em pó"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água"
     },
     {
       "grupo": "Recheio",
@@ -88,7 +96,7 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o sal e o fermento. Junte o iogurte e a manteiga e amasse até a massa ficar lisa e soltar das mãos."
+      "texto": "Numa tigela, misture a farinha integral, o sal e o fermento. Junte o iogurte, a manteiga e a água e amasse até a massa ficar lisa e soltar das mãos. Cubra e deixe descansar 10 minutos."
     },
     {
       "texto": "Misture a mussarela, o tomate e o orégano numa tigela."
@@ -97,7 +105,7 @@
       "texto": "Preaqueça o forno a 200 °C e forre 2 assadeiras com papel-manteiga."
     },
     {
-      "texto": "Abra a massa com um rolo em superfície enfarinhada até ficar com 3 mm e corte discos de 10 cm com um pires."
+      "texto": "Abra a massa com um rolo em superfície polvilhada com farinha integral até ficar com 3 a 4 mm e corte discos de 10 cm com um pires."
     },
     {
       "texto": "Coloque 1 colher (sopa) de recheio em cada disco, dobre ao meio e aperte as bordas com um garfo."
@@ -119,7 +127,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida: a massa fica mais leve, mas abra com mais cuidado."
     },
     {
       "tipo": "conservacao",
@@ -128,8 +136,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 259,
-      "carboidratos_g": 26
+      "kcal": 248,
+      "carboidratos_g": 24.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -142,7 +150,7 @@
   },
   "ilustracao": {
     "prato_base": "bolinhos_salgados",
-    "massa": null,
+    "massa": "integral",
     "cobertura": null,
     "recheio": "queijo e tomate",
     "enfeites": [
@@ -158,11 +166,12 @@
     "termos_extras": [
       "pastel assado",
       "pastel de forno",
+      "pastel integral",
       "pastelzinho de queijo"
     ]
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e descanso ajustados."
   }
 }

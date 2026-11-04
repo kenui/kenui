@@ -5,7 +5,7 @@ import { carregarIngredientes, carregarProibidos, carregarReceitas, faixaDosArgu
 import { validarCadastro, validarColecao } from './lib/validacao.mjs';
 
 const args = process.argv.slice(2);
-const pasta = args.find((a, i) => !a.startsWith('--') && !['--de', '--ate'].includes(args[i - 1])) ?? PASTA_RECEITAS;
+const pasta = args.find((a, i) => !a.startsWith('--') && !['--de', '--ate', '--ids'].includes(args[i - 1])) ?? PASTA_RECEITAS;
 const naFaixa = faixaDosArgumentos(args);
 const comoJson = args.includes('--json');
 

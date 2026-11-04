@@ -34,10 +34,10 @@
     },
     {
       "grupo": "Farofa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Farofa",
@@ -91,7 +91,7 @@
       "texto": "Preaqueça o forno a 180 °C. Unte uma forma de 22 cm com manteiga."
     },
     {
-      "texto": "Misture a aveia, a farinha, o eritritol e a canela. Junte a manteiga em pedaços e esfarele com os dedos até virar uma farofa grossa."
+      "texto": "Misture a aveia, a farinha integral, o eritritol e a canela. Junte a manteiga em pedaços e esfarele com os dedos até virar uma farofa grossa."
     },
     {
       "texto": "Misture as rodelas de banana com o suco de limão e a canela."
@@ -116,7 +116,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por mais 1/2 xícara de aveia."
+      "texto": "Troque a farinha integral por mais 1/2 xícara (chá) de aveia."
     },
     {
       "tipo": "substituicao",
@@ -133,8 +133,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 200,
-      "carboidratos_g": 30.4
+      "kcal": 198,
+      "carboidratos_g": 30
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -168,6 +168,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

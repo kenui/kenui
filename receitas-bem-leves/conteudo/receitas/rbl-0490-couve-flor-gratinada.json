@@ -37,10 +37,10 @@
     },
     {
       "grupo": "Molho branco",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
     },
     {
       "grupo": "Molho branco",
@@ -88,8 +88,8 @@
       "texto": "Preaqueça o forno a 200 °C."
     },
     {
-      "texto": "Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto.",
-      "temporizador_min": 1
+      "texto": "Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 2 minutos.",
+      "temporizador_min": 2
     },
     {
       "texto": "Acrescente o leite frio aos poucos, mexendo sem parar com um batedor, e cozinhe por 5 a 6 minutos, até engrossar. Tempere com o sal e a noz-moscada.",
@@ -115,11 +115,15 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem farinha de trigo? Engrosse o molho com 2 colheres (sopa) de amido de milho dissolvidas no leite frio."
+      "texto": "Sem farinha integral? Engrosse o molho com 1 colher (sopa) de amido de milho dissolvida no leite frio."
     },
     {
       "tipo": "dica",
       "texto": "Escorra muito bem a couve-flor: se ficar com água, o molho fica ralo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Com farinha integral o molho fica bege e com pontinhos escuros: o sabor é o mesmo."
     },
     {
       "tipo": "conservacao",
@@ -128,8 +132,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 179,
-      "carboidratos_g": 11
+      "kcal": 178,
+      "carboidratos_g": 10.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -162,6 +166,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral no molho branco."
   }
 }

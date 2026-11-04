@@ -2,7 +2,7 @@
   "id": "rbl-0367",
   "slug": "bolo-de-abobora",
   "nome": "Bolo de abóbora",
-  "descricao": "Bolo fofo e alaranjado de abóbora cabotiá com canela, bom para o café da tarde.",
+  "descricao": "Bolo fofo e alaranjado de abóbora cabotiá com farinha integral e canela, bom para o café da tarde.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -13,8 +13,8 @@
   ],
   "tempo": {
     "preparo_min": 25,
-    "cozimento_min": 40,
-    "total_min": 75
+    "cozimento_min": 45,
+    "total_min": 80
   },
   "rendimento": {
     "quantidade": 12,
@@ -54,10 +54,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de leite"
     },
     {
       "ingrediente": "canela",
@@ -78,24 +84,24 @@
       "temporizador_min": 12
     },
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
     },
     {
-      "texto": "No liquidificador, bata a abóbora, os ovos, o óleo e o eritritol por 3 minutos.",
+      "texto": "No liquidificador, bata a abóbora, os ovos, o óleo, o leite e o eritritol por 3 minutos.",
       "aviso": "Espere a abóbora amornar antes de bater.",
       "temporizador_min": 3
     },
     {
-      "texto": "Numa tigela, misture a farinha e a canela. Junte o creme de abóbora e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Numa tigela, misture a farinha integral e a canela. Junte o creme de abóbora e mexa até ficar liso. Misture o fermento por último."
     },
     {
-      "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
-      "temporizador_min": 40
+      "texto": "Despeje na forma e asse por 40 a 45 minutos, até um palito sair limpo.",
+      "temporizador_min": 45
     }
   ],
   "forno": {
     "temperatura_c": 180,
-    "tempo_min": 40,
+    "tempo_min": 45,
     "preaquecer": true
   },
   "dicas": [
@@ -108,6 +114,10 @@
       "texto": "Troque o eritritol por xilitol na mesma medida."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque 1 xícara da farinha integral por 1 xícara de aveia em flocos batida e tire o leite: o bolo fica mais leve."
+    },
+    {
       "tipo": "dica",
       "texto": "Escorra bem a abóbora: água demais deixa o bolo pesado."
     },
@@ -118,8 +128,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 184,
-      "carboidratos_g": 18.6
+      "kcal": 180,
+      "carboidratos_g": 17.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -151,6 +161,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e tempo de forno ajustados."
   }
 }

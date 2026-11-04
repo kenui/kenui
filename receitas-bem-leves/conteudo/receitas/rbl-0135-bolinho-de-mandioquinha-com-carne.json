@@ -150,7 +150,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem polvilho? Use 3 colheres (sopa) de farinha de trigo."
+      "texto": "Sem polvilho? Use 3 colheres (sopa) de farinha de trigo integral ou de aveia batida."
     },
     {
       "tipo": "conservacao",
@@ -194,6 +194,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica de troca do polvilho atualizada para farinha de trigo integral."
   }
 }

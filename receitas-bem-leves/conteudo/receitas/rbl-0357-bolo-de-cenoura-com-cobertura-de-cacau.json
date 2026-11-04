@@ -2,7 +2,7 @@
   "id": "rbl-0357",
   "slug": "bolo-de-cenoura-com-cobertura-de-cacau",
   "nome": "Bolo de cenoura com cobertura de cacau",
-  "descricao": "O clássico bolo de cenoura de liquidificador, alaranjado e fofo, com cobertura brilhante de cacau.",
+  "descricao": "O clássico bolo de cenoura de liquidificador, com farinha integral e aveia, fofo e com cobertura brilhante de cacau.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -59,10 +59,17 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -109,14 +116,17 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha integral."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
     },
     {
       "texto": "No liquidificador, bata a cenoura, os ovos, o óleo e o eritritol por 3 minutos, até virar um creme bem liso.",
       "temporizador_min": 3
     },
     {
-      "texto": "Passe para uma tigela e junte a farinha e o sal aos poucos, mexendo com um batedor até não ter grumos."
+      "texto": "Passe para uma tigela e junte a farinha integral, a aveia batida e o sal aos poucos, mexendo com um batedor até não ter grumos."
     },
     {
       "texto": "Por último, misture o fermento com delicadeza e despeje na forma."
@@ -145,7 +155,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Pode usar 1 xícara de farinha de trigo integral no lugar de 1 xícara da farinha branca."
+      "texto": "Pode usar 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia: o bolo fica mais denso."
     },
     {
       "tipo": "dica",
@@ -158,8 +168,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 205,
-      "carboidratos_g": 19.7
+      "kcal": 191,
+      "carboidratos_g": 15.7
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -191,6 +201,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

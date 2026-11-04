@@ -79,14 +79,14 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
     },
     {
       "texto": "Bata as tâmaras com a água, os ovos, o óleo e a baunilha no liquidificador até ficar um creme liso.",
       "temporizador_min": 2
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Passe para uma tigela, junte a farinha integral e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
@@ -105,7 +105,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por farinha de trigo branca."
+      "texto": "Troque metade da farinha integral por 3/4 de xícara (chá) de aveia em flocos batida no liquidificador: o bolo fica mais leve."
     },
     {
       "tipo": "dica",
@@ -149,6 +149,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Já usava farinha de trigo integral; dica de farinha branca trocada por aveia."
   }
 }

@@ -148,7 +148,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem aveia? Use 1/2 xícara de farinha de rosca ou 3 colheres (sopa) de farinha de trigo."
+      "texto": "Sem aveia? Use 1/2 xícara (chá) de farelo de aveia ou 4 colheres (sopa) de farinha de trigo integral."
     },
     {
       "tipo": "dica",
@@ -196,6 +196,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Já usava aveia; dica de farinha de trigo e farinha de rosca trocada por farelo de aveia ou farinha integral."
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0403",
   "slug": "rosquinhas-de-laranja",
   "nome": "Rosquinhas de laranja",
-  "descricao": "Rosquinhas assadas de massa amanteigada com suco e raspas de laranja.",
+  "descricao": "Rosquinhas assadas de massa amanteigada integral, com suco e raspas de laranja.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -26,10 +26,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "amido-de-milho",
@@ -61,9 +61,9 @@
     },
     {
       "ingrediente": "suco-de-laranja",
-      "quantidade": 4,
+      "quantidade": 5,
       "medida": "colher_sopa",
-      "texto": "4 colheres (sopa) de suco de laranja"
+      "texto": "5 colheres (sopa) de suco de laranja"
     },
     {
       "ingrediente": "raspas-de-laranja",
@@ -86,7 +86,7 @@
       "texto": "Misture a manteiga com o eritritol. Junte o ovo, o suco e as raspas de laranja."
     },
     {
-      "texto": "Acrescente a farinha, o amido e o fermento aos poucos e amasse até a massa ficar lisa e desgrudar das mãos."
+      "texto": "Acrescente a farinha integral, o amido e o fermento aos poucos e amasse até a massa ficar lisa e desgrudar das mãos."
     },
     {
       "texto": "Faça rolinhos de 10 cm, da grossura de um dedo, e una as pontas formando rosquinhas."
@@ -117,8 +117,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 165,
-      "carboidratos_g": 25.7
+      "kcal": 157,
+      "carboidratos_g": 24.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -150,6 +150,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

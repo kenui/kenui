@@ -2,7 +2,7 @@
   "id": "rbl-0161",
   "slug": "sanduiche-de-pao-de-minuto-com-queijo-branco",
   "nome": "Sanduíche de pão de minuto com queijo branco",
-  "descricao": "Pãezinhos caseiros de minuto, sem fermentar, recheados com queijo minas, tomate, alface e orégano.",
+  "descricao": "Pãezinhos integrais de minuto, sem fermentar, recheados com queijo minas, tomate, alface e orégano.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -25,10 +25,10 @@
   "ingredientes": [
     {
       "grupo": "Pão",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Pão",
@@ -61,9 +61,9 @@
     {
       "grupo": "Pão",
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
+      "quantidade": 0.56,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite"
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de leite"
     },
     {
       "grupo": "Recheio",
@@ -106,16 +106,16 @@
       "texto": "Preaqueça o forno a 180 °C e unte uma assadeira com manteiga."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o fermento e o sal. Junte a manteiga e esfarele com as pontas dos dedos."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal. Junte a manteiga e esfarele com as pontas dos dedos."
     },
     {
-      "texto": "Acrescente o ovo e o leite e misture até formar uma massa macia que solta das mãos. Se grudar, junte 1 colher (sopa) de farinha."
+      "texto": "Acrescente o ovo e o leite e misture até formar uma massa macia, um pouco úmida. Se grudar muito, junte 1 colher (sopa) de farinha integral."
     },
     {
       "texto": "Divida em 8 bolinhas, achate de leve e arrume na assadeira com espaço entre elas."
     },
     {
-      "texto": "Asse por 20 a 25 minutos, até dourar por cima.",
+      "texto": "Asse por 20 a 25 minutos, até dourar por cima e soar oco ao bater embaixo.",
       "temporizador_min": 25
     },
     {
@@ -130,7 +130,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca na massa."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida: o pão fica mais macio."
     },
     {
       "tipo": "substituicao",
@@ -143,8 +143,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 260,
-      "carboidratos_g": 27.3
+      "kcal": 250,
+      "carboidratos_g": 25.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -157,7 +157,7 @@
   },
   "ilustracao": {
     "prato_base": "sanduiche",
-    "massa": null,
+    "massa": "integral",
     "cobertura": null,
     "recheio": "queijo e tomate",
     "enfeites": [
@@ -172,12 +172,13 @@
   "busca": {
     "termos_extras": [
       "pao de minuto",
+      "pao de minuto integral",
       "sanduiche de queijo branco",
       "pao caseiro rapido"
     ]
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

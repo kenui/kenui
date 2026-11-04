@@ -1,0 +1,553 @@
+{
+  "produto": "cardapio12",
+  "slug": "cardapio-12-semanas",
+  "titulo": "Cardápio de 12 Semanas",
+  "resumo": "Três meses de café da manhã, lanche, almoço e jantar já decididos, com a lista de compras de cada semana.",
+  "blocos": [
+    {
+      "t": "p",
+      "texto": "São 12 semanas de cardápio com as receitas do app, sem repetir prato na mesma semana. Escolha a semana, veja o que fazer em cada dia e gere a lista de compras com um toque."
+    },
+    {
+      "t": "lista",
+      "itens": [
+        "Comece pela semana 1 ou pela que tiver mais pratos que você gosta.",
+        "Os pratos de almoço que sobram podem virar o jantar do dia seguinte: anote no próprio cardápio.",
+        "Quer trocar uma refeição? Use o Plano do app: lá cada refeição tem o botão Trocar."
+      ]
+    },
+    {
+      "t": "plano_semanas",
+      "semanas": [
+        [
+          {
+            "cafe_da_manha": "rbl-0390",
+            "lanche": "rbl-0010",
+            "almoco": "rbl-0244",
+            "jantar": "rbl-0267"
+          },
+          {
+            "cafe_da_manha": "rbl-0044",
+            "lanche": "rbl-0017",
+            "almoco": "rbl-0309",
+            "jantar": "rbl-0283"
+          },
+          {
+            "cafe_da_manha": "rbl-0006",
+            "lanche": "rbl-0408",
+            "almoco": "rbl-0262",
+            "jantar": "rbl-0297"
+          },
+          {
+            "cafe_da_manha": "rbl-0094",
+            "lanche": "rbl-0392",
+            "almoco": "rbl-0321",
+            "jantar": "rbl-0007"
+          },
+          {
+            "cafe_da_manha": "rbl-0119",
+            "lanche": "rbl-0385",
+            "almoco": "rbl-0291",
+            "jantar": "rbl-0238"
+          },
+          {
+            "cafe_da_manha": "rbl-0376",
+            "lanche": "rbl-0458",
+            "almoco": "rbl-0298",
+            "jantar": "rbl-0342"
+          },
+          {
+            "cafe_da_manha": "rbl-0403",
+            "lanche": "rbl-0104",
+            "almoco": "rbl-0263",
+            "jantar": "rbl-0235"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0016",
+            "lanche": "rbl-0183",
+            "almoco": "rbl-0318",
+            "jantar": "rbl-0253"
+          },
+          {
+            "cafe_da_manha": "rbl-0363",
+            "lanche": "rbl-0100",
+            "almoco": "rbl-0338",
+            "jantar": "rbl-0144"
+          },
+          {
+            "cafe_da_manha": "rbl-0365",
+            "lanche": "rbl-0357",
+            "almoco": "rbl-0268",
+            "jantar": "rbl-0250"
+          },
+          {
+            "cafe_da_manha": "rbl-0054",
+            "lanche": "rbl-0120",
+            "almoco": "rbl-0264",
+            "jantar": "rbl-0327"
+          },
+          {
+            "cafe_da_manha": "rbl-0187",
+            "lanche": "rbl-0114",
+            "almoco": "rbl-0290",
+            "jantar": "rbl-0340"
+          },
+          {
+            "cafe_da_manha": "rbl-0077",
+            "lanche": "rbl-0176",
+            "almoco": "rbl-0287",
+            "jantar": "rbl-0276"
+          },
+          {
+            "cafe_da_manha": "rbl-0130",
+            "lanche": "rbl-0413",
+            "almoco": "rbl-0233",
+            "jantar": "rbl-0071"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0001",
+            "lanche": "rbl-0368",
+            "almoco": "rbl-0275",
+            "jantar": "rbl-0147"
+          },
+          {
+            "cafe_da_manha": "rbl-0123",
+            "lanche": "rbl-0066",
+            "almoco": "rbl-0299",
+            "jantar": "rbl-0084"
+          },
+          {
+            "cafe_da_manha": "rbl-0184",
+            "lanche": "rbl-0378",
+            "almoco": "rbl-0337",
+            "jantar": "rbl-0069"
+          },
+          {
+            "cafe_da_manha": "rbl-0113",
+            "lanche": "rbl-0369",
+            "almoco": "rbl-0312",
+            "jantar": "rbl-0326"
+          },
+          {
+            "cafe_da_manha": "rbl-0025",
+            "lanche": "rbl-0043",
+            "almoco": "rbl-0303",
+            "jantar": "rbl-0241"
+          },
+          {
+            "cafe_da_manha": "rbl-0167",
+            "lanche": "rbl-0089",
+            "almoco": "rbl-0295",
+            "jantar": "rbl-0278"
+          },
+          {
+            "cafe_da_manha": "rbl-0076",
+            "lanche": "rbl-0002",
+            "almoco": "rbl-0293",
+            "jantar": "rbl-0323"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0405",
+            "lanche": "rbl-0156",
+            "almoco": "rbl-0317",
+            "jantar": "rbl-0328"
+          },
+          {
+            "cafe_da_manha": "rbl-0379",
+            "lanche": "rbl-0061",
+            "almoco": "rbl-0249",
+            "jantar": "rbl-0146"
+          },
+          {
+            "cafe_da_manha": "rbl-0111",
+            "lanche": "rbl-0186",
+            "almoco": "rbl-0259",
+            "jantar": "rbl-0306"
+          },
+          {
+            "cafe_da_manha": "rbl-0370",
+            "lanche": "rbl-0373",
+            "almoco": "rbl-0277",
+            "jantar": "rbl-0073"
+          },
+          {
+            "cafe_da_manha": "rbl-0036",
+            "lanche": "rbl-0050",
+            "almoco": "rbl-0302",
+            "jantar": "rbl-0141"
+          },
+          {
+            "cafe_da_manha": "rbl-0131",
+            "lanche": "rbl-0377",
+            "almoco": "rbl-0301",
+            "jantar": "rbl-0286"
+          },
+          {
+            "cafe_da_manha": "rbl-0035",
+            "lanche": "rbl-0388",
+            "almoco": "rbl-0266",
+            "jantar": "rbl-0255"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0028",
+            "lanche": "rbl-0177",
+            "almoco": "rbl-0324",
+            "jantar": "rbl-0160"
+          },
+          {
+            "cafe_da_manha": "rbl-0106",
+            "lanche": "rbl-0088",
+            "almoco": "rbl-0344",
+            "jantar": "rbl-0334"
+          },
+          {
+            "cafe_da_manha": "rbl-0168",
+            "lanche": "rbl-0420",
+            "almoco": "rbl-0232",
+            "jantar": "rbl-0296"
+          },
+          {
+            "cafe_da_manha": "rbl-0074",
+            "lanche": "rbl-0389",
+            "almoco": "rbl-0294",
+            "jantar": "rbl-0336"
+          },
+          {
+            "cafe_da_manha": "rbl-0023",
+            "lanche": "rbl-0464",
+            "almoco": "rbl-0257",
+            "jantar": "rbl-0011"
+          },
+          {
+            "cafe_da_manha": "rbl-0367",
+            "lanche": "rbl-0375",
+            "almoco": "rbl-0234",
+            "jantar": "rbl-0322"
+          },
+          {
+            "cafe_da_manha": "rbl-0169",
+            "lanche": "rbl-0022",
+            "almoco": "rbl-0252",
+            "jantar": "rbl-0307"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0126",
+            "lanche": "rbl-0143",
+            "almoco": "rbl-0314",
+            "jantar": "rbl-0333"
+          },
+          {
+            "cafe_da_manha": "rbl-0358",
+            "lanche": "rbl-0078",
+            "almoco": "rbl-0343",
+            "jantar": "rbl-0292"
+          },
+          {
+            "cafe_da_manha": "rbl-0093",
+            "lanche": "rbl-0179",
+            "almoco": "rbl-0325",
+            "jantar": "rbl-0256"
+          },
+          {
+            "cafe_da_manha": "rbl-0080",
+            "lanche": "rbl-0407",
+            "almoco": "rbl-0258",
+            "jantar": "rbl-0331"
+          },
+          {
+            "cafe_da_manha": "rbl-0404",
+            "lanche": "rbl-0422",
+            "almoco": "rbl-0014",
+            "jantar": "rbl-0070"
+          },
+          {
+            "cafe_da_manha": "rbl-0008",
+            "lanche": "rbl-0122",
+            "almoco": "rbl-0305",
+            "jantar": "rbl-0341"
+          },
+          {
+            "cafe_da_manha": "rbl-0030",
+            "lanche": "rbl-0062",
+            "almoco": "rbl-0308",
+            "jantar": "rbl-0101"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0374",
+            "lanche": "rbl-0097",
+            "almoco": "rbl-0237",
+            "jantar": "rbl-0288"
+          },
+          {
+            "cafe_da_manha": "rbl-0049",
+            "lanche": "rbl-0068",
+            "almoco": "rbl-0105",
+            "jantar": "rbl-0313"
+          },
+          {
+            "cafe_da_manha": "rbl-0027",
+            "lanche": "rbl-0015",
+            "almoco": "rbl-0311",
+            "jantar": "rbl-0271"
+          },
+          {
+            "cafe_da_manha": "rbl-0003",
+            "lanche": "rbl-0135",
+            "almoco": "rbl-0243",
+            "jantar": "rbl-0274"
+          },
+          {
+            "cafe_da_manha": "rbl-0045",
+            "lanche": "rbl-0411",
+            "almoco": "rbl-0261",
+            "jantar": "rbl-0260"
+          },
+          {
+            "cafe_da_manha": "rbl-0072",
+            "lanche": "rbl-0033",
+            "almoco": "rbl-0012",
+            "jantar": "rbl-0279"
+          },
+          {
+            "cafe_da_manha": "rbl-0096",
+            "lanche": "rbl-0472",
+            "almoco": "rbl-0269",
+            "jantar": "rbl-0300"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0424",
+            "lanche": "rbl-0188",
+            "almoco": "rbl-0345",
+            "jantar": "rbl-0280"
+          },
+          {
+            "cafe_da_manha": "rbl-0005",
+            "lanche": "rbl-0427",
+            "almoco": "rbl-0246",
+            "jantar": "rbl-0285"
+          },
+          {
+            "cafe_da_manha": "rbl-0024",
+            "lanche": "rbl-0145",
+            "almoco": "rbl-0304",
+            "jantar": "rbl-0251"
+          },
+          {
+            "cafe_da_manha": "rbl-0095",
+            "lanche": "rbl-0426",
+            "almoco": "rbl-0265",
+            "jantar": "rbl-0181"
+          },
+          {
+            "cafe_da_manha": "rbl-0041",
+            "lanche": "rbl-0085",
+            "almoco": "rbl-0289",
+            "jantar": "rbl-0330"
+          },
+          {
+            "cafe_da_manha": "rbl-0083",
+            "lanche": "rbl-0222",
+            "almoco": "rbl-0270",
+            "jantar": "rbl-0173"
+          },
+          {
+            "cafe_da_manha": "rbl-0018",
+            "lanche": "rbl-0423",
+            "almoco": "rbl-0242",
+            "jantar": "rbl-0136"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0129",
+            "lanche": "rbl-0215",
+            "almoco": "rbl-0332",
+            "jantar": "rbl-0142"
+          },
+          {
+            "cafe_da_manha": "rbl-0121",
+            "lanche": "rbl-0152",
+            "almoco": "rbl-0284",
+            "jantar": "rbl-0272"
+          },
+          {
+            "cafe_da_manha": "rbl-0190",
+            "lanche": "rbl-0435",
+            "almoco": "rbl-0254",
+            "jantar": "rbl-0282"
+          },
+          {
+            "cafe_da_manha": "rbl-0366",
+            "lanche": "rbl-0029",
+            "almoco": "rbl-0240",
+            "jantar": "rbl-0231"
+          },
+          {
+            "cafe_da_manha": "rbl-0214",
+            "lanche": "rbl-0461",
+            "almoco": "rbl-0247",
+            "jantar": "rbl-0239"
+          },
+          {
+            "cafe_da_manha": "rbl-0042",
+            "lanche": "rbl-0140",
+            "almoco": "rbl-0335",
+            "jantar": "rbl-0281"
+          },
+          {
+            "cafe_da_manha": "rbl-0227",
+            "lanche": "rbl-0053",
+            "almoco": "rbl-0273",
+            "jantar": "rbl-0178"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0102",
+            "lanche": "rbl-0064",
+            "almoco": "rbl-0329",
+            "jantar": "rbl-0103"
+          },
+          {
+            "cafe_da_manha": "rbl-0099",
+            "lanche": "rbl-0048",
+            "almoco": "rbl-0339",
+            "jantar": "rbl-0248"
+          },
+          {
+            "cafe_da_manha": "rbl-0108",
+            "lanche": "rbl-0165",
+            "almoco": "rbl-0236",
+            "jantar": "rbl-0151"
+          },
+          {
+            "cafe_da_manha": "rbl-0125",
+            "lanche": "rbl-0034",
+            "almoco": "rbl-0245",
+            "jantar": "rbl-0081"
+          },
+          {
+            "cafe_da_manha": "rbl-0004",
+            "lanche": "rbl-0428",
+            "almoco": "rbl-0244",
+            "jantar": "rbl-0162"
+          },
+          {
+            "cafe_da_manha": "rbl-0055",
+            "lanche": "rbl-0021",
+            "almoco": "rbl-0309",
+            "jantar": "rbl-0267"
+          },
+          {
+            "cafe_da_manha": "rbl-0107",
+            "lanche": "rbl-0154",
+            "almoco": "rbl-0262",
+            "jantar": "rbl-0283"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0059",
+            "lanche": "rbl-0430",
+            "almoco": "rbl-0321",
+            "jantar": "rbl-0297"
+          },
+          {
+            "cafe_da_manha": "rbl-0052",
+            "lanche": "rbl-0172",
+            "almoco": "rbl-0291",
+            "jantar": "rbl-0007"
+          },
+          {
+            "cafe_da_manha": "rbl-0133",
+            "lanche": "rbl-0163",
+            "almoco": "rbl-0298",
+            "jantar": "rbl-0238"
+          },
+          {
+            "cafe_da_manha": "rbl-0387",
+            "lanche": "rbl-0174",
+            "almoco": "rbl-0263",
+            "jantar": "rbl-0342"
+          },
+          {
+            "cafe_da_manha": "rbl-0026",
+            "lanche": "rbl-0359",
+            "almoco": "rbl-0318",
+            "jantar": "rbl-0235"
+          },
+          {
+            "cafe_da_manha": "rbl-0226",
+            "lanche": "rbl-0009",
+            "almoco": "rbl-0338",
+            "jantar": "rbl-0253"
+          },
+          {
+            "cafe_da_manha": "rbl-0383",
+            "lanche": "rbl-0364",
+            "almoco": "rbl-0268",
+            "jantar": "rbl-0144"
+          }
+        ],
+        [
+          {
+            "cafe_da_manha": "rbl-0098",
+            "lanche": "rbl-0441",
+            "almoco": "rbl-0264",
+            "jantar": "rbl-0250"
+          },
+          {
+            "cafe_da_manha": "rbl-0051",
+            "lanche": "rbl-0393",
+            "almoco": "rbl-0290",
+            "jantar": "rbl-0327"
+          },
+          {
+            "cafe_da_manha": "rbl-0117",
+            "lanche": "rbl-0421",
+            "almoco": "rbl-0287",
+            "jantar": "rbl-0340"
+          },
+          {
+            "cafe_da_manha": "rbl-0086",
+            "lanche": "rbl-0060",
+            "almoco": "rbl-0233",
+            "jantar": "rbl-0276"
+          },
+          {
+            "cafe_da_manha": "rbl-0217",
+            "lanche": "rbl-0418",
+            "almoco": "rbl-0275",
+            "jantar": "rbl-0071"
+          },
+          {
+            "cafe_da_manha": "rbl-0132",
+            "lanche": "rbl-0391",
+            "almoco": "rbl-0299",
+            "jantar": "rbl-0147"
+          },
+          {
+            "cafe_da_manha": "rbl-0092",
+            "lanche": "rbl-0400",
+            "almoco": "rbl-0337",
+            "jantar": "rbl-0084"
+          }
+        ]
+      ]
+    }
+  ]
+}

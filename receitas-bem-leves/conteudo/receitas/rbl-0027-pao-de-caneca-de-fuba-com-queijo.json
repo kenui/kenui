@@ -39,16 +39,16 @@
       "texto": "2 colheres (sopa) de fubá"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "colher_sopa",
-      "texto": "1 colher (sopa) de farinha de trigo"
+      "texto": "1 colher (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 2,
+      "quantidade": 2.5,
       "medida": "colher_sopa",
-      "texto": "2 colheres (sopa) de leite"
+      "texto": "2 e 1/2 colheres (sopa) de leite"
     },
     {
       "ingrediente": "oleo",
@@ -80,7 +80,7 @@
       "texto": "Numa caneca grande (300 ml), bata o ovo, o leite e o óleo com um garfo."
     },
     {
-      "texto": "Junte o fubá, a farinha, o queijo e o sal e misture bem."
+      "texto": "Junte o fubá, a farinha integral, o queijo e o sal e misture bem."
     },
     {
       "texto": "Acrescente o fermento e mexa só para misturar."
@@ -99,7 +99,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por mais 1 colher (sopa) de fubá: fica mais esfarelado."
+      "texto": "Troque a farinha integral por mais 1 colher (sopa) de fubá: fica mais esfarelado."
     },
     {
       "tipo": "dica",
@@ -112,8 +112,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 262,
-      "carboidratos_g": 21.6
+      "kcal": 264,
+      "carboidratos_g": 21.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -145,6 +145,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite ajustado."
   }
 }

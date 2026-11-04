@@ -65,7 +65,10 @@ const texto = JSON.stringify(conteudo);
 const versao = createHash('sha256').update(texto).digest('hex').slice(0, 12);
 
 if (demo) {
-  writeFileSync(join(RAIZ, 'public', 'pacote-demo.json'), JSON.stringify({ ...conteudo, versao }));
+  // No modo demonstração, todos os extras aparecem (para testar as telas).
+  const pastaExtras = join(PASTA_CONTEUDO, 'extras');
+  const extras_demo = readdirSync(pastaExtras).filter((f) => f.endsWith('.json')).sort().map((f) => JSON.parse(readFileSync(join(pastaExtras, f), 'utf8')));
+  writeFileSync(join(RAIZ, 'public', 'pacote-demo.json'), JSON.stringify({ ...conteudo, versao, extras_demo }));
   console.log(`public/pacote-demo.json (versão ${versao}, ${receitas.length} receitas, ${(texto.length / 1024).toFixed(0)} KB). NÃO publique este arquivo.`);
 } else {
   mkdirSync(join(RAIZ, '.pacote'), { recursive: true });

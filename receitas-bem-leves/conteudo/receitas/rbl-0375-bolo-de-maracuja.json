@@ -58,10 +58,17 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -94,7 +101,10 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
     },
     {
       "texto": "No liquidificador, bata a polpa de maracujá da massa só por alguns segundos, para soltar as sementes. Passe numa peneira."
@@ -104,7 +114,7 @@
       "temporizador_min": 2
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha aos poucos e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Passe para uma tigela, junte a farinha integral e a aveia batida aos poucos e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
@@ -134,14 +144,18 @@
       "texto": "Use polpa de maracujá congelada sem açúcar: 1 pacote de 100 g dá cerca de 1/2 xícara."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia."
+    },
+    {
       "tipo": "conservacao",
       "texto": "Guarde na geladeira por até 4 dias."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 192,
-      "carboidratos_g": 19.5
+      "kcal": 177,
+      "carboidratos_g": 15.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -154,7 +168,7 @@
   },
   "ilustracao": {
     "prato_base": "bolo_redondo",
-    "massa": "clara",
+    "massa": "integral",
     "cobertura": null,
     "recheio": null,
     "enfeites": [
@@ -173,6 +187,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

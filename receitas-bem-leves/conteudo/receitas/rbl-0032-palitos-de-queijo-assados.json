@@ -2,7 +2,7 @@
   "id": "rbl-0032",
   "slug": "palitos-de-queijo-assados",
   "nome": "Palitos de queijo assados",
-  "descricao": "Palitos crocantes de massa amanteigada com bastante parmesão, bons para beliscar.",
+  "descricao": "Palitos crocantes de massa amanteigada de farinha integral, com bastante parmesão, bons para beliscar.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -26,10 +26,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "queijo-parmesao",
@@ -57,21 +57,21 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 1,
+      "quantidade": 2,
       "medida": "colher_sopa",
-      "texto": "1 colher (sopa) de água gelada, se precisar",
+      "texto": "1 a 2 colheres (sopa) de água gelada, se precisar",
       "opcional": true
     }
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o parmesão e o orégano."
+      "texto": "Numa tigela, misture a farinha integral, o parmesão e o orégano."
     },
     {
       "texto": "Junte a manteiga em pedacinhos e esfregue com as pontas dos dedos até virar uma farofa."
     },
     {
-      "texto": "Acrescente o ovo e junte a massa sem sovar demais. Se esfarelar, ponha a água gelada."
+      "texto": "Acrescente o ovo e junte a massa sem sovar demais. Se esfarelar, ponha a água gelada aos poucos."
     },
     {
       "texto": "Embrulhe em filme plástico e leve à geladeira por 15 minutos.",
@@ -99,7 +99,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida: o palito fica mais quebradiço."
     },
     {
       "tipo": "substituicao",
@@ -112,8 +112,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 214,
-      "carboidratos_g": 16.2
+      "kcal": 207,
+      "carboidratos_g": 14.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -122,7 +122,7 @@
   },
   "etiquetas": {
     "sem_acucar_adicionado": true,
-    "low_carb": false
+    "low_carb": true
   },
   "ilustracao": {
     "prato_base": "cookie",
@@ -146,6 +146,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água ajustada."
   }
 }

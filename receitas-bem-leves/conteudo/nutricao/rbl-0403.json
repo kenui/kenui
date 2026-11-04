@@ -6,15 +6,15 @@
   "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
   "linhas": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
-      "gramas": 187.5,
-      "kcal": 675,
-      "carboidratos_g": 140.81,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 180,
+      "kcal": 612,
+      "carboidratos_g": 129.55,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -67,10 +67,10 @@
     },
     {
       "ingrediente": "suco-de-laranja",
-      "texto": "4 colheres (sopa) de suco de laranja",
-      "gramas": 62,
-      "kcal": 20.5,
-      "carboidratos_g": 4.71,
+      "texto": "5 colheres (sopa) de suco de laranja",
+      "gramas": 77.5,
+      "kcal": 25.6,
+      "carboidratos_g": 5.89,
       "fonte": "TACO 4ª ed. 215 Laranja, pêra, suco",
       "por_100g": {
         "kcal": 33,
@@ -104,11 +104,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 1317.2,
-    "carboidratos_g": 205.6
+    "kcal": 1259.4,
+    "carboidratos_g": 195.5
   },
   "por_porcao": {
-    "kcal": 165,
-    "carboidratos_g": 25.7
+    "kcal": 157,
+    "carboidratos_g": 24.4
   }
 }

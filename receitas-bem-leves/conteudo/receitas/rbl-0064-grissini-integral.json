@@ -2,7 +2,7 @@
   "id": "rbl-0064",
   "slug": "grissini-integral",
   "nome": "Grissini integral",
-  "descricao": "Palitos de pão integral finos e crocantes, com gergelim, para servir com sopas e pastas.",
+  "descricao": "Palitos de pão 100% integral, finos e crocantes, com gergelim, para servir com sopas e pastas.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -13,8 +13,8 @@
   "tempo": {
     "preparo_min": 25,
     "cozimento_min": 20,
-    "descanso_min": 40,
-    "total_min": 90
+    "descanso_min": 50,
+    "total_min": 95
   },
   "rendimento": {
     "quantidade": 24,
@@ -27,15 +27,9 @@
   "ingredientes": [
     {
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 1,
+      "quantidade": 2,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo integral"
-    },
-    {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -57,9 +51,9 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 0.67,
-      "medida": "xicara",
-      "texto": "2/3 de xícara (chá) de água morna"
+      "quantidade": 175,
+      "medida": "ml",
+      "texto": "2/3 de xícara (chá) mais 1 colher (sopa) de água morna (175 ml)"
     },
     {
       "grupo": "Cobertura",
@@ -71,7 +65,7 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture as farinhas, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal."
     },
     {
       "texto": "Junte o azeite e a água morna e misture até formar uma massa."
@@ -81,8 +75,8 @@
       "temporizador_min": 5
     },
     {
-      "texto": "Cubra e deixe descansar 40 minutos.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe descansar 50 minutos.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 200 °C."
@@ -113,7 +107,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use só farinha integral: ponha 1 colher (sopa) a mais de água."
+      "texto": "Troque 1/4 de xícara da farinha integral por aveia em flocos batida: fica mais quebradiço."
     },
     {
       "tipo": "conservacao",
@@ -122,8 +116,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 167,
-      "carboidratos_g": 23.2
+      "kcal": 162,
+      "carboidratos_g": 22.3
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -155,6 +149,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral (100% integral); água e descanso ajustados."
   }
 }

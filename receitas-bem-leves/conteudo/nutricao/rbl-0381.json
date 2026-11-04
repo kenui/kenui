@@ -54,15 +54,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 xícara (chá) de farinha de trigo",
-      "gramas": 125,
-      "kcal": 450,
-      "carboidratos_g": 93.88,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 xícara (chá) de farinha de trigo integral fina",
+      "gramas": 120,
+      "kcal": 408,
+      "carboidratos_g": 86.36,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -80,11 +80,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 752.2,
-    "carboidratos_g": 99.6
+    "kcal": 710.2,
+    "carboidratos_g": 92.1
   },
   "por_porcao": {
-    "kcal": 75,
-    "carboidratos_g": 10
+    "kcal": 71,
+    "carboidratos_g": 9.2
   }
 }

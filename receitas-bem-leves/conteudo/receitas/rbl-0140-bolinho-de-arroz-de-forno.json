@@ -41,10 +41,10 @@
       "texto": "1/2 xícara (chá) de queijo parmesão ralado"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "cebola",
@@ -94,7 +94,7 @@
       "texto": "Junte os ovos, o parmesão, a cebola, a salsinha, a cebolinha e o sal e misture bem."
     },
     {
-      "texto": "Acrescente a farinha e o fermento e mexa até formar uma massa grossa que pare na colher."
+      "texto": "Acrescente a farinha integral e o fermento e mexa até formar uma massa grossa que pare na colher."
     },
     {
       "texto": "Distribua a massa às colheradas nas forminhas ou na assadeira."
@@ -116,7 +116,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por 4 colheres (sopa) de aveia em flocos finos."
+      "texto": "Troque a farinha integral por 4 colheres (sopa) de aveia em flocos finos."
     },
     {
       "tipo": "dica",
@@ -129,8 +129,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 252,
-      "carboidratos_g": 29.1
+      "kcal": 250,
+      "carboidratos_g": 28.7
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -163,6 +163,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0137",
   "slug": "empadinha-de-frango-de-liquidificador",
   "nome": "Empadinha de frango de liquidificador",
-  "descricao": "Empadinha macia de massa batida no liquidificador, recheada com frango, milho e tomate.",
+  "descricao": "Empadinha macia de massa de farinha integral batida no liquidificador, recheada com frango, milho e tomate.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -32,9 +32,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "quantidade": 270,
+      "medida": "ml",
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)"
     },
     {
       "grupo": "Massa",
@@ -45,10 +45,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -125,7 +125,7 @@
       "texto": "No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto."
     },
     {
-      "texto": "Junte a farinha aos poucos e bata até a massa ficar lisa. Por último, misture o fermento com uma colher."
+      "texto": "Junte a farinha integral aos poucos e bata até a massa ficar lisa e cremosa. Por último, misture o fermento com uma colher."
     },
     {
       "texto": "Coloque 1 colher (sopa) de massa no fundo de cada forminha, distribua o recheio e cubra com o restante da massa."
@@ -151,7 +151,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 3/4 de xícara de farinha de trigo e 3/4 de xícara de farinha de trigo integral, se preferir."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida: a massa fica mais macia."
     },
     {
       "tipo": "conservacao",
@@ -160,8 +160,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 386,
-      "carboidratos_g": 30
+      "kcal": 379,
+      "carboidratos_g": 28.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -195,6 +195,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite ajustado."
   }
 }

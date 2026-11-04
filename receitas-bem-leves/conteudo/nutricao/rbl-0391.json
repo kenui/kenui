@@ -43,6 +43,18 @@
       }
     },
     {
+      "ingrediente": "leite-integral",
+      "texto": "3 colheres (sopa) de leite",
+      "gramas": 45,
+      "kcal": 27.5,
+      "carboidratos_g": 2.16,
+      "fonte": "USDA SR Legacy 171265 Milk, whole, 3.25% milkfat, with added vitamin D",
+      "por_100g": {
+        "kcal": 61,
+        "carboidratos_g": 4.8
+      }
+    },
+    {
       "ingrediente": "eritritol",
       "texto": "1/2 xícara (chá) de eritritol",
       "gramas": 100,
@@ -55,15 +67,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 xícara (chá) de farinha de trigo",
-      "gramas": 125,
-      "kcal": 450,
-      "carboidratos_g": 93.88,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 xícara (chá) de farinha de trigo integral",
+      "gramas": 120,
+      "kcal": 408,
+      "carboidratos_g": 86.36,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -129,11 +141,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 1659.1,
-    "carboidratos_g": 161.7
+    "kcal": 1644.5,
+    "carboidratos_g": 156.4
   },
   "por_porcao": {
-    "kcal": 166,
-    "carboidratos_g": 16.2
+    "kcal": 164,
+    "carboidratos_g": 15.6
   }
 }

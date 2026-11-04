@@ -2,7 +2,7 @@
   "id": "rbl-0041",
   "slug": "pao-integral-caseiro",
   "nome": "Pão integral caseiro",
-  "descricao": "Pão de forma integral feito em casa, de miolo úmido e casca firme, bom para torrada e sanduíche.",
+  "descricao": "Pão de forma 100% integral feito em casa, de miolo úmido e casca firme, bom para torrada e sanduíche.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 25,
     "cozimento_min": 40,
-    "descanso_min": 100,
-    "total_min": 165
+    "descanso_min": 125,
+    "total_min": 190
   },
   "rendimento": {
     "quantidade": 1,
@@ -28,15 +28,9 @@
   "ingredientes": [
     {
       "ingrediente": "farinha-de-trigo-integral",
-      "quantidade": 2,
+      "quantidade": 3.5,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo integral"
-    },
-    {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.5,
-      "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -58,14 +52,14 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 1.25,
-      "medida": "xicara",
-      "texto": "1 e 1/4 de xícara (chá) de água morna"
+      "quantidade": 330,
+      "medida": "ml",
+      "texto": "1 e 1/3 xícara (chá) de água morna (330 ml)"
     }
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture as farinhas, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal."
     },
     {
       "texto": "Junte o azeite e a água morna e misture até formar uma massa grudenta."
@@ -75,15 +69,15 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
       "texto": "Abra a massa num retângulo, enrole como um rocambole e coloque numa forma de bolo inglês (25 cm) untada."
     },
     {
-      "texto": "Cubra e deixe crescer mais 40 minutos, até a massa chegar à borda da forma.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe crescer mais 50 minutos, até a massa chegar perto da borda da forma.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 200 °C."
@@ -113,12 +107,16 @@
     {
       "tipo": "conservacao",
       "texto": "Congele já fatiado e toste as fatias direto do congelador."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pão 100% integral cresce menos e fica mais denso que o de padaria: é o jeito dele."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 157,
-      "carboidratos_g": 26.5
+      "kcal": 152,
+      "carboidratos_g": 25.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -148,6 +146,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral (pão 100% integral); água e tempo de crescimento ajustados."
   }
 }

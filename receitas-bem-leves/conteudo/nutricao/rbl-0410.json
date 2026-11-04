@@ -19,10 +19,10 @@
     },
     {
       "ingrediente": "iogurte-natural",
-      "texto": "1/2 xícara (chá) de iogurte natural",
-      "gramas": 122.5,
-      "kcal": 62.5,
-      "carboidratos_g": 2.33,
+      "texto": "2/3 de xícara (chá) de iogurte natural",
+      "gramas": 161.7,
+      "kcal": 82.5,
+      "carboidratos_g": 3.07,
       "fonte": "TACO 4ª ed. 448 Iogurte, natural",
       "por_100g": {
         "kcal": 51,
@@ -55,15 +55,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo",
-      "gramas": 187.5,
-      "kcal": 675,
-      "carboidratos_g": 140.81,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 180,
+      "kcal": 612,
+      "carboidratos_g": 129.55,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -117,11 +117,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 1352.4,
-    "carboidratos_g": 155
+    "kcal": 1309.4,
+    "carboidratos_g": 144.5
   },
   "por_porcao": {
-    "kcal": 270,
-    "carboidratos_g": 31
+    "kcal": 262,
+    "carboidratos_g": 28.9
   }
 }

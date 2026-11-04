@@ -2,7 +2,7 @@
   "id": "rbl-0065",
   "slug": "pao-de-milho-verde",
   "nome": "Pão de milho verde",
-  "descricao": "Pão macio com milho verde batido e um pouco de fubá na massa, de cor amarelinha e sabor de milho.",
+  "descricao": "Pão macio de farinha integral com milho verde batido e um pouco de fubá na massa, de sabor de milho.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 30,
     "cozimento_min": 30,
-    "descanso_min": 90,
-    "total_min": 150
+    "descanso_min": 115,
+    "total_min": 175
   },
   "rendimento": {
     "quantidade": 12,
@@ -34,9 +34,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite morno"
+      "quantidade": 135,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de leite morno (135 ml)"
     },
     {
       "ingrediente": "oleo",
@@ -57,10 +57,10 @@
       "texto": "1 colher (chá) de sal"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3.5,
       "medida": "xicara",
-      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fuba",
@@ -80,22 +80,22 @@
       "texto": "Bata no liquidificador o milho, o leite morno, o óleo, o ovo e o sal até ficar um creme."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o fubá e o fermento."
+      "texto": "Numa tigela, misture a farinha integral, o fubá e o fermento."
     },
     {
-      "texto": "Despeje o creme de milho e misture até formar uma massa. Se grudar muito, ponha mais farinha aos poucos."
+      "texto": "Despeje o creme de milho e misture até formar uma massa. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr mais farinha."
     },
     {
       "texto": "Sove por 8 minutos, até ficar lisa.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada polvilhada com fubá. Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Divida em 12 bolinhas e coloque numa assadeira untada polvilhada com fubá. Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -126,8 +126,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 218,
-      "carboidratos_g": 34.6
+      "kcal": 206,
+      "carboidratos_g": 32.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -159,6 +159,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

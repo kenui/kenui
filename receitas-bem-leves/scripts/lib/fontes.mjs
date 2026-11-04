@@ -73,7 +73,11 @@ export function faixaDosArgumentos(args) {
   const valor = (nome) => { const i = args.indexOf(nome); return i >= 0 ? args[i + 1] : null; };
   const de = valor('--de');
   const ate = valor('--ate');
-  return (id) => (!de || id >= de) && (!ate || id <= ate);
+  // --ids rbl-0004,rbl-0011 (ou um arquivo com um id por linha: --ids @lista.txt)
+  let ids = valor('--ids');
+  if (ids?.startsWith('@')) ids = readFileSync(ids.slice(1), 'utf8').split(/\s+/).filter(Boolean).join(',');
+  const lista = ids ? new Set(ids.split(',')) : null;
+  return (id) => (!de || id >= de) && (!ate || id <= ate) && (!lista || lista.has(id));
 }
 
 export function carregarProibidos() {

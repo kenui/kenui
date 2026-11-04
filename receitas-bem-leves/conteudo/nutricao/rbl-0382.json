@@ -30,15 +30,15 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "6 colheres (sopa) de farinha de trigo",
-      "gramas": 46.8,
-      "kcal": 168.5,
-      "carboidratos_g": 35.15,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "6 colheres (sopa) de farinha de trigo integral fina",
+      "gramas": 45,
+      "kcal": 153,
+      "carboidratos_g": 32.39,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
       }
     },
     {
@@ -104,11 +104,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 904.6,
-    "carboidratos_g": 65.7
+    "kcal": 889.2,
+    "carboidratos_g": 63
   },
   "por_porcao": {
-    "kcal": 90,
-    "carboidratos_g": 6.6
+    "kcal": 89,
+    "carboidratos_g": 6.3
   }
 }

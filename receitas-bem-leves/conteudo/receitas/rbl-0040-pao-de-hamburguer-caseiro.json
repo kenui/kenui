@@ -2,7 +2,7 @@
   "id": "rbl-0040",
   "slug": "pao-de-hamburguer-caseiro",
   "nome": "Pão de hambúrguer caseiro",
-  "descricao": "Pão redondo e macio com gergelim por cima, para hambúrguer feito em casa.",
+  "descricao": "Pão redondo e macio de farinha integral, com gergelim por cima, para hambúrguer feito em casa.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -13,8 +13,8 @@
   "tempo": {
     "preparo_min": 30,
     "cozimento_min": 20,
-    "descanso_min": 100,
-    "total_min": 150
+    "descanso_min": 125,
+    "total_min": 175
   },
   "rendimento": {
     "quantidade": 8,
@@ -26,10 +26,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -45,9 +45,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
-      "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite morno"
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "3/4 de xícara (chá) mais 1 colher (sopa) de leite morno (200 ml)"
     },
     {
       "ingrediente": "ovo",
@@ -81,22 +81,22 @@
       "texto": "Numa tigela, misture a farinha, o fermento e o sal."
     },
     {
-      "texto": "Junte o leite morno e o ovo e misture até formar uma massa."
+      "texto": "Junte o leite morno e o ovo e misture até formar uma massa. Ela fica um pouco grudenta: não ponha mais farinha."
     },
     {
-      "texto": "Acrescente a manteiga e sove por 10 minutos, até a massa ficar lisa e soltar das mãos.",
+      "texto": "Acrescente a manteiga e sove por 10 minutos, até a massa ficar mais lisa e macia. Se grudar, unte as mãos com um pouco de manteiga.",
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
       "texto": "Divida em 8 partes, faça bolas lisas e coloque numa assadeira untada, com espaço entre elas. Achate cada uma com a palma da mão."
     },
     {
-      "texto": "Cubra e deixe crescer mais 40 minutos.",
-      "temporizador_min": 40
+      "texto": "Cubra e deixe crescer mais 50 minutos.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -120,7 +120,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida: o pão fica mais macio."
     },
     {
       "tipo": "substituicao",
@@ -129,12 +129,16 @@
     {
       "tipo": "conservacao",
       "texto": "Congele os pães já cortados ao meio e toste direto na frigideira."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Com farinha integral o pão fica mais baixinho e firme que o de padaria. Achatar bem as bolas ajuda a ficar no formato de hambúrguer."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 241,
-      "carboidratos_g": 37.2
+      "kcal": 227,
+      "carboidratos_g": 34.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -166,6 +170,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

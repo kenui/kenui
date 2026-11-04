@@ -48,10 +48,10 @@
       "texto": "2 dentes de alho picados"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "colher_sopa",
-      "texto": "1 colher (sopa) de farinha de trigo"
+      "texto": "1 colher (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "agua",
@@ -100,7 +100,7 @@
       "temporizador_min": 30
     },
     {
-      "texto": "Junte o alho e a farinha e mexa por 1 minuto."
+      "texto": "Junte o alho e a farinha integral e mexa por 1 minuto."
     },
     {
       "texto": "Acrescente a água aos poucos, mexendo, e junte o tomilho, o louro, o sal e a pimenta. Cozinhe por 15 minutos.",
@@ -133,14 +133,18 @@
       "texto": "Use caldo de legumes caseiro no lugar da água para mais sabor."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 1 colher (chá) de amido de milho dissolvido em um pouco de água fria, no fim do cozimento."
+    },
+    {
       "tipo": "dica",
       "texto": "A paciência no começo é o segredo: cebola dourada devagar dá a cor e o sabor da sopa."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 254,
-      "carboidratos_g": 17.5
+      "kcal": 253,
+      "carboidratos_g": 17.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -173,6 +177,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido mantido."
   }
 }

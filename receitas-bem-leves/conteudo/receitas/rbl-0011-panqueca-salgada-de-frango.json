@@ -2,7 +2,7 @@
   "id": "rbl-0011",
   "slug": "panqueca-salgada-de-frango",
   "nome": "Panqueca salgada de frango",
-  "descricao": "Panquecas finas recheadas com frango ao molho de tomate caseiro e gratinadas com queijo.",
+  "descricao": "Panquecas finas de farinha integral recheadas com frango ao molho de tomate caseiro e gratinadas com queijo.",
   "categoria": "almoco_jantar",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -10,9 +10,9 @@
     "jantar"
   ],
   "tempo": {
-    "preparo_min": 30,
+    "preparo_min": 35,
     "cozimento_min": 35,
-    "total_min": 65
+    "total_min": 70
   },
   "rendimento": {
     "quantidade": 8,
@@ -26,9 +26,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "quantidade": 270,
+      "medida": "ml",
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)"
     },
     {
       "grupo": "Massa",
@@ -39,10 +39,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -110,8 +110,8 @@
   ],
   "preparo": [
     {
-      "texto": "Massa: bata no liquidificador o leite, os ovos, a farinha, o óleo e metade do sal por 1 minuto. Deixe descansar 10 minutos.",
-      "temporizador_min": 10
+      "texto": "Massa: bata no liquidificador o leite, os ovos, a farinha integral, o óleo e metade do sal por 1 minuto. Deixe descansar 15 minutos. Se engrossar, junte 1 ou 2 colheres (sopa) de leite.",
+      "temporizador_min": 15
     },
     {
       "texto": "Aqueça uma frigideira antiaderente de 20 cm, untada com um pouco de óleo, em fogo médio. Coloque meia concha de massa e gire para cobrir o fundo."
@@ -146,7 +146,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por 1 xícara de aveia em flocos finos batida e use 1/4 de xícara a mais de leite: a massa fica um pouco mais firme."
+      "texto": "Troque a farinha integral por 1 xícara de aveia em flocos finos batida: a massa fica um pouco mais firme e frágil, então vire com cuidado."
     },
     {
       "tipo": "substituicao",
@@ -159,8 +159,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 435,
-      "carboidratos_g": 31.8
+      "kcal": 430,
+      "carboidratos_g": 30.3
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -194,6 +194,6 @@
   },
   "revisao": {
     "status": "piloto",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e descanso da massa ajustados."
   }
 }

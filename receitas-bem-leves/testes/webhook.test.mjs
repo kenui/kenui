@@ -51,3 +51,18 @@ test('e-mail de boas-vindas tem o link de acesso e escapa o nome', () => {
   assert.ok(!m.html.includes('<b>Ana</b>'));
   assert.ok(m.texto.includes('suporte@dividaclara.com.br'));
 });
+
+import { produtosDoEvento } from '../supabase/functions/hotmart-webhook/regras.ts';
+
+test('sem mapa de produtos, todo aviso libera o app (comportamento anterior)', () => {
+  assert.deepEqual(produtosDoEvento('0', undefined), ['app']);
+  assert.deepEqual(produtosDoEvento('123', 'isto não é json'), ['app']);
+});
+
+test('com mapa, cada produto da Hotmart libera só o que foi comprado', () => {
+  const mapa = JSON.stringify({ 111: ['app'], 222: ['caderno'], 333: ['cardapio12', 'marmitas'], 444: ['cardapio12'] });
+  assert.deepEqual(produtosDoEvento('111', mapa), ['app']);
+  assert.deepEqual(produtosDoEvento('333', mapa), ['cardapio12', 'marmitas']);
+  assert.deepEqual(produtosDoEvento('999', mapa), []);
+  assert.deepEqual(produtosDoEvento('222', JSON.stringify({ 222: ['caderno', 'inventado'] })), ['caderno']);
+});

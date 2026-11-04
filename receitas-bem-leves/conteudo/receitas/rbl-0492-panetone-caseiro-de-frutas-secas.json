@@ -2,7 +2,7 @@
   "id": "rbl-0492",
   "slug": "panetone-caseiro-de-frutas-secas",
   "nome": "Panetone caseiro de frutas secas",
-  "descricao": "Panetone fofinho de massa amanteigada, com uva-passa, damasco e raspas de laranja, adoçado com eritritol.",
+  "descricao": "Panetone caseiro de massa integral amanteigada, com uva-passa, damasco e raspas de laranja, adoçado com eritritol.",
   "categoria": "ceia",
   "destaques": [
     "doces_e_bolos"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 45,
-    "descanso_min": 225,
-    "total_min": 310
+    "descanso_min": 285,
+    "total_min": 370
   },
   "rendimento": {
     "quantidade": 2,
@@ -28,9 +28,9 @@
   "ingredientes": [
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
+      "quantidade": 0.875,
       "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite morno"
+      "texto": "3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -39,10 +39,10 @@
       "texto": "1 sachê (10 g) de fermento biológico seco"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 4,
       "medida": "xicara",
-      "texto": "4 xícaras (chá) de farinha de trigo (500 g)"
+      "texto": "4 xícaras (chá) de farinha de trigo integral (480 g)"
     },
     {
       "ingrediente": "eritritol",
@@ -102,7 +102,7 @@
   ],
   "preparo": [
     {
-      "texto": "Esponja: misture o leite morno, o fermento e 1/2 xícara da farinha. Cubra e deixe 15 minutos, até espumar.",
+      "texto": "Esponja: misture o leite morno, o fermento e 1/2 xícara da farinha integral. Cubra e deixe 15 minutos, até espumar.",
       "temporizador_min": 15
     },
     {
@@ -112,18 +112,18 @@
       "texto": "Acrescente o restante da farinha e o sal aos poucos, mexendo até a massa juntar."
     },
     {
-      "texto": "Junte a manteiga em pedaços e sove por 10 a 12 minutos, até a massa ficar lisa, elástica e soltar das mãos. Ela é macia e um pouco pegajosa mesmo."
+      "texto": "Junte a manteiga em pedaços e sove por 10 a 12 minutos, até a massa ficar lisa e elástica. Ela é macia, úmida e um pouco pegajosa mesmo: não junte mais farinha."
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora e 30 minutos, até dobrar.",
-      "temporizador_min": 90
+      "texto": "Cubra e deixe crescer por 1 hora e 30 minutos a 2 horas, até dobrar.",
+      "temporizador_min": 120
     },
     {
-      "texto": "Passe a uva-passa e o damasco em 1 colher de farinha e misture na massa, apertando com as mãos até distribuir."
+      "texto": "Passe a uva-passa e o damasco em 1 colher de farinha integral e misture na massa, apertando com as mãos até distribuir."
     },
     {
-      "texto": "Divida em 2 bolas, coloque em formas de panetone de 500 g e deixe crescer coberto por 1 hora e 30 minutos, até chegar perto da borda.",
-      "temporizador_min": 90
+      "texto": "Divida em 2 bolas, coloque em formas de panetone de 500 g e deixe crescer coberto por 1 hora e 30 minutos a 2 horas, até chegar perto da borda.",
+      "temporizador_min": 120
     },
     {
       "texto": "Preaqueça o forno a 180 °C. Faça um corte em cruz no topo e pincele o ovo batido."
@@ -153,7 +153,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "A massa sem açúcar cresce um pouco mais devagar: em dia frio, deixe crescer dentro do forno desligado com a luz acesa."
+      "texto": "A massa integral sem açúcar cresce devagar e o panetone fica mais denso que o de padaria. Em dia frio, deixe crescer dentro do forno desligado com a luz acesa."
     },
     {
       "tipo": "conservacao",
@@ -162,8 +162,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 212,
-      "carboidratos_g": 31.4
+      "kcal": 202,
+      "carboidratos_g": 29.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -195,6 +195,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido aumentado e tempo de crescimento maior."
   }
 }

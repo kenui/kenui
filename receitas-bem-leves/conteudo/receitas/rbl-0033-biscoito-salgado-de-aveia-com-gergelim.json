@@ -97,7 +97,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Sem farinha integral? Use farinha de trigo comum."
+      "texto": "Sem farinha integral? Use mais 1/2 xícara de aveia em flocos batida no liquidificador."
     },
     {
       "tipo": "conservacao",
@@ -140,6 +140,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica que sugeria farinha de trigo comum trocada por aveia."
   }
 }

@@ -2,17 +2,17 @@
   "id": "rbl-0166",
   "slug": "esfiha-fechada-de-ricota-com-espinafre",
   "nome": "Esfiha fechada de ricota com espinafre",
-  "descricao": "Esfihas fechadas de massa fofinha com fermento biológico, recheadas com ricota, espinafre e limão.",
+  "descricao": "Esfihas fechadas de massa integral com fermento biológico, recheadas com ricota, espinafre e limão.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
     "lanche"
   ],
   "tempo": {
-    "preparo_min": 40,
+    "preparo_min": 42,
     "cozimento_min": 25,
-    "descanso_min": 60,
-    "total_min": 125
+    "descanso_min": 90,
+    "total_min": 157
   },
   "rendimento": {
     "quantidade": 16,
@@ -25,10 +25,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2.5,
       "medida": "xicara",
-      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -40,9 +40,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
+      "quantidade": 0.875,
       "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite morno"
+      "texto": "3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno"
     },
     {
       "grupo": "Massa",
@@ -124,12 +124,12 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture o leite morno com o fermento. Junte o óleo, o sal e a farinha aos poucos e sove por 8 minutos, até a massa ficar lisa e macia.",
-      "temporizador_min": 8
+      "texto": "Numa tigela, misture o leite morno com o fermento. Junte o óleo, o sal e a farinha integral aos poucos e sove por 10 minutos, até a massa ficar lisa e macia. Ela fica um pouco grudenta: não junte mais farinha.",
+      "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer em lugar sem vento por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer em lugar sem vento por 1 hora e meia, até crescer bem. A massa integral cresce menos e não chega a dobrar.",
+      "temporizador_min": 90
     },
     {
       "texto": "Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos. Junte o espinafre e mexa até murchar. Deixe esfriar e esprema."
@@ -163,11 +163,11 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 1 xícara de farinha integral e 1 e 1/2 xícara de farinha branca."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida no liquidificador: a esfiha fica mais macia."
     },
     {
       "tipo": "dica",
-      "texto": "A massa cresce sem nenhum adoçante: só demora um pouco mais em dia frio."
+      "texto": "A massa cresce sem nenhum adoçante: só demora um pouco mais em dia frio. Com farinha integral, o pão fica mais denso que o de padaria."
     },
     {
       "tipo": "conservacao",
@@ -176,8 +176,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 290,
-      "carboidratos_g": 33.2
+      "kcal": 279,
+      "carboidratos_g": 31
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -190,7 +190,7 @@
   },
   "ilustracao": {
     "prato_base": "bolinhos_salgados",
-    "massa": null,
+    "massa": "integral",
     "cobertura": null,
     "recheio": "ricota e espinafre",
     "enfeites": [
@@ -204,11 +204,12 @@
     "termos_extras": [
       "esfirra de ricota",
       "esfiha de espinafre",
-      "esfiha fechada"
+      "esfiha fechada",
+      "esfiha integral"
     ]
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido e tempo de crescimento ajustados."
   }
 }

@@ -2,7 +2,7 @@
   "id": "rbl-0381",
   "slug": "pao-de-lo",
   "nome": "Pão de ló",
-  "descricao": "Massa clássica de pão de ló, alta e aerada, para comer pura ou rechear.",
+  "descricao": "Massa de pão de ló com farinha integral, alta e aerada, para comer pura ou rechear.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -53,10 +53,10 @@
       "texto": "1 colher (chá) de essência de baunilha"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral fina"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -81,7 +81,7 @@
       "texto": "Desligue a batedeira e misture a água e a baunilha com um batedor manual."
     },
     {
-      "texto": "Peneire a farinha com o fermento sobre a massa e misture com uma espátula, de baixo para cima, sem bater."
+      "texto": "Peneire a farinha integral com o fermento sobre a massa, devolva à massa o farelo que ficar na peneira e misture com uma espátula, de baixo para cima, sem bater."
     },
     {
       "texto": "Despeje na forma e asse por 25 a 30 minutos, até dourar e voltar quando você aperta de leve.",
@@ -107,6 +107,10 @@
     },
     {
       "tipo": "dica",
+      "texto": "Com farinha integral o pão de ló fica um pouco mais baixo e com cor mais morena. Bata bem as claras e misture a farinha com delicadeza para não perder o ar."
+    },
+    {
+      "tipo": "dica",
       "texto": "Bata o eritritol no liquidificador até virar pó: em cristais ele pesa a espuma."
     },
     {
@@ -116,8 +120,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 75,
-      "carboidratos_g": 10
+      "kcal": 71,
+      "carboidratos_g": 9.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -147,6 +151,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral fina, peneirada; preparo ajustado."
   }
 }

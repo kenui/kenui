@@ -39,10 +39,10 @@
       "texto": "2 ovos"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "aveia-em-flocos",
       "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de aveia em flocos finos"
     },
     {
       "ingrediente": "eritritol",
@@ -84,7 +84,8 @@
       "texto": "Numa tigela, amasse o cottage com um garfo e misture os ovos, o eritritol, a baunilha e o sal."
     },
     {
-      "texto": "Junte a farinha e o fermento e mexa até formar uma massa grossa."
+      "texto": "Bata a aveia no liquidificador até virar farinha. Junte ao cottage com o fermento e mexa até formar uma massa grossa. Deixe descansar 2 minutos.",
+      "temporizador_min": 2
     },
     {
       "texto": "Unte uma frigideira antiaderente com um pouco da manteiga e aqueça em fogo baixo."
@@ -109,7 +110,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use 1/2 xícara de aveia em flocos finos no lugar da farinha."
+      "texto": "Use 1/2 xícara de farinha de trigo integral no lugar da aveia."
     },
     {
       "tipo": "conservacao",
@@ -118,8 +119,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 211,
-      "carboidratos_g": 19.5
+      "kcal": 189,
+      "carboidratos_g": 12.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -128,7 +129,7 @@
   },
   "etiquetas": {
     "sem_acucar_adicionado": true,
-    "low_carb": false
+    "low_carb": true
   },
   "ilustracao": {
     "prato_base": "panqueca_pilha",
@@ -151,6 +152,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por aveia em flocos batida."
   }
 }

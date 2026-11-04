@@ -33,9 +33,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 1,
+      "quantidade": 1.125,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite"
     },
     {
       "ingrediente": "oleo",
@@ -60,10 +60,10 @@
       "texto": "2 xícaras (chá) de fubá"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "erva-doce",
@@ -86,7 +86,7 @@
       "texto": "Com um batedor, misture os ovos, o leite, o óleo e o eritritol."
     },
     {
-      "texto": "Junte o fubá, a farinha e a erva-doce e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Junte o fubá, a farinha integral e a erva-doce e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Distribua nas forminhas até 3/4 da altura. Se quiser, polvilhe um pouco de fubá por cima."
@@ -117,8 +117,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 178,
-      "carboidratos_g": 20.6
+      "kcal": 176,
+      "carboidratos_g": 20.2
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -150,6 +150,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

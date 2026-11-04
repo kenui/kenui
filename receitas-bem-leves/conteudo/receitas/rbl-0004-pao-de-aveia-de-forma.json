@@ -2,7 +2,7 @@
   "id": "rbl-0004",
   "slug": "pao-de-aveia-de-forma",
   "nome": "Pão de aveia de forma",
-  "descricao": "Pão caseiro de forma com aveia, macio e bom para torrar, com massa sem açúcar.",
+  "descricao": "Pão caseiro de forma com farinha integral e aveia, de miolo firme e bom para torrar, com massa sem açúcar.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 25,
     "cozimento_min": 35,
-    "descanso_min": 100,
-    "total_min": 160
+    "descanso_min": 125,
+    "total_min": 185
   },
   "rendimento": {
     "quantidade": 12,
@@ -27,10 +27,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2.5,
       "medida": "xicara",
-      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "aveia-em-flocos",
@@ -46,9 +46,9 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 300,
+      "quantidade": 340,
       "medida": "ml",
-      "texto": "1 e 1/4 xícara (300 ml) de água morna"
+      "texto": "1 e 1/3 xícara (340 ml) de água morna"
     },
     {
       "ingrediente": "azeite",
@@ -73,26 +73,26 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela grande, misture a farinha, a aveia e o fermento."
+      "texto": "Numa tigela grande, misture a farinha integral, a aveia e o fermento."
     },
     {
-      "texto": "Junte a água morna e o azeite e misture com uma colher até a massa juntar.",
+      "texto": "Junte a água morna e o azeite e misture com uma colher até a massa juntar. Ela fica um pouco mais úmida que a de pão branco: é assim mesmo.",
       "aviso": "A água deve estar morna, não quente, para não matar o fermento."
     },
     {
-      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica.",
+      "texto": "Acrescente o sal e sove por 8 a 10 minutos, até a massa ficar mais lisa e elástica. Se grudar, unte as mãos com azeite em vez de pôr mais farinha.",
       "temporizador_min": 10
     },
     {
-      "texto": "Volte a massa para a tigela, cubra com um pano e deixe crescer por cerca de 1 hora, até dobrar de tamanho.",
-      "temporizador_min": 60
+      "texto": "Volte a massa para a tigela, cubra com um pano e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de tamanho.",
+      "temporizador_min": 75
     },
     {
       "texto": "Unte uma forma de bolo inglês de cerca de 25 cm. Abra a massa, enrole como um rocambole e coloque na forma com a emenda para baixo."
     },
     {
-      "texto": "Pincele um pouco de água por cima, polvilhe a aveia e deixe crescer mais 40 minutos, coberta.",
-      "temporizador_min": 40
+      "texto": "Pincele um pouco de água por cima, polvilhe a aveia e deixe crescer mais 50 minutos, coberta.",
+      "temporizador_min": 50
     },
     {
       "texto": "Nos últimos 15 minutos de crescimento, preaqueça o forno a 200 °C."
@@ -113,11 +113,11 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral e acrescente 2 colheres (sopa) de água."
+      "texto": "Troque 1/2 xícara da farinha integral por mais aveia em flocos e acrescente 2 colheres (sopa) de água: o miolo fica mais macio."
     },
     {
       "tipo": "dica",
-      "texto": "Sem açúcar o fermento trabalha um pouco mais devagar: é normal levar 1 hora para a massa crescer."
+      "texto": "Com farinha integral e sem açúcar, o fermento trabalha mais devagar: a massa pode levar até 1 hora e 15 minutos para crescer, e o pão fica mais denso que o de padaria."
     },
     {
       "tipo": "conservacao",
@@ -126,8 +126,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 143,
-      "carboidratos_g": 24.4
+      "kcal": 134,
+      "carboidratos_g": 22.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -159,6 +159,6 @@
   },
   "revisao": {
     "status": "piloto",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água e tempo de crescimento ajustados."
   }
 }

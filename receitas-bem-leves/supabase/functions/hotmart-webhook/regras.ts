@@ -11,6 +11,20 @@ export function decidir(tipo: string): 'liberar' | 'bloquear' | 'ignorar' {
   return 'ignorar'; // ex.: PURCHASE_PROTEST (pedido de reembolso em análise) não bloqueia.
 }
 
+export const PRODUTOS_INTERNOS = ['app', 'caderno', 'cardapio12', 'marmitas'];
+
+// Converte o id do produto na Hotmart nos produtos internos que ele libera.
+// mapaJson: '{"1234":["app"],"5678":["cardapio12","marmitas"]}'. Sem mapa (ou mapa inválido), tudo é "app",
+// como era antes do funil. Com mapa, um id que não está nele não é deste app e é ignorado.
+export function produtosDoEvento(produtoId: string | undefined, mapaJson: string | undefined | null): string[] {
+  let mapa: Record<string, unknown> | null = null;
+  try { mapa = mapaJson ? JSON.parse(mapaJson) : null; } catch { mapa = null; }
+  if (!mapa || typeof mapa !== 'object' || !Object.keys(mapa).length) return ['app'];
+  const lista = mapa[String(produtoId ?? '')];
+  if (!Array.isArray(lista)) return [];
+  return lista.filter((p) => PRODUTOS_INTERNOS.includes(p));
+}
+
 // Formato 2.0.0: { id, event, version, data: { buyer: { email, name }, purchase: { transaction }, product: { id } } }
 // deno-lint-ignore no-explicit-any
 export function lerEvento(corpo: any): Evento | null {

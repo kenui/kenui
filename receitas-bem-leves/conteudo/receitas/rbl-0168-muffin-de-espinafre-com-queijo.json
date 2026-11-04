@@ -2,7 +2,7 @@
   "id": "rbl-0168",
   "slug": "muffin-de-espinafre-com-queijo",
   "nome": "Muffin de espinafre com queijo",
-  "descricao": "Muffin salgado e fofinho de espinafre e queijo minas meia cura, com um toque de noz-moscada.",
+  "descricao": "Muffin salgado de farinha integral e aveia com espinafre e queijo minas meia cura, com um toque de noz-moscada.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -42,10 +42,16 @@
       "texto": "3 colheres (sopa) de azeite"
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos finos"
     },
     {
       "ingrediente": "sal",
@@ -86,7 +92,7 @@
       "texto": "Numa tigela, bata os ovos, o iogurte e o azeite com um batedor."
     },
     {
-      "texto": "Junte a farinha, o sal e a noz-moscada e misture até ficar liso."
+      "texto": "Junte a farinha integral, a aveia, o sal e a noz-moscada e misture até ficar liso. Deixe descansar 5 minutos para a aveia hidratar."
     },
     {
       "texto": "Acrescente o espinafre e o queijo. Por último, misture o fermento."
@@ -114,14 +120,18 @@
       "texto": "Troque o queijo minas meia cura por parmesão ou mussarela."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia."
+    },
+    {
       "tipo": "conservacao",
       "texto": "Duram 3 dias na geladeira. Aqueça 1 minuto no micro-ondas ou 5 minutos no forno."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 285,
-      "carboidratos_g": 21.6
+      "kcal": 284,
+      "carboidratos_g": 19.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -153,6 +163,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral e aveia; líquido mantido."
   }
 }

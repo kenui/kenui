@@ -44,6 +44,12 @@
       "texto": "1 pote de iogurte natural integral (170 g)"
     },
     {
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de leite"
+    },
+    {
       "ingrediente": "eritritol",
       "quantidade": 0.5,
       "medida": "xicara",
@@ -54,10 +60,10 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "aveia-em-flocos",
@@ -95,10 +101,10 @@
       "texto": "Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel."
     },
     {
-      "texto": "Com um batedor, misture os ovos, o óleo, o iogurte e o eritritol."
+      "texto": "Com um batedor, misture os ovos, o óleo, o iogurte, o leite e o eritritol."
     },
     {
-      "texto": "Junte a farinha, a aveia, a canela e o fermento e mexa só até misturar."
+      "texto": "Junte a farinha integral, a aveia, a canela e o fermento e mexa só até misturar."
     },
     {
       "texto": "Acrescente a maçã e as nozes."
@@ -120,7 +126,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha de trigo por farinha de trigo integral."
+      "texto": "Troque a farinha integral por mais 1 xícara (chá) de aveia em flocos batida no liquidificador."
     },
     {
       "tipo": "conservacao",
@@ -129,8 +135,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 166,
-      "carboidratos_g": 16.2
+      "kcal": 164,
+      "carboidratos_g": 15.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -164,6 +170,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

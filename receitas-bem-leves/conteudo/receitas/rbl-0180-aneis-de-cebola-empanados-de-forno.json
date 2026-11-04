@@ -29,10 +29,10 @@
       "texto": "2 cebolas grandes (300 g)"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farelo-de-aveia",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farelo de aveia"
     },
     {
       "ingrediente": "ovo",
@@ -86,10 +86,10 @@
       "aviso": "Use faca afiada com cuidado."
     },
     {
-      "texto": "Monte 3 pratos: um com a farinha e o sal; outro com o ovo batido com o leite; outro com a aveia, o parmesão e a páprica."
+      "texto": "Monte 3 pratos: um com o farelo de aveia e o sal; outro com o ovo batido com o leite; outro com a aveia, o parmesão e a páprica."
     },
     {
-      "texto": "Passe cada anel na farinha, depois no ovo e por último na mistura de aveia, apertando bem."
+      "texto": "Passe cada anel no farelo, depois no ovo e por último na mistura de aveia, apertando bem."
     },
     {
       "texto": "Arrume na assadeira sem encostar e pincele com o restante do azeite."
@@ -107,7 +107,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a aveia por farinha de milho ou por farelo de aveia."
+      "texto": "Troque a aveia da última camada por farinha de amêndoas ou por farinha de milho."
     },
     {
       "tipo": "substituicao",
@@ -120,8 +120,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 232,
-      "carboidratos_g": 27.9
+      "kcal": 218,
+      "carboidratos_g": 25.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -154,6 +154,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farelo de aveia; líquido mantido."
   }
 }

@@ -54,10 +54,10 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "colher_sopa",
-      "texto": "2 colheres (sopa) de farinha de trigo"
+      "texto": "2 colheres (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "coco-ralado-seco",
@@ -80,7 +80,7 @@
       "texto": "Junte o leite de coco, a manteiga e o eritritol e misture bem."
     },
     {
-      "texto": "Acrescente a farinha e o coco e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Acrescente a farinha integral e o coco e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até crescer e firmar.",
@@ -102,14 +102,18 @@
       "texto": "Troque o eritritol por xilitol na mesma medida."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 3 colheres (sopa) de aveia em flocos finos."
+    },
+    {
       "tipo": "dica",
       "texto": "Se o meio ainda estiver mole, volte por mais 15 segundos."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 349,
-      "carboidratos_g": 16.6
+      "kcal": 343,
+      "carboidratos_g": 15.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -140,6 +144,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

@@ -39,9 +39,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 1,
+      "quantidade": 1.25,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de leite"
+      "texto": "1 e 1/4 xícara (chá) de leite"
     },
     {
       "ingrediente": "eritritol",
@@ -54,10 +54,10 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1,
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "farinha-de-trigo-integral",
@@ -98,14 +98,17 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador até virar farinha."
     },
     {
       "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
       "temporizador_min": 2
     },
     {
-      "texto": "Numa tigela, misture as duas farinhas, a canela, o gengibre, o cravo e a noz-moscada."
+      "texto": "Numa tigela, misture a aveia batida, a farinha integral, a canela, o gengibre, o cravo e a noz-moscada."
     },
     {
       "texto": "Junte os líquidos e mexa até ficar liso. Misture o fermento por último."
@@ -127,7 +130,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por farinha de trigo branca."
+      "texto": "Sem aveia? Use só farinha de trigo integral, 2 xícaras (chá) no total. O bolo fica um pouco mais denso."
     },
     {
       "tipo": "dica",
@@ -140,8 +143,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 185,
-      "carboidratos_g": 17.2
+      "kcal": 190,
+      "carboidratos_g": 16.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -173,6 +176,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por aveia em flocos batida (metade aveia, metade integral); líquido ajustado."
   }
 }

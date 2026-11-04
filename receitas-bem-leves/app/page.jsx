@@ -14,7 +14,7 @@ const DESTAQUES = [
 ];
 
 function Inicio() {
-  const { pacote, dados } = useApp();
+  const { pacote, dados, extras } = useApp();
   const router = useRouter();
   const [busca, setBusca] = useState('');
   if (!pacote) return null;
@@ -42,6 +42,9 @@ function Inicio() {
       <section className="bloco">
         <div className="secao-titulo"><h2>Seus bônus</h2><Link href="/bonus/">Ver todos</Link></div>
         <div className="cartoes-bonus">
+          {extras.map((x) => (
+            <Link key={x.slug} className="cartao-bonus" href={`/extras/${x.slug}/`}><strong>{x.titulo}</strong><span>{x.resumo}</span></Link>
+          ))}
           {pacote.bonus.slice(0, 2).map((b) => (
             <Link key={b.slug} className="cartao-bonus" href={`/bonus/${b.slug}/`}><strong>{b.titulo}</strong><span>{b.resumo}</span></Link>
           ))}

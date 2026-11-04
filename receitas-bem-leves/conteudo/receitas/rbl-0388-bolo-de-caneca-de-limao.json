@@ -60,10 +60,10 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
     },
     {
       "ingrediente": "raspas-de-limao",
@@ -86,7 +86,7 @@
       "texto": "Junte o suco de limão, o iogurte, o óleo e o eritritol e misture bem."
     },
     {
-      "texto": "Acrescente a farinha e as raspas e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Acrescente a farinha integral e as raspas e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até crescer e firmar.",
@@ -108,14 +108,18 @@
       "texto": "Troque o eritritol por xilitol na mesma medida."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Troque a farinha integral por 4 colheres (sopa) de aveia em flocos finos."
+    },
+    {
       "tipo": "dica",
       "texto": "Rale só a parte verde da casca: a parte branca amarga."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 290,
-      "carboidratos_g": 20.9
+      "kcal": 282,
+      "carboidratos_g": 19.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -146,6 +150,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral."
   }
 }

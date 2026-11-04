@@ -2,7 +2,7 @@
   "id": "rbl-0067",
   "slug": "bolacha-de-agua-e-sal-caseira",
   "nome": "Bolacha de água e sal caseira",
-  "descricao": "Bolacha fininha e crocante, de sabor neutro, como a de pacote, para comer com queijo e pastas.",
+  "descricao": "Bolacha fininha e crocante de farinha integral e aveia, de sabor suave, para comer com queijo e pastas.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -26,10 +26,16 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.5,
+      "medida": "xicara",
+      "texto": "1/2 xícara (chá) de aveia em flocos batida no liquidificador"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -51,14 +57,14 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 0.5,
-      "medida": "xicara",
-      "texto": "1/2 xícara (chá) de água"
+      "quantidade": 135,
+      "medida": "ml",
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de água (135 ml)"
     }
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+      "texto": "Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o fermento e o sal."
     },
     {
       "texto": "Junte o óleo e a água e misture até formar uma massa firme. Se esfarelar, ponha mais 1 colher (sopa) de água."
@@ -71,7 +77,7 @@
       "texto": "Preaqueça o forno a 200 °C."
     },
     {
-      "texto": "Abra a massa com o rolo, bem fina (1 a 2 mm), sobre a bancada enfarinhada."
+      "texto": "Abra a massa com o rolo, bem fina (1 a 2 mm), entre duas folhas de papel-manteiga ou sobre a bancada polvilhada com farinha integral."
     },
     {
       "texto": "Corte quadrados de 5 cm e fure cada um várias vezes com um garfo, para não estufar."
@@ -92,7 +98,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+      "texto": "Use só farinha integral (2 xícaras) no lugar da mistura com aveia: a bolacha fica mais firme e menos quebradiça."
     },
     {
       "tipo": "dica",
@@ -101,12 +107,16 @@
     {
       "tipo": "conservacao",
       "texto": "Guarde em pote bem fechado por até 2 semanas."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Com farinha integral a bolacha fica mais escurinha e com sabor de cereal, diferente da de pacote."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 158,
-      "carboidratos_g": 23.7
+      "kcal": 142,
+      "carboidratos_g": 19.8
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -136,6 +146,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral com um pouco de aveia; água ajustada."
   }
 }

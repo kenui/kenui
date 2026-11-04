@@ -2,7 +2,7 @@
   "id": "rbl-0142",
   "slug": "quiche-de-alho-poro",
   "nome": "Quiche de alho-poró",
-  "descricao": "Quiche de massa amanteigada com aveia e recheio cremoso de alho-poró, ovos e parmesão.",
+  "descricao": "Quiche de massa integral amanteigada com aveia e recheio cremoso de alho-poró, ovos e parmesão.",
   "categoria": "lanches",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -26,10 +26,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1,
       "medida": "xicara",
-      "texto": "1 xícara (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -51,6 +51,13 @@
       "quantidade": 1,
       "medida": "unidade",
       "texto": "1 ovo"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de água gelada"
     },
     {
       "grupo": "Massa",
@@ -118,10 +125,10 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, a aveia e o sal. Junte a manteiga em pedaços e esfarele com as pontas dos dedos."
+      "texto": "Numa tigela, misture a farinha integral, a aveia e o sal. Junte a manteiga em pedaços e esfarele com as pontas dos dedos."
     },
     {
-      "texto": "Acrescente o ovo e amasse só até a massa ficar lisa. Embrulhe em plástico e leve à geladeira por 30 minutos.",
+      "texto": "Acrescente o ovo e a água gelada e amasse só até a massa ficar lisa. A massa integral fica um pouco mais úmida que a comum: não junte mais farinha. Embrulhe em plástico e leve à geladeira por 30 minutos.",
       "temporizador_min": 30
     },
     {
@@ -162,7 +169,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Use farinha de trigo integral no lugar da farinha branca."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida no liquidificador: a massa fica mais leve e mais quebradiça."
     },
     {
       "tipo": "conservacao",
@@ -171,8 +178,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 293,
-      "carboidratos_g": 18.6
+      "kcal": 288,
+      "carboidratos_g": 17.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -205,6 +212,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado (água gelada na massa)."
   }
 }

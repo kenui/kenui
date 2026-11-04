@@ -2,7 +2,7 @@
   "id": "rbl-0056",
   "slug": "pao-de-minuto-de-iogurte",
   "nome": "Pão de minuto de iogurte",
-  "descricao": "Pãozinho rápido de fermento químico e iogurte, que vai direto ao forno, sem esperar crescer.",
+  "descricao": "Pãozinho rápido de farinha integral, fermento químico e iogurte, que vai direto ao forno, sem esperar crescer.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -26,10 +26,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -56,6 +56,12 @@
       "texto": "1 ovo"
     },
     {
+      "ingrediente": "leite-integral",
+      "quantidade": 3,
+      "medida": "colher_sopa",
+      "texto": "3 colheres (sopa) de leite"
+    },
+    {
       "ingrediente": "manteiga",
       "quantidade": 3,
       "medida": "colher_sopa",
@@ -67,13 +73,13 @@
       "texto": "Preaqueça o forno a 200 °C e unte uma assadeira."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal."
     },
     {
-      "texto": "Junte o iogurte, o ovo e a manteiga e misture com as mãos só até formar uma massa macia. Não sove: pão de minuto fica duro se for muito trabalhado."
+      "texto": "Junte o iogurte, o ovo, o leite e a manteiga e misture com as mãos só até formar uma massa macia e um pouco grudenta. Não sove: pão de minuto fica duro se for muito trabalhado."
     },
     {
-      "texto": "Com as mãos enfarinhadas, faça 10 bolinhas e coloque na assadeira, com espaço entre elas."
+      "texto": "Com as mãos untadas com manteiga, faça 10 bolinhas e coloque na assadeira, com espaço entre elas."
     },
     {
       "texto": "Asse por 18 a 20 minutos, até dourar por cima.",
@@ -91,7 +97,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de trigo integral."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida: o pão fica mais macio."
     },
     {
       "tipo": "substituicao",
@@ -100,12 +106,16 @@
     {
       "tipo": "conservacao",
       "texto": "É melhor no mesmo dia. No dia seguinte, aqueça no forno por 5 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Com farinha integral o pãozinho cresce um pouco menos e fica com miolo mais firme."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 138,
-      "carboidratos_g": 19.8
+      "kcal": 132,
+      "carboidratos_g": 18.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -135,6 +145,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite acrescentado."
   }
 }

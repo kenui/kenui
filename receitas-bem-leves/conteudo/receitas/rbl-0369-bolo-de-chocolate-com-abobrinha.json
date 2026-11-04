@@ -53,10 +53,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.75,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo"
+      "texto": "3/4 de xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "cacau-em-po",
@@ -79,7 +85,10 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe cacau."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
     },
     {
       "texto": "Rale a abobrinha no lado fino do ralador. Não esprema: a água dela é o líquido do bolo."
@@ -92,7 +101,7 @@
       "texto": "Junte a abobrinha e misture."
     },
     {
-      "texto": "Acrescente a farinha, o cacau e a canela e mexa até ficar uma massa grossa e lisa. Misture o fermento por último."
+      "texto": "Acrescente a farinha integral, a aveia batida, o cacau e a canela e mexa até ficar uma massa grossa e lisa. Misture o fermento por último."
     },
     {
       "texto": "Espalhe na forma e asse por 35 a 40 minutos, até um palito sair com migalhas secas.",
@@ -114,6 +123,10 @@
       "texto": "Troque a abobrinha por 2 cenouras pequenas raladas fino."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Use 1 e 3/4 de xícara só de farinha de trigo integral no lugar da mistura com aveia."
+    },
+    {
       "tipo": "dica",
       "texto": "Ninguém percebe a abobrinha: ela deixa o bolo úmido e não tem gosto."
     },
@@ -124,8 +137,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 177,
-      "carboidratos_g": 17.5
+      "kcal": 164,
+      "carboidratos_g": 13.7
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -134,7 +147,7 @@
   },
   "etiquetas": {
     "sem_acucar_adicionado": true,
-    "low_carb": false
+    "low_carb": true
   },
   "ilustracao": {
     "prato_base": "bolo_forma",
@@ -155,6 +168,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

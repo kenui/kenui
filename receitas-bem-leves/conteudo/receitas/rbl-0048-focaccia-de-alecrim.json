@@ -2,7 +2,7 @@
   "id": "rbl-0048",
   "slug": "focaccia-de-alecrim",
   "nome": "Focaccia de alecrim",
-  "descricao": "Pão italiano baixo e aerado, regado com azeite e coberto de alecrim, ótimo para acompanhar sopas e saladas.",
+  "descricao": "Pão italiano baixo de farinha integral, regado com azeite e coberto de alecrim, ótimo para acompanhar sopas e saladas.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -13,8 +13,8 @@
   "tempo": {
     "preparo_min": 20,
     "cozimento_min": 25,
-    "descanso_min": 90,
-    "total_min": 135
+    "descanso_min": 115,
+    "total_min": 160
   },
   "rendimento": {
     "quantidade": 1,
@@ -27,10 +27,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -49,9 +49,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "agua",
-      "quantidade": 1.25,
-      "medida": "xicara",
-      "texto": "1 e 1/4 de xícara (chá) de água morna"
+      "quantidade": 340,
+      "medida": "ml",
+      "texto": "1 e 1/3 xícara (chá) de água morna, mais 1 colher (sopa) (340 ml)"
     },
     {
       "grupo": "Massa",
@@ -84,21 +84,21 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o fermento e o sal."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e o sal."
     },
     {
       "texto": "Junte a água morna e 2 colheres (sopa) de azeite e mexa com uma colher até não ter farinha seca. A massa fica mole e grudenta."
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar e formar bolhas.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar e formar bolhas.",
+      "temporizador_min": 75
     },
     {
       "texto": "Unte uma assadeira de 30 x 20 cm com 1 colher (sopa) do azeite da cobertura e despeje a massa. Espalhe com as mãos untadas até os cantos."
     },
     {
-      "texto": "Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 220 °C."
@@ -126,7 +126,7 @@
     },
     {
       "tipo": "dica",
-      "texto": "Massa bem mole é o segredo da focaccia aerada: não ponha mais farinha."
+      "texto": "Massa bem mole é o segredo da focaccia: não ponha mais farinha. Com farinha integral ela fica menos aerada e mais macia, com sabor mais marcante."
     },
     {
       "tipo": "conservacao",
@@ -135,8 +135,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 198,
-      "carboidratos_g": 28.7
+      "kcal": 186,
+      "carboidratos_g": 26.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -168,6 +168,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água e tempo de crescimento ajustados."
   }
 }

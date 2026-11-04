@@ -2,7 +2,7 @@
   "id": "rbl-0043",
   "slug": "paozinho-de-abobora",
   "nome": "Pãozinho de abóbora",
-  "descricao": "Pãozinho alaranjado e fofinho de abóbora, ótimo para o café com queijo branco.",
+  "descricao": "Pãozinho alaranjado e macio de abóbora com farinha integral, ótimo para o café com queijo branco.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 35,
     "cozimento_min": 45,
-    "descanso_min": 90,
-    "total_min": 170
+    "descanso_min": 115,
+    "total_min": 195
   },
   "rendimento": {
     "quantidade": 12,
@@ -33,10 +33,10 @@
       "texto": "1 pedaço de abóbora cabotiá sem casca (300 g)"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3.5,
       "medida": "xicara",
-      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "3 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -58,9 +58,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.25,
+      "quantidade": 0.33,
       "medida": "xicara",
-      "texto": "1/4 de xícara (chá) de leite morno"
+      "texto": "1/3 de xícara (chá) de leite morno"
     },
     {
       "ingrediente": "oleo",
@@ -78,22 +78,22 @@
       "texto": "Numa tigela, misture o purê, o ovo, o leite e o óleo."
     },
     {
-      "texto": "Junte o fermento, o sal e a farinha aos poucos, misturando até a massa desgrudar das mãos. Pode sobrar ou faltar um pouco de farinha, conforme a umidade da abóbora."
+      "texto": "Junte o fermento, o sal e a farinha integral aos poucos, misturando até a massa quase desgrudar das mãos. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr farinha demais."
     },
     {
       "texto": "Sove por 8 minutos, até ficar lisa e macia.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
       "texto": "Divida em 12 partes, faça bolinhas e coloque numa assadeira untada."
     },
     {
-      "texto": "Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -120,12 +120,16 @@
     {
       "tipo": "conservacao",
       "texto": "Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Pode sobrar um pouco da farinha integral, conforme a umidade da abóbora. O pãozinho fica mais firme que o de padaria."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 183,
-      "carboidratos_g": 30.2
+      "kcal": 172,
+      "carboidratos_g": 28.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -157,6 +161,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

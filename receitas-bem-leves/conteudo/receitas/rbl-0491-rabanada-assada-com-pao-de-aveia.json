@@ -2,7 +2,7 @@
   "id": "rbl-0491",
   "slug": "rabanada-assada-com-pao-de-aveia",
   "nome": "Rabanada assada com pão de aveia",
-  "descricao": "Fatias de pão de aveia caseiro molhadas em leite e ovos, assadas até dourar e passadas em canela com eritritol.",
+  "descricao": "Fatias de pão integral de aveia caseiro molhadas em leite e ovos, assadas até dourar e passadas em canela com eritritol.",
   "categoria": "ceia",
   "destaques": [
     "doces_e_bolos"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 55,
-    "descanso_min": 160,
-    "total_min": 255
+    "descanso_min": 190,
+    "total_min": 285
   },
   "rendimento": {
     "quantidade": 16,
@@ -28,10 +28,10 @@
   "ingredientes": [
     {
       "grupo": "Pão de aveia",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2.5,
       "medida": "xicara",
-      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo"
+      "texto": "2 e 1/2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Pão de aveia",
@@ -50,9 +50,9 @@
     {
       "grupo": "Pão de aveia",
       "ingrediente": "agua",
-      "quantidade": 300,
+      "quantidade": 340,
       "medida": "ml",
-      "texto": "1 e 1/4 xícara (300 ml) de água morna"
+      "texto": "1 e 1/3 xícara (340 ml) de água morna"
     },
     {
       "grupo": "Pão de aveia",
@@ -120,18 +120,18 @@
   ],
   "preparo": [
     {
-      "texto": "Pão: misture a farinha, a aveia e o fermento. Junte a água morna e o azeite e misture até a massa juntar."
+      "texto": "Pão: misture a farinha integral, a aveia e o fermento. Junte a água morna e o azeite e misture até a massa juntar. Ela fica úmida: é assim mesmo."
     },
     {
-      "texto": "Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica."
+      "texto": "Acrescente o sal e sove numa bancada polvilhada com farinha integral por 8 a 10 minutos, até a massa ficar lisa e elástica."
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de tamanho.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar de tamanho.",
+      "temporizador_min": 80
     },
     {
-      "texto": "Modele como um rocambole, coloque numa forma de bolo inglês untada e deixe crescer mais 40 minutos, coberta.",
-      "temporizador_min": 40
+      "texto": "Modele como um rocambole, coloque numa forma de bolo inglês untada e deixe crescer mais 50 minutos, coberta.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 200 °C e asse o pão por 30 a 35 minutos, até dourar e soar oco embaixo.",
@@ -167,7 +167,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Use o pão de aveia de forma do app ou pão francês amanhecido. Se comprar pão pronto, confira no rótulo que é sem açúcar."
+      "texto": "Use o pão de aveia de forma do app ou um pão 100% integral amanhecido. Se comprar pão pronto, confira no rótulo que é integral e sem açúcar."
     },
     {
       "tipo": "substituicao",
@@ -184,8 +184,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 299,
-      "carboidratos_g": 39.9
+      "kcal": 286,
+      "carboidratos_g": 37.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -218,6 +218,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral no pão; líquido aumentado e tempo de crescimento maior."
   }
 }

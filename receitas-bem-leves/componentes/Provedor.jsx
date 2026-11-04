@@ -32,6 +32,8 @@ export function Provedor({ children }) {
   const [status, setStatus] = useState('carregando');
   const [pacote, setPacote] = useState(null);
   const [email, setEmail] = useState('');
+  // Produtos extras comprados (caderno, cardapio12, marmitas), no mesmo formato dos bônus.
+  const [extras, setExtras] = useState([]);
   const [dados, setDados] = useState({ favoritos: [], vistas: [], lista: { receitas: [], marcados: [] }, trocas: {} });
   const usuarioId = useRef(null);
   const sincronizar = useRef(null);
@@ -50,6 +52,7 @@ export function Provedor({ children }) {
       }
       if (!bruto) { setStatus('sem_internet'); return; }
       setPacote(prepararPacote(bruto));
+      setExtras(bruto.extras_demo ?? []);
       setEmail('demonstracao@receitasbemleves');
       setStatus('pronto');
       return;
@@ -61,6 +64,7 @@ export function Provedor({ children }) {
     usuarioId.current = session.user.id;
 
     const guardado = await lerGrande('pacote');
+    setExtras((await lerGrande('extras')) ?? []);
     const ultimaConferencia = lerPequeno('conferido_em', 0);
     if (guardado) { setPacote(prepararPacote(guardado)); setStatus('pronto'); }
 
@@ -85,12 +89,22 @@ export function Provedor({ children }) {
         setStatus('pronto');
       }
       carregarDadosDaConta(s, session.user.id);
+      carregarExtras(s);
     } catch {
       // Sem internet: usa o que está guardado, desde que conferido nos últimos 30 dias.
       if (!guardado) setStatus('sem_internet');
       else if (Date.now() - ultimaConferencia > TRINTA_DIAS) setStatus('conferir');
     }
   }, []);
+
+  // A regra do banco só devolve os extras que a pessoa comprou. Sem a tabela ainda, não faz nada.
+  async function carregarExtras(s) {
+    const { data, error } = await s.from('conteudo_extras').select('produto, versao, conteudo');
+    if (error) return;
+    const lista = (data ?? []).map((x) => ({ ...x.conteudo, produto: x.produto }));
+    await gravarGrande('extras', lista);
+    setExtras(lista);
+  }
 
   async function carregarDadosDaConta(s, id) {
     const { data } = await s.from('dados_do_usuario').select('favoritos, trocas').eq('user_id', id).maybeSingle();
@@ -130,10 +144,11 @@ export function Provedor({ children }) {
     await apagarTudo();
     if (!MODO_DEMO) await supabase().auth.signOut().catch(() => {});
     setPacote(null);
+    setExtras([]);
     setStatus(MODO_DEMO ? 'pronto' : 'sem_login');
     if (MODO_DEMO) carregar();
   }, [carregar]);
 
-  const valor = useMemo(() => ({ status, pacote, email, dados, atualizar, sair, recarregar: carregar }), [status, pacote, email, dados, atualizar, sair, carregar]);
+  const valor = useMemo(() => ({ status, pacote, extras, email, dados, atualizar, sair, recarregar: carregar }), [status, pacote, extras, email, dados, atualizar, sair, carregar]);
   return <Contexto.Provider value={valor}>{children}</Contexto.Provider>;
 }

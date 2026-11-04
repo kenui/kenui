@@ -34,9 +34,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "iogurte-natural",
-      "quantidade": 0.5,
+      "quantidade": 0.66,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de iogurte natural"
+      "texto": "2/3 de xícara (chá) de iogurte natural"
     },
     {
       "grupo": "Massa",
@@ -58,10 +58,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -100,7 +100,7 @@
       "texto": "Com um batedor, misture os ovos, o iogurte, o óleo e o eritritol."
     },
     {
-      "texto": "Junte a farinha e o fermento e mexa até formar uma massa grossa."
+      "texto": "Junte a farinha integral e o fermento e mexa até formar uma massa grossa."
     },
     {
       "texto": "Coloque 1 colher (sopa) de massa em cada forminha, ou faça montinhos na assadeira."
@@ -138,8 +138,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 270,
-      "carboidratos_g": 31
+      "kcal": 262,
+      "carboidratos_g": 28.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -171,6 +171,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }

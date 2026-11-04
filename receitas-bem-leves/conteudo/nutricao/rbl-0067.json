@@ -6,15 +6,27 @@
   "metodo": "Soma ingrediente por ingrediente: gramas × valor por 100 g da fonte. Alternativas e itens opcionais não entram.",
   "linhas": [
     {
-      "ingrediente": "farinha-de-trigo",
-      "texto": "2 xícaras (chá) de farinha de trigo",
-      "gramas": 250,
-      "kcal": 900,
-      "carboidratos_g": 187.75,
-      "fonte": "TACO 4ª ed. 35 Farinha, de trigo",
+      "ingrediente": "farinha-de-trigo-integral",
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral",
+      "gramas": 180,
+      "kcal": 612,
+      "carboidratos_g": 129.55,
+      "fonte": "USDA SR Legacy 168893 Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",
       "por_100g": {
-        "kcal": 360,
-        "carboidratos_g": 75.1
+        "kcal": 340,
+        "carboidratos_g": 71.97
+      }
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "texto": "1/2 xícara (chá) de aveia em flocos batida no liquidificador",
+      "gramas": 40.5,
+      "kcal": 159.6,
+      "carboidratos_g": 26.97,
+      "fonte": "TACO 4ª ed. 7 Aveia, flocos, crua",
+      "por_100g": {
+        "kcal": 394,
+        "carboidratos_g": 66.6
       }
     },
     {
@@ -56,8 +68,8 @@
     },
     {
       "ingrediente": "agua",
-      "texto": "1/2 xícara (chá) de água",
-      "gramas": 120,
+      "texto": "1/2 xícara (chá) mais 1 colher (sopa) de água (135 ml)",
+      "gramas": 135,
       "kcal": 0,
       "carboidratos_g": 0,
       "fonte": "Regra do app Água",
@@ -69,11 +81,11 @@
   ],
   "fora_do_calculo": [],
   "total": {
-    "kcal": 1264.8,
-    "carboidratos_g": 189.8
+    "kcal": 1136.4,
+    "carboidratos_g": 158.5
   },
   "por_porcao": {
-    "kcal": 158,
-    "carboidratos_g": 23.7
+    "kcal": 142,
+    "carboidratos_g": 19.8
   }
 }

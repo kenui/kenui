@@ -2,17 +2,17 @@
 
 Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `conteudo/receitas/`.
 
-**500 receitas**, 238 low carb (48%).
+**500 receitas**, 249 low carb (50%).
 
 ## Contagem por categoria
 
 | Categoria | Receitas | Low carb |
 |---|---|---|
-| Café da manhã | 68 | 21 |
-| Pães e substitutos do pão | 52 | 17 |
+| Café da manhã | 68 | 22 |
+| Pães e substitutos do pão | 52 | 18 |
 | Lanches | 100 | 56 |
 | Almoço e jantar | 130 | 80 |
-| Doces e bolos | 120 | 54 |
+| Doces e bolos | 120 | 63 |
 | Ceia | 30 | 10 |
 
 ## Resumo
@@ -22,14 +22,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Pão de frigideira](#rbl-0001) | Pães e substitutos do pão | 1 pão | 173 | 9 g | sim | ✓ (1 aviso) |
 | [Misto quente sem pão](#rbl-0002) | Pães e substitutos do pão | 1 misto | 348 | 4,5 g | sim | ✓ (1 aviso) |
 | [Pão de queijo](#rbl-0003) | Pães e substitutos do pão | 3 pães de queijo | 365 | 45,5 g | não | ✓ |
-| [Pão de aveia de forma](#rbl-0004) | Pães e substitutos do pão | 1 fatia | 143 | 24,4 g | não | ✓ |
+| [Pão de aveia de forma](#rbl-0004) | Pães e substitutos do pão | 1 fatia | 134 | 22,8 g | não | ✓ |
 | [Panquecas de banana](#rbl-0005) | Café da manhã | 4 panquecas pequenas | 243 | 36,7 g | não | ✓ (1 aviso) |
 | [Crepioca de queijo](#rbl-0006) | Café da manhã | 1 crepioca | 237 | 16,4 g | não | ✓ |
 | [Ovos mexidos cremosos com tomate](#rbl-0007) | Café da manhã | 1 prato | 226 | 4 g | sim | ✓ |
 | [Muffin salgado de legumes](#rbl-0008) | Lanches | 2 muffins | 282 | 20,5 g | não | ✓ |
 | [Patê de ricota com ervas e palitos de legumes](#rbl-0009) | Lanches | 3 colheres (sopa) de patê e 1/4 dos palitos | 141 | 6,6 g | sim | ✓ |
 | [Vitamina de morango](#rbl-0010) | Lanches | 1 copo de 200 ml | 106 | 12,5 g | sim | ✓ |
-| [Panqueca salgada de frango](#rbl-0011) | Almoço e jantar | 2 panquecas | 435 | 31,8 g | não | ✓ (1 aviso) |
+| [Panqueca salgada de frango](#rbl-0011) | Almoço e jantar | 2 panquecas | 430 | 30,3 g | não | ✓ (1 aviso) |
 | [Frango assado com legumes](#rbl-0012) | Almoço e jantar | 2 sobrecoxas com legumes | 432 | 11,1 g | sim | ✓ |
 | [Sopa de abóbora com gengibre](#rbl-0013) | Almoço e jantar | 1 prato fundo (cerca de 400 ml) | 121 | 19,8 g | não | ✓ |
 | [Escondidinho de couve-flor com carne moída](#rbl-0014) | Almoço e jantar | 1 pedaço (1/5 da travessa) | 272 | 9,9 g | sim | ✓ |
@@ -45,48 +45,48 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Pão de frigideira de ervas](#rbl-0024) | Pães e substitutos do pão | 1 pão | 239 | 12 g | sim | ✓ |
 | [Pão de caneca de queijo](#rbl-0025) | Pães e substitutos do pão | 1 pão | 310 | 7,4 g | sim | ✓ |
 | [Pão de caneca integral com gergelim](#rbl-0026) | Pães e substitutos do pão | 1 pão | 226 | 20,1 g | não | ✓ |
-| [Pão de caneca de fubá com queijo](#rbl-0027) | Pães e substitutos do pão | 1 pão | 262 | 21,6 g | não | ✓ |
+| [Pão de caneca de fubá com queijo](#rbl-0027) | Pães e substitutos do pão | 1 pão | 264 | 21,5 g | não | ✓ |
 | [Pão de queijo de frigideira](#rbl-0028) | Pães e substitutos do pão | 1 pão | 293 | 22,9 g | não | ✓ |
 | [Pão de queijo de abóbora](#rbl-0029) | Pães e substitutos do pão | 3 pães de queijo | 225 | 30,7 g | não | ✓ |
 | [Chipa](#rbl-0030) | Pães e substitutos do pão | 2 chipas | 208 | 22,9 g | não | ✓ |
 | [Biscoito de polvilho assado](#rbl-0031) | Pães e substitutos do pão | 5 biscoitos | 243 | 34,9 g | não | ✓ |
-| [Palitos de queijo assados](#rbl-0032) | Pães e substitutos do pão | 5 palitos | 214 | 16,2 g | não | ✓ |
+| [Palitos de queijo assados](#rbl-0032) | Pães e substitutos do pão | 5 palitos | 207 | 14,9 g | sim | ✓ |
 | [Biscoito salgado de aveia com gergelim](#rbl-0033) | Pães e substitutos do pão | 5 biscoitos | 173 | 17,2 g | não | ✓ |
 | [Crackers de sementes](#rbl-0034) | Pães e substitutos do pão | 4 pedaços | 179 | 8,8 g | sim | ✓ |
 | [Wrap de aveia](#rbl-0035) | Pães e substitutos do pão | 1 wrap | 180 | 13,2 g | sim | ✓ |
 | [Wrap de couve-flor](#rbl-0036) | Pães e substitutos do pão | 2 wraps | 165 | 8,3 g | sim | ✓ |
 | [Wrap de ovo com espinafre](#rbl-0037) | Pães e substitutos do pão | 1 wrap | 191 | 2,5 g | sim | ✓ |
-| [Tortilha de farinha integral](#rbl-0038) | Pães e substitutos do pão | 1 tortilha | 166 | 22,4 g | não | ✓ |
-| [Pão sírio caseiro](#rbl-0039) | Pães e substitutos do pão | 1 pão | 202 | 35,6 g | não | ✓ |
-| [Pão de hambúrguer caseiro](#rbl-0040) | Pães e substitutos do pão | 1 pão | 241 | 37,2 g | não | ✓ |
-| [Pão integral caseiro](#rbl-0041) | Pães e substitutos do pão | 1 fatia | 157 | 26,5 g | não | ✓ |
-| [Pão de centeio](#rbl-0042) | Pães e substitutos do pão | 1 fatia | 134 | 24 g | não | ✓ |
-| [Pãozinho de abóbora](#rbl-0043) | Pães e substitutos do pão | 1 pãozinho | 183 | 30,2 g | não | ✓ |
-| [Pão de batata-doce com alecrim](#rbl-0044) | Pães e substitutos do pão | 1 fatia | 175 | 29,7 g | não | ✓ |
-| [Pãozinho de mandioquinha](#rbl-0045) | Pães e substitutos do pão | 1 pãozinho | 172 | 29,8 g | não | ✓ |
-| [Pão de cenoura de liquidificador](#rbl-0046) | Pães e substitutos do pão | 1 fatia | 203 | 32,8 g | não | ✓ |
-| [Pão trançado de queijo e orégano](#rbl-0047) | Pães e substitutos do pão | 1 fatia | 192 | 25,1 g | não | ✓ |
-| [Focaccia de alecrim](#rbl-0048) | Pães e substitutos do pão | 1 pedaço | 198 | 28,7 g | não | ✓ (1 aviso) |
+| [Tortilha de farinha integral](#rbl-0038) | Pães e substitutos do pão | 1 tortilha | 162 | 21,8 g | não | ✓ |
+| [Pão sírio caseiro](#rbl-0039) | Pães e substitutos do pão | 1 pão | 188 | 32,9 g | não | ✓ |
+| [Pão de hambúrguer caseiro](#rbl-0040) | Pães e substitutos do pão | 1 pão | 227 | 34,5 g | não | ✓ |
+| [Pão integral caseiro](#rbl-0041) | Pães e substitutos do pão | 1 fatia | 152 | 25,6 g | não | ✓ (1 aviso) |
+| [Pão de centeio](#rbl-0042) | Pães e substitutos do pão | 1 fatia | 128 | 23 g | não | ✓ |
+| [Pãozinho de abóbora](#rbl-0043) | Pães e substitutos do pão | 1 pãozinho | 172 | 28,1 g | não | ✓ |
+| [Pão de batata-doce com alecrim](#rbl-0044) | Pães e substitutos do pão | 1 fatia | 165 | 27,9 g | não | ✓ |
+| [Pãozinho de mandioquinha](#rbl-0045) | Pães e substitutos do pão | 1 pãozinho | 161 | 27,9 g | não | ✓ |
+| [Pão de cenoura de liquidificador](#rbl-0046) | Pães e substitutos do pão | 1 fatia | 189 | 30,3 g | não | ✓ |
+| [Pão trançado de queijo e orégano](#rbl-0047) | Pães e substitutos do pão | 1 fatia | 182 | 23,3 g | não | ✓ |
+| [Focaccia de alecrim](#rbl-0048) | Pães e substitutos do pão | 1 pedaço | 186 | 26,5 g | não | ✓ (2 aviso) |
 | [Pão de couve-flor](#rbl-0049) | Pães e substitutos do pão | 1 fatia | 136 | 4,7 g | sim | ✓ |
 | [Pão de nuvem](#rbl-0050) | Pães e substitutos do pão | 2 discos | 123 | 1,8 g | sim | ✓ |
 | [Pão de amêndoas](#rbl-0051) | Pães e substitutos do pão | 1 fatia | 185 | 4,7 g | sim | ✓ |
 | [Pão de queijo sem polvilho](#rbl-0052) | Pães e substitutos do pão | 3 bolinhas | 256 | 4,6 g | sim | ✓ |
 | [Pão de linhaça de forma](#rbl-0053) | Pães e substitutos do pão | 1 fatia | 166 | 8,4 g | sim | ✓ |
-| [Broa de fubá salgada com erva-doce](#rbl-0054) | Pães e substitutos do pão | 1 fatia | 221 | 25,6 g | não | ✓ |
+| [Broa de fubá salgada com erva-doce](#rbl-0054) | Pães e substitutos do pão | 1 fatia | 220 | 25,1 g | não | ✓ |
 | [Broinha de fubá com queijo](#rbl-0055) | Pães e substitutos do pão | 3 broinhas | 236 | 27,8 g | não | ✓ (1 aviso) |
-| [Pão de minuto de iogurte](#rbl-0056) | Pães e substitutos do pão | 1 pãozinho | 138 | 19,8 g | não | ✓ (1 aviso) |
-| [Pãozinho de cebola](#rbl-0057) | Pães e substitutos do pão | 1 pãozinho | 182 | 26,8 g | não | ✓ |
-| [Pãozinho de espinafre](#rbl-0058) | Pães e substitutos do pão | 1 pãozinho | 181 | 28 g | não | ✓ |
+| [Pão de minuto de iogurte](#rbl-0056) | Pães e substitutos do pão | 1 pãozinho | 132 | 18,5 g | não | ✓ |
+| [Pãozinho de cebola](#rbl-0057) | Pães e substitutos do pão | 1 pãozinho | 172 | 24,9 g | não | ✓ |
+| [Pãozinho de espinafre](#rbl-0058) | Pães e substitutos do pão | 1 pãozinho | 168 | 25,8 g | não | ✓ |
 | [Pão de queijo de liquidificador](#rbl-0059) | Pães e substitutos do pão | 3 pães de queijo | 259 | 23,2 g | não | ✓ |
 | [Torradas de batata-doce](#rbl-0060) | Pães e substitutos do pão | 4 fatias | 149 | 28,4 g | não | ✓ |
 | [Lascas crocantes de parmesão](#rbl-0061) | Pães e substitutos do pão | 4 lascas | 114 | 0,6 g | sim | ✓ |
 | [Croutons de polenta](#rbl-0062) | Pães e substitutos do pão | 1/2 xícara | 112 | 16,2 g | não | ✓ |
 | [Cuscuz de milho nordestino](#rbl-0063) | Pães e substitutos do pão | 1 fatia (1/4 do cuscuz) | 245 | 49,4 g | não | ✓ |
-| [Grissini integral](#rbl-0064) | Pães e substitutos do pão | 3 palitos | 167 | 23,2 g | não | ✓ |
-| [Pão de milho verde](#rbl-0065) | Pães e substitutos do pão | 1 pãozinho | 218 | 34,6 g | não | ✓ |
+| [Grissini integral](#rbl-0064) | Pães e substitutos do pão | 3 palitos | 162 | 22,3 g | não | ✓ |
+| [Pão de milho verde](#rbl-0065) | Pães e substitutos do pão | 1 pãozinho | 206 | 32,5 g | não | ✓ |
 | [Pão de abobrinha](#rbl-0066) | Pães e substitutos do pão | 1 fatia | 133 | 8,1 g | sim | ✓ |
-| [Bolacha de água e sal caseira](#rbl-0067) | Pães e substitutos do pão | 5 bolachas | 158 | 23,7 g | não | ✓ |
-| [Pão de batata recheado com frango](#rbl-0068) | Pães e substitutos do pão | 1 pão | 193 | 27 g | não | ✓ |
+| [Bolacha de água e sal caseira](#rbl-0067) | Pães e substitutos do pão | 5 bolachas | 142 | 19,8 g | não | ✓ |
+| [Pão de batata recheado com frango](#rbl-0068) | Pães e substitutos do pão | 1 pão | 184 | 25,2 g | não | ✓ |
 | [Omelete de espinafre com queijo branco](#rbl-0069) | Café da manhã | 1 omelete | 267 | 3,4 g | sim | ✓ |
 | [Omelete de abobrinha com parmesão](#rbl-0070) | Café da manhã | 1 omelete | 216 | 4,1 g | sim | ✓ |
 | [Omelete suflê de queijo](#rbl-0071) | Café da manhã | 1 omelete | 266 | 2,4 g | sim | ✓ |
@@ -136,12 +136,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Overnight oats de banana e pasta de amendoim](#rbl-0115) | Café da manhã | 1 pote | 406 | 51,2 g | não | ✓ |
 | [Overnight oats de maçã e canela](#rbl-0116) | Café da manhã | 1 pote | 351 | 48,3 g | não | ✓ |
 | [Overnight oats de cacau com morango](#rbl-0117) | Café da manhã | 1 pote | 350 | 47,2 g | não | ✓ |
-| [Panquecas de iogurte](#rbl-0118) | Café da manhã | 2 panquecas | 216 | 33 g | não | ✓ |
+| [Panquecas de iogurte](#rbl-0118) | Café da manhã | 2 panquecas | 199 | 27,4 g | não | ✓ |
 | [Panquecas de abóbora com canela](#rbl-0119) | Café da manhã | 2 a 3 panquecas | 166 | 20,6 g | não | ✓ |
-| [Panquecas de cottage](#rbl-0120) | Café da manhã | 3 panquecas | 211 | 19,5 g | não | ✓ |
+| [Panquecas de cottage](#rbl-0120) | Café da manhã | 3 panquecas | 189 | 12,8 g | sim | ✓ |
 | [Panqueca de aveia com espinafre e queijo](#rbl-0121) | Café da manhã | 2 panquecas | 286 | 15,4 g | não | ✓ |
-| [Panqueca de milho com queijo](#rbl-0122) | Café da manhã | 4 panquecas | 300 | 35,1 g | não | ✓ |
-| [Waffle caseiro](#rbl-0123) | Café da manhã | 1 waffle | 223 | 28,9 g | não | ✓ |
+| [Panqueca de milho com queijo](#rbl-0122) | Café da manhã | 4 panquecas | 295 | 33,6 g | não | ✓ |
+| [Waffle caseiro](#rbl-0123) | Café da manhã | 1 waffle | 205 | 23,2 g | não | ✓ |
 | [Waffle de queijo](#rbl-0124) | Café da manhã | 2 waffles pequenos | 270 | 6 g | sim | ✓ |
 | [Queijo minas grelhado com tomate e orégano](#rbl-0125) | Café da manhã | 2 fatias com tomate | 323 | 7,1 g | sim | ✓ |
 | [Banana-da-terra grelhada com queijo](#rbl-0126) | Café da manhã | 2 fatias | 241 | 34,8 g | não | ✓ |
@@ -152,24 +152,24 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Salada de frutas com laranja](#rbl-0131) | Café da manhã | 1 taça | 105 | 26,7 g | não | ✓ |
 | [Mingau de tapioca com canela](#rbl-0132) | Café da manhã | 1 tigela | 287 | 46 g | não | ✓ |
 | [Pão de batata-doce na frigideira](#rbl-0133) | Café da manhã | 1 pão | 291 | 44 g | não | ✓ |
-| [Coxinha de batata com frango de forno](#rbl-0134) | Lanches | 2 coxinhas | 215 | 22 g | não | ✓ (1 aviso) |
+| [Coxinha de batata com frango de forno](#rbl-0134) | Lanches | 2 coxinhas | 212 | 21,5 g | não | ✓ (1 aviso) |
 | [Bolinho de mandioquinha com carne](#rbl-0135) | Lanches | 2 bolinhos | 176 | 22,6 g | não | ✓ |
 | [Esfiha aberta com massa de queijo](#rbl-0136) | Lanches | 2 esfihas | 337 | 11,2 g | sim | ✓ |
-| [Empadinha de frango de liquidificador](#rbl-0137) | Lanches | 2 empadinhas | 386 | 30 g | não | ✓ |
+| [Empadinha de frango de liquidificador](#rbl-0137) | Lanches | 2 empadinhas | 379 | 28,4 g | não | ✓ |
 | [Enroladinho de presunto e queijo](#rbl-0138) | Lanches | 3 enroladinhos | 312 | 9,4 g | sim | ✓ |
 | [Bolinho de bacalhau de forno](#rbl-0139) | Lanches | 3 bolinhos | 182 | 14,5 g | sim | ✓ |
-| [Bolinho de arroz de forno](#rbl-0140) | Lanches | 4 bolinhos | 252 | 29,1 g | não | ✓ |
+| [Bolinho de arroz de forno](#rbl-0140) | Lanches | 4 bolinhos | 250 | 28,7 g | não | ✓ |
 | [Kibe de forno](#rbl-0141) | Lanches | 1 pedaço (1/8 da travessa) | 194 | 14,7 g | sim | ✓ |
-| [Quiche de alho-poró](#rbl-0142) | Lanches | 1 fatia (1/8 da quiche) | 293 | 18,6 g | não | ✓ |
-| [Tortinha de palmito](#rbl-0143) | Lanches | 2 tortinhas | 266 | 27,2 g | não | ✓ |
-| [Torta de liquidificador de sardinha](#rbl-0144) | Lanches | 1 pedaço (1/10 da torta) | 289 | 22,2 g | não | ✓ |
-| [Bolinha de queijo assada](#rbl-0145) | Lanches | 4 bolinhas | 286 | 27,7 g | não | ✓ |
+| [Quiche de alho-poró](#rbl-0142) | Lanches | 1 fatia (1/8 da quiche) | 288 | 17,6 g | não | ✓ |
+| [Tortinha de palmito](#rbl-0143) | Lanches | 2 tortinhas | 263 | 26,5 g | não | ✓ |
+| [Torta de liquidificador de sardinha](#rbl-0144) | Lanches | 1 pedaço (1/10 da torta) | 283 | 21 g | não | ✓ |
+| [Bolinha de queijo assada](#rbl-0145) | Lanches | 4 bolinhas | 281 | 26,5 g | não | ✓ |
 | [Pizza de frigideira com massa de iogurte](#rbl-0146) | Lanches | 1/2 pizza | 339 | 37,7 g | não | ✓ |
 | [Pizza de couve-flor](#rbl-0147) | Lanches | 1/2 pizza | 361 | 13,7 g | sim | ✓ |
 | [Chips de abobrinha com parmesão](#rbl-0148) | Lanches | 1/2 xícara | 72 | 4,5 g | sim | ✓ |
 | [Chips de batata-doce assados](#rbl-0149) | Lanches | 3/4 de xícara | 150 | 28,7 g | não | ✓ (1 aviso) |
 | [Chips de couve no forno](#rbl-0150) | Lanches | 1 e 1/3 xícara | 70 | 2,4 g | sim | ✓ |
-| [Falafel de forno com molho de iogurte](#rbl-0151) | Lanches | 4 falafels com molho | 242 | 29,9 g | não | ✓ |
+| [Falafel de forno com molho de iogurte](#rbl-0151) | Lanches | 4 falafels com molho | 241 | 28,9 g | não | ✓ |
 | [Patê de atum com rodelas de pepino](#rbl-0152) | Lanches | 3 colheres (sopa) de patê com 1/4 do pepino | 86 | 2,8 g | sim | ✓ |
 | [Patê de frango em folhas de alface](#rbl-0153) | Lanches | 2 barquinhas | 162 | 2,5 g | sim | ✓ |
 | [Homus com palitos de cenoura](#rbl-0154) | Lanches | 1/3 de xícara de homus com 1/2 cenoura | 192 | 19,2 g | não | ✓ |
@@ -179,14 +179,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Guacamole com palitos de pepino](#rbl-0158) | Lanches | 1/2 xícara de guacamole com 1/4 do pepino | 92 | 9,1 g | sim | ✓ |
 | [Tomate recheado com patê de ovo](#rbl-0159) | Lanches | 1 tomate recheado | 129 | 4,9 g | sim | ✓ |
 | [Sanduíche natural de frango no pão de frigideira](#rbl-0160) | Lanches | 1 sanduíche | 315 | 11,9 g | sim | ✓ |
-| [Sanduíche de pão de minuto com queijo branco](#rbl-0161) | Lanches | 1 sanduíche | 260 | 27,3 g | não | ✓ |
-| [Wrap de frango com massa integral caseira](#rbl-0162) | Lanches | 1 wrap | 382 | 36,1 g | não | ✓ |
-| [Pastel de forno de queijo e tomate](#rbl-0163) | Lanches | 2 pastéis | 259 | 26 g | não | ✓ |
+| [Sanduíche de pão de minuto com queijo branco](#rbl-0161) | Lanches | 1 sanduíche | 250 | 25,5 g | não | ✓ |
+| [Wrap de frango com massa integral caseira](#rbl-0162) | Lanches | 1 wrap | 376 | 35,2 g | não | ✓ |
+| [Pastel de forno de queijo e tomate](#rbl-0163) | Lanches | 2 pastéis | 248 | 24,1 g | não | ✓ |
 | [Espetinho de queijo e tomate com manjericão](#rbl-0164) | Lanches | 2 espetinhos | 167 | 3,4 g | sim | ✓ |
 | [Ovos de codorna temperados](#rbl-0165) | Lanches | 6 ovos | 189 | 1,3 g | sim | ✓ |
-| [Esfiha fechada de ricota com espinafre](#rbl-0166) | Lanches | 2 esfihas | 290 | 33,2 g | não | ✓ |
+| [Esfiha fechada de ricota com espinafre](#rbl-0166) | Lanches | 2 esfihas | 279 | 31 g | não | ✓ |
 | [Muffin de frango com milho](#rbl-0167) | Lanches | 2 muffins | 281 | 23,5 g | não | ✓ |
-| [Muffin de espinafre com queijo](#rbl-0168) | Lanches | 2 muffins | 285 | 21,6 g | não | ✓ |
+| [Muffin de espinafre com queijo](#rbl-0168) | Lanches | 2 muffins | 284 | 19,5 g | não | ✓ |
 | [Muffin de abóbora com parmesão](#rbl-0169) | Lanches | 2 muffins | 285 | 24,3 g | não | ✓ |
 | [Castanha de caju com alecrim no forno](#rbl-0170) | Lanches | 1/4 de xícara | 205 | 10,5 g | sim | ✓ |
 | [Cogumelo recheado com parmesão](#rbl-0171) | Lanches | 4 cogumelos | 144 | 8,7 g | sim | ✓ |
@@ -198,7 +198,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Bolinho de abobrinha de forno](#rbl-0177) | Lanches | 4 bolinhos | 190 | 12,8 g | sim | ✓ |
 | [Torta de frigideira de atum](#rbl-0178) | Lanches | 1/2 torta | 447 | 29,2 g | não | ✓ |
 | [Dadinho de tapioca de forno](#rbl-0179) | Lanches | 5 dadinhos | 313 | 38,9 g | não | ✓ |
-| [Anéis de cebola empanados de forno](#rbl-0180) | Lanches | 10 anéis | 232 | 27,9 g | não | ✓ |
+| [Anéis de cebola empanados de forno](#rbl-0180) | Lanches | 10 anéis | 218 | 25,9 g | não | ✓ |
 | [Espetinho de frango com pimentão](#rbl-0181) | Lanches | 2 espetinhos | 233 | 5,8 g | sim | ✓ |
 | [Vitamina de abacate](#rbl-0182) | Lanches | 1 copo de 250 ml | 189 | 14,7 g | sim | ✓ |
 | [Vitamina de mamão com aveia](#rbl-0183) | Lanches | 1 copo de 250 ml | 161 | 19,7 g | não | ✓ |
@@ -341,8 +341,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Creme de brócolis com ricota](#rbl-0320) | Almoço e jantar | 1 prato fundo (cerca de 350 ml) | 124 | 9,9 g | sim | ✓ |
 | [Sopa de peixe com legumes](#rbl-0321) | Almoço e jantar | 1 prato fundo (cerca de 400 ml) | 188 | 15,7 g | não | ✓ |
 | [Caldo de mandioca com carne moída](#rbl-0322) | Almoço e jantar | 1 prato fundo (cerca de 350 ml) | 322 | 51 g | não | ✓ |
-| [Sopa de cebola gratinada](#rbl-0323) | Almoço e jantar | 1 cumbuca (cerca de 300 ml) | 254 | 17,5 g | não | ✓ |
-| [Nhoque de abóbora ao sugo](#rbl-0324) | Almoço e jantar | 1 prato raso | 358 | 55,7 g | não | ✓ |
+| [Sopa de cebola gratinada](#rbl-0323) | Almoço e jantar | 1 cumbuca (cerca de 300 ml) | 253 | 17,4 g | não | ✓ |
+| [Nhoque de abóbora ao sugo](#rbl-0324) | Almoço e jantar | 1 prato raso | 317 | 47,5 g | não | ✓ |
 | [Berinjela à parmegiana de forno](#rbl-0325) | Almoço e jantar | 1 pedaço (1/6 da travessa) | 236 | 12,2 g | sim | ✓ |
 | [Lasanha de abobrinha](#rbl-0326) | Almoço e jantar | 1 pedaço (1/6 da travessa) | 229 | 12,3 g | sim | ✓ |
 | [Ratatouille](#rbl-0327) | Almoço e jantar | 1 prato raso | 174 | 18,5 g | não | ✓ |
@@ -370,68 +370,68 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Purê de mandioquinha](#rbl-0349) | Almoço e jantar | 1/2 xícara (chá) | 234 | 43,5 g | não | ✓ |
 | [Farofa de cenoura](#rbl-0350) | Almoço e jantar | 3 colheres (sopa) | 141 | 25,8 g | não | ✓ |
 | [Mandioca na manteiga](#rbl-0351) | Almoço e jantar | 1/2 xícara (chá) | 238 | 48,7 g | não | ✓ |
-| [Brócolis gratinado](#rbl-0352) | Almoço e jantar | 1/6 da travessa | 145 | 8,3 g | sim | ✓ |
+| [Brócolis gratinado](#rbl-0352) | Almoço e jantar | 1/6 da travessa | 144 | 8,2 g | sim | ✓ |
 | [Feijão caseiro](#rbl-0353) | Almoço e jantar | 1 concha (cerca de 150 g) | 196 | 31,1 g | não | ✓ |
 | [Couve refogada](#rbl-0354) | Almoço e jantar | 1/2 xícara (chá) | 68 | 3,8 g | sim | ✓ |
 | [Vinagrete](#rbl-0355) | Almoço e jantar | 3 colheres (sopa) | 85 | 5,3 g | sim | ✓ |
 | [Repolho refogado com cenoura](#rbl-0356) | Almoço e jantar | 1/2 xícara (chá) | 60 | 6,7 g | sim | ✓ |
-| [Bolo de cenoura com cobertura de cacau](#rbl-0357) | Doces e bolos | 1 pedaço (1/12 do bolo) | 205 | 19,7 g | não | ✓ |
-| [Bolo de laranja](#rbl-0358) | Doces e bolos | 1 fatia (1/12 do bolo) | 185 | 18,8 g | não | ✓ |
-| [Bolo de limão com cobertura cremosa](#rbl-0359) | Doces e bolos | 1 fatia (1/12 do bolo) | 222 | 18,5 g | não | ✓ |
-| [Bolo de coco gelado](#rbl-0360) | Doces e bolos | 1 pedaço (1/15 do bolo) | 189 | 15,8 g | não | ✓ |
-| [Bolo de fubá cremoso](#rbl-0361) | Doces e bolos | 1 pedaço (1/12 do bolo) | 160 | 18,2 g | não | ✓ (1 aviso) |
-| [Bolo de iogurte](#rbl-0362) | Doces e bolos | 1 fatia (1/12 do bolo) | 182 | 16,7 g | não | ✓ |
-| [Bolo de maçã com canela](#rbl-0363) | Doces e bolos | 1 fatia (1/12 do bolo) | 197 | 22,6 g | não | ✓ |
-| [Bolo de abacaxi](#rbl-0364) | Doces e bolos | 1 fatia (1/12 do bolo) | 189 | 21,2 g | não | ✓ |
+| [Bolo de cenoura com cobertura de cacau](#rbl-0357) | Doces e bolos | 1 pedaço (1/12 do bolo) | 191 | 15,7 g | não | ✓ |
+| [Bolo de laranja](#rbl-0358) | Doces e bolos | 1 fatia (1/12 do bolo) | 171 | 14,9 g | sim | ✓ |
+| [Bolo de limão com cobertura cremosa](#rbl-0359) | Doces e bolos | 1 fatia (1/12 do bolo) | 208 | 14,6 g | sim | ✓ |
+| [Bolo de coco gelado](#rbl-0360) | Doces e bolos | 1 pedaço (1/15 do bolo) | 177 | 12,6 g | sim | ✓ |
+| [Bolo de fubá cremoso](#rbl-0361) | Doces e bolos | 1 pedaço (1/12 do bolo) | 159 | 18,1 g | não | ✓ |
+| [Bolo de iogurte](#rbl-0362) | Doces e bolos | 1 fatia (1/12 do bolo) | 168 | 12,7 g | sim | ✓ |
+| [Bolo de maçã com canela](#rbl-0363) | Doces e bolos | 1 fatia (1/12 do bolo) | 182 | 18,6 g | não | ✓ |
+| [Bolo de abacaxi](#rbl-0364) | Doces e bolos | 1 fatia (1/12 do bolo) | 175 | 17,2 g | não | ✓ (1 aviso) |
 | [Bolo de milho verde](#rbl-0365) | Doces e bolos | 1 fatia (1/12 do bolo) | 189 | 18,3 g | não | ✓ |
 | [Bolo de aipim](#rbl-0366) | Doces e bolos | 1 pedaço (1/12 do bolo) | 158 | 17,1 g | não | ✓ |
-| [Bolo de abóbora](#rbl-0367) | Doces e bolos | 1 fatia (1/12 do bolo) | 184 | 18,6 g | não | ✓ |
-| [Bolo de banana com cacau](#rbl-0368) | Doces e bolos | 1 fatia (1/12 do bolo) | 167 | 21,3 g | não | ✓ (1 aviso) |
-| [Bolo de chocolate com abobrinha](#rbl-0369) | Doces e bolos | 1 fatia (1/12 do bolo) | 177 | 17,5 g | não | ✓ (1 aviso) |
-| [Bolo de café](#rbl-0370) | Doces e bolos | 1 fatia (1/12 do bolo) | 177 | 17 g | não | ✓ (1 aviso) |
+| [Bolo de abóbora](#rbl-0367) | Doces e bolos | 1 fatia (1/12 do bolo) | 180 | 17,6 g | não | ✓ |
+| [Bolo de banana com cacau](#rbl-0368) | Doces e bolos | 1 fatia (1/12 do bolo) | 156 | 18,4 g | não | ✓ (2 aviso) |
+| [Bolo de chocolate com abobrinha](#rbl-0369) | Doces e bolos | 1 fatia (1/12 do bolo) | 164 | 13,7 g | sim | ✓ (1 aviso) |
+| [Bolo de café](#rbl-0370) | Doces e bolos | 1 fatia (1/12 do bolo) | 163 | 13 g | sim | ✓ (1 aviso) |
 | [Bolo de amêndoas](#rbl-0371) | Doces e bolos | 1 fatia (1/10 do bolo) | 190 | 4,6 g | sim | ✓ |
-| [Bolo mármore](#rbl-0372) | Doces e bolos | 1 fatia (1/12 do bolo) | 192 | 18,3 g | não | ✓ (2 aviso) |
+| [Bolo mármore](#rbl-0372) | Doces e bolos | 1 fatia (1/12 do bolo) | 178 | 14,3 g | sim | ✓ (4 aviso) |
 | [Bolo de aveia com uva-passa](#rbl-0373) | Doces e bolos | 1 fatia (1/12 do bolo) | 183 | 15,6 g | não | ✓ |
-| [Cuca de banana](#rbl-0374) | Doces e bolos | 1 pedaço (1/12 da cuca) | 184 | 25,2 g | não | ✓ (2 aviso) |
-| [Bolo de maracujá](#rbl-0375) | Doces e bolos | 1 fatia (1/12 do bolo) | 192 | 19,5 g | não | ✓ |
+| [Cuca de banana](#rbl-0374) | Doces e bolos | 1 pedaço (1/12 da cuca) | 172 | 22,1 g | não | ✓ (4 aviso) |
+| [Bolo de maracujá](#rbl-0375) | Doces e bolos | 1 fatia (1/12 do bolo) | 177 | 15,6 g | não | ✓ (4 aviso) |
 | [Bolo de ricota](#rbl-0376) | Doces e bolos | 1 fatia (1/10 do bolo) | 143 | 5,5 g | sim | ✓ |
-| [Bolo de amendoim](#rbl-0377) | Doces e bolos | 1 fatia (1/12 do bolo) | 207 | 15,9 g | não | ✓ (3 aviso) |
-| [Bolo de nozes](#rbl-0378) | Doces e bolos | 1 fatia (1/12 do bolo) | 178 | 13,8 g | sim | ✓ |
+| [Bolo de amendoim](#rbl-0377) | Doces e bolos | 1 fatia (1/12 do bolo) | 198 | 13,6 g | sim | ✓ (5 aviso) |
+| [Bolo de nozes](#rbl-0378) | Doces e bolos | 1 fatia (1/12 do bolo) | 178 | 13,8 g | sim | ✓ (2 aviso) |
 | [Bolo de tâmara](#rbl-0379) | Doces e bolos | 1 fatia (1/10 do bolo) | 189 | 24,5 g | não | ✓ |
-| [Bolo de especiarias](#rbl-0380) | Doces e bolos | 1 fatia (1/12 do bolo) | 185 | 17,2 g | não | ✓ |
-| [Pão de ló](#rbl-0381) | Doces e bolos | 1 fatia (1/10 do bolo) | 75 | 10 g | sim | ✓ (2 aviso) |
-| [Rocambole de morango](#rbl-0382) | Doces e bolos | 1 fatia (1/10 do rocambole) | 90 | 6,6 g | sim | ✓ |
-| [Bolo de batata-doce](#rbl-0383) | Doces e bolos | 1 fatia (1/12 do bolo) | 167 | 20,2 g | não | ✓ (1 aviso) |
+| [Bolo de especiarias](#rbl-0380) | Doces e bolos | 1 fatia (1/12 do bolo) | 190 | 16,4 g | não | ✓ |
+| [Pão de ló](#rbl-0381) | Doces e bolos | 1 fatia (1/10 do bolo) | 71 | 9,2 g | sim | ✓ (1 aviso) |
+| [Rocambole de morango](#rbl-0382) | Doces e bolos | 1 fatia (1/10 do rocambole) | 89 | 6,3 g | sim | ✓ |
+| [Bolo de batata-doce](#rbl-0383) | Doces e bolos | 1 fatia (1/12 do bolo) | 163 | 18,4 g | não | ✓ (5 aviso) |
 | [Bolo de caneca de cacau](#rbl-0384) | Doces e bolos | 1 caneca | 285 | 16,6 g | não | ✓ |
-| [Bolo de caneca de coco](#rbl-0385) | Doces e bolos | 1 caneca | 349 | 16,6 g | não | ✓ |
+| [Bolo de caneca de coco](#rbl-0385) | Doces e bolos | 1 caneca | 343 | 15,6 g | não | ✓ |
 | [Bolo de caneca de pasta de amendoim](#rbl-0386) | Doces e bolos | 1 caneca | 246 | 16,8 g | não | ✓ (1 aviso) |
 | [Bolo de caneca de banana](#rbl-0387) | Doces e bolos | 1 caneca | 198 | 26,8 g | não | ✓ |
-| [Bolo de caneca de limão](#rbl-0388) | Doces e bolos | 1 caneca | 290 | 20,9 g | não | ✓ |
-| [Muffin de morango](#rbl-0389) | Doces e bolos | 1 muffin | 140 | 15,8 g | não | ✓ |
+| [Bolo de caneca de limão](#rbl-0388) | Doces e bolos | 1 caneca | 282 | 19,6 g | não | ✓ |
+| [Muffin de morango](#rbl-0389) | Doces e bolos | 1 muffin | 142 | 15 g | sim | ✓ |
 | [Muffin de banana com pasta de amendoim](#rbl-0390) | Doces e bolos | 1 muffin | 136 | 17,8 g | não | ✓ |
-| [Muffin de maçã com nozes](#rbl-0391) | Doces e bolos | 1 muffin | 166 | 16,2 g | não | ✓ |
+| [Muffin de maçã com nozes](#rbl-0391) | Doces e bolos | 1 muffin | 164 | 15,6 g | não | ✓ |
 | [Muffin de cenoura com coco](#rbl-0392) | Doces e bolos | 1 muffin | 139 | 11,6 g | sim | ✓ |
 | [Muffin de cacau com recheio de ricota](#rbl-0393) | Doces e bolos | 1 muffin | 137 | 11,6 g | sim | ✓ |
-| [Brownie de cacau com nozes](#rbl-0394) | Doces e bolos | 1 quadrado | 102 | 5,4 g | sim | ✓ |
+| [Brownie de cacau com nozes](#rbl-0394) | Doces e bolos | 1 quadrado | 101 | 5,1 g | sim | ✓ |
 | [Brownie de feijão-preto](#rbl-0395) | Doces e bolos | 1 quadrado | 77 | 4,9 g | sim | ✓ |
-| [Cookie de cacau](#rbl-0396) | Doces e bolos | 2 cookies | 123 | 13,5 g | sim | ✓ |
-| [Cookie de coco](#rbl-0397) | Doces e bolos | 2 cookies | 176 | 9,7 g | sim | ✓ (1 aviso) |
+| [Cookie de cacau](#rbl-0396) | Doces e bolos | 2 cookies | 118 | 12,6 g | sim | ✓ |
+| [Cookie de coco](#rbl-0397) | Doces e bolos | 2 cookies | 174 | 9,2 g | sim | ✓ (1 aviso) |
 | [Cookie de pasta de amendoim](#rbl-0398) | Doces e bolos | 2 cookies | 192 | 6,7 g | sim | ✓ |
-| [Biscoito amanteigado](#rbl-0399) | Doces e bolos | 3 biscoitos | 207 | 18,9 g | não | ✓ (1 aviso) |
+| [Biscoito amanteigado](#rbl-0399) | Doces e bolos | 3 biscoitos | 199 | 17,4 g | não | ✓ (1 aviso) |
 | [Sequilhos de maisena](#rbl-0400) | Doces e bolos | 4 sequilhos | 173 | 22,4 g | não | ✓ (1 aviso) |
 | [Biscoito de polvilho doce](#rbl-0401) | Doces e bolos | 5 biscoitos | 188 | 28 g | não | ✓ |
-| [Biscoito de gengibre](#rbl-0402) | Doces e bolos | 3 biscoitos | 162 | 21,4 g | não | ✓ |
-| [Rosquinhas de laranja](#rbl-0403) | Doces e bolos | 3 rosquinhas | 165 | 25,7 g | não | ✓ |
-| [Biscoito de creme de leite](#rbl-0404) | Doces e bolos | 3 biscoitos | 164 | 24,7 g | não | ✓ |
-| [Rosca doce de laranja](#rbl-0405) | Doces e bolos | 1 fatia | 136 | 21,9 g | não | ✓ |
-| [Rosca de canela](#rbl-0406) | Doces e bolos | 1 caracol | 184 | 25,1 g | não | ✓ (1 aviso) |
-| [Pão doce de coco](#rbl-0407) | Doces e bolos | 1 pãozinho | 206 | 28,8 g | não | ✓ |
-| [Pão de minuto doce](#rbl-0408) | Doces e bolos | 1 pãozinho | 138 | 20,1 g | não | ✓ |
-| [Broa de fubá com erva-doce](#rbl-0409) | Doces e bolos | 1 broa | 178 | 20,6 g | não | ✓ |
-| [Bolinho de chuva assado](#rbl-0410) | Doces e bolos | 4 bolinhos | 270 | 31 g | não | ✓ (1 aviso) |
+| [Biscoito de gengibre](#rbl-0402) | Doces e bolos | 3 biscoitos | 152 | 19,7 g | não | ✓ |
+| [Rosquinhas de laranja](#rbl-0403) | Doces e bolos | 3 rosquinhas | 157 | 24,4 g | não | ✓ |
+| [Biscoito de creme de leite](#rbl-0404) | Doces e bolos | 3 biscoitos | 154 | 22,8 g | não | ✓ |
+| [Rosca doce de laranja](#rbl-0405) | Doces e bolos | 1 fatia | 129 | 20,4 g | não | ✓ |
+| [Rosca de canela](#rbl-0406) | Doces e bolos | 1 caracol | 175 | 23,4 g | não | ✓ (1 aviso) |
+| [Pão doce de coco](#rbl-0407) | Doces e bolos | 1 pãozinho | 194 | 26,6 g | não | ✓ |
+| [Pão de minuto doce](#rbl-0408) | Doces e bolos | 1 pãozinho | 132 | 18,8 g | não | ✓ (1 aviso) |
+| [Broa de fubá com erva-doce](#rbl-0409) | Doces e bolos | 1 broa | 176 | 20,2 g | não | ✓ |
+| [Bolinho de chuva assado](#rbl-0410) | Doces e bolos | 4 bolinhos | 262 | 28,9 g | não | ✓ |
 | [Queijadinha](#rbl-0411) | Doces e bolos | 2 queijadinhas | 152 | 3,1 g | sim | ✓ |
-| [Bolo de goiaba](#rbl-0412) | Doces e bolos | 1 fatia (1/12 do bolo) | 197 | 20,3 g | não | ✓ (5 aviso) |
-| [Bolo de ameixa-preta](#rbl-0413) | Doces e bolos | 1 fatia (1/12 do bolo) | 215 | 26,1 g | não | ✓ (6 aviso) |
+| [Bolo de goiaba](#rbl-0412) | Doces e bolos | 1 fatia (1/12 do bolo) | 199 | 18,9 g | não | ✓ (7 aviso) |
+| [Bolo de ameixa-preta](#rbl-0413) | Doces e bolos | 1 fatia (1/12 do bolo) | 211 | 25,1 g | não | ✓ (4 aviso) |
 | [Biscoito de amêndoas](#rbl-0414) | Doces e bolos | 2 biscoitos | 116 | 2,9 g | sim | ✓ |
 | [Mousse de cacau](#rbl-0415) | Doces e bolos | 1 taça | 115 | 5,6 g | sim | ✓ |
 | [Mousse de maracujá](#rbl-0416) | Doces e bolos | 1 taça | 181 | 12,3 g | sim | ✓ |
@@ -481,10 +481,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Cajuzinho](#rbl-0460) | Doces e bolos | 2 docinhos | 136 | 6,4 g | sim | ✓ |
 | [Bombom de morango](#rbl-0461) | Doces e bolos | 2 bombons | 157 | 11,5 g | sim | ✓ |
 | [Torta de limão](#rbl-0462) | Doces e bolos | 1 fatia | 257 | 16,5 g | não | ✓ |
-| [Torta de maçã](#rbl-0463) | Doces e bolos | 1 fatia | 201 | 27,1 g | não | ✓ |
+| [Torta de maçã](#rbl-0463) | Doces e bolos | 1 fatia | 195 | 25,9 g | não | ✓ |
 | [Torta de morango](#rbl-0464) | Doces e bolos | 1 fatia | 200 | 11 g | sim | ✓ |
 | [Cheesecake de frutas vermelhas](#rbl-0465) | Doces e bolos | 1 fatia | 206 | 13,2 g | sim | ✓ |
-| [Torta de banana com farofa de aveia](#rbl-0466) | Doces e bolos | 1 fatia | 200 | 30,4 g | não | ✓ (1 aviso) |
+| [Torta de banana com farofa de aveia](#rbl-0466) | Doces e bolos | 1 fatia | 198 | 30 g | não | ✓ (1 aviso) |
 | [Torta de ricota com uva-passa](#rbl-0467) | Doces e bolos | 1 fatia | 137 | 7,8 g | sim | ✓ |
 | [Pavê de morango em taça](#rbl-0468) | Doces e bolos | 1 taça | 220 | 18,5 g | não | ✓ |
 | [Taça trufada de cacau com banana](#rbl-0469) | Doces e bolos | 1 taça | 201 | 20,4 g | não | ✓ |
@@ -496,7 +496,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Costela bovina assada](#rbl-0475) | Ceia | 1 pedaço de costela (cerca de 300 g com osso) | 1165 | 3,6 g | sim | ✓ (1 aviso) |
 | [Frango assado recheado com farofa](#rbl-0476) | Ceia | 1 pedaço de frango com 2 colheres (sopa) de farofa | 938 | 26,9 g | não | ✓ |
 | [Peixe assado inteiro com batatas](#rbl-0477) | Ceia | 1 posta de peixe com batatas | 445 | 21,5 g | não | ✓ (1 aviso) |
-| [Bacalhau com natas](#rbl-0478) | Ceia | 1 prato raso | 435 | 26,2 g | não | ✓ |
+| [Bacalhau com natas](#rbl-0478) | Ceia | 1 prato raso | 434 | 26,1 g | não | ✓ |
 | [Arroz à grega](#rbl-0479) | Ceia | 4 colheres (sopa) | 243 | 44,6 g | não | ✓ |
 | [Farofa de castanhas](#rbl-0480) | Ceia | 3 colheres (sopa) | 235 | 27,1 g | não | ✓ |
 | [Farofa de couve com ovos](#rbl-0481) | Ceia | 3 colheres (sopa) | 177 | 25 g | não | ✓ |
@@ -508,12 +508,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 | [Maionese de batata com iogurte](#rbl-0487) | Ceia | 1/2 xícara (chá) | 148 | 17,7 g | não | ✓ |
 | [Legumes assados de ceia](#rbl-0488) | Ceia | 1 xícara (chá) de legumes | 168 | 21,4 g | não | ✓ |
 | [Purê de batata-doce](#rbl-0489) | Ceia | 1/2 xícara (chá) | 200 | 36,4 g | não | ✓ |
-| [Couve-flor gratinada](#rbl-0490) | Ceia | 1/8 da travessa | 179 | 11 g | sim | ✓ (1 aviso) |
-| [Rabanada assada com pão de aveia](#rbl-0491) | Ceia | 2 rabanadas | 299 | 39,9 g | não | ✓ (2 aviso) |
-| [Panetone caseiro de frutas secas](#rbl-0492) | Ceia | 1 fatia (1/8 de um panetone) | 212 | 31,4 g | não | ✓ |
+| [Couve-flor gratinada](#rbl-0490) | Ceia | 1/8 da travessa | 178 | 10,8 g | sim | ✓ (1 aviso) |
+| [Rabanada assada com pão de aveia](#rbl-0491) | Ceia | 2 rabanadas | 286 | 37,6 g | não | ✓ (2 aviso) |
+| [Panetone caseiro de frutas secas](#rbl-0492) | Ceia | 1 fatia (1/8 de um panetone) | 202 | 29,6 g | não | ✓ |
 | [Creme natalino com damasco](#rbl-0493) | Ceia | 1 taça | 155 | 18,9 g | não | ✓ |
 | [Pavê de Natal com cacau](#rbl-0494) | Ceia | 1 quadrado (1/12 da travessa) | 212 | 14,9 g | sim | ✓ |
-| [Torta de nozes](#rbl-0495) | Ceia | 1 fatia | 343 | 18,7 g | não | ✓ |
+| [Torta de nozes](#rbl-0495) | Ceia | 1 fatia | 337 | 17,6 g | não | ✓ |
 | [Salada de frutas natalina com chantilly](#rbl-0496) | Ceia | 1 taça (cerca de 1 xícara) | 168 | 22,3 g | não | ✓ |
 | [Manjar de coco com calda de ameixa](#rbl-0497) | Ceia | 1 fatia com 2 colheres (sopa) de calda | 195 | 23 g | não | ✓ |
 | [Docinho de tâmara, nozes e cacau](#rbl-0498) | Ceia | 2 docinhos | 112 | 12,3 g | sim | ✓ (1 aviso) |
@@ -528,9 +528,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - **rbl-0011 Panqueca salgada de frango**: foto ainda não recebida: public/fotos/panqueca-salgada.jpg
 - **rbl-0015 Bolo de chocolate**: foto ainda não recebida: public/fotos/bolo-de-chocolate.jpg
 - **rbl-0016 Bolo de banana**: foto ainda não recebida: public/fotos/bolo-de-banana.jpg
+- **rbl-0041 Pão integral caseiro**: parecida com rbl-0004 (Pão de aveia de forma): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0048 Focaccia de alecrim**: parecida com rbl-0041 (Pão integral caseiro): 67% dos ingredientes iguais e mesmo prato
 - **rbl-0048 Focaccia de alecrim**: parecida com rbl-0044 (Pão de batata-doce com alecrim): 60% dos ingredientes iguais e mesmo prato
 - **rbl-0055 Broinha de fubá com queijo**: parecida com rbl-0030 (Chipa): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0056 Pão de minuto de iogurte**: parecida com rbl-0051 (Pão de amêndoas): 67% dos ingredientes iguais e mesmo prato
 - **rbl-0085 Ovo na rodela de pimentão**: parecida com rbl-0074 (Omelete de legumes picadinhos): 60% dos ingredientes iguais e mesmo prato
 - **rbl-0110 Mingau de fubá com canela**: parecida com rbl-0108 (Mingau de milho-verde): 60% dos ingredientes iguais e mesmo prato
 - **rbl-0134 Coxinha de batata com frango de forno**: parecida com rbl-0068 (Pão de batata recheado com frango): 62% dos ingredientes iguais e mesmo prato
@@ -544,37 +545,53 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - **rbl-0293 Estrogonofe de carne**: parecida com rbl-0237 (Estrogonofe de frango): 60% dos ingredientes iguais e mesmo prato
 - **rbl-0299 Atum refogado com legumes**: parecida com rbl-0256 (Carne moída com abobrinha): 67% dos ingredientes iguais e mesmo prato
 - **rbl-0301 Escondidinho de peixe com mandioquinha**: parecida com rbl-0251 (Escondidinho de abóbora com frango): 62% dos ingredientes iguais e mesmo prato
-- **rbl-0361 Bolo de fubá cremoso**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 60% dos ingredientes iguais e mesmo prato
-- **rbl-0368 Bolo de banana com cacau**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 67% dos ingredientes iguais e mesmo prato
-- **rbl-0369 Bolo de chocolate com abobrinha**: parecida com rbl-0367 (Bolo de abóbora): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0370 Bolo de café**: parecida com rbl-0363 (Bolo de maçã com canela): 71% dos ingredientes iguais e mesmo prato
-- **rbl-0372 Bolo mármore**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 67% dos ingredientes iguais e mesmo prato
-- **rbl-0372 Bolo mármore**: parecida com rbl-0368 (Bolo de banana com cacau): 75% dos ingredientes iguais e mesmo prato
-- **rbl-0374 Cuca de banana**: parecida com rbl-0368 (Bolo de banana com cacau): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0364 Bolo de abacaxi**: parecida com rbl-0015 (Bolo de chocolate): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0368 Bolo de banana com cacau**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 70% dos ingredientes iguais e mesmo prato
+- **rbl-0368 Bolo de banana com cacau**: parecida com rbl-0360 (Bolo de coco gelado): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0369 Bolo de chocolate com abobrinha**: parecida com rbl-0368 (Bolo de banana com cacau): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0370 Bolo de café**: parecida com rbl-0363 (Bolo de maçã com canela): 75% dos ingredientes iguais e mesmo prato
+- **rbl-0372 Bolo mármore**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 70% dos ingredientes iguais e mesmo prato
+- **rbl-0372 Bolo mármore**: parecida com rbl-0360 (Bolo de coco gelado): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0372 Bolo mármore**: parecida com rbl-0368 (Bolo de banana com cacau): 78% dos ingredientes iguais e mesmo prato
+- **rbl-0372 Bolo mármore**: parecida com rbl-0369 (Bolo de chocolate com abobrinha): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0374 Cuca de banana**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 64% dos ingredientes iguais e mesmo prato
+- **rbl-0374 Cuca de banana**: parecida com rbl-0367 (Bolo de abóbora): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0374 Cuca de banana**: parecida com rbl-0368 (Bolo de banana com cacau): 70% dos ingredientes iguais e mesmo prato
 - **rbl-0374 Cuca de banana**: parecida com rbl-0373 (Bolo de aveia com uva-passa): 60% dos ingredientes iguais e mesmo prato
-- **rbl-0377 Bolo de amendoim**: parecida com rbl-0360 (Bolo de coco gelado): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0377 Bolo de amendoim**: parecida com rbl-0368 (Bolo de banana com cacau): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0377 Bolo de amendoim**: parecida com rbl-0372 (Bolo mármore): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0381 Pão de ló**: parecida com rbl-0362 (Bolo de iogurte): 83% dos ingredientes iguais e mesmo prato
-- **rbl-0381 Pão de ló**: parecida com rbl-0375 (Bolo de maracujá): 67% dos ingredientes iguais e mesmo prato
-- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0377 (Bolo de amendoim): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0375 Bolo de maracujá**: parecida com rbl-0358 (Bolo de laranja): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0375 Bolo de maracujá**: parecida com rbl-0362 (Bolo de iogurte): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0375 Bolo de maracujá**: parecida com rbl-0363 (Bolo de maçã com canela): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0375 Bolo de maracujá**: parecida com rbl-0370 (Bolo de café): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0377 Bolo de amendoim**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0377 Bolo de amendoim**: parecida com rbl-0360 (Bolo de coco gelado): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0377 Bolo de amendoim**: parecida com rbl-0368 (Bolo de banana com cacau): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0377 Bolo de amendoim**: parecida com rbl-0372 (Bolo mármore): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0377 Bolo de amendoim**: parecida com rbl-0374 (Cuca de banana): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0378 Bolo de nozes**: parecida com rbl-0367 (Bolo de abóbora): 75% dos ingredientes iguais e mesmo prato
+- **rbl-0378 Bolo de nozes**: parecida com rbl-0374 (Cuca de banana): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0381 Pão de ló**: parecida com rbl-0362 (Bolo de iogurte): 71% dos ingredientes iguais e mesmo prato
+- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0360 (Bolo de coco gelado): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0368 (Bolo de banana com cacau): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0372 (Bolo mármore): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0377 (Bolo de amendoim): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0383 Bolo de batata-doce**: parecida com rbl-0380 (Bolo de especiarias): 64% dos ingredientes iguais e mesmo prato
 - **rbl-0386 Bolo de caneca de pasta de amendoim**: parecida com rbl-0384 (Bolo de caneca de cacau): 71% dos ingredientes iguais e mesmo prato
 - **rbl-0397 Cookie de coco**: parecida com rbl-0396 (Cookie de cacau): 63% dos ingredientes iguais e mesmo prato
 - **rbl-0399 Biscoito amanteigado**: parecida com rbl-0397 (Cookie de coco): 71% dos ingredientes iguais e mesmo prato
 - **rbl-0400 Sequilhos de maisena**: parecida com rbl-0399 (Biscoito amanteigado): 67% dos ingredientes iguais e mesmo prato
 - **rbl-0406 Rosca de canela**: parecida com rbl-0405 (Rosca doce de laranja): 67% dos ingredientes iguais e mesmo prato
-- **rbl-0410 Bolinho de chuva assado**: parecida com rbl-0391 (Muffin de maçã com nozes): 60% dos ingredientes iguais e mesmo prato
-- **rbl-0412 Bolo de goiaba**: parecida com rbl-0360 (Bolo de coco gelado): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0412 Bolo de goiaba**: parecida com rbl-0368 (Bolo de banana com cacau): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0412 Bolo de goiaba**: parecida com rbl-0372 (Bolo mármore): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0412 Bolo de goiaba**: parecida com rbl-0377 (Bolo de amendoim): 71% dos ingredientes iguais e mesmo prato
-- **rbl-0412 Bolo de goiaba**: parecida com rbl-0383 (Bolo de batata-doce): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0360 (Bolo de coco gelado): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0368 (Bolo de banana com cacau): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0372 (Bolo mármore): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0377 (Bolo de amendoim): 71% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0383 (Bolo de batata-doce): 63% dos ingredientes iguais e mesmo prato
-- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0412 (Bolo de goiaba): 71% dos ingredientes iguais e mesmo prato
+- **rbl-0408 Pão de minuto doce**: parecida com rbl-0056 (Pão de minuto de iogurte): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0357 (Bolo de cenoura com cobertura de cacau): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0360 (Bolo de coco gelado): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0368 (Bolo de banana com cacau): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0372 (Bolo mármore): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0374 (Cuca de banana): 60% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0377 (Bolo de amendoim): 75% dos ingredientes iguais e mesmo prato
+- **rbl-0412 Bolo de goiaba**: parecida com rbl-0383 (Bolo de batata-doce): 67% dos ingredientes iguais e mesmo prato
+- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0367 (Bolo de abóbora): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0377 (Bolo de amendoim): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0378 (Bolo de nozes): 63% dos ingredientes iguais e mesmo prato
+- **rbl-0413 Bolo de ameixa-preta**: parecida com rbl-0412 (Bolo de goiaba): 63% dos ingredientes iguais e mesmo prato
 - **rbl-0426 Pudim de banana**: parecida com rbl-0422 (Pudim de chocolate): 63% dos ingredientes iguais e mesmo prato
 - **rbl-0439 Sorvete de banana com canela**: parecida com rbl-0106 (Mingau de aveia com banana e canela): 60% dos ingredientes iguais e mesmo prato
 - **rbl-0450 Compota de maçã com canela**: parecida com rbl-0229 (Chips de maçã com canela): 75% dos ingredientes iguais e mesmo prato
@@ -709,21 +726,21 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0004"></a>
 ## Pão de aveia de forma
 
-*Pão caseiro de forma com aveia, macio e bom para torrar, com massa sem açúcar.*
+*Pão caseiro de forma com farinha integral e aveia, de miolo firme e bom para torrar, com massa sem açúcar.*
 
 `rbl-0004` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 160 min (preparo 25 min, cozimento 35 min, descanso 100 min)
+- **Tempo total:** 185 min (preparo 25 min, cozimento 35 min, descanso 125 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 143 kcal · 24,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0004.json)
+- **Por porção (valores aproximados):** 134 kcal · 22,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0004.json)
 - **Forno:** 200 °C, 35 min, preaquecido
 
 **Ingredientes**
 
-- 2 e 1/2 xícaras (chá) de farinha de trigo
+- 2 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 xícara (chá) de aveia em flocos
 - 1 sachê (10 g) de fermento biológico seco
-- 1 e 1/4 xícara (300 ml) de água morna
+- 1 e 1/3 xícara (340 ml) de água morna
 - 2 colheres (sopa) de azeite
 - 1 e 1/2 colher (chá) de sal
 
@@ -733,20 +750,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela grande, misture a farinha, a aveia e o fermento.
-2. Junte a água morna e o azeite e misture com uma colher até a massa juntar. **Atenção:** A água deve estar morna, não quente, para não matar o fermento.
-3. Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica.
-4. Volte a massa para a tigela, cubra com um pano e deixe crescer por cerca de 1 hora, até dobrar de tamanho.
+1. Numa tigela grande, misture a farinha integral, a aveia e o fermento.
+2. Junte a água morna e o azeite e misture com uma colher até a massa juntar. Ela fica um pouco mais úmida que a de pão branco: é assim mesmo. **Atenção:** A água deve estar morna, não quente, para não matar o fermento.
+3. Acrescente o sal e sove por 8 a 10 minutos, até a massa ficar mais lisa e elástica. Se grudar, unte as mãos com azeite em vez de pôr mais farinha.
+4. Volte a massa para a tigela, cubra com um pano e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de tamanho.
 5. Unte uma forma de bolo inglês de cerca de 25 cm. Abra a massa, enrole como um rocambole e coloque na forma com a emenda para baixo.
-6. Pincele um pouco de água por cima, polvilhe a aveia e deixe crescer mais 40 minutos, coberta.
+6. Pincele um pouco de água por cima, polvilhe a aveia e deixe crescer mais 50 minutos, coberta.
 7. Nos últimos 15 minutos de crescimento, preaqueça o forno a 200 °C.
 8. Asse por 30 a 35 minutos, até dourar e soar oco quando você bater embaixo.
 9. Desenforme e espere esfriar sobre uma grade antes de fatiar.
 
 **Dicas**
 
-- *Substituição:* Troque 1 xícara da farinha de trigo por farinha de trigo integral e acrescente 2 colheres (sopa) de água.
-- *Dica:* Sem açúcar o fermento trabalha um pouco mais devagar: é normal levar 1 hora para a massa crescer.
+- *Substituição:* Troque 1/2 xícara da farinha integral por mais aveia em flocos e acrescente 2 colheres (sopa) de água: o miolo fica mais macio.
+- *Dica:* Com farinha integral e sem açúcar, o fermento trabalha mais devagar: a massa pode levar até 1 hora e 15 minutos para crescer, e o pão fica mais denso que o de padaria.
 - *Como guardar:* Guarde fatiado em saco fechado por 3 dias, ou congele as fatias e torre direto do congelador.
 
 ---
@@ -787,7 +804,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Sem aveia? Use 3 colheres (sopa) de farinha de trigo.
+- *Substituição:* Sem aveia? Use 3 colheres (sopa) de farinha de trigo integral.
 - *Dica:* Quanto mais madura a banana, mais doce fica a panqueca.
 - *Como guardar:* Guarde na geladeira por 2 dias e aqueça na frigideira.
 
@@ -988,13 +1005,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0011"></a>
 ## Panqueca salgada de frango
 
-*Panquecas finas recheadas com frango ao molho de tomate caseiro e gratinadas com queijo.*
+*Panquecas finas de farinha integral recheadas com frango ao molho de tomate caseiro e gratinadas com queijo.*
 
 `rbl-0011` · Almoço e jantar · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 65 min (preparo 30 min, cozimento 35 min)
+- **Tempo total:** 70 min (preparo 35 min, cozimento 35 min)
 - **Rende:** 8 panquecas · **4 porções** de 2 panquecas
-- **Por porção (valores aproximados):** 435 kcal · 31,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0011.json)
+- **Por porção (valores aproximados):** 430 kcal · 30,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0011.json)
 - **Forno:** 200 °C, 10 min, preaquecido
 
 **Ingredientes**
@@ -1002,9 +1019,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)
 - 2 ovos
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1 colher (sopa) de óleo, mais um pouco para untar
 - 1 colher (chá) de sal (metade na massa, metade no molho)
 
@@ -1020,7 +1037,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Massa: bata no liquidificador o leite, os ovos, a farinha, o óleo e metade do sal por 1 minuto. Deixe descansar 10 minutos.
+1. Massa: bata no liquidificador o leite, os ovos, a farinha integral, o óleo e metade do sal por 1 minuto. Deixe descansar 15 minutos. Se engrossar, junte 1 ou 2 colheres (sopa) de leite.
 2. Aqueça uma frigideira antiaderente de 20 cm, untada com um pouco de óleo, em fogo médio. Coloque meia concha de massa e gire para cobrir o fundo.
 3. Quando a borda soltar, cerca de 1 minuto, vire e deixe mais 30 segundos. Repita até acabar a massa.
 4. Molho: refogue a cebola e o alho no azeite por 3 minutos. Junte os tomates e o restante do sal e cozinhe em fogo baixo por 10 minutos, amassando, até virar um molho.
@@ -1031,7 +1048,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque a farinha de trigo por 1 xícara de aveia em flocos finos batida e use 1/4 de xícara a mais de leite: a massa fica um pouco mais firme.
+- *Substituição:* Troque a farinha integral por 1 xícara de aveia em flocos finos batida: a massa fica um pouco mais firme e frágil, então vire com cuidado.
 - *Substituição:* Troque o frango por carne moída refogada ou por ricota com espinafre.
 - *Como guardar:* As panquecas sem recheio podem ser congeladas, separadas por papel-manteiga.
 
@@ -1225,7 +1242,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Substituição:* Sem aveia? Use 1 e 1/2 xícara (chá) de farinha de trigo.
+- *Substituição:* Sem aveia? Use 1 e 1/2 xícara (chá) de farinha de trigo integral e mais 2 colheres (sopa) de leite.
 - *Dica:* O eritritol deixa uma sensação de frescor na boca. A calda morna ajuda a disfarçar.
 
 ---
@@ -1695,14 +1712,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 6 min (preparo 3 min, cozimento 2 min)
 - **Rende:** 1 pão · **1 porções** de 1 pão
-- **Por porção (valores aproximados):** 262 kcal · 21,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0027.json)
+- **Por porção (valores aproximados):** 264 kcal · 21,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0027.json)
 
 **Ingredientes**
 
 - 1 ovo
 - 2 colheres (sopa) de fubá
-- 1 colher (sopa) de farinha de trigo
-- 2 colheres (sopa) de leite
+- 1 colher (sopa) de farinha de trigo integral
+- 2 e 1/2 colheres (sopa) de leite
 - 1 colher (chá) de óleo
 - 2 colheres (sopa) de queijo minas meia cura ralado (15 g)
 - 1/2 colher (chá) de fermento químico em pó
@@ -1711,14 +1728,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Numa caneca grande (300 ml), bata o ovo, o leite e o óleo com um garfo.
-2. Junte o fubá, a farinha, o queijo e o sal e misture bem.
+2. Junte o fubá, a farinha integral, o queijo e o sal e misture bem.
 3. Acrescente o fermento e mexa só para misturar.
 4. Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos a 2 minutos, até firmar no centro.
 5. Espere 1 minuto e desenforme. **Atenção:** A caneca sai muito quente: use um pano.
 
 **Dicas**
 
-- *Substituição:* Troque a farinha de trigo por mais 1 colher (sopa) de fubá: fica mais esfarelado.
+- *Substituição:* Troque a farinha integral por mais 1 colher (sopa) de fubá: fica mais esfarelado.
 - *Dica:* Uma pitada de erva-doce na massa deixa com sabor de broa mineira.
 - *Como guardar:* Coma na hora: o fubá endurece depois de frio.
 
@@ -1886,29 +1903,29 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0032"></a>
 ## Palitos de queijo assados
 
-*Palitos crocantes de massa amanteigada com bastante parmesão, bons para beliscar.*
+*Palitos crocantes de massa amanteigada de farinha integral, com bastante parmesão, bons para beliscar.*
 
-`rbl-0032` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
+`rbl-0032` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 60 min (preparo 25 min, cozimento 20 min, descanso 15 min)
 - **Rende:** 30 palitos · **6 porções** de 5 palitos
-- **Por porção (valores aproximados):** 214 kcal · 16,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0032.json)
+- **Por porção (valores aproximados):** 207 kcal · 14,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0032.json)
 - **Forno:** 180 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1 xícara (chá) de queijo parmesão ralado fino (100 g)
 - 3 colheres (sopa) de manteiga gelada
 - 1 ovo
 - 1 colher (chá) de orégano
-- 1 colher (sopa) de água gelada, se precisar
+- 1 a 2 colheres (sopa) de água gelada, se precisar
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o parmesão e o orégano.
+1. Numa tigela, misture a farinha integral, o parmesão e o orégano.
 2. Junte a manteiga em pedacinhos e esfregue com as pontas dos dedos até virar uma farofa.
-3. Acrescente o ovo e junte a massa sem sovar demais. Se esfarelar, ponha a água gelada.
+3. Acrescente o ovo e junte a massa sem sovar demais. Se esfarelar, ponha a água gelada aos poucos.
 4. Embrulhe em filme plástico e leve à geladeira por 15 minutos.
 5. Preaqueça o forno a 180 °C.
 6. Abra a massa entre dois plásticos com 0,5 cm de espessura e corte palitos de 1 cm x 10 cm.
@@ -1917,7 +1934,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida: o palito fica mais quebradiço.
 - *Substituição:* Use páprica no lugar do orégano.
 - *Como guardar:* Guarde em pote bem fechado por até 5 dias.
 
@@ -1957,7 +1974,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o gergelim por linhaça ou semente de girassol.
-- *Substituição:* Sem farinha integral? Use farinha de trigo comum.
+- *Substituição:* Sem farinha integral? Use mais 1/2 xícara de aveia em flocos batida no liquidificador.
 - *Como guardar:* Guarde em pote bem fechado por até 1 semana.
 
 ---
@@ -2118,37 +2135,36 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0038"></a>
 ## Tortilha de farinha integral
 
-*Tortilha caseira fina e macia, feita na frigideira, para enrolar recheios ou fazer quesadilla.*
+*Tortilha caseira 100% integral, fina e macia, feita na frigideira, para enrolar recheios ou fazer quesadilla.*
 
 `rbl-0038` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 55 min (preparo 20 min, cozimento 15 min, descanso 20 min)
+- **Tempo total:** 65 min (preparo 20 min, cozimento 15 min, descanso 30 min)
 - **Rende:** 6 tortilhas · **6 porções** de 1 tortilha
-- **Por porção (valores aproximados):** 166 kcal · 22,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0038.json)
+- **Por porção (valores aproximados):** 162 kcal · 21,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0038.json)
 
 **Ingredientes**
 
-- 1 xícara (chá) de farinha de trigo integral
-- 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1/2 colher (chá) de fermento químico em pó
 - 1/2 colher (chá) de sal
 - 3 colheres (sopa) de azeite
-- 1/2 xícara (chá) de água morna
+- 1/2 xícara (chá) mais 1 colher (sopa) de água morna (135 ml)
 
 **Modo de preparo**
 
-1. Numa tigela, misture as farinhas, o fermento e o sal.
+1. Numa tigela, misture a farinha integral, o fermento e o sal.
 2. Junte o azeite e a água morna e misture até formar uma massa.
-3. Sove por 3 minutos numa bancada enfarinhada, até ficar lisa. Se grudar, ponha um pouco de farinha.
-4. Cubra com um pano e deixe descansar 20 minutos.
-5. Divida em 6 bolinhas e abra cada uma com o rolo, bem fina, num disco de 20 cm.
+3. Sove por 3 minutos, até ficar lisa. Se grudar, unte as mãos com um pouco de azeite.
+4. Cubra com um pano e deixe descansar 30 minutos, para a farinha integral hidratar e a massa abrir sem rasgar.
+5. Divida em 6 bolinhas e abra cada uma com o rolo, bem fina, num disco de 20 cm, polvilhando a bancada com farinha integral.
 6. Aqueça uma frigideira grande, sem untar, em fogo médio.
 7. Coloque uma tortilha e deixe 1 minuto, até formar bolhas. Vire e deixe mais 1 minuto. Repita com as outras.
 8. Empilhe as tortilhas prontas dentro de um pano limpo para continuarem macias.
 
 **Dicas**
 
-- *Substituição:* Use só farinha integral (1 e 1/2 xícara): a massa fica mais firme, então ponha 1 colher (sopa) a mais de água.
+- *Substituição:* Troque 1/4 de xícara da farinha integral por aveia em flocos batida: fica mais macia, mas rasga mais fácil ao enrolar.
 - *Dica:* Não deixe passar do ponto na frigideira: tortilha seca quebra ao enrolar.
 - *Como guardar:* Guarde em saco fechado por 2 dias ou congele, separadas com papel-manteiga.
 
@@ -2157,39 +2173,40 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0039"></a>
 ## Pão sírio caseiro
 
-*Pão árabe fininho que estufa no forno e forma um bolso, para rechear ou acompanhar pastas.*
+*Pão árabe fininho de farinha integral, que estufa no forno e forma um bolso, para rechear ou acompanhar pastas.*
 
 `rbl-0039` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 110 min (preparo 25 min, cozimento 15 min, descanso 70 min)
+- **Tempo total:** 130 min (preparo 25 min, cozimento 15 min, descanso 90 min)
 - **Rende:** 8 pães · **8 porções** de 1 pão
-- **Por porção (valores aproximados):** 202 kcal · 35,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0039.json)
+- **Por porção (valores aproximados):** 188 kcal · 32,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0039.json)
 - **Forno:** 240 °C, 14 min, preaquecido
 
 **Ingredientes**
 
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
 - 2 colheres (sopa) de azeite
-- 1 xícara (chá) de água morna
+- 1 xícara (chá) de água morna, mais 1 colher (sopa) (250 ml)
+- 2 colheres (sopa) de iogurte natural
 
 **Modo de preparo**
 
 1. Numa tigela, misture a farinha, o fermento e o sal.
-2. Junte o azeite e a água morna e misture até formar uma massa.
-3. Sove por 10 minutos numa bancada, até a massa ficar lisa e elástica.
-4. Coloque numa tigela untada, cubra e deixe crescer por 1 hora, até dobrar de volume.
-5. Divida em 8 bolinhas, cubra e deixe descansar 10 minutos.
+2. Junte o azeite, o iogurte e a água morna e misture até formar uma massa. Ela fica um pouco grudenta: a farinha integral vai absorvendo a água.
+3. Sove por 10 minutos com as mãos untadas de azeite, até a massa ficar mais lisa e elástica.
+4. Coloque numa tigela untada, cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+5. Divida em 8 bolinhas, cubra e deixe descansar 15 minutos.
 6. Preaqueça o forno a 240 °C com a assadeira dentro.
-7. Abra cada bolinha com o rolo num disco de 15 cm e 0,5 cm de espessura.
+7. Abra cada bolinha com o rolo num disco de 15 cm, bem fino (cerca de 0,4 cm), polvilhando a bancada com farinha integral.
 8. Coloque 3 ou 4 discos na assadeira quente e asse por 5 a 7 minutos, até estufarem e mal dourarem. Repita com o restante. **Atenção:** Use luva: a assadeira está muito quente.
 9. Embrulhe os pães num pano assim que saírem do forno, para ficarem macios.
 
 **Dicas**
 
-- *Substituição:* Troque 1 xícara da farinha de trigo por farinha de trigo integral.
-- *Dica:* O pão só estufa se o forno e a assadeira estiverem bem quentes: preaqueça por pelo menos 15 minutos.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida: fica mais macio, mas estufa menos.
+- *Dica:* O pão só estufa se o forno e a assadeira estiverem bem quentes: preaqueça por pelo menos 15 minutos. Com farinha integral, alguns discos podem estufar só em parte: ficam bons do mesmo jeito.
 - *Como guardar:* Congele em saco fechado e aqueça direto na frigideira.
 
 ---
@@ -2197,21 +2214,21 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0040"></a>
 ## Pão de hambúrguer caseiro
 
-*Pão redondo e macio com gergelim por cima, para hambúrguer feito em casa.*
+*Pão redondo e macio de farinha integral, com gergelim por cima, para hambúrguer feito em casa.*
 
 `rbl-0040` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 150 min (preparo 30 min, cozimento 20 min, descanso 100 min)
+- **Tempo total:** 175 min (preparo 30 min, cozimento 20 min, descanso 125 min)
 - **Rende:** 8 pães · **8 porções** de 1 pão
-- **Por porção (valores aproximados):** 241 kcal · 37,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0040.json)
+- **Por porção (valores aproximados):** 227 kcal · 34,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0040.json)
 - **Forno:** 180 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
-- 3/4 de xícara (chá) de leite morno
+- 3/4 de xícara (chá) mais 1 colher (sopa) de leite morno (200 ml)
 - 1 ovo
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 
@@ -2223,11 +2240,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Numa tigela, misture a farinha, o fermento e o sal.
-2. Junte o leite morno e o ovo e misture até formar uma massa.
-3. Acrescente a manteiga e sove por 10 minutos, até a massa ficar lisa e soltar das mãos.
-4. Cubra e deixe crescer por 1 hora, até dobrar de volume.
+2. Junte o leite morno e o ovo e misture até formar uma massa. Ela fica um pouco grudenta: não ponha mais farinha.
+3. Acrescente a manteiga e sove por 10 minutos, até a massa ficar mais lisa e macia. Se grudar, unte as mãos com um pouco de manteiga.
+4. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
 5. Divida em 8 partes, faça bolas lisas e coloque numa assadeira untada, com espaço entre elas. Achate cada uma com a palma da mão.
-6. Cubra e deixe crescer mais 40 minutos.
+6. Cubra e deixe crescer mais 50 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Pincele os pães com o leite e espalhe o gergelim.
 9. Asse por 18 a 20 minutos, até dourar.
@@ -2235,41 +2252,41 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque 1 xícara da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida: o pão fica mais macio.
 - *Substituição:* Sem gergelim? Use linhaça ou deixe sem nada por cima.
 - *Como guardar:* Congele os pães já cortados ao meio e toste direto na frigideira.
+- *Dica:* Com farinha integral o pão fica mais baixinho e firme que o de padaria. Achatar bem as bolas ajuda a ficar no formato de hambúrguer.
 
 ---
 
 <a id="rbl-0041"></a>
 ## Pão integral caseiro
 
-*Pão de forma integral feito em casa, de miolo úmido e casca firme, bom para torrada e sanduíche.*
+*Pão de forma 100% integral feito em casa, de miolo úmido e casca firme, bom para torrada e sanduíche.*
 
 `rbl-0041` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 165 min (preparo 25 min, cozimento 40 min, descanso 100 min)
+- **Tempo total:** 190 min (preparo 25 min, cozimento 40 min, descanso 125 min)
 - **Rende:** 1 pão (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 157 kcal · 26,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0041.json)
+- **Por porção (valores aproximados):** 152 kcal · 25,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0041.json)
 - **Forno:** 200 °C, 40 min, preaquecido
 
 **Ingredientes**
 
-- 2 xícaras (chá) de farinha de trigo integral
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento biológico seco
 - 1 colher (chá) de sal
 - 3 colheres (sopa) de azeite
-- 1 e 1/4 de xícara (chá) de água morna
+- 1 e 1/3 xícara (chá) de água morna (330 ml)
 
 **Modo de preparo**
 
-1. Numa tigela, misture as farinhas, o fermento e o sal.
+1. Numa tigela, misture a farinha integral, o fermento e o sal.
 2. Junte o azeite e a água morna e misture até formar uma massa grudenta.
 3. Sove por 10 minutos, até ficar mais lisa e elástica. A massa integral é um pouco pegajosa: unte as mãos com azeite em vez de pôr mais farinha.
-4. Cubra e deixe crescer por 1 hora, até dobrar de volume.
+4. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
 5. Abra a massa num retângulo, enrole como um rocambole e coloque numa forma de bolo inglês (25 cm) untada.
-6. Cubra e deixe crescer mais 40 minutos, até a massa chegar à borda da forma.
+6. Cubra e deixe crescer mais 50 minutos, até a massa chegar perto da borda da forma.
 7. Preaqueça o forno a 200 °C.
 8. Asse por 35 a 40 minutos, até a casca ficar firme e o pão soar oco ao bater por baixo.
 9. Desenforme e espere esfriar por completo antes de fatiar.
@@ -2279,39 +2296,40 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque 2 colheres (sopa) da farinha integral por linhaça ou gergelim para ter um pão com sementes.
 - *Dica:* Fatiar quente deixa o miolo grudento: espere pelo menos 1 hora.
 - *Como guardar:* Congele já fatiado e toste as fatias direto do congelador.
+- *Dica:* Pão 100% integral cresce menos e fica mais denso que o de padaria: é o jeito dele.
 
 ---
 
 <a id="rbl-0042"></a>
 ## Pão de centeio
 
-*Pão redondo de centeio, escuro e aromático, com casca firme e um toque de erva-doce.*
+*Pão redondo de centeio e farinha integral, escuro e aromático, com casca firme e um toque de erva-doce.*
 
 `rbl-0042` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 160 min (preparo 25 min, cozimento 35 min, descanso 100 min)
+- **Tempo total:** 200 min (preparo 25 min, cozimento 35 min, descanso 140 min)
 - **Rende:** 1 pão (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 134 kcal · 24 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0042.json)
+- **Por porção (valores aproximados):** 128 kcal · 23 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0042.json)
 - **Forno:** 200 °C, 35 min, preaquecido
 
 **Ingredientes**
 
 - 1 e 1/2 xícara (chá) de farinha de centeio (ou 1 e 1/2 xícara de farinha de trigo integral)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento biológico seco
 - 1 colher (chá) de sal
 - 1 colher (chá) de erva-doce
 - 2 colheres (sopa) de azeite
-- 1 e 1/4 de xícara (chá) de água morna
+- 1 e 1/3 xícara (chá) de água morna (330 ml)
 
 **Modo de preparo**
 
 1. Numa tigela, misture as farinhas, o fermento, o sal e a erva-doce.
 2. Junte o azeite e a água morna e misture até formar uma massa pesada e grudenta.
-3. Sove por 8 a 10 minutos com as mãos untadas. A massa de centeio é menos elástica que a de trigo: isso é normal.
-4. Cubra e deixe crescer por 1 hora, até aumentar bem de volume.
-5. Modele uma bola, coloque numa assadeira polvilhada com farinha e faça 3 cortes rasos por cima com uma faca.
-6. Cubra e deixe crescer mais 40 minutos.
+3. Sove por 8 a 10 minutos com as mãos untadas. A massa de centeio com integral é pouco elástica e pegajosa: isso é normal, não ponha mais farinha.
+4. Cubra e deixe crescer por 1 hora e 15 minutos a 1 hora e 30 minutos, até aumentar bem de volume.
+5. Modele uma bola, coloque numa assadeira polvilhada com farinha integral e faça 3 cortes rasos por cima com uma faca.
+6. Cubra e deixe crescer mais 50 minutos.
 7. Preaqueça o forno a 200 °C.
 8. Asse por 30 a 35 minutos, até a casca escurecer e o pão soar oco ao bater por baixo.
 9. Deixe esfriar sobre uma grade antes de cortar.
@@ -2319,7 +2337,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque a erva-doce por cominho em grão, como nos pães do leste europeu.
-- *Dica:* Corte em fatias finas: o pão de centeio é denso e rende bem.
+- *Dica:* Corte em fatias finas: o pão de centeio com integral é denso e rende bem.
 - *Como guardar:* Embrulhado num pano, dura 3 dias. Também pode congelar fatiado.
 
 ---
@@ -2327,34 +2345,34 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0043"></a>
 ## Pãozinho de abóbora
 
-*Pãozinho alaranjado e fofinho de abóbora, ótimo para o café com queijo branco.*
+*Pãozinho alaranjado e macio de abóbora com farinha integral, ótimo para o café com queijo branco.*
 
 `rbl-0043` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 170 min (preparo 35 min, cozimento 45 min, descanso 90 min)
+- **Tempo total:** 195 min (preparo 35 min, cozimento 45 min, descanso 115 min)
 - **Rende:** 12 pãezinhos · **12 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 183 kcal · 30,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0043.json)
+- **Por porção (valores aproximados):** 172 kcal · 28,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0043.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
 
 - 1 pedaço de abóbora cabotiá sem casca (300 g)
-- 3 e 1/2 xícaras (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento biológico seco
 - 1 colher (chá) de sal
 - 1 ovo
-- 1/4 de xícara (chá) de leite morno
+- 1/3 de xícara (chá) de leite morno
 - 3 colheres (sopa) de óleo
 
 **Modo de preparo**
 
 1. Cozinhe a abóbora em cubos no vapor por cerca de 15 minutos, até ficar macia. Amasse até virar um purê e espere amornar.
 2. Numa tigela, misture o purê, o ovo, o leite e o óleo.
-3. Junte o fermento, o sal e a farinha aos poucos, misturando até a massa desgrudar das mãos. Pode sobrar ou faltar um pouco de farinha, conforme a umidade da abóbora.
+3. Junte o fermento, o sal e a farinha integral aos poucos, misturando até a massa quase desgrudar das mãos. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr farinha demais.
 4. Sove por 8 minutos, até ficar lisa e macia.
-5. Cubra e deixe crescer por 1 hora, até dobrar de volume.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
 6. Divida em 12 partes, faça bolinhas e coloque numa assadeira untada.
-7. Cubra e deixe crescer mais 30 minutos.
+7. Cubra e deixe crescer mais 40 minutos.
 8. Preaqueça o forno a 180 °C.
 9. Asse por 25 a 30 minutos, até dourar.
 
@@ -2363,40 +2381,41 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque a abóbora cabotiá por abóbora moranga: a massa fica mais clara.
 - *Dica:* Para brilho, pincele os pãezinhos com um pouco de leite antes de assar.
 - *Como guardar:* Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos.
+- *Dica:* Pode sobrar um pouco da farinha integral, conforme a umidade da abóbora. O pãozinho fica mais firme que o de padaria.
 
 ---
 
 <a id="rbl-0044"></a>
 ## Pão de batata-doce com alecrim
 
-*Pão de forma úmido de batata-doce, com casca dourada e perfume de alecrim.*
+*Pão de forma úmido de batata-doce e farinha integral, com casca dourada e perfume de alecrim.*
 
 `rbl-0044` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 195 min (preparo 35 min, cozimento 60 min, descanso 100 min)
+- **Tempo total:** 220 min (preparo 35 min, cozimento 60 min, descanso 125 min)
 - **Rende:** 1 pão (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 175 kcal · 29,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0044.json)
+- **Por porção (valores aproximados):** 165 kcal · 27,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0044.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
 
 - 1 batata-doce média (250 g)
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
 - 1 ovo
 - 3 colheres (sopa) de azeite
-- 1/4 de xícara (chá) de água morna
+- 1/3 de xícara (chá) de água morna
 - 1 colher (chá) de alecrim seco
 
 **Modo de preparo**
 
 1. Descasque a batata-doce, corte em cubos e cozinhe em água por 15 minutos, até ficar macia. Escorra, amasse e espere amornar. **Atenção:** Cuidado ao escorrer a água fervente.
 2. Numa tigela, misture o purê, o ovo, o azeite e a água morna.
-3. Junte o fermento, o sal, o alecrim e a farinha aos poucos, até a massa desgrudar das mãos.
+3. Junte o fermento, o sal, o alecrim e a farinha integral aos poucos, até a massa quase desgrudar das mãos. Se grudar, unte as mãos com azeite.
 4. Sove por 8 minutos, até ficar lisa.
-5. Cubra e deixe crescer por 1 hora.
-6. Modele um rolo e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+6. Modele um rolo e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 50 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Asse por 40 a 45 minutos, até dourar e soar oco ao bater por baixo.
 9. Desenforme e espere esfriar antes de fatiar.
@@ -2406,40 +2425,41 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque o alecrim por orégano ou tomilho.
 - *Substituição:* Batata-doce roxa funciona igual e deixa o miolo arroxeado.
 - *Como guardar:* Fatiado, dura 3 dias em saco fechado; congelado, até 2 meses.
+- *Dica:* Com farinha integral o pão cresce menos e fica mais denso: espere esfriar bem antes de fatiar para o miolo firmar.
 
 ---
 
 <a id="rbl-0045"></a>
 ## Pãozinho de mandioquinha
 
-*Pãozinho dourado e macio de mandioquinha, com sabor delicado e miolo úmido.*
+*Pãozinho dourado e macio de mandioquinha com farinha integral, de sabor delicado e miolo úmido.*
 
 `rbl-0045` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 170 min (preparo 35 min, cozimento 45 min, descanso 90 min)
+- **Tempo total:** 195 min (preparo 35 min, cozimento 45 min, descanso 115 min)
 - **Rende:** 12 pãezinhos · **12 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 172 kcal · 29,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0045.json)
+- **Por porção (valores aproximados):** 161 kcal · 27,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0045.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
 
 - 3 mandioquinhas médias (300 g)
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
 - 1 ovo
 - 3 colheres (sopa) de manteiga em temperatura ambiente
-- 2 a 4 colheres (sopa) de água morna, se precisar
+- 4 colheres (sopa) de água morna, mais 2 se precisar
 
 **Modo de preparo**
 
 1. Descasque a mandioquinha, corte em pedaços e cozinhe em água por 15 minutos, até ficar macia. **Atenção:** Cuidado ao escorrer a água fervente.
 2. Escorra, amasse até virar um purê e espere amornar.
 3. Numa tigela, misture o purê, o ovo e a manteiga.
-4. Junte o fermento, o sal e a farinha aos poucos, sovando até a massa ficar lisa e macia. Se ficar seca, ponha a água morna aos poucos.
+4. Junte o fermento, o sal, a água e a farinha integral aos poucos, misturando até a massa ficar macia. Se ficar seca, ponha mais 1 ou 2 colheres (sopa) de água morna.
 5. Sove por 8 minutos.
-6. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-7. Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.
+6. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+7. Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 40 minutos.
 8. Preaqueça o forno a 180 °C.
 9. Asse por 25 a 30 minutos, até dourar.
 
@@ -2448,39 +2468,40 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque a mandioquinha por batata inglesa ou mandioca cozida.
 - *Dica:* Faça um corte em cruz por cima de cada bolinha com uma tesoura antes de assar: fica com cara de pão de padaria.
 - *Como guardar:* Congele os pãezinhos assados e aqueça no forno a 180 °C por 8 minutos.
+- *Dica:* A massa com farinha integral fica um pouco grudenta: unte as mãos com manteiga para modelar as bolinhas.
 
 ---
 
 <a id="rbl-0046"></a>
 ## Pão de cenoura de liquidificador
 
-*Pão de forma alaranjado e fofinho, com a cenoura batida no liquidificador junto com os líquidos.*
+*Pão de forma alaranjado e macio de farinha integral, com a cenoura batida no liquidificador junto com os líquidos.*
 
 `rbl-0046` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 165 min (preparo 25 min, cozimento 40 min, descanso 100 min)
+- **Tempo total:** 190 min (preparo 25 min, cozimento 40 min, descanso 125 min)
 - **Rende:** 1 pão (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 203 kcal · 32,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0046.json)
+- **Por porção (valores aproximados):** 189 kcal · 30,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0046.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
 
 - 2 cenouras pequenas (180 g)
-- 1/2 xícara (chá) de água morna
+- 2/3 de xícara (chá) de água morna
 - 1/4 de xícara (chá) de óleo
 - 1 ovo
 - 1 colher (chá) de sal
-- 4 xícaras (chá) de farinha de trigo
+- 4 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 
 **Modo de preparo**
 
 1. Descasque e pique a cenoura. Bata no liquidificador com a água, o óleo, o ovo e o sal até ficar um creme liso.
-2. Numa tigela, misture a farinha e o fermento.
+2. Numa tigela, misture a farinha integral e o fermento.
 3. Despeje o creme de cenoura e misture até formar uma massa.
-4. Sove por 10 minutos numa bancada enfarinhada, até ficar lisa e elástica.
-5. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-6. Enrole a massa como um rocambole e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.
+4. Sove por 10 minutos, até ficar mais lisa e elástica. Se grudar, unte as mãos com óleo em vez de pôr mais farinha.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+6. Enrole a massa como um rocambole e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 50 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Asse por 35 a 40 minutos, até dourar e soar oco ao bater por baixo.
 9. Desenforme e espere esfriar antes de fatiar.
@@ -2488,7 +2509,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque a cenoura por beterraba crua para um pão rosado.
-- *Substituição:* Use 1 xícara de farinha de trigo integral no lugar de 1 xícara da comum.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida: o miolo fica mais macio.
 - *Como guardar:* Fatiado, dura 3 dias em saco fechado. Congela bem por até 2 meses.
 
 ---
@@ -2496,13 +2517,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0047"></a>
 ## Pão trançado de queijo e orégano
 
-*Pão caseiro recheado com mussarela e orégano e modelado em trança, bonito para servir à mesa.*
+*Pão caseiro de farinha integral recheado com mussarela e orégano e modelado em trança, bonito para servir à mesa.*
 
 `rbl-0047` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 170 min (preparo 35 min, cozimento 35 min, descanso 100 min)
+- **Tempo total:** 195 min (preparo 35 min, cozimento 35 min, descanso 125 min)
 - **Rende:** 1 pão (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 192 kcal · 25,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0047.json)
+- **Por porção (valores aproximados):** 182 kcal · 23,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0047.json)
 - **Forno:** 180 °C, 35 min, preaquecido
 
 **Ingredientes**
@@ -2510,10 +2531,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
-- 3/4 de xícara (chá) de leite morno
+- 3/4 de xícara (chá) mais 1 colher (sopa) de leite morno (200 ml)
 - 1 ovo
 - 2 colheres (sopa) de azeite
 
@@ -2526,11 +2547,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Numa tigela, misture a farinha, o fermento e o sal.
 2. Junte o leite morno, o ovo e o azeite e misture até formar uma massa.
-3. Sove por 10 minutos, até ficar lisa e elástica.
-4. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-5. Abra a massa num retângulo de 30 x 40 cm, espalhe a mussarela e o orégano e enrole pelo lado mais comprido, como um rocambole.
+3. Sove por 10 minutos, até ficar mais lisa e elástica. Se grudar, unte as mãos com azeite em vez de pôr mais farinha.
+4. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+5. Abra a massa num retângulo de 30 x 40 cm, espalhe a mussarela e o orégano e enrole pelo lado mais comprido, como um rocambole. Se a massa encolher ao abrir, espere 5 minutos e continue.
 6. Corte o rolo ao meio no sentido do comprimento, deixando uma ponta presa, e torça as duas partes uma sobre a outra, com o recheio virado para cima. **Atenção:** Use uma faca bem afiada e corte com calma.
-7. Coloque numa assadeira untada, cubra e deixe crescer mais 40 minutos.
+7. Coloque numa assadeira untada, cubra e deixe crescer mais 50 minutos.
 8. Preaqueça o forno a 180 °C.
 9. Asse por 30 a 35 minutos, até dourar e o queijo borbulhar.
 
@@ -2539,19 +2560,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque a mussarela por queijo prato ou queijo minas meia cura.
 - *Substituição:* Junte tomate picado sem sementes ao recheio para um pão de pizza.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça no forno para o queijo derreter de novo.
+- *Dica:* A massa integral é menos elástica: torça a trança com calma, sem esticar, para não rasgar.
 
 ---
 
 <a id="rbl-0048"></a>
 ## Focaccia de alecrim
 
-*Pão italiano baixo e aerado, regado com azeite e coberto de alecrim, ótimo para acompanhar sopas e saladas.*
+*Pão italiano baixo de farinha integral, regado com azeite e coberto de alecrim, ótimo para acompanhar sopas e saladas.*
 
 `rbl-0048` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 135 min (preparo 20 min, cozimento 25 min, descanso 90 min)
+- **Tempo total:** 160 min (preparo 20 min, cozimento 25 min, descanso 115 min)
 - **Rende:** 1 assadeira (10 pedaços) · **10 porções** de 1 pedaço
-- **Por porção (valores aproximados):** 198 kcal · 28,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0048.json)
+- **Por porção (valores aproximados):** 186 kcal · 26,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0048.json)
 - **Forno:** 220 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -2559,10 +2581,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
-- 1 e 1/4 de xícara (chá) de água morna
+- 1 e 1/3 xícara (chá) de água morna, mais 1 colher (sopa) (340 ml)
 - 2 colheres (sopa) de azeite
 
 *Cobertura*
@@ -2573,11 +2595,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o fermento e o sal.
+1. Numa tigela, misture a farinha integral, o fermento e o sal.
 2. Junte a água morna e 2 colheres (sopa) de azeite e mexa com uma colher até não ter farinha seca. A massa fica mole e grudenta.
-3. Cubra e deixe crescer por 1 hora, até dobrar e formar bolhas.
+3. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar e formar bolhas.
 4. Unte uma assadeira de 30 x 20 cm com 1 colher (sopa) do azeite da cobertura e despeje a massa. Espalhe com as mãos untadas até os cantos.
-5. Cubra e deixe crescer mais 30 minutos.
+5. Cubra e deixe crescer mais 40 minutos.
 6. Preaqueça o forno a 220 °C.
 7. Afunde as pontas dos dedos na massa toda, regue com o restante do azeite e espalhe o alecrim e o sal grosso.
 8. Asse por 20 a 25 minutos, até ficar bem dourada.
@@ -2586,7 +2608,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o alecrim por orégano, ou cubra com rodelas de tomate e cebola.
-- *Dica:* Massa bem mole é o segredo da focaccia aerada: não ponha mais farinha.
+- *Dica:* Massa bem mole é o segredo da focaccia: não ponha mais farinha. Com farinha integral ela fica menos aerada e mais macia, com sabor mais marcante.
 - *Como guardar:* Guarde em saco fechado por 2 dias e aqueça no forno ou na frigideira.
 
 ---
@@ -2798,15 +2820,15 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 70 min (preparo 15 min, cozimento 40 min)
 - **Rende:** 1 broa (12 fatias) · **12 porções** de 1 fatia
-- **Por porção (valores aproximados):** 221 kcal · 25,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0054.json)
+- **Por porção (valores aproximados):** 220 kcal · 25,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0054.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
 
 - 2 xícaras (chá) de fubá
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 3 ovos
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)
 - 1/2 xícara (chá) de óleo
 - 1 colher (chá) de sal
 - 1 colher (chá) de erva-doce
@@ -2816,7 +2838,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e unte uma forma redonda de 22 cm com óleo e fubá.
 2. Bata no liquidificador os ovos, o leite, o óleo e o sal por 1 minuto.
-3. Numa tigela, misture o fubá, a farinha e a erva-doce. Despeje o líquido e misture bem com um batedor de arame.
+3. Numa tigela, misture o fubá, a farinha integral e a erva-doce. Despeje o líquido e misture bem com um batedor de arame.
 4. Acrescente o fermento e mexa só para incorporar.
 5. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
 6. Espere 10 minutos antes de desenformar.
@@ -2826,6 +2848,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Sem erva-doce? Use 2 colheres (sopa) de queijo parmesão ralado na massa.
 - *Dica:* Fica ótima ainda morna com manteiga ou com queijo minas.
 - *Como guardar:* Guarde em pote fechado por até 3 dias, fora da geladeira.
+- *Substituição:* Troque a farinha integral por 1 e 1/4 xícara de aveia em flocos batida: a broa fica mais macia.
 
 ---
 
@@ -2875,72 +2898,74 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0056"></a>
 ## Pão de minuto de iogurte
 
-*Pãozinho rápido de fermento químico e iogurte, que vai direto ao forno, sem esperar crescer.*
+*Pãozinho rápido de farinha integral, fermento químico e iogurte, que vai direto ao forno, sem esperar crescer.*
 
 `rbl-0056` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 20 min)
 - **Rende:** 10 pãezinhos · **10 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 138 kcal · 19,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0056.json)
+- **Por porção (valores aproximados):** 132 kcal · 18,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0056.json)
 - **Forno:** 200 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento químico em pó
 - 1/2 colher (chá) de sal
 - 1 pote de iogurte natural (170 g)
 - 1 ovo
+- 3 colheres (sopa) de leite
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 
 **Modo de preparo**
 
 1. Preaqueça o forno a 200 °C e unte uma assadeira.
-2. Numa tigela, misture a farinha, o fermento e o sal.
-3. Junte o iogurte, o ovo e a manteiga e misture com as mãos só até formar uma massa macia. Não sove: pão de minuto fica duro se for muito trabalhado.
-4. Com as mãos enfarinhadas, faça 10 bolinhas e coloque na assadeira, com espaço entre elas.
+2. Numa tigela, misture a farinha integral, o fermento e o sal.
+3. Junte o iogurte, o ovo, o leite e a manteiga e misture com as mãos só até formar uma massa macia e um pouco grudenta. Não sove: pão de minuto fica duro se for muito trabalhado.
+4. Com as mãos untadas com manteiga, faça 10 bolinhas e coloque na assadeira, com espaço entre elas.
 5. Asse por 18 a 20 minutos, até dourar por cima.
 6. Sirva morno.
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida: o pão fica mais macio.
 - *Substituição:* Sem iogurte? Use 1/2 xícara de leite com 1 colher (chá) de suco de limão.
 - *Como guardar:* É melhor no mesmo dia. No dia seguinte, aqueça no forno por 5 minutos.
+- *Dica:* Com farinha integral o pãozinho cresce um pouco menos e fica com miolo mais firme.
 
 ---
 
 <a id="rbl-0057"></a>
 ## Pãozinho de cebola
 
-*Pãozinho macio de massa batida no liquidificador com cebola e salsinha, com aroma de pão de padaria.*
+*Pãozinho macio de farinha integral, com cebola e salsinha batidas no liquidificador e aroma de pão caseiro.*
 
 `rbl-0057` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 145 min (preparo 30 min, cozimento 25 min, descanso 90 min)
+- **Tempo total:** 170 min (preparo 30 min, cozimento 25 min, descanso 115 min)
 - **Rende:** 15 pãezinhos · **15 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 182 kcal · 26,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0057.json)
+- **Por porção (valores aproximados):** 172 kcal · 24,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0057.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
 
 - 1 cebola média
-- 1 xícara (chá) de leite morno
+- 1 xícara (chá) mais 2 colheres (sopa) de leite morno (270 ml)
 - 1/3 de xícara (chá) de óleo
 - 1 ovo
 - 1 colher (chá) de sal
-- 4 xícaras (chá) de farinha de trigo
+- 4 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 2 colheres (sopa) de salsinha picada
 
 **Modo de preparo**
 
 1. Pique a cebola e bata no liquidificador com o leite morno, o óleo, o ovo e o sal até ficar liso.
-2. Numa tigela, misture a farinha, o fermento e a salsinha.
-3. Despeje o líquido e misture até formar uma massa. Se grudar muito, ponha mais farinha, 1 colher (sopa) por vez.
+2. Numa tigela, misture a farinha integral, o fermento e a salsinha.
+3. Despeje o líquido e misture até formar uma massa. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr mais farinha.
 4. Sove por 8 minutos, até ficar lisa.
-5. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-6. Divida em 15 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+6. Divida em 15 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 40 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Asse por 20 a 25 minutos, até dourar.
 
@@ -2955,41 +2980,41 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0058"></a>
 ## Pãozinho de espinafre
 
-*Pãozinho verde e macio, com espinafre e alho batidos na massa, bom para lanche com queijo.*
+*Pãozinho verde e macio de farinha integral, com espinafre e alho batidos na massa, bom para lanche com queijo.*
 
 `rbl-0058` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 145 min (preparo 30 min, cozimento 25 min, descanso 90 min)
+- **Tempo total:** 170 min (preparo 30 min, cozimento 25 min, descanso 115 min)
 - **Rende:** 12 pãezinhos · **12 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 181 kcal · 28 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0058.json)
+- **Por porção (valores aproximados):** 168 kcal · 25,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0058.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
 
 - 3 xícaras (chá) de folhas de espinafre
-- 3/4 de xícara (chá) de água morna
+- 3/4 de xícara (chá) mais 2 colheres (sopa) de água morna (210 ml)
 - 1/4 de xícara (chá) de azeite
 - 1 ovo
 - 1 dente de alho
 - 1 colher (chá) de sal
-- 3 e 1/2 xícaras (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 
 **Modo de preparo**
 
 1. Bata no liquidificador o espinafre, a água morna, o azeite, o ovo, o alho e o sal até ficar um creme verde e liso.
-2. Numa tigela, misture a farinha e o fermento.
+2. Numa tigela, misture a farinha integral e o fermento.
 3. Despeje o creme verde e misture até formar uma massa.
-4. Sove por 8 minutos, até ficar lisa e elástica.
-5. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-6. Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.
+4. Sove por 8 minutos, até ficar mais lisa e elástica. Se grudar, unte as mãos com azeite.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+6. Divida em 12 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 40 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Asse por 20 a 25 minutos, até a casca firmar.
 
 **Dicas**
 
 - *Substituição:* Troque o espinafre por couve sem o talo.
-- *Dica:* Asse sem deixar dourar muito, para o pão continuar verdinho.
+- *Dica:* Asse sem deixar dourar muito. Com farinha integral o verde fica mais puxado para o oliva: é normal.
 - *Como guardar:* Congele os pãezinhos assados por até 2 meses.
 
 ---
@@ -3189,23 +3214,22 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0064"></a>
 ## Grissini integral
 
-*Palitos de pão integral finos e crocantes, com gergelim, para servir com sopas e pastas.*
+*Palitos de pão 100% integral, finos e crocantes, com gergelim, para servir com sopas e pastas.*
 
 `rbl-0064` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 90 min (preparo 25 min, cozimento 20 min, descanso 40 min)
+- **Tempo total:** 95 min (preparo 25 min, cozimento 20 min, descanso 50 min)
 - **Rende:** 24 palitos · **8 porções** de 3 palitos
-- **Por porção (valores aproximados):** 167 kcal · 23,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0064.json)
+- **Por porção (valores aproximados):** 162 kcal · 22,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0064.json)
 - **Forno:** 200 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 1 xícara (chá) de farinha de trigo integral
-- 1 xícara (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 1 colher (chá) de fermento biológico seco
 - 1 colher (chá) de sal
 - 3 colheres (sopa) de azeite
-- 2/3 de xícara (chá) de água morna
+- 2/3 de xícara (chá) mais 1 colher (sopa) de água morna (175 ml)
 
 *Cobertura*
 
@@ -3213,10 +3237,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture as farinhas, o fermento e o sal.
+1. Numa tigela, misture a farinha integral, o fermento e o sal.
 2. Junte o azeite e a água morna e misture até formar uma massa.
 3. Sove por 5 minutos, até ficar lisa.
-4. Cubra e deixe descansar 40 minutos.
+4. Cubra e deixe descansar 50 minutos.
 5. Preaqueça o forno a 200 °C.
 6. Divida a massa em 24 pedaços e role cada um sobre a bancada, formando palitos finos de 20 cm.
 7. Passe os palitos no gergelim, apertando de leve, e coloque numa assadeira untada.
@@ -3226,7 +3250,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o gergelim por alecrim seco ou orégano.
-- *Substituição:* Use só farinha integral: ponha 1 colher (sopa) a mais de água.
+- *Substituição:* Troque 1/4 de xícara da farinha integral por aveia em flocos batida: fica mais quebradiço.
 - *Como guardar:* Guarde em pote bem fechado por até 1 semana.
 
 ---
@@ -3234,34 +3258,34 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0065"></a>
 ## Pão de milho verde
 
-*Pão macio com milho verde batido e um pouco de fubá na massa, de cor amarelinha e sabor de milho.*
+*Pão macio de farinha integral com milho verde batido e um pouco de fubá na massa, de sabor de milho.*
 
 `rbl-0065` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 150 min (preparo 30 min, cozimento 30 min, descanso 90 min)
+- **Tempo total:** 175 min (preparo 30 min, cozimento 30 min, descanso 115 min)
 - **Rende:** 12 pãezinhos · **12 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 218 kcal · 34,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0065.json)
+- **Por porção (valores aproximados):** 206 kcal · 32,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0065.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
 
 - 1 lata de milho-verde escorrido (170 g)
-- 1/2 xícara (chá) de leite morno
+- 1/2 xícara (chá) mais 1 colher (sopa) de leite morno (135 ml)
 - 1/4 de xícara (chá) de óleo
 - 1 ovo
 - 1 colher (chá) de sal
-- 3 e 1/2 xícaras (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1/2 xícara (chá) de fubá
 - 2 colheres (chá) de fermento biológico seco
 
 **Modo de preparo**
 
 1. Bata no liquidificador o milho, o leite morno, o óleo, o ovo e o sal até ficar um creme.
-2. Numa tigela, misture a farinha, o fubá e o fermento.
-3. Despeje o creme de milho e misture até formar uma massa. Se grudar muito, ponha mais farinha aos poucos.
+2. Numa tigela, misture a farinha integral, o fubá e o fermento.
+3. Despeje o creme de milho e misture até formar uma massa. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr mais farinha.
 4. Sove por 8 minutos, até ficar lisa.
-5. Cubra e deixe crescer por 1 hora, até dobrar de volume.
-6. Divida em 12 bolinhas e coloque numa assadeira untada polvilhada com fubá. Cubra e deixe crescer mais 30 minutos.
+5. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
+6. Divida em 12 bolinhas e coloque numa assadeira untada polvilhada com fubá. Cubra e deixe crescer mais 40 minutos.
 7. Preaqueça o forno a 180 °C.
 8. Asse por 25 a 30 minutos, até dourar.
 
@@ -3317,52 +3341,54 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0067"></a>
 ## Bolacha de água e sal caseira
 
-*Bolacha fininha e crocante, de sabor neutro, como a de pacote, para comer com queijo e pastas.*
+*Bolacha fininha e crocante de farinha integral e aveia, de sabor suave, para comer com queijo e pastas.*
 
 `rbl-0067` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 60 min (preparo 25 min, cozimento 15 min, descanso 15 min)
 - **Rende:** 40 bolachas · **8 porções** de 5 bolachas
-- **Por porção (valores aproximados):** 158 kcal · 23,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0067.json)
+- **Por porção (valores aproximados):** 142 kcal · 19,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0067.json)
 - **Forno:** 200 °C, 15 min, preaquecido
 
 **Ingredientes**
 
-- 2 xícaras (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
+- 1/2 xícara (chá) de aveia em flocos batida no liquidificador
 - 1 colher (chá) de fermento químico em pó
 - 1/2 colher (chá) de sal
 - 3 colheres (sopa) de óleo
-- 1/2 xícara (chá) de água
+- 1/2 xícara (chá) mais 1 colher (sopa) de água (135 ml)
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o fermento e o sal.
+1. Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o fermento e o sal.
 2. Junte o óleo e a água e misture até formar uma massa firme. Se esfarelar, ponha mais 1 colher (sopa) de água.
 3. Sove por 3 minutos, cubra e deixe descansar 15 minutos.
 4. Preaqueça o forno a 200 °C.
-5. Abra a massa com o rolo, bem fina (1 a 2 mm), sobre a bancada enfarinhada.
+5. Abra a massa com o rolo, bem fina (1 a 2 mm), entre duas folhas de papel-manteiga ou sobre a bancada polvilhada com farinha integral.
 6. Corte quadrados de 5 cm e fure cada um várias vezes com um garfo, para não estufar.
 7. Coloque numa assadeira e asse por 12 a 15 minutos, até dourar de leve.
 8. Deixe esfriar: elas terminam de ficar crocantes fora do forno.
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Use só farinha integral (2 xícaras) no lugar da mistura com aveia: a bolacha fica mais firme e menos quebradiça.
 - *Dica:* Quanto mais fina a massa, mais crocante a bolacha.
 - *Como guardar:* Guarde em pote bem fechado por até 2 semanas.
+- *Dica:* Com farinha integral a bolacha fica mais escurinha e com sabor de cereal, diferente da de pacote.
 
 ---
 
 <a id="rbl-0068"></a>
 ## Pão de batata recheado com frango
 
-*Pãozinho macio de batata com recheio de frango refogado com tomate e salsinha.*
+*Pãozinho macio de batata e farinha integral, com recheio de frango refogado com tomate e salsinha.*
 
 `rbl-0068` · Pães e substitutos do pão · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 200 min (preparo 50 min, cozimento 60 min, descanso 90 min)
+- **Tempo total:** 225 min (preparo 50 min, cozimento 60 min, descanso 115 min)
 - **Rende:** 16 pães · **16 porções** de 1 pão
-- **Por porção (valores aproximados):** 193 kcal · 27 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0068.json)
+- **Por porção (valores aproximados):** 184 kcal · 25,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0068.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
@@ -3371,11 +3397,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Massa*
 
 - 2 batatas médias (250 g)
-- 4 xícaras (chá) de farinha de trigo
+- 4 xícaras (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento biológico seco
 - 1 colher (chá) de sal
 - 1 ovo
-- 1/2 xícara (chá) de leite morno
+- 1/2 xícara (chá) mais 1 colher (sopa) de leite morno (135 ml)
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 
 *Recheio*
@@ -3392,12 +3418,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Descasque as batatas, corte em pedaços e cozinhe em água por 20 minutos, até ficarem macias. Escorra, amasse e espere amornar. **Atenção:** Cuidado ao escorrer a água fervente.
 2. Numa tigela, misture o purê, o ovo, o leite morno e a manteiga.
-3. Junte o fermento, o sal e a farinha aos poucos, sovando até a massa ficar lisa e macia. Sove por 8 minutos.
-4. Cubra e deixe crescer por 1 hora, até dobrar de volume.
+3. Junte o fermento, o sal e a farinha integral aos poucos, sovando até a massa ficar macia. Sove por 8 minutos. Se grudar, unte as mãos com manteiga.
+4. Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.
 5. Enquanto isso, aqueça o azeite numa frigideira e refogue a cebola e o alho por 3 minutos, até murchar.
 6. Junte o tomate e o frango e cozinhe por 5 minutos, até secar o líquido. Acerte o sal, junte a salsinha e deixe esfriar.
 7. Divida a massa em 16 partes. Abra cada uma na mão, coloque 1 colher (sopa) de recheio, feche bem e coloque com a emenda para baixo numa assadeira untada.
-8. Cubra e deixe crescer mais 30 minutos.
+8. Cubra e deixe crescer mais 40 minutos.
 9. Preaqueça o forno a 180 °C.
 10. Asse por 25 a 30 minutos, até dourar.
 
@@ -5328,22 +5354,23 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 `rbl-0118` · Café da manhã · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 26 min (preparo 10 min, cozimento 16 min)
+- **Tempo total:** 31 min (preparo 15 min, cozimento 16 min)
 - **Rende:** 8 panquecas · **4 porções** de 2 panquecas
-- **Por porção (valores aproximados):** 216 kcal · 33 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0118.json)
+- **Por porção (valores aproximados):** 199 kcal · 27,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0118.json)
 
 **Ingredientes**
 
 
 *Massa*
 
-- 1 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
+- 1/2 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de eritritol (ou 1 colher (sopa) de xilitol)
 - 1 colher (chá) de fermento químico em pó
 - 1 pitada de sal
 - 1 pote de iogurte natural integral (170 g)
 - 1 ovo
-- 4 colheres (sopa) de leite
+- 6 colheres (sopa) de leite
 - 1 colher (sopa) de manteiga derretida
 
 *Para servir*
@@ -5353,16 +5380,16 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o eritritol, o fermento e o sal.
+1. Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o eritritol, o fermento e o sal.
 2. Em outra tigela, bata o iogurte, o ovo, o leite e a manteiga com um garfo.
-3. Junte os líquidos aos secos e mexa só até sumir a farinha seca. A massa fica grossa e com alguns carocinhos.
+3. Junte os líquidos aos secos e mexa só até sumir a farinha seca. Deixe descansar 5 minutos: a massa fica grossa e com alguns carocinhos.
 4. Aqueça uma frigideira antiaderente em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca, espalhando num círculo de 10 cm.
 5. Deixe 2 minutos, até aparecerem furinhos por cima. Vire e deixe mais 1 a 2 minutos, até dourar.
 6. Repita com o resto da massa e sirva com a banana e a canela por cima.
 
 **Dicas**
 
-- *Substituição:* Use farinha de trigo integral no lugar de metade da farinha branca.
+- *Substituição:* Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia e ponha mais 2 colheres (sopa) de leite.
 - *Substituição:* Troque a banana por morangos ou mamão.
 - *Como guardar:* Congele as panquecas separadas por papel-manteiga por até 1 mês. Aqueça na frigideira.
 
@@ -5414,17 +5441,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Panquequinhas grossas de queijo cottage, macias por dentro e douradas por fora.*
 
-`rbl-0120` · Café da manhã · Etiquetas: 0 açúcar adicionado
+`rbl-0120` · Café da manhã · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 23 min (preparo 8 min, cozimento 15 min)
 - **Rende:** 9 panquecas · **3 porções** de 3 panquecas
-- **Por porção (valores aproximados):** 211 kcal · 19,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0120.json)
+- **Por porção (valores aproximados):** 189 kcal · 12,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0120.json)
 
 **Ingredientes**
 
 - 1 xícara (chá) de queijo cottage
 - 2 ovos
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de aveia em flocos finos
 - 1 colher (sopa) de eritritol (ou 1 colher (sopa) de xilitol)
 - 1/2 colher (chá) de essência de baunilha
 - 1 colher (chá) de fermento químico em pó
@@ -5434,7 +5461,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Numa tigela, amasse o cottage com um garfo e misture os ovos, o eritritol, a baunilha e o sal.
-2. Junte a farinha e o fermento e mexa até formar uma massa grossa.
+2. Bata a aveia no liquidificador até virar farinha. Junte ao cottage com o fermento e mexa até formar uma massa grossa. Deixe descansar 2 minutos.
 3. Unte uma frigideira antiaderente com um pouco da manteiga e aqueça em fogo baixo.
 4. Coloque 2 colheres (sopa) de massa por panqueca e achate de leve com a colher.
 5. Deixe 2 a 3 minutos de cada lado, até dourar e firmar. **Atenção:** Fogo baixo: o queijo doura rápido por fora.
@@ -5443,7 +5470,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o cottage por ricota amassada.
-- *Substituição:* Use 1/2 xícara de aveia em flocos finos no lugar da farinha.
+- *Substituição:* Use 1/2 xícara de farinha de trigo integral no lugar da aveia.
 - *Como guardar:* Guarde na geladeira por até 2 dias e aqueça na frigideira.
 
 ---
@@ -5502,14 +5529,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 20 min (preparo 8 min, cozimento 12 min)
 - **Rende:** 8 panquecas · **2 porções** de 4 panquecas
-- **Por porção (valores aproximados):** 300 kcal · 35,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0122.json)
+- **Por porção (valores aproximados):** 295 kcal · 33,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0122.json)
 
 **Ingredientes**
 
 - 1/2 xícara (chá) de milho-verde em lata escorrido
 - 1 ovo
-- 1/2 xícara (chá) de leite
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) mais 1 colher (sopa) de leite (135 ml)
+- 1/2 xícara (chá) de farinha de trigo integral
 - 2 pitadas de sal
 - 1/2 colher (chá) de fermento químico em pó
 - 1 fatia fina de queijo minas frescal em cubinhos (40 g)
@@ -5519,7 +5546,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Bata no liquidificador o milho, o ovo e o leite por 1 minuto.
-2. Passe para uma tigela, junte a farinha e o sal e mexa até ficar liso. Misture o fermento, o queijo e a salsinha.
+2. Passe para uma tigela, junte a farinha integral e o sal e mexa até ficar liso. Deixe descansar 3 minutos e misture o fermento, o queijo e a salsinha.
 3. Unte uma frigideira antiaderente com um pouco do óleo e aqueça em fogo baixo. Coloque 2 colheres (sopa) de massa por panqueca.
 4. Deixe 2 minutos, até aparecerem furinhos. Vire e deixe mais 1 a 2 minutos, até dourar.
 5. Repita até acabar a massa.
@@ -5529,6 +5556,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque o queijo minas por parmesão ralado (use só 1 pitada de sal).
 - *Substituição:* Use cebolinha no lugar da salsinha.
 - *Como guardar:* Guarde na geladeira por até 2 dias e aqueça na frigideira.
+- *Substituição:* Troque a farinha integral por 1/2 xícara de aveia em flocos batida.
 
 ---
 
@@ -5539,21 +5567,22 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 `rbl-0123` · Café da manhã · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 30 min (preparo 10 min, cozimento 20 min)
+- **Tempo total:** 35 min (preparo 15 min, cozimento 20 min)
 - **Rende:** 4 waffles · **4 porções** de 1 waffle
-- **Por porção (valores aproximados):** 223 kcal · 28,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0123.json)
+- **Por porção (valores aproximados):** 205 kcal · 23,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0123.json)
 
 **Ingredientes**
 
 
 *Massa*
 
-- 1 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
+- 1/2 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de eritritol (ou 1 colher (sopa) de xilitol)
 - 1 colher (chá) de fermento químico em pó
 - 1 pitada de sal
 - 1 ovo
-- 3/4 de xícara (chá) de leite
+- 3/4 de xícara (chá) mais 1 colher (sopa) de leite (200 ml)
 - 2 colheres (sopa) de manteiga derretida
 - 1/2 colher (chá) de essência de baunilha
 
@@ -5564,16 +5593,16 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Ligue a máquina de waffle para esquentar.
-2. Numa tigela, misture a farinha, o eritritol, o fermento e o sal.
+2. Bata a aveia no liquidificador até virar farinha. Numa tigela, misture com a farinha integral, o eritritol, o fermento e o sal.
 3. Em outra tigela, bata o ovo, o leite, a manteiga e a baunilha.
-4. Junte os líquidos aos secos e mexa só até não ter farinha seca.
+4. Junte os líquidos aos secos e mexa só até não ter farinha seca. Deixe descansar 5 minutos.
 5. Pincele a máquina com um pouco de manteiga, despeje cerca de 1/2 xícara de massa e feche.
 6. Asse por 4 a 5 minutos, até parar de sair vapor e o waffle soltar dourado. **Atenção:** A máquina e o vapor queimam: abra com cuidado.
 7. Repita com o resto da massa e sirva com os morangos.
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha por aveia em flocos finos.
+- *Substituição:* Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia: o waffle fica mais firme e escurinho.
 - *Substituição:* Sem máquina de waffle? Faça panquecas com a mesma massa na frigideira.
 - *Como guardar:* Congele os waffles por até 1 mês e aqueça na torradeira ou na frigideira.
 
@@ -5608,7 +5637,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque metade da mussarela por parmesão ralado.
-- *Substituição:* Sem polvilho? Use 1 colher (sopa) de farinha de trigo ou de aveia.
+- *Substituição:* Sem polvilho? Use 1 colher (sopa) de farinha de trigo integral ou de aveia batida.
 - *Dica:* Um pouco de queijo escorre pelas bordas: é ele que forma a casquinha crocante.
 
 ---
@@ -5949,7 +5978,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 110 min (preparo 50 min, cozimento 55 min)
 - **Rende:** 16 coxinhas · **8 porções** de 2 coxinhas
-- **Por porção (valores aproximados):** 215 kcal · 22 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0134.json)
+- **Por porção (valores aproximados):** 212 kcal · 21,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0134.json)
 - **Forno:** 200 °C, 30 min, preaquecido
 
 **Ingredientes**
@@ -5958,7 +5987,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Massa*
 
 - 3 batatas médias (640 g)
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
 - 1 colher (sopa) de manteiga
 - 1 colher (chá) de sal
 
@@ -5980,7 +6009,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Descasque as batatas, corte em pedaços e cozinhe em água com sal por 20 a 25 minutos, até ficarem bem macias.
-2. Escorra e esprema as batatas ainda quentes. Junte a manteiga, o sal e a farinha e misture até formar uma massa que não gruda nas mãos. Deixe amornar. **Atenção:** Cuidado: a batata sai da panela muito quente.
+2. Escorra e esprema as batatas ainda quentes. Junte a manteiga, o sal e a farinha integral e misture até formar uma massa que não gruda nas mãos. Deixe amornar. **Atenção:** Cuidado: a batata sai da panela muito quente.
 3. Para o recheio, aqueça o azeite numa frigideira e refogue a cebola e o alho por 3 minutos, até murcharem.
 4. Junte o frango, o sal e a salsinha e mexa por 2 minutos. Desligue e misture o requeijão.
 5. Preaqueça o forno a 200 °C e unte uma assadeira com um fio de azeite.
@@ -5992,7 +6021,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque a batata por mandioquinha cozida: a massa fica mais amarelinha e macia.
 - *Substituição:* Sem aveia? Empane com 1/2 xícara de farinha de milho ou de queijo parmesão ralado.
-- *Dica:* Se a massa grudar nas mãos, molhe as mãos com um pouco de água ou acrescente mais 1 colher (sopa) de farinha.
+- *Dica:* Se a massa grudar nas mãos, molhe as mãos com um pouco de água ou acrescente mais 1 colher (sopa) de farinha integral.
 - *Como guardar:* Congele as coxinhas cruas e empanadas em pote fechado por até 2 meses. Asse sem descongelar, com 10 minutos a mais.
 
 ---
@@ -6047,7 +6076,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque a carne moída por frango desfiado ou por queijo minas em cubinhos.
-- *Substituição:* Sem polvilho? Use 3 colheres (sopa) de farinha de trigo.
+- *Substituição:* Sem polvilho? Use 3 colheres (sopa) de farinha de trigo integral ou de aveia batida.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça no forno ou na airfryer por 8 minutos.
 
 ---
@@ -6106,13 +6135,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0137"></a>
 ## Empadinha de frango de liquidificador
 
-*Empadinha macia de massa batida no liquidificador, recheada com frango, milho e tomate.*
+*Empadinha macia de massa de farinha integral batida no liquidificador, recheada com frango, milho e tomate.*
 
 `rbl-0137` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 55 min (preparo 25 min, cozimento 30 min)
 - **Rende:** 12 empadinhas · **6 porções** de 2 empadinhas
-- **Por porção (valores aproximados):** 386 kcal · 30 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0137.json)
+- **Por porção (valores aproximados):** 379 kcal · 28,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0137.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
@@ -6121,9 +6150,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Massa*
 
 - 3 ovos
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 2 colheres (sopa) de leite (270 ml)
 - 1/3 de xícara (chá) de óleo
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 2 colheres (sopa) de queijo parmesão ralado
 - 1/2 colher (chá) de sal
 - 1 colher (sopa) de fermento químico em pó
@@ -6142,7 +6171,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 1. Preaqueça o forno a 180 °C e unte 12 forminhas de empada ou de muffin com óleo.
 2. Numa tigela, misture todos os ingredientes do recheio e reserve.
 3. No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto.
-4. Junte a farinha aos poucos e bata até a massa ficar lisa. Por último, misture o fermento com uma colher.
+4. Junte a farinha integral aos poucos e bata até a massa ficar lisa e cremosa. Por último, misture o fermento com uma colher.
 5. Coloque 1 colher (sopa) de massa no fundo de cada forminha, distribua o recheio e cubra com o restante da massa.
 6. Asse por 25 a 30 minutos, até dourar e um palito sair limpo.
 7. Espere 10 minutos antes de desenformar, para não quebrar.
@@ -6150,7 +6179,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o frango por palmito picado ou por atum escorrido.
-- *Substituição:* Use 3/4 de xícara de farinha de trigo e 3/4 de xícara de farinha de trigo integral, se preferir.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida: a massa fica mais macia.
 - *Como guardar:* Duram 3 dias na geladeira. Aqueça no forno por 8 minutos.
 
 ---
@@ -6197,7 +6226,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o presunto por peito de peru e o queijo prato por mussarela fatiada.
-- *Substituição:* Sem aveia? Use 4 colheres (sopa) de farinha de trigo.
+- *Substituição:* Sem aveia? Use 4 colheres (sopa) de farinha de trigo integral.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça no forno por 5 minutos.
 
 ---
@@ -6252,7 +6281,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 25 min)
 - **Rende:** 16 bolinhos · **4 porções** de 4 bolinhos
-- **Por porção (valores aproximados):** 252 kcal · 29,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0140.json)
+- **Por porção (valores aproximados):** 250 kcal · 28,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0140.json)
 - **Forno:** 200 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -6260,7 +6289,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 2 xícaras (chá) de arroz branco cozido
 - 2 ovos
 - 1/2 xícara (chá) de queijo parmesão ralado
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farinha de trigo integral
 - 1/2 cebola ralada
 - 2 colheres (sopa) de salsinha picada
 - 2 colheres (sopa) de cebolinha picada
@@ -6273,14 +6302,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 1. Preaqueça o forno a 200 °C e unte uma forma de minimuffin (ou uma assadeira) com o azeite.
 2. Numa tigela, amasse o arroz com um garfo para quebrar um pouco os grãos.
 3. Junte os ovos, o parmesão, a cebola, a salsinha, a cebolinha e o sal e misture bem.
-4. Acrescente a farinha e o fermento e mexa até formar uma massa grossa que pare na colher.
+4. Acrescente a farinha integral e o fermento e mexa até formar uma massa grossa que pare na colher.
 5. Distribua a massa às colheradas nas forminhas ou na assadeira.
 6. Asse por 20 a 25 minutos, até dourar e firmar.
 
 **Dicas**
 
 - *Substituição:* Use arroz integral cozido no lugar do branco.
-- *Substituição:* Troque a farinha de trigo por 4 colheres (sopa) de aveia em flocos finos.
+- *Substituição:* Troque a farinha integral por 4 colheres (sopa) de aveia em flocos finos.
 - *Dica:* O arroz do dia anterior, frio, dá mais liga.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça no forno por 5 minutos.
 
@@ -6332,13 +6361,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0142"></a>
 ## Quiche de alho-poró
 
-*Quiche de massa amanteigada com aveia e recheio cremoso de alho-poró, ovos e parmesão.*
+*Quiche de massa integral amanteigada com aveia e recheio cremoso de alho-poró, ovos e parmesão.*
 
 `rbl-0142` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 110 min (preparo 30 min, cozimento 50 min, descanso 30 min)
 - **Rende:** 1 quiche de 24 cm · **8 porções** de 1 fatia (1/8 da quiche)
-- **Por porção (valores aproximados):** 293 kcal · 18,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0142.json)
+- **Por porção (valores aproximados):** 288 kcal · 17,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0142.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -6346,10 +6375,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1/2 xícara (chá) de aveia em flocos
 - 7 colheres (sopa) de manteiga gelada (100 g)
 - 1 ovo
+- 2 colheres (sopa) de água gelada
 - 1/2 colher (chá) de sal
 
 *Recheio*
@@ -6365,8 +6395,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, a aveia e o sal. Junte a manteiga em pedaços e esfarele com as pontas dos dedos.
-2. Acrescente o ovo e amasse só até a massa ficar lisa. Embrulhe em plástico e leve à geladeira por 30 minutos.
+1. Numa tigela, misture a farinha integral, a aveia e o sal. Junte a manteiga em pedaços e esfarele com as pontas dos dedos.
+2. Acrescente o ovo e a água gelada e amasse só até a massa ficar lisa. A massa integral fica um pouco mais úmida que a comum: não junte mais farinha. Embrulhe em plástico e leve à geladeira por 30 minutos.
 3. Preaqueça o forno a 180 °C.
 4. Abra a massa com as mãos no fundo e na lateral de uma forma de fundo removível de 24 cm. Fure o fundo com um garfo.
 5. Asse a massa sozinha por 15 minutos, até começar a dourar.
@@ -6378,7 +6408,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o alho-poró por 2 xícaras de brócolis cozido picado ou por cebola fatiada bem refogada.
-- *Substituição:* Use farinha de trigo integral no lugar da farinha branca.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida no liquidificador: a massa fica mais leve e mais quebradiça.
 - *Como guardar:* Dura 3 dias na geladeira. Aqueça a fatia no forno por 8 minutos para a massa voltar a ficar crocante.
 
 ---
@@ -6386,13 +6416,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0143"></a>
 ## Tortinha de palmito
 
-*Tortinhas abertas de massa integral com azeite, recheadas com palmito, tomate e azeitona.*
+*Tortinhas abertas de massa 100% integral com azeite, recheadas com palmito, tomate e azeitona.*
 
 `rbl-0143` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 65 min (preparo 35 min, cozimento 30 min)
 - **Rende:** 12 tortinhas · **6 porções** de 2 tortinhas
-- **Por porção (valores aproximados):** 266 kcal · 27,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0143.json)
+- **Por porção (valores aproximados):** 263 kcal · 26,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0143.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -6400,11 +6430,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 xícara (chá) de farinha de trigo integral
-- 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 4 colheres (sopa) de azeite
 - 1 ovo
-- 3 colheres (sopa) de água
+- 4 colheres (sopa) de água
 - 1/2 colher (chá) de sal
 
 *Recheio*
@@ -6420,7 +6449,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture as farinhas e o sal. Junte o azeite, o ovo e a água e amasse até formar uma massa lisa que não gruda nas mãos.
+1. Numa tigela, misture a farinha integral e o sal. Junte o azeite, o ovo e a água e amasse até formar uma massa lisa que não gruda nas mãos. Se esfarelar, junte mais 1 colher (sopa) de água.
 2. Preaqueça o forno a 180 °C.
 3. Divida a massa em 12 bolinhas e forre o fundo e a lateral de 12 forminhas de empada ou de muffin.
 4. Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos. Junte o palmito e o tomate e cozinhe por 5 minutos, até secar.
@@ -6432,7 +6461,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o palmito por 2 xícaras de frango cozido desfiado.
-- *Substituição:* Sem farinha integral? Use 1 e 1/2 xícara só de farinha de trigo.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida no liquidificador: a massa fica mais leve.
 - *Como guardar:* Duram 3 dias na geladeira. Aqueça no forno por 5 minutos.
 
 ---
@@ -6440,14 +6469,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0144"></a>
 ## Torta de liquidificador de sardinha
 
-*Torta salgada clássica de massa batida no liquidificador, recheada com sardinha, tomate e pimentão.*
+*Torta salgada de massa integral batida no liquidificador, recheada com sardinha, tomate e pimentão.*
 
 `rbl-0144` · Lanches · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 70 min (preparo 20 min, cozimento 40 min)
+- **Tempo total:** 75 min (preparo 20 min, cozimento 45 min)
 - **Rende:** 1 torta de 22 x 30 cm · **10 porções** de 1 pedaço (1/10 da torta)
-- **Por porção (valores aproximados):** 289 kcal · 22,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0144.json)
-- **Forno:** 180 °C, 40 min, preaquecido
+- **Por porção (valores aproximados):** 283 kcal · 21 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0144.json)
+- **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
 
@@ -6455,9 +6484,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Massa*
 
 - 3 ovos
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 3 colheres (sopa) de leite
 - 1/2 xícara (chá) de óleo
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 2 colheres (sopa) de queijo parmesão ralado
 - 1 colher (chá) de sal
 - 1 colher (sopa) de fermento químico em pó
@@ -6473,18 +6502,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C e unte com óleo e enfarinhe uma forma de 22 x 30 cm.
+1. Preaqueça o forno a 180 °C e unte com óleo e polvilhe farinha integral numa forma de 22 x 30 cm.
 2. Numa tigela, amasse a sardinha com um garfo, tirando a espinha do meio se quiser, e misture o tomate, a cebola, o pimentão, as azeitonas e a salsinha.
 3. No liquidificador, bata os ovos, o leite, o óleo, o parmesão e o sal por 1 minuto.
-4. Junte a farinha aos poucos e bata até ficar uma massa lisa. Misture o fermento com uma colher.
+4. Junte a farinha integral aos poucos e bata até ficar uma massa lisa e cremosa, um pouco mais grossa que a de bolo. Misture o fermento com uma colher.
 5. Despeje metade da massa na forma, espalhe o recheio e cubra com o restante da massa.
-6. Asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+6. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
 7. Espere 10 minutos antes de cortar.
 
 **Dicas**
 
 - *Substituição:* Troque a sardinha por 2 latas de atum ou por 2 xícaras de frango desfiado.
-- *Substituição:* Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca, se preferir.
+- *Substituição:* Troque 1 xícara da farinha integral por 1 xícara de aveia em flocos: a massa fica mais leve.
 - *Como guardar:* Dura 3 dias na geladeira. Também pode ser congelada em pedaços por até 2 meses.
 
 ---
@@ -6492,13 +6521,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0145"></a>
 ## Bolinha de queijo assada
 
-*Bolinha de massa cozida de leite recheada com mussarela, empanada na aveia e assada até dourar.*
+*Bolinha de massa integral cozida no leite, recheada com mussarela, empanada na aveia e assada até dourar.*
 
 `rbl-0145` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 90 min (preparo 40 min, cozimento 30 min, descanso 20 min)
 - **Rende:** 20 bolinhas · **5 porções** de 4 bolinhas
-- **Por porção (valores aproximados):** 286 kcal · 27,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0145.json)
+- **Por porção (valores aproximados):** 281 kcal · 26,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0145.json)
 - **Forno:** 200 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -6506,10 +6535,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 2 colheres (sopa) de leite
 - 1 colher (sopa) de manteiga
 - 1/2 colher (chá) de sal
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 
 *Recheio*
 
@@ -6524,9 +6553,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Numa panela, leve o leite, a manteiga e o sal ao fogo até ferver.
-2. Junte a farinha de uma vez e mexa sem parar por 3 a 4 minutos, até a massa soltar do fundo da panela. **Atenção:** A massa espirra e fica muito quente.
+2. Junte a farinha integral de uma vez e mexa sem parar por 4 a 5 minutos, até a massa soltar do fundo da panela. **Atenção:** A massa espirra e fica muito quente.
 3. Passe para uma superfície untada e deixe esfriar por 20 minutos.
-4. Sove a massa por 2 minutos, até ficar lisa.
+4. Sove a massa por 2 minutos, até ficar lisa. A massa integral fica um pouco mais firme e com pontinhos escuros: é assim mesmo.
 5. Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga.
 6. Pegue porções do tamanho de uma noz, abra na mão, coloque um cubo de queijo e uma pitada de orégano e feche muito bem, enrolando uma bolinha sem rachaduras.
 7. Passe as bolinhas no ovo batido e depois na aveia e arrume na assadeira.
@@ -6536,6 +6565,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque a mussarela por queijo minas meia cura ou por queijo prato em cubos.
 - *Substituição:* Troque a aveia por farinha de milho para empanar.
+- *Substituição:* Troque a aveia de empanar por farelo de aveia ou por farinha de amêndoas.
 - *Dica:* Se a bolinha tiver rachadura, o queijo vaza no forno: feche bem e alise com as mãos.
 - *Como guardar:* Congele as bolinhas cruas e empanadas por até 2 meses. Asse sem descongelar, com 5 minutos a mais.
 
@@ -6572,8 +6602,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o iogurte, o fermento e o sal até formar uma massa macia. Se grudar muito, junte 1 colher (sopa) de farinha.
-2. Com as mãos enfarinhadas, abra a massa num disco do tamanho da frigideira.
+1. Numa tigela, misture a farinha, o iogurte, o fermento e o sal até formar uma massa macia. Se grudar muito, junte 1 colher (sopa) de farinha integral.
+2. Com as mãos polvilhadas de farinha integral, abra a massa num disco do tamanho da frigideira.
 3. Rale metade do tomate e tempere com o sal e metade do orégano. Corte a outra metade em rodelas.
 4. Unte uma frigideira antiaderente de 24 cm com o azeite e coloque a massa. Tampe e deixe em fogo baixo por 4 minutos, até a base dourar.
 5. Vire a massa e espalhe o tomate ralado, a mussarela e as rodelas de tomate.
@@ -6581,7 +6611,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque a farinha integral por farinha de trigo comum.
+- *Substituição:* Troque 1/4 de xícara da farinha integral por aveia em flocos batida: a massa fica mais macia.
 - *Substituição:* Troque a mussarela por queijo minas e acrescente frango desfiado ou atum.
 - *Dica:* O tomate ralado com sal e orégano faz as vezes de molho e não leva nada industrializado.
 
@@ -6759,7 +6789,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 50 min (preparo 25 min, cozimento 25 min)
 - **Rende:** 16 falafels · **4 porções** de 4 falafels com molho
-- **Por porção (valores aproximados):** 242 kcal · 29,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0151.json)
+- **Por porção (valores aproximados):** 241 kcal · 28,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0151.json)
 - **Forno:** 200 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -6774,7 +6804,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 2 colheres (sopa) de coentro
 - 1 colher (chá) de cominho
 - 1/2 colher (chá) de sal
-- 3 colheres (sopa) de farinha de trigo
+- 4 colheres (sopa) de aveia em flocos finos
 - 2 colheres (sopa) de azeite
 
 *Molho*
@@ -6789,7 +6819,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 1. Preaqueça o forno a 200 °C e unte uma assadeira com 1 colher (sopa) de azeite.
 2. Seque bem o grão-de-bico num pano de prato.
 3. No processador, pulse o grão-de-bico, a cebola, o alho, a salsinha, o coentro, o cominho e o sal até virar uma massa grossa, não um purê. **Atenção:** Desligue o processador antes de mexer na lâmina.
-4. Junte a farinha e misture com as mãos.
+4. Junte a aveia e misture com as mãos. Deixe a massa descansar 5 minutos para a aveia absorver a umidade.
 5. Modele 16 bolinhas, achate de leve e arrume na assadeira. Pincele com o restante do azeite.
 6. Asse por 12 minutos, vire e asse mais 10 a 12 minutos, até dourar.
 7. Misture o iogurte, o limão, a hortelã e o sal e sirva com os falafels.
@@ -6797,7 +6827,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Não gosta de coentro? Use o dobro de salsinha.
-- *Substituição:* Troque a farinha de trigo por farinha de grão-de-bico ou por aveia em flocos finos.
+- *Substituição:* Troque a aveia por farinha de grão-de-bico ou por farinha de trigo integral na mesma medida.
 - *Como guardar:* Os falafels assados duram 3 dias na geladeira. Aqueça no forno por 8 minutos.
 
 ---
@@ -7180,13 +7210,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0161"></a>
 ## Sanduíche de pão de minuto com queijo branco
 
-*Pãezinhos caseiros de minuto, sem fermentar, recheados com queijo minas, tomate, alface e orégano.*
+*Pãezinhos integrais de minuto, sem fermentar, recheados com queijo minas, tomate, alface e orégano.*
 
 `rbl-0161` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 50 min (preparo 20 min, cozimento 25 min)
 - **Rende:** 8 sanduíches · **8 porções** de 1 sanduíche
-- **Por porção (valores aproximados):** 260 kcal · 27,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0161.json)
+- **Por porção (valores aproximados):** 250 kcal · 25,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0161.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -7194,12 +7224,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Pão*
 
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento químico em pó
 - 1/2 colher (chá) de sal
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 - 1 ovo
-- 1/2 xícara (chá) de leite
+- 1/2 xícara (chá) mais 1 colher (sopa) de leite
 
 *Recheio*
 
@@ -7212,15 +7242,15 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C e unte uma assadeira com manteiga.
-2. Numa tigela, misture a farinha, o fermento e o sal. Junte a manteiga e esfarele com as pontas dos dedos.
-3. Acrescente o ovo e o leite e misture até formar uma massa macia que solta das mãos. Se grudar, junte 1 colher (sopa) de farinha.
+2. Numa tigela, misture a farinha integral, o fermento e o sal. Junte a manteiga e esfarele com as pontas dos dedos.
+3. Acrescente o ovo e o leite e misture até formar uma massa macia, um pouco úmida. Se grudar muito, junte 1 colher (sopa) de farinha integral.
 4. Divida em 8 bolinhas, achate de leve e arrume na assadeira com espaço entre elas.
-5. Asse por 20 a 25 minutos, até dourar por cima.
+5. Asse por 20 a 25 minutos, até dourar por cima e soar oco ao bater embaixo.
 6. Espere amornar, abra os pães ao meio e recheie com o queijo, o tomate e a alface. Regue com o azeite e polvilhe o orégano.
 
 **Dicas**
 
-- *Substituição:* Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca na massa.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida: o pão fica mais macio.
 - *Substituição:* Troque o queijo minas por ricota temperada ou por peito de peru.
 - *Como guardar:* Os pães sem recheio duram 2 dias em pote fechado e podem ser congelados por 1 mês.
 
@@ -7229,24 +7259,23 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0162"></a>
 ## Wrap de frango com massa integral caseira
 
-*Discos finos de massa integral feitos na frigideira e enrolados com frango, cenoura, alface e tomate.*
+*Discos finos de massa 100% integral feitos na frigideira e enrolados com frango, cenoura, alface e tomate.*
 
 `rbl-0162` · Lanches · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 45 min (preparo 20 min, cozimento 10 min, descanso 15 min)
+- **Tempo total:** 50 min (preparo 20 min, cozimento 10 min, descanso 20 min)
 - **Rende:** 4 wraps · **4 porções** de 1 wrap
-- **Por porção (valores aproximados):** 382 kcal · 36,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0162.json)
+- **Por porção (valores aproximados):** 376 kcal · 35,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0162.json)
 
 **Ingredientes**
 
 
 *Massa*
 
-- 1 xícara (chá) de farinha de trigo integral
-- 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1/2 colher (chá) de sal
 - 2 colheres (sopa) de azeite
-- 1/2 xícara (chá) de água morna
+- 1/2 xícara (chá) mais 1 colher (sopa) de água morna
 
 *Recheio*
 
@@ -7259,9 +7288,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture as farinhas e o sal. Junte o azeite e a água aos poucos e amasse por 3 minutos, até a massa ficar lisa.
-2. Cubra com um pano e deixe descansar por 15 minutos.
-3. Divida em 4 bolinhas e abra cada uma com um rolo, bem fina, num disco de 22 cm.
+1. Numa tigela, misture a farinha integral e o sal. Junte o azeite e a água aos poucos e amasse por 3 minutos, até a massa ficar lisa.
+2. Cubra com um pano e deixe descansar por 20 minutos: a farinha integral precisa desse tempo para ficar elástica.
+3. Divida em 4 bolinhas e abra cada uma com um rolo, bem fina, num disco de 22 cm. Polvilhe a bancada com farinha integral para não grudar.
 4. Aqueça uma frigideira grande sem óleo em fogo médio e doure cada disco por 1 minuto de cada lado, até aparecerem pintinhas douradas.
 5. Empilhe os discos prontos dentro de um pano para ficarem macios.
 6. Misture o frango com o requeijão e o sal. Espalhe sobre cada disco, junte a cenoura, a alface e o tomate e enrole bem apertado.
@@ -7269,7 +7298,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o frango por atum, ovo mexido ou carne moída refogada.
-- *Substituição:* Use só farinha de trigo comum, se preferir uma massa mais clara.
+- *Dica:* A massa integral rasga mais fácil que a comum: se rasgar, junte as bordas, faça a bolinha de novo e espere 5 minutos antes de abrir.
 - *Como guardar:* Os discos sem recheio duram 3 dias na geladeira, em saco fechado. Aqueça na frigideira por 20 segundos antes de rechear.
 
 ---
@@ -7277,13 +7306,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0163"></a>
 ## Pastel de forno de queijo e tomate
 
-*Pastéis assados de massa de iogurte, macia e dourada, recheados com mussarela, tomate e orégano.*
+*Pastéis assados de massa integral com iogurte, macia e dourada, recheados com mussarela, tomate e orégano.*
 
 `rbl-0163` · Lanches · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 65 min (preparo 40 min, cozimento 25 min)
+- **Tempo total:** 75 min (preparo 40 min, cozimento 25 min, descanso 10 min)
 - **Rende:** 16 pastéis · **8 porções** de 2 pastéis
-- **Por porção (valores aproximados):** 259 kcal · 26 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0163.json)
+- **Por porção (valores aproximados):** 248 kcal · 24,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0163.json)
 - **Forno:** 200 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -7291,11 +7320,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 1 pote de iogurte natural (170 g)
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 - 1/2 colher (chá) de sal
 - 1 colher (chá) de fermento químico em pó
+- 2 colheres (sopa) de água
 
 *Recheio*
 
@@ -7309,17 +7339,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture a farinha, o sal e o fermento. Junte o iogurte e a manteiga e amasse até a massa ficar lisa e soltar das mãos.
+1. Numa tigela, misture a farinha integral, o sal e o fermento. Junte o iogurte, a manteiga e a água e amasse até a massa ficar lisa e soltar das mãos. Cubra e deixe descansar 10 minutos.
 2. Misture a mussarela, o tomate e o orégano numa tigela.
 3. Preaqueça o forno a 200 °C e forre 2 assadeiras com papel-manteiga.
-4. Abra a massa com um rolo em superfície enfarinhada até ficar com 3 mm e corte discos de 10 cm com um pires.
+4. Abra a massa com um rolo em superfície polvilhada com farinha integral até ficar com 3 a 4 mm e corte discos de 10 cm com um pires.
 5. Coloque 1 colher (sopa) de recheio em cada disco, dobre ao meio e aperte as bordas com um garfo.
 6. Arrume nas assadeiras, pincele com o ovo batido e asse por 20 a 25 minutos, até dourar.
 
 **Dicas**
 
 - *Substituição:* Troque o recheio por frango desfiado com requeijão ou por carne moída refogada.
-- *Substituição:* Use 1 xícara de farinha de trigo integral e 1 xícara de farinha branca.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida: a massa fica mais leve, mas abra com mais cuidado.
 - *Como guardar:* Congele os pastéis crus por até 2 meses. Asse sem descongelar, com 5 minutos a mais.
 
 ---
@@ -7403,13 +7433,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0166"></a>
 ## Esfiha fechada de ricota com espinafre
 
-*Esfihas fechadas de massa fofinha com fermento biológico, recheadas com ricota, espinafre e limão.*
+*Esfihas fechadas de massa integral com fermento biológico, recheadas com ricota, espinafre e limão.*
 
 `rbl-0166` · Lanches · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 125 min (preparo 40 min, cozimento 25 min, descanso 60 min)
+- **Tempo total:** 157 min (preparo 42 min, cozimento 25 min, descanso 90 min)
 - **Rende:** 16 esfihas · **8 porções** de 2 esfihas
-- **Por porção (valores aproximados):** 290 kcal · 33,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0166.json)
+- **Por porção (valores aproximados):** 279 kcal · 31 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0166.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -7417,9 +7447,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 2 e 1/2 xícaras (chá) de farinha de trigo
+- 2 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 e 1/2 colher (chá) de fermento biológico seco
-- 3/4 de xícara (chá) de leite morno
+- 3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno
 - 1/4 de xícara (chá) de óleo
 - 1 colher (chá) de sal
 
@@ -7440,8 +7470,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela, misture o leite morno com o fermento. Junte o óleo, o sal e a farinha aos poucos e sove por 8 minutos, até a massa ficar lisa e macia.
-2. Cubra e deixe crescer em lugar sem vento por 1 hora, até dobrar de volume.
+1. Numa tigela, misture o leite morno com o fermento. Junte o óleo, o sal e a farinha integral aos poucos e sove por 10 minutos, até a massa ficar lisa e macia. Ela fica um pouco grudenta: não junte mais farinha.
+2. Cubra e deixe crescer em lugar sem vento por 1 hora e meia, até crescer bem. A massa integral cresce menos e não chega a dobrar.
 3. Para o recheio, aqueça o azeite e refogue a cebola e o alho por 2 minutos. Junte o espinafre e mexa até murchar. Deixe esfriar e esprema.
 4. Esfarele a ricota e misture o espinafre, o limão, a noz-moscada e o sal.
 5. Preaqueça o forno a 180 °C e unte 2 assadeiras.
@@ -7452,8 +7482,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o espinafre por escarola ou couve refogada.
-- *Substituição:* Use 1 xícara de farinha integral e 1 e 1/2 xícara de farinha branca.
-- *Dica:* A massa cresce sem nenhum adoçante: só demora um pouco mais em dia frio.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos batida no liquidificador: a esfiha fica mais macia.
+- *Dica:* A massa cresce sem nenhum adoçante: só demora um pouco mais em dia frio. Com farinha integral, o pão fica mais denso que o de padaria.
 - *Como guardar:* Congele as esfihas assadas por até 2 meses e aqueça no forno por 10 minutos.
 
 ---
@@ -7495,7 +7525,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o frango por atum escorrido ou por presunto picado.
-- *Substituição:* Troque a farinha integral por farinha de trigo comum.
+- *Substituição:* Troque a farinha integral por mais 3/4 de xícara de aveia em flocos: o muffin fica mais macio.
 - *Como guardar:* Duram 3 dias na geladeira ou 2 meses no congelador. Aqueça 1 minuto no micro-ondas.
 
 ---
@@ -7503,13 +7533,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0168"></a>
 ## Muffin de espinafre com queijo
 
-*Muffin salgado e fofinho de espinafre e queijo minas meia cura, com um toque de noz-moscada.*
+*Muffin salgado de farinha integral e aveia com espinafre e queijo minas meia cura, com um toque de noz-moscada.*
 
 `rbl-0168` · Lanches · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 25 min)
 - **Rende:** 10 muffins · **5 porções** de 2 muffins
-- **Por porção (valores aproximados):** 285 kcal · 21,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0168.json)
+- **Por porção (valores aproximados):** 284 kcal · 19,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0168.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -7517,7 +7547,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 ovos
 - 1/2 xícara (chá) de iogurte natural
 - 3 colheres (sopa) de azeite
-- 1 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
+- 3/4 de xícara (chá) de aveia em flocos finos
 - 1/2 colher (chá) de sal
 - 1 pitada de noz-moscada
 - 2 xícaras (chá) de folhas de espinafre picadas
@@ -7528,7 +7559,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e unte 10 forminhas de muffin.
 2. Numa tigela, bata os ovos, o iogurte e o azeite com um batedor.
-3. Junte a farinha, o sal e a noz-moscada e misture até ficar liso.
+3. Junte a farinha integral, a aveia, o sal e a noz-moscada e misture até ficar liso. Deixe descansar 5 minutos para a aveia hidratar.
 4. Acrescente o espinafre e o queijo. Por último, misture o fermento.
 5. Distribua nas forminhas até 3/4 da altura.
 6. Asse por 20 a 25 minutos, até dourar e um palito sair limpo.
@@ -7537,6 +7568,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o espinafre por couve picada fininha ou por brócolis cozido picado.
 - *Substituição:* Troque o queijo minas meia cura por parmesão ou mussarela.
+- *Substituição:* Use só farinha de trigo integral (1 xícara) no lugar da mistura com aveia.
 - *Como guardar:* Duram 3 dias na geladeira. Aqueça 1 minuto no micro-ondas ou 5 minutos no forno.
 
 ---
@@ -7943,7 +7975,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o atum por frango desfiado ou por sardinha.
-- *Substituição:* Troque a farinha integral por aveia em flocos finos ou por farinha de trigo comum.
+- *Substituição:* Troque a farinha integral por aveia em flocos finos na mesma medida.
 - *Como guardar:* Dura 2 dias na geladeira. Aqueça na frigideira tampada.
 
 ---
@@ -7997,13 +8029,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 40 min (preparo 20 min, cozimento 20 min)
 - **Rende:** 30 anéis · **3 porções** de 10 anéis
-- **Por porção (valores aproximados):** 232 kcal · 27,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0180.json)
+- **Por porção (valores aproximados):** 218 kcal · 25,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0180.json)
 - **Forno:** 200 °C, 20 min, preaquecido
 
 **Ingredientes**
 
 - 2 cebolas grandes (300 g)
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farelo de aveia
 - 1 ovo
 - 2 colheres (sopa) de leite
 - 2/3 de xícara (chá) de aveia em flocos finos
@@ -8016,14 +8048,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 200 °C e forre uma assadeira com papel-manteiga untado com metade do azeite.
 2. Descasque as cebolas, corte em rodelas de 1 cm e separe os anéis. **Atenção:** Use faca afiada com cuidado.
-3. Monte 3 pratos: um com a farinha e o sal; outro com o ovo batido com o leite; outro com a aveia, o parmesão e a páprica.
-4. Passe cada anel na farinha, depois no ovo e por último na mistura de aveia, apertando bem.
+3. Monte 3 pratos: um com o farelo de aveia e o sal; outro com o ovo batido com o leite; outro com a aveia, o parmesão e a páprica.
+4. Passe cada anel no farelo, depois no ovo e por último na mistura de aveia, apertando bem.
 5. Arrume na assadeira sem encostar e pincele com o restante do azeite.
 6. Asse por 10 minutos, vire e asse mais 8 a 10 minutos, até dourar.
 
 **Dicas**
 
-- *Substituição:* Troque a aveia por farinha de milho ou por farelo de aveia.
+- *Substituição:* Troque a aveia da última camada por farinha de amêndoas ou por farinha de milho.
 - *Substituição:* Faça do mesmo jeito com palitos de abobrinha.
 - *Como guardar:* Coma logo que sair do forno, quando estão mais crocantes.
 
@@ -13744,7 +13776,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 70 min (preparo 15 min, cozimento 55 min)
 - **Rende:** 4 pratos · **4 porções** de 1 cumbuca (cerca de 300 ml)
-- **Por porção (valores aproximados):** 254 kcal · 17,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0323.json)
+- **Por porção (valores aproximados):** 253 kcal · 17,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0323.json)
 - **Forno:** 220 °C, 8 min, preaquecido
 
 **Ingredientes**
@@ -13753,7 +13785,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1 colher (sopa) de azeite
 - 6 cebolas médias em fatias finas
 - 2 dentes de alho picados
-- 1 colher (sopa) de farinha de trigo
+- 1 colher (sopa) de farinha de trigo integral
 - 1,2 litro de água quente
 - 1/2 colher (chá) de tomilho seco
 - 1 folha de louro
@@ -13768,7 +13800,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Numa panela grande e de fundo grosso, derreta a manteiga com o azeite e junte a cebola.
 2. Cozinhe em fogo baixo por 30 minutos, mexendo de vez em quando, até a cebola ficar bem macia e dourada.
-3. Junte o alho e a farinha e mexa por 1 minuto.
+3. Junte o alho e a farinha integral e mexa por 1 minuto.
 4. Acrescente a água aos poucos, mexendo, e junte o tomilho, o louro, o sal e a pimenta. Cozinhe por 15 minutos.
 5. Preaqueça o forno a 220 °C.
 6. Retire o louro e distribua a sopa em cumbucas que possam ir ao forno. Cubra com a mussarela.
@@ -13778,6 +13810,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque a mussarela por queijo prato ou parmesão.
 - *Substituição:* Use caldo de legumes caseiro no lugar da água para mais sabor.
+- *Substituição:* Troque a farinha integral por 1 colher (chá) de amido de milho dissolvido em um pouco de água fria, no fim do cozimento.
 - *Dica:* A paciência no começo é o segredo: cebola dourada devagar dá a cor e o sabor da sopa.
 
 ---
@@ -13785,13 +13818,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0324"></a>
 ## Nhoque de abóbora ao sugo
 
-*Nhoque macio de abóbora cabotiá com parmesão, servido com molho caseiro de tomate e manjericão.*
+*Nhoque macio de abóbora cabotiá com farinha integral e parmesão, servido com molho caseiro de tomate e manjericão.*
 
 `rbl-0324` · Almoço e jantar · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 75 min (preparo 40 min, cozimento 35 min)
+- **Tempo total:** 85 min (preparo 40 min, cozimento 35 min, descanso 10 min)
 - **Rende:** 4 pratos · **4 porções** de 1 prato raso
-- **Por porção (valores aproximados):** 358 kcal · 55,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0324.json)
+- **Por porção (valores aproximados):** 317 kcal · 47,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0324.json)
 
 **Ingredientes**
 
@@ -13803,7 +13836,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 colheres (sopa) de queijo parmesão ralado
 - 1 colher (chá) de sal
 - 1 pitada de noz-moscada
-- 1 e 1/2 xícara (chá) de farinha de trigo, mais um pouco para enfarinhar
+- 1 e 1/4 xícara (chá) de farinha de trigo integral, mais um pouco para polvilhar a bancada
 
 *Molho*
 
@@ -13818,17 +13851,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Cozinhe a abóbora no vapor por 15 a 20 minutos, até ficar bem macia.
 2. Amasse a abóbora e leve à panela em fogo baixo por 3 minutos, mexendo, para secar. Deixe esfriar.
-3. Misture o ovo, o parmesão, o sal e a noz-moscada. Junte a farinha aos poucos, até a massa ficar macia e parar de grudar nas mãos.
-4. Em superfície enfarinhada, faça rolinhos da grossura de um dedo e corte em pedaços de 2 cm.
+3. Misture o ovo, o parmesão, o sal e a noz-moscada. Junte a farinha integral aos poucos, até a massa ficar macia e parar de grudar nas mãos. Deixe descansar 10 minutos: a farinha integral absorve a umidade aos poucos.
+4. Em superfície polvilhada com farinha integral, faça rolinhos da grossura de um dedo e corte em pedaços de 2 cm.
 5. Molho: refogue a cebola e o alho no azeite, junte o tomate e o sal e cozinhe por 15 minutos, até encorpar. Desligue e junte o manjericão.
-6. Cozinhe o nhoque aos poucos em bastante água fervente com sal. Quando subirem, espere 1 minuto e retire com escumadeira. **Atenção:** Retire com escumadeira, sem despejar a panela de água fervente.
-7. Misture o nhoque ao molho e sirva com parmesão, se quiser.
+6. Ferva bastante água com sal e cozinhe 1 nhoque de teste. Se desmanchar, junte mais 2 colheres (sopa) de farinha integral à massa.
+7. Cozinhe o nhoque aos poucos nessa água fervente. Quando subirem, espere 1 minuto e retire com escumadeira. **Atenção:** Retire com escumadeira, sem despejar a panela de água fervente.
+8. Misture o nhoque ao molho e sirva com parmesão, se quiser.
 
 **Dicas**
 
 - *Substituição:* Troque a abóbora por mandioquinha ou batata, cozidas e bem secas.
-- *Substituição:* Use metade farinha de trigo integral.
-- *Como guardar:* Congele o nhoque cru, espalhado numa assadeira enfarinhada, e depois passe para um saco. Cozinhe direto do congelador.
+- *Dica:* O nhoque integral fica mais escuro e um pouco mais firme. Não amasse demais para ele não endurecer.
+- *Como guardar:* Congele o nhoque cru, espalhado numa assadeira polvilhada com farinha integral, e depois passe para um saco. Cozinhe direto do congelador.
 
 ---
 
@@ -15026,7 +15060,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 25 min)
 - **Rende:** 6 porções · **6 porções** de 1/6 da travessa
-- **Por porção (valores aproximados):** 145 kcal · 8,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0352.json)
+- **Por porção (valores aproximados):** 144 kcal · 8,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0352.json)
 - **Forno:** 200 °C, 15 min, preaquecido
 
 **Ingredientes**
@@ -15036,7 +15070,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Molho branco*
 
 - 1 colher (sopa) de manteiga
-- 1 e 1/2 colher (sopa) de farinha de trigo
+- 1 e 1/2 colher (sopa) de farinha de trigo integral
 - 1 e 1/2 xícara (chá) de leite
 - 1/2 colher (chá) de sal
 - 1 pitada de noz-moscada
@@ -15049,7 +15083,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Cozinhe o brócolis no vapor por 5 minutos, até ficar verde vivo e ainda firme. Arrume numa travessa.
-2. Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo sem parar, e cozinhe até engrossar, cerca de 5 minutos. Tempere com o sal e a noz-moscada.
+2. Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo sem parar, e cozinhe até engrossar, cerca de 5 a 6 minutos. O molho fica com pontinhos escuros. Tempere com o sal e a noz-moscada.
 3. Preaqueça o forno a 200 °C.
 4. Despeje o molho sobre o brócolis e cubra com a mussarela e o parmesão.
 5. Asse por 15 minutos, até dourar.
@@ -15058,6 +15092,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Faça com couve-flor ou com brócolis e couve-flor misturados.
 - *Substituição:* Troque a mussarela por queijo minas meia cura.
+- *Substituição:* Troque a farinha integral por 2 colheres (chá) de amido de milho dissolvidas no leite frio.
 - *Como guardar:* Guarde na geladeira por até 2 dias e aqueça no forno.
 
 ---
@@ -15209,13 +15244,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0357"></a>
 ## Bolo de cenoura com cobertura de cacau
 
-*O clássico bolo de cenoura de liquidificador, alaranjado e fofo, com cobertura brilhante de cacau.*
+*O clássico bolo de cenoura de liquidificador, com farinha integral e aveia, fofo e com cobertura brilhante de cacau.*
 
 `rbl-0357` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 75 min (preparo 20 min, cozimento 45 min)
 - **Rende:** 12 pedaços · **12 porções** de 1 pedaço (1/12 do bolo)
-- **Por porção (valores aproximados):** 205 kcal · 19,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0357.json)
+- **Por porção (valores aproximados):** 191 kcal · 15,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0357.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -15227,7 +15262,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 4 ovos
 - 1/2 xícara (chá) de óleo
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 pitada de sal
 - 1 colher (sopa) de fermento químico em pó
 
@@ -15240,18 +15276,19 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha.
-2. No liquidificador, bata a cenoura, os ovos, o óleo e o eritritol por 3 minutos, até virar um creme bem liso.
-3. Passe para uma tigela e junte a farinha e o sal aos poucos, mexendo com um batedor até não ter grumos.
-4. Por último, misture o fermento com delicadeza e despeje na forma.
-5. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
-6. Cobertura: numa panela pequena, em fogo baixo, misture o cacau, o eritritol, o leite e a manteiga. Mexa por 3 a 4 minutos, até engrossar e brilhar.
-7. Espalhe a cobertura ainda quente sobre o bolo morno e espere firmar antes de cortar.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata a cenoura, os ovos, o óleo e o eritritol por 3 minutos, até virar um creme bem liso.
+4. Passe para uma tigela e junte a farinha integral, a aveia batida e o sal aos poucos, mexendo com um batedor até não ter grumos.
+5. Por último, misture o fermento com delicadeza e despeje na forma.
+6. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
+7. Cobertura: numa panela pequena, em fogo baixo, misture o cacau, o eritritol, o leite e a manteiga. Mexa por 3 a 4 minutos, até engrossar e brilhar.
+8. Espalhe a cobertura ainda quente sobre o bolo morno e espere firmar antes de cortar.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Substituição:* Pode usar 1 xícara de farinha de trigo integral no lugar de 1 xícara da farinha branca.
+- *Substituição:* Pode usar 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia: o bolo fica mais denso.
 - *Dica:* Para a massa ficar lisinha, bata o eritritol no liquidificador seco até virar pó antes de usar.
 - *Como guardar:* Dura 3 dias coberto em temperatura ambiente, ou 5 dias na geladeira.
 
@@ -15262,11 +15299,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo fofinho e perfumado, feito com suco e raspas de laranja e regado com calda de laranja.*
 
-`rbl-0358` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0358` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 75 min (preparo 20 min, cozimento 42 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 185 kcal · 18,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0358.json)
+- **Por porção (valores aproximados):** 171 kcal · 14,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0358.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15279,7 +15316,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1 xícara (chá) de suco de laranja natural (cerca de 3 laranjas)
 - 1 colher (sopa) de raspas de casca de laranja
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 *Calda*
@@ -15289,18 +15327,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral.
 2. Rale só a parte laranja da casca, sem a parte branca, que amarga.
-3. No liquidificador, bata os ovos, o óleo, o suco de laranja, as raspas e o eritritol por 2 minutos.
-4. Passe para uma tigela e junte a farinha aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
-6. Calda: ferva o suco de laranja com o eritritol por 2 minutos, até dissolver. **Atenção:** Cuidado com a calda quente.
-7. Desenforme o bolo ainda morno, faça furinhos com um garfo e regue com a calda.
+3. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+4. No liquidificador, bata os ovos, o óleo, o suco de laranja, as raspas e o eritritol por 2 minutos.
+5. Passe para uma tigela e junte a farinha integral e a aveia batida aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último.
+6. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+7. Calda: ferva o suco de laranja com o eritritol por 2 minutos, até dissolver. **Atenção:** Cuidado com a calda quente.
+8. Desenforme o bolo ainda morno, faça furinhos com um garfo e regue com a calda.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Use suco de tangerina no lugar do suco de laranja para um bolo de mexerica.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Como guardar:* Guarde coberto por até 3 dias. Na geladeira, fica ainda mais úmido.
 
 ---
@@ -15310,11 +15350,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo azedinho de limão com uma cobertura cremosa de creme de leite e limão que firma na geladeira.*
 
-`rbl-0359` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0359` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 120 min (preparo 20 min, cozimento 40 min, descanso 60 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 222 kcal · 18,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0359.json)
+- **Por porção (valores aproximados):** 208 kcal · 14,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0359.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15328,7 +15368,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 4 colheres (sopa) de suco de limão (cerca de 2 limões)
 - 2 colheres (chá) de raspas de casca de limão
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 *Cobertura*
@@ -15339,18 +15380,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha.
-2. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-3. Passe para uma tigela, junte o suco de limão e as raspas e misture.
-4. Junte a farinha aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
-6. Cobertura: misture o creme de leite com o eritritol e junte o suco de limão aos poucos, mexendo até engrossar.
-7. Desenforme o bolo frio, espalhe a cobertura por cima e leve à geladeira por 1 hora para firmar.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
+4. Passe para uma tigela, junte o suco de limão e as raspas e misture.
+5. Junte a farinha integral e a aveia batida aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último.
+6. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+7. Cobertura: misture o creme de leite com o eritritol e junte o suco de limão aos poucos, mexendo até engrossar.
+8. Desenforme o bolo frio, espalhe a cobertura por cima e leve à geladeira por 1 hora para firmar.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Troque o leite da massa por iogurte natural: o bolo fica mais úmido.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* O suco de limão é que engrossa o creme de leite. Se ficar mole, junte mais 1 colher (sopa) de suco.
 - *Como guardar:* Por causa da cobertura, guarde na geladeira por até 4 dias.
 
@@ -15359,13 +15402,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0360"></a>
 ## Bolo de coco gelado
 
-*Bolo branco molhadinho, regado com leite de coco e coberto de coco ralado, servido bem gelado.*
+*Bolo de farinha integral e aveia, molhadinho, regado com leite de coco e coberto de coco ralado, servido bem gelado.*
 
-`rbl-0360` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0360` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 200 min (preparo 20 min, cozimento 40 min, descanso 140 min)
 - **Rende:** 15 pedaços · **15 porções** de 1 pedaço (1/15 do bolo)
-- **Por porção (valores aproximados):** 189 kcal · 15,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0360.json)
+- **Por porção (valores aproximados):** 177 kcal · 12,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0360.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15377,7 +15420,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/3 de xícara (chá) de óleo
 - 1 xícara (chá) de leite
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1/2 xícara (chá) de coco ralado sem açúcar (40 g)
 - 1 colher (sopa) de fermento químico em pó
 
@@ -15393,18 +15437,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha.
-2. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-3. Passe para uma tigela, junte a farinha e o coco ralado e mexa com um batedor até ficar liso. Misture o fermento por último.
-4. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
-5. Misture o leite de coco, o leite e o eritritol até dissolver.
-6. Com o bolo ainda quente, na própria forma, faça furos com um garfo e regue com a mistura de leite de coco.
-7. Espalhe o coco ralado por cima, cubra e leve à geladeira por pelo menos 2 horas.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
+4. Passe para uma tigela, junte a farinha integral, a aveia batida e o coco ralado e mexa com um batedor até ficar liso. Misture o fermento por último.
+5. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+6. Misture o leite de coco, o leite e o eritritol até dissolver.
+7. Com o bolo ainda quente, na própria forma, faça furos com um garfo e regue com a mistura de leite de coco.
+8. Espalhe o coco ralado por cima, cubra e leve à geladeira por pelo menos 2 horas.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Use coco fresco ralado no lugar do coco seco na cobertura.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* Confira no rótulo se o coco ralado é sem açúcar: muitos já vêm adoçados.
 - *Como guardar:* Guarde na geladeira, coberto, por até 4 dias.
 
@@ -15419,7 +15465,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 90 min (preparo 10 min, cozimento 50 min, descanso 30 min)
 - **Rende:** 12 pedaços · **12 porções** de 1 pedaço (1/12 do bolo)
-- **Por porção (valores aproximados):** 160 kcal · 18,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0361.json)
+- **Por porção (valores aproximados):** 159 kcal · 18,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0361.json)
 - **Forno:** 180 °C, 50 min, preaquecido
 
 **Ingredientes**
@@ -15428,7 +15474,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 4 ovos
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
 - 1 e 1/2 xícara (chá) de fubá
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farinha de trigo integral
 - 2 colheres (sopa) de manteiga
 - 4 colheres (sopa) de queijo parmesão ralado
 - 1 colher (sopa) de fermento químico em pó
@@ -15436,7 +15482,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C. Unte com manteiga uma forma retangular de 20 x 30 cm.
-2. Bata no liquidificador o leite, os ovos, o eritritol, o fubá, a farinha, a manteiga e o queijo por 3 minutos.
+2. Bata no liquidificador o leite, os ovos, o eritritol, o fubá, a farinha integral, a manteiga e o queijo por 3 minutos.
 3. Junte o fermento e bata só mais alguns segundos.
 4. Despeje na forma. A massa é bem líquida mesmo.
 5. Asse por 45 a 50 minutos, até dourar por cima e firmar nas bordas. O meio fica cremoso.
@@ -15446,6 +15492,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Sem parmesão? Use queijo minas meia cura ralado.
+- *Substituição:* Troque a farinha integral por 3 colheres (sopa) de aveia em flocos.
 - *Dica:* Não abra o forno nos primeiros 30 minutos: é isso que forma a camada cremosa.
 - *Como guardar:* Guarde na geladeira por até 4 dias. Frio, o creme fica mais firme.
 
@@ -15456,11 +15503,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo simples de pote de iogurte, macio e úmido, bom com café.*
 
-`rbl-0362` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0362` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 65 min (preparo 15 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 182 kcal · 16,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0362.json)
+- **Por porção (valores aproximados):** 168 kcal · 12,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0362.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15470,22 +15517,25 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de óleo
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
 - 1 colher (chá) de essência de baunilha
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha.
-2. Numa tigela, bata com um batedor o iogurte, os ovos, o óleo, o eritritol e a baunilha até ficar homogêneo.
-3. Junte a farinha aos poucos e mexa até a massa ficar lisa.
-4. Misture o fermento com delicadeza e despeje na forma.
-5. Asse por 35 a 40 minutos, até dourar e um palito sair limpo.
-6. Espere 10 minutos e desenforme.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. Numa tigela, bata com um batedor o iogurte, os ovos, o óleo, o eritritol e a baunilha até ficar homogêneo.
+4. Junte a farinha integral e a aveia batida aos poucos e mexa até a massa ficar lisa.
+5. Misture o fermento com delicadeza e despeje na forma.
+6. Asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+7. Espere 10 minutos e desenforme.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Use iogurte natural desnatado, se preferir: o bolo fica um pouco menos macio.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral e junte 2 colheres (sopa) de leite à massa.
 - *Dica:* Para a massa ficar lisinha, bata o eritritol no liquidificador seco até virar pó antes de usar.
 - *Como guardar:* Dura 3 dias coberto em temperatura ambiente.
 
@@ -15500,7 +15550,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 75 min (preparo 20 min, cozimento 45 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 197 kcal · 22,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0363.json)
+- **Por porção (valores aproximados):** 182 kcal · 18,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0363.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -15512,7 +15562,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 ovos
 - 1/2 xícara (chá) de óleo
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 2 colheres (chá) de canela em pó
 - 1 colher (sopa) de fermento químico em pó
 
@@ -15525,17 +15576,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 24 cm, sem furo, e forre o fundo com papel-manteiga.
-2. No liquidificador, bata as maçãs picadas, os ovos, o óleo e o eritritol por 3 minutos, até ficar liso.
-3. Numa tigela, misture a farinha e a canela. Junte o creme de maçã e mexa até ficar liso. Misture o fermento por último.
-4. Despeje na forma e arrume as fatias de maçã por cima, uma ao lado da outra.
-5. Misture a canela com o eritritol da cobertura e polvilhe sobre as maçãs.
-6. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
-7. Espere 15 minutos antes de desenformar.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata as maçãs picadas, os ovos, o óleo e o eritritol por 3 minutos, até ficar liso.
+4. Numa tigela, misture a farinha integral, a aveia batida e a canela. Junte o creme de maçã e mexa até ficar liso. Misture o fermento por último.
+5. Despeje na forma e arrume as fatias de maçã por cima, uma ao lado da outra.
+6. Misture a canela com o eritritol da cobertura e polvilhe sobre as maçãs.
+7. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
+8. Espere 15 minutos antes de desenformar.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Substituição:* Troque 1 xícara da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia: o bolo fica mais rústico.
 - *Dica:* Esprema meio limão sobre as fatias de maçã para elas não escurecerem antes de ir ao forno.
 - *Como guardar:* Guarde na geladeira por até 4 dias.
 
@@ -15550,7 +15602,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 85 min (preparo 25 min, cozimento 45 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 189 kcal · 21,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0364.json)
+- **Por porção (valores aproximados):** 175 kcal · 17,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0364.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -15568,7 +15620,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/3 de xícara (chá) de óleo
 - 3/4 de xícara (chá) de leite
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
@@ -15576,16 +15629,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 1. Preaqueça o forno a 180 °C.
 2. Numa forma redonda de 24 cm, sem furo, espalhe a manteiga e o eritritol do fundo. Arrume as fatias de abacaxi por cima.
 3. Leve a forma ao fogo baixo por 5 minutos, até o abacaxi soltar caldo e dourar de leve. **Atenção:** A forma fica muito quente: use pano de prato.
-4. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-5. Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento por último.
-6. Despeje a massa com cuidado sobre o abacaxi.
-7. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
-8. Espere 10 minutos e vire sobre um prato, ainda morno, para o abacaxi soltar inteiro.
+4. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+5. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
+6. Passe para uma tigela, junte a farinha integral e a aveia batida e mexa até ficar liso. Misture o fermento por último.
+7. Despeje a massa com cuidado sobre o abacaxi.
+8. Asse por 40 a 45 minutos, até dourar e um palito sair limpo.
+9. Espere 10 minutos e vire sobre um prato, ainda morno, para o abacaxi soltar inteiro.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Na falta de abacaxi fresco, use fatias finas de maçã. Evite abacaxi em calda.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* Abacaxi bem maduro deixa o bolo mais doce e perfumado.
 - *Como guardar:* Guarde na geladeira por até 3 dias.
 
@@ -15676,14 +15731,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0367"></a>
 ## Bolo de abóbora
 
-*Bolo fofo e alaranjado de abóbora cabotiá com canela, bom para o café da tarde.*
+*Bolo fofo e alaranjado de abóbora cabotiá com farinha integral e canela, bom para o café da tarde.*
 
 `rbl-0367` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 75 min (preparo 25 min, cozimento 40 min)
+- **Tempo total:** 80 min (preparo 25 min, cozimento 45 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 184 kcal · 18,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0367.json)
-- **Forno:** 180 °C, 40 min, preaquecido
+- **Por porção (valores aproximados):** 180 kcal · 17,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0367.json)
+- **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
 
@@ -15691,22 +15746,24 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 ovos
 - 1/2 xícara (chá) de óleo
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
+- 3 colheres (sopa) de leite
 - 1 colher (chá) de canela em pó
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
 1. Cozinhe a abóbora em pedaços no vapor ou em pouca água por 12 minutos, até ficar macia. Escorra bem e deixe amornar.
-2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
-3. No liquidificador, bata a abóbora, os ovos, o óleo e o eritritol por 3 minutos. **Atenção:** Espere a abóbora amornar antes de bater.
-4. Numa tigela, misture a farinha e a canela. Junte o creme de abóbora e mexa até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
+2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
+3. No liquidificador, bata a abóbora, os ovos, o óleo, o leite e o eritritol por 3 minutos. **Atenção:** Espere a abóbora amornar antes de bater.
+4. Numa tigela, misture a farinha integral e a canela. Junte o creme de abóbora e mexa até ficar liso. Misture o fermento por último.
+5. Despeje na forma e asse por 40 a 45 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque a cabotiá por abóbora moranga, também cozida e bem escorrida.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
+- *Substituição:* Troque 1 xícara da farinha integral por 1 xícara de aveia em flocos batida e tire o leite: o bolo fica mais leve.
 - *Dica:* Escorra bem a abóbora: água demais deixa o bolo pesado.
 - *Como guardar:* Dura 3 dias coberto, ou congele em fatias.
 
@@ -15721,7 +15778,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 70 min (preparo 15 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 167 kcal · 21,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0368.json)
+- **Por porção (valores aproximados):** 156 kcal · 18,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0368.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15731,23 +15788,25 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/3 de xícara (chá) de óleo
 - 1/2 xícara (chá) de leite
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 3/4 de xícara (chá) de farinha de trigo integral
+- 3/4 de xícara (chá) de aveia em flocos
 - 1/3 de xícara (chá) de cacau em pó 100%
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
-2. No liquidificador, bata as bananas, os ovos, o óleo, o leite e o eritritol por 2 minutos.
-3. Numa tigela, misture a farinha e o cacau. Junte o creme de banana e mexa com um batedor até ficar liso.
-4. Misture o fermento com delicadeza e despeje na forma.
-5. Asse por 35 a 40 minutos, até um palito sair com migalhas secas.
-6. Espere 15 minutos antes de desenformar.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe cacau.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata as bananas, os ovos, o óleo, o leite e o eritritol por 2 minutos.
+4. Numa tigela, misture a farinha integral, a aveia batida e o cacau. Junte o creme de banana e mexa com um batedor até ficar liso.
+5. Misture o fermento com delicadeza e despeje na forma.
+6. Asse por 35 a 40 minutos, até um palito sair com migalhas secas.
+7. Espere 15 minutos antes de desenformar.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida, ou tire o adoçante se as bananas estiverem bem maduras.
-- *Substituição:* Troque metade da farinha por aveia em flocos finos.
+- *Substituição:* Use 1 e 1/2 xícara só de aveia em flocos batida no lugar da mistura com farinha integral.
 - *Como guardar:* Guarde coberto por 3 dias, ou na geladeira por 5.
 
 ---
@@ -15757,11 +15816,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo de cacau bem molhadinho, com abobrinha ralada que some na massa.*
 
-`rbl-0369` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0369` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 70 min (preparo 20 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 177 kcal · 17,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0369.json)
+- **Por porção (valores aproximados):** 164 kcal · 13,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0369.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15770,24 +15829,27 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 ovos
 - 1/2 xícara (chá) de óleo
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 1 e 3/4 de xícara (chá) de farinha de trigo
+- 3/4 de xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1/2 xícara (chá) de cacau em pó 100%
 - 1/2 colher (chá) de canela em pó
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe farinha.
-2. Rale a abobrinha no lado fino do ralador. Não esprema: a água dela é o líquido do bolo.
-3. Numa tigela, bata com um batedor os ovos, o óleo e o eritritol por 2 minutos.
-4. Junte a abobrinha e misture.
-5. Acrescente a farinha, o cacau e a canela e mexa até ficar uma massa grossa e lisa. Misture o fermento por último.
-6. Espalhe na forma e asse por 35 a 40 minutos, até um palito sair com migalhas secas.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm e polvilhe cacau.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. Rale a abobrinha no lado fino do ralador. Não esprema: a água dela é o líquido do bolo.
+4. Numa tigela, bata com um batedor os ovos, o óleo e o eritritol por 2 minutos.
+5. Junte a abobrinha e misture.
+6. Acrescente a farinha integral, a aveia batida, o cacau e a canela e mexa até ficar uma massa grossa e lisa. Misture o fermento por último.
+7. Espalhe na forma e asse por 35 a 40 minutos, até um palito sair com migalhas secas.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Troque a abobrinha por 2 cenouras pequenas raladas fino.
+- *Substituição:* Use 1 e 3/4 de xícara só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* Ninguém percebe a abobrinha: ela deixa o bolo úmido e não tem gosto.
 - *Como guardar:* Guarde na geladeira por até 5 dias.
 
@@ -15798,11 +15860,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo perfumado de café coado com um toque de canela, regado com calda de café.*
 
-`rbl-0370` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0370` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 70 min (preparo 20 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 177 kcal · 17 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0370.json)
+- **Por porção (valores aproximados):** 163 kcal · 13 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0370.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15814,7 +15876,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de óleo
 - 1 xícara (chá) de café coado forte, frio
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (chá) de canela em pó
 - 1 colher (sopa) de fermento químico em pó
 
@@ -15825,17 +15888,19 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha.
-2. No liquidificador, bata os ovos, o óleo, o café e o eritritol por 2 minutos.
-3. Numa tigela, misture a farinha e a canela. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
-4. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
-5. Calda: misture o café quente com o eritritol até dissolver.
-6. Desenforme o bolo morno, faça furinhos com um garfo e regue com a calda.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata os ovos, o óleo, o café e o eritritol por 2 minutos.
+4. Numa tigela, misture a farinha integral, a aveia batida e a canela. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
+5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
+6. Calda: misture o café quente com o eritritol até dissolver.
+7. Desenforme o bolo morno, faça furinhos com um garfo e regue com a calda.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Use café descafeinado para servir à noite.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* O café precisa estar frio na massa: quente, ele cozinha os ovos.
 - *Como guardar:* Dura 4 dias coberto.
 
@@ -15844,7 +15909,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0371"></a>
 ## Bolo de amêndoas
 
-*Bolo baixinho e úmido de farinha de amêndoas com raspas de laranja, quase sem farinha de trigo.*
+*Bolo baixinho e úmido de farinha de amêndoas com raspas de laranja, sem farinha de trigo.*
 
 `rbl-0371` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
@@ -15855,7 +15920,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Ingredientes**
 
-- 2 xícaras (chá) de farinha de amêndoas (200 g) (ou 1 e 1/2 xícara (chá) de farinha de trigo. Com farinha de trigo, junte 1/4 de xícara de leite à massa.)
+- 2 xícaras (chá) de farinha de amêndoas (200 g) (ou 2 e 1/2 xícaras (chá) de aveia em flocos batida no liquidificador)
 - 4 ovos
 - 4 colheres (sopa) de manteiga derretida
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
@@ -15874,7 +15939,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Sem farinha de amêndoas? Use farinha de trigo como indicado na lista, ou castanha-do-pará bem moída.
+- *Substituição:* Sem farinha de amêndoas? Use aveia em flocos batida como indicado na lista, ou castanha-do-pará bem moída.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Como guardar:* Guarde na geladeira por até 5 dias.
 
@@ -15883,13 +15948,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0372"></a>
 ## Bolo mármore
 
-*Bolo branco com veios de chocolate, feito com uma massa só dividida em duas cores.*
+*Bolo claro de farinha integral e aveia com veios de chocolate, feito com uma massa só dividida em duas cores.*
 
-`rbl-0372` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0372` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 75 min (preparo 20 min, cozimento 45 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 192 kcal · 18,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0372.json)
+- **Por porção (valores aproximados):** 178 kcal · 14,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0372.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -15902,7 +15967,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1 xícara (chá) de leite
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
 - 1 colher (chá) de essência de baunilha
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 *Parte escura*
@@ -15912,17 +15978,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
-2. No liquidificador, bata os ovos, o óleo, o leite, o eritritol e a baunilha por 2 minutos.
-3. Passe para uma tigela, junte a farinha aos poucos e mexa até ficar liso. Misture o fermento por último.
-4. Separe 1/3 da massa numa tigela e misture o cacau e as 2 colheres de leite.
-5. Na forma, intercale colheradas de massa clara e escura. Passe uma faca em zigue-zague para formar os veios.
-6. Asse por 40 a 45 minutos, até um palito sair limpo.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata os ovos, o óleo, o leite, o eritritol e a baunilha por 2 minutos.
+4. Passe para uma tigela, junte a farinha integral e a aveia batida aos poucos e mexa até ficar liso. Misture o fermento por último.
+5. Separe 1/3 da massa numa tigela e misture o cacau e as 2 colheres de leite.
+6. Na forma, intercale colheradas de massa clara e escura. Passe uma faca em zigue-zague para formar os veios.
+7. Asse por 40 a 45 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Substituição:* Troque 1/2 xícara da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* Não mexa demais com a faca: duas ou três passadas bastam para o desenho aparecer.
 - *Como guardar:* Dura 3 dias coberto.
 
@@ -15972,13 +16039,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0374"></a>
 ## Cuca de banana
 
-*Cuca de massa macia coberta de banana e farofinha crocante de aveia e canela.*
+*Cuca de massa macia de farinha integral e aveia, coberta de banana e farofinha crocante de aveia e canela.*
 
 `rbl-0374` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 80 min (preparo 25 min, cozimento 40 min)
 - **Rende:** 12 pedaços · **12 porções** de 1 pedaço (1/12 da cuca)
-- **Por porção (valores aproximados):** 184 kcal · 25,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0374.json)
+- **Por porção (valores aproximados):** 172 kcal · 22,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0374.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -15990,7 +16057,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de leite
 - 1/4 de xícara (chá) de óleo
 - 1/3 de xícara (chá) de eritritol (ou 1/3 de xícara (chá) de xilitol)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 3/4 de xícara (chá) de farinha de trigo integral
+- 3/4 de xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 *Cobertura*
@@ -15999,7 +16067,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Farofa*
 
-- 4 colheres (sopa) de farinha de trigo
+- 4 colheres (sopa) de farinha de trigo integral
 - 3 colheres (sopa) de aveia em flocos
 - 3 colheres (sopa) de eritritol
 - 2 colheres (sopa) de manteiga gelada
@@ -16008,16 +16076,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm.
-2. Farofa: numa tigela, misture a farinha, a aveia, o eritritol e a canela. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa úmida. Leve à geladeira.
-3. Massa: com um batedor, misture os ovos, o leite, o óleo e o eritritol. Junte a farinha e mexa até ficar liso. Misture o fermento por último.
-4. Espalhe a massa na forma e cubra com as rodelas de banana.
-5. Espalhe a farofa por cima de tudo.
-6. Asse por 35 a 40 minutos, até a farofa dourar e um palito sair limpo.
+2. Farofa: numa tigela, misture a farinha integral, a aveia, o eritritol e a canela. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa úmida. Leve à geladeira.
+3. Bata a aveia da massa no liquidificador seco até virar farinha.
+4. Massa: com um batedor, misture os ovos, o leite, o óleo e o eritritol. Junte a farinha integral e a aveia batida e mexa até ficar liso. Misture o fermento por último.
+5. Espalhe a massa na forma e cubra com as rodelas de banana.
+6. Espalhe a farofa por cima de tudo.
+7. Asse por 35 a 40 minutos, até a farofa dourar e um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque a banana por fatias de maçã ou por uva sem semente.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
+- *Substituição:* Use 1 e 1/2 xícara só de farinha de trigo integral na massa, no lugar da mistura com aveia.
 - *Dica:* Deixar a farofa na geladeira enquanto prepara a massa garante que ela fique crocante.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça um pouco antes de servir.
 
@@ -16032,7 +16102,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 75 min (preparo 25 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 192 kcal · 19,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0375.json)
+- **Por porção (valores aproximados):** 177 kcal · 15,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0375.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -16044,7 +16114,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de óleo
 - 1 xícara (chá) de polpa de maracujá (de cerca de 3 maracujás)
 - 1 xícara (chá) de eritritol (ou 1 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 *Calda*
@@ -16055,18 +16126,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha.
-2. No liquidificador, bata a polpa de maracujá da massa só por alguns segundos, para soltar as sementes. Passe numa peneira.
-3. Volte o suco para o liquidificador e bata com os ovos, o óleo e o eritritol por 2 minutos.
-4. Passe para uma tigela, junte a farinha aos poucos e mexa até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
-6. Calda: ferva a polpa da calda com o eritritol e a água por 3 minutos, até engrossar um pouco. **Atenção:** Cuidado com a calda quente.
-7. Desenforme o bolo morno e regue com a calda, com as sementes.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral.
+2. Bata a aveia no liquidificador seco até virar farinha. Reserve.
+3. No liquidificador, bata a polpa de maracujá da massa só por alguns segundos, para soltar as sementes. Passe numa peneira.
+4. Volte o suco para o liquidificador e bata com os ovos, o óleo e o eritritol por 2 minutos.
+5. Passe para uma tigela, junte a farinha integral e a aveia batida aos poucos e mexa até ficar liso. Misture o fermento por último.
+6. Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.
+7. Calda: ferva a polpa da calda com o eritritol e a água por 3 minutos, até engrossar um pouco. **Atenção:** Cuidado com a calda quente.
+8. Desenforme o bolo morno e regue com a calda, com as sementes.
 
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Use polpa de maracujá congelada sem açúcar: 1 pacote de 100 g dá cerca de 1/2 xícara.
+- *Substituição:* Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia.
 - *Como guardar:* Guarde na geladeira por até 4 dias.
 
 ---
@@ -16116,11 +16189,11 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Bolo com amendoim torrado e moído na massa, com sabor de paçoca caseira.*
 
-`rbl-0377` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0377` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 85 min (preparo 25 min, cozimento 50 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 207 kcal · 15,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0377.json)
+- **Por porção (valores aproximados):** 198 kcal · 13,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0377.json)
 - **Forno:** 180 °C, 50 min, preaquecido
 
 **Ingredientes**
@@ -16130,22 +16203,24 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/3 de xícara (chá) de óleo
 - 1 xícara (chá) de leite
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1/2 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C. Espalhe o amendoim numa assadeira e torre por 10 minutos, mexendo na metade, até dourar e perfumar.
-2. Deixe esfriar e bata o amendoim no liquidificador, pulsando, até virar uma farofa fina. Reserve 2 colheres (sopa) para cima.
-3. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
+2. Deixe esfriar e bata o amendoim no liquidificador, pulsando, até virar uma farofa fina. Reserve 2 colheres (sopa) para cima. Bata a aveia no liquidificador seco até virar farinha.
+3. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
 4. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-5. Numa tigela, misture a farinha e o amendoim moído. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
+5. Numa tigela, misture a farinha integral, a aveia batida e o amendoim moído. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
 6. Despeje na forma, espalhe o amendoim reservado e asse por 35 a 40 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Use 1 xícara de amendoim torrado sem sal já pronto e pule a primeira etapa.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
+- *Substituição:* Use 1 e 1/2 xícara só de farinha de trigo integral no lugar da mistura com aveia.
 - *Dica:* Pulse o liquidificador em vez de bater direto: assim o amendoim não vira pasta.
 - *Como guardar:* Dura 4 dias coberto.
 
@@ -16176,7 +16251,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
 2. Com um batedor, misture bem os ovos, o óleo, o leite e o eritritol.
 3. Junte a farinha integral e a canela e mexa até ficar liso.
 4. Acrescente as nozes, guardando um punhado para cima. Misture o fermento por último.
@@ -16185,7 +16260,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque as nozes por castanha-do-pará ou castanha de caju picada.
-- *Substituição:* Troque a farinha integral por farinha de trigo branca na mesma medida.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida no liquidificador: o bolo fica mais leve.
 - *Como guardar:* Dura 4 dias coberto, ou congele em fatias.
 
 ---
@@ -16215,15 +16290,15 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Coloque as tâmaras numa tigela, cubra com a água fervente e deixe 10 minutos, até amolecer. **Atenção:** Cuidado com a água fervente.
-2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
+2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
 3. Bata as tâmaras com a água, os ovos, o óleo e a baunilha no liquidificador até ficar um creme liso.
-4. Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento por último.
+4. Passe para uma tigela, junte a farinha integral e mexa até ficar liso. Misture o fermento por último.
 5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque as tâmaras por ameixas secas sem caroço, na mesma quantidade.
-- *Substituição:* Troque a farinha integral por farinha de trigo branca.
+- *Substituição:* Troque metade da farinha integral por 3/4 de xícara (chá) de aveia em flocos batida no liquidificador: o bolo fica mais leve.
 - *Dica:* A água das tâmaras entra no bolo: não jogue fora.
 - *Como guardar:* Dura 4 dias coberto.
 
@@ -16238,16 +16313,16 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 65 min (preparo 15 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 185 kcal · 17,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0380.json)
+- **Por porção (valores aproximados):** 190 kcal · 16,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0380.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
 
 - 3 ovos
 - 1/2 xícara (chá) de óleo
-- 1 xícara (chá) de leite
+- 1 e 1/4 xícara (chá) de leite
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 1 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de aveia em flocos
 - 1 xícara (chá) de farinha de trigo integral
 - 2 colheres (chá) de canela em pó
 - 1 colher (chá) de gengibre em pó
@@ -16257,16 +16332,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
-2. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-3. Numa tigela, misture as duas farinhas, a canela, o gengibre, o cravo e a noz-moscada.
-4. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
+2. Bata a aveia no liquidificador até virar farinha.
+3. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
+4. Numa tigela, misture a aveia batida, a farinha integral, a canela, o gengibre, o cravo e a noz-moscada.
+5. Junte os líquidos e mexa até ficar liso. Misture o fermento por último.
+6. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Sem gengibre em pó? Use 1 colher (chá) de gengibre fresco ralado.
-- *Substituição:* Troque a farinha integral por farinha de trigo branca.
+- *Substituição:* Sem aveia? Use só farinha de trigo integral, 2 xícaras (chá) no total. O bolo fica um pouco mais denso.
 - *Dica:* O bolo fica ainda mais saboroso no dia seguinte, quando as especiarias assentam.
 - *Como guardar:* Dura 5 dias coberto.
 
@@ -16275,13 +16351,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0381"></a>
 ## Pão de ló
 
-*Massa clássica de pão de ló, alta e aerada, para comer pura ou rechear.*
+*Massa de pão de ló com farinha integral, alta e aerada, para comer pura ou rechear.*
 
 `rbl-0381` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 60 min (preparo 20 min, cozimento 30 min)
 - **Rende:** 10 fatias · **10 porções** de 1 fatia (1/10 do bolo)
-- **Por porção (valores aproximados):** 75 kcal · 10 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0381.json)
+- **Por porção (valores aproximados):** 71 kcal · 9,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0381.json)
 - **Forno:** 180 °C, 30 min, preaquecido
 
 **Ingredientes**
@@ -16290,7 +16366,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3/4 de xícara (chá) de eritritol em pó (ou 3/4 de xícara (chá) de xilitol)
 - 4 colheres (sopa) de água morna
 - 1 colher (chá) de essência de baunilha
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral fina
 - 1 colher (chá) de fermento químico em pó
 
 **Modo de preparo**
@@ -16299,7 +16375,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 2. Bata as claras na batedeira até formar picos firmes, cerca de 4 minutos.
 3. Junte as gemas uma a uma, batendo. Acrescente o eritritol aos poucos e bata mais 5 minutos, até a massa ficar clara e volumosa.
 4. Desligue a batedeira e misture a água e a baunilha com um batedor manual.
-5. Peneire a farinha com o fermento sobre a massa e misture com uma espátula, de baixo para cima, sem bater.
+5. Peneire a farinha integral com o fermento sobre a massa, devolva à massa o farelo que ficar na peneira e misture com uma espátula, de baixo para cima, sem bater.
 6. Despeje na forma e asse por 25 a 30 minutos, até dourar e voltar quando você aperta de leve.
 7. Desenforme morno e espere esfriar sobre uma grade.
 
@@ -16307,6 +16383,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Dica:* Não abra o forno nos primeiros 20 minutos: o pão de ló murcha.
+- *Dica:* Com farinha integral o pão de ló fica um pouco mais baixo e com cor mais morena. Bata bem as claras e misture a farinha com delicadeza para não perder o ar.
 - *Dica:* Bata o eritritol no liquidificador até virar pó: em cristais ele pesa a espuma.
 - *Como guardar:* Guarde coberto por 2 dias, ou congele embrulhado em filme.
 
@@ -16315,13 +16392,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0382"></a>
 ## Rocambole de morango
 
-*Massa fininha de pão de ló enrolada com creme de ricota e morangos picados.*
+*Massa fininha de pão de ló integral enrolada com creme de ricota e morangos picados.*
 
 `rbl-0382` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 107 min (preparo 35 min, cozimento 12 min, descanso 60 min)
 - **Rende:** 10 fatias · **10 porções** de 1 fatia (1/10 do rocambole)
-- **Por porção (valores aproximados):** 90 kcal · 6,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0382.json)
+- **Por porção (valores aproximados):** 89 kcal · 6,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0382.json)
 - **Forno:** 180 °C, 12 min, preaquecido
 
 **Ingredientes**
@@ -16331,7 +16408,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - 4 ovos
 - 4 colheres (sopa) de eritritol em pó (ou 4 colheres (sopa) de xilitol)
-- 6 colheres (sopa) de farinha de trigo
+- 6 colheres (sopa) de farinha de trigo integral fina
 - 1 colher (chá) de fermento químico em pó
 
 *Recheio*
@@ -16345,8 +16422,8 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C. Forre uma assadeira de 30 x 40 cm com papel-manteiga untado.
 2. Na batedeira, bata os ovos com o eritritol por 8 minutos, até triplicar de volume e ficar bem claro.
-3. Peneire a farinha e o fermento por cima e misture com uma espátula, de baixo para cima, sem bater.
-4. Espalhe a massa na assadeira e asse por 10 a 12 minutos, até dourar de leve.
+3. Peneire a farinha integral e o fermento por cima, devolva o farelo da peneira e misture com uma espátula, de baixo para cima, sem bater.
+4. Espalhe a massa na assadeira e asse por 10 a 12 minutos, até dourar de leve e firmar ao toque. Não passe do ponto: massa seca racha ao enrolar.
 5. Vire a massa sobre um pano úmido, tire o papel e enrole ainda quente com o pano. Deixe esfriar enrolada. **Atenção:** A massa sai muito quente: use luvas ou o próprio pano.
 6. Recheio: amasse a ricota e misture com o iogurte e o eritritol até virar um creme liso.
 7. Desenrole a massa, espalhe o creme, distribua os morangos e enrole de novo, sem o pano.
@@ -16370,7 +16447,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 75 min (preparo 25 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 167 kcal · 20,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0383.json)
+- **Por porção (valores aproximados):** 163 kcal · 18,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0383.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -16380,17 +16457,19 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/3 de xícara (chá) de óleo
 - 3/4 de xícara (chá) de leite
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 3/4 de xícara (chá) de farinha de trigo integral
+- 1 xícara (chá) de aveia em flocos
 - 1 pitada de noz-moscada
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
 1. Cozinhe as batatas com casca em água por 20 minutos, até ficarem macias. Descasque e amasse.
-2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
-3. No liquidificador, bata a batata-doce, os ovos, o óleo, o leite e o eritritol por 3 minutos. **Atenção:** Deixe a batata amornar antes de bater.
-4. Passe para uma tigela, junte a farinha e a noz-moscada e mexa até ficar liso. Misture o fermento por último.
-5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
+2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
+3. Bata a aveia no liquidificador até virar farinha.
+4. No liquidificador, bata a batata-doce, os ovos, o óleo, o leite e o eritritol por 3 minutos. **Atenção:** Deixe a batata amornar antes de bater.
+5. Passe para uma tigela, junte a aveia batida, a farinha integral e a noz-moscada e mexa até ficar liso. Misture o fermento por último.
+6. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
 
 **Dicas**
 
@@ -16432,7 +16511,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque a aveia por 2 colheres (sopa) de farinha de trigo.
+- *Substituição:* Troque a aveia por 2 colheres (sopa) de farinha de trigo integral.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Dica:* Use uma caneca grande: o bolo dobra de tamanho e depois abaixa.
 
@@ -16447,7 +16526,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 5 min (preparo 3 min, cozimento 2 min)
 - **Rende:** 1 bolo de caneca · **1 porções** de 1 caneca
-- **Por porção (valores aproximados):** 349 kcal · 16,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0385.json)
+- **Por porção (valores aproximados):** 343 kcal · 15,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0385.json)
 
 **Ingredientes**
 
@@ -16455,7 +16534,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 2 colheres (sopa) de leite de coco
 - 1 colher (sopa) de manteiga derretida
 - 2 colheres (sopa) de eritritol (ou 2 colheres (sopa) de xilitol)
-- 2 colheres (sopa) de farinha de trigo
+- 2 colheres (sopa) de farinha de trigo integral
 - 2 colheres (sopa) de coco ralado sem açúcar (10 g), mais um pouco para cima
 - 1/2 colher (chá) de fermento químico em pó
 
@@ -16463,7 +16542,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Numa caneca grande (cerca de 300 ml), bata o ovo com um garfo.
 2. Junte o leite de coco, a manteiga e o eritritol e misture bem.
-3. Acrescente a farinha e o coco e mexa até ficar liso. Misture o fermento por último.
+3. Acrescente a farinha integral e o coco e mexa até ficar liso. Misture o fermento por último.
 4. Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até crescer e firmar. **Atenção:** A caneca sai muito quente: segure pela alça ou com um pano.
 5. Polvilhe um pouco de coco por cima e sirva morno.
 
@@ -16471,6 +16550,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Sem leite de coco? Use leite comum.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
+- *Substituição:* Troque a farinha integral por 3 colheres (sopa) de aveia em flocos finos.
 - *Dica:* Se o meio ainda estiver mole, volte por mais 15 segundos.
 
 ---
@@ -16504,7 +16584,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque a aveia por 2 colheres (sopa) de farinha de trigo.
+- *Substituição:* Troque a aveia por 2 colheres (sopa) de farinha de trigo integral.
 - *Substituição:* Troque o eritritol por 1/2 banana amassada.
 - *Dica:* Confira no rótulo se a pasta de amendoim tem só amendoim na lista de ingredientes.
 
@@ -16555,7 +16635,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 5 min (preparo 3 min, cozimento 2 min)
 - **Rende:** 1 bolo de caneca · **1 porções** de 1 caneca
-- **Por porção (valores aproximados):** 290 kcal · 20,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0388.json)
+- **Por porção (valores aproximados):** 282 kcal · 19,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0388.json)
 
 **Ingredientes**
 
@@ -16564,7 +16644,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1 colher (sopa) de iogurte natural
 - 1 colher (sopa) de óleo
 - 2 colheres (sopa) de eritritol (ou 2 colheres (sopa) de xilitol)
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farinha de trigo integral
 - 1/2 colher (chá) de raspas de casca de limão
 - 1/2 colher (chá) de fermento químico em pó
 
@@ -16572,7 +16652,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Numa caneca grande (cerca de 300 ml), bata o ovo com um garfo.
 2. Junte o suco de limão, o iogurte, o óleo e o eritritol e misture bem.
-3. Acrescente a farinha e as raspas e mexa até ficar liso. Misture o fermento por último.
+3. Acrescente a farinha integral e as raspas e mexa até ficar liso. Misture o fermento por último.
 4. Leve ao micro-ondas em potência alta por 1 minuto e 30 segundos, até crescer e firmar. **Atenção:** A caneca sai muito quente: segure pela alça ou com um pano.
 5. Espere 1 minuto e sirva.
 
@@ -16580,6 +16660,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o limão por suco e raspas de laranja.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
+- *Substituição:* Troque a farinha integral por 4 colheres (sopa) de aveia em flocos finos.
 - *Dica:* Rale só a parte verde da casca: a parte branca amarga.
 
 ---
@@ -16587,39 +16668,40 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0389"></a>
 ## Muffin de morango
 
-*Muffins fofinhos com pedaços de morango fresco e um pouco de farinha integral.*
+*Muffins fofinhos com pedaços de morango fresco, feitos com farinha integral e aveia.*
 
-`rbl-0389` · Doces e bolos · Etiquetas: 0 açúcar adicionado
+`rbl-0389` · Doces e bolos · Etiquetas: 0 açúcar adicionado, Low carb
 
 - **Tempo total:** 45 min (preparo 15 min, cozimento 22 min)
 - **Rende:** 10 muffins · **10 porções** de 1 muffin
-- **Por porção (valores aproximados):** 140 kcal · 15,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0389.json)
+- **Por porção (valores aproximados):** 142 kcal · 15 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0389.json)
 - **Forno:** 180 °C, 22 min, preaquecido
 
 **Ingredientes**
 
 - 2 ovos
 - 1/4 de xícara (chá) de óleo
-- 1/2 xícara (chá) de leite
+- 2/3 de xícara (chá) de leite
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
-- 1 xícara (chá) de farinha de trigo
-- 1/2 xícara (chá) de farinha de trigo integral
+- 3/4 de xícara (chá) de aveia em flocos
+- 1 xícara (chá) de farinha de trigo integral
 - 2 colheres (chá) de fermento químico em pó
 - 1 xícara (chá) de morangos picados
 
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel.
-2. Com um batedor, misture os ovos, o óleo, o leite e o eritritol.
-3. Junte as duas farinhas e o fermento e mexa só até sumir a farinha seca. Massa de muffin não deve ser batida demais.
-4. Misture os morangos com delicadeza.
-5. Distribua nas forminhas até 3/4 da altura e asse por 20 a 22 minutos, até dourar e um palito sair limpo.
+2. Bata a aveia no liquidificador até virar farinha.
+3. Com um batedor, misture os ovos, o óleo, o leite e o eritritol.
+4. Junte a aveia batida, a farinha integral e o fermento e mexa só até sumir a farinha seca. Massa de muffin não deve ser batida demais.
+5. Misture os morangos com delicadeza.
+6. Distribua nas forminhas até 3/4 da altura e asse por 20 a 22 minutos, até dourar e um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque os morangos por banana ou maçã picadinha.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Dica:* Passe os morangos picados em 1 colher de farinha antes de misturar: eles não afundam.
+- *Dica:* Passe os morangos picados em 1 colher de farinha integral antes de misturar: eles não afundam.
 - *Como guardar:* Guarde na geladeira por até 3 dias.
 
 ---
@@ -16670,7 +16752,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 50 min (preparo 20 min, cozimento 22 min)
 - **Rende:** 10 muffins · **10 porções** de 1 muffin
-- **Por porção (valores aproximados):** 166 kcal · 16,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0391.json)
+- **Por porção (valores aproximados):** 164 kcal · 15,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0391.json)
 - **Forno:** 180 °C, 22 min, preaquecido
 
 **Ingredientes**
@@ -16678,8 +16760,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 2 ovos
 - 1/4 de xícara (chá) de óleo
 - 1 pote de iogurte natural integral (170 g)
+- 3 colheres (sopa) de leite
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1/2 xícara (chá) de aveia em flocos
 - 1 colher (chá) de canela em pó
 - 2 colheres (chá) de fermento químico em pó
@@ -16689,15 +16772,15 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C e unte 10 forminhas de muffin, ou use forminhas de papel.
-2. Com um batedor, misture os ovos, o óleo, o iogurte e o eritritol.
-3. Junte a farinha, a aveia, a canela e o fermento e mexa só até misturar.
+2. Com um batedor, misture os ovos, o óleo, o iogurte, o leite e o eritritol.
+3. Junte a farinha integral, a aveia, a canela e o fermento e mexa só até misturar.
 4. Acrescente a maçã e as nozes.
 5. Distribua nas forminhas e asse por 20 a 22 minutos, até um palito sair limpo.
 
 **Dicas**
 
 - *Substituição:* Troque as nozes por castanha-do-pará ou uva-passa.
-- *Substituição:* Troque a farinha de trigo por farinha de trigo integral.
+- *Substituição:* Troque a farinha integral por mais 1 xícara (chá) de aveia em flocos batida no liquidificador.
 - *Como guardar:* Guarde na geladeira por até 4 dias.
 
 ---
@@ -16782,7 +16865,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque a ricota por cream cheese.
-- *Substituição:* Troque a farinha integral por farinha de trigo branca.
+- *Substituição:* Troque metade da farinha integral por 3/4 de xícara (chá) de aveia em flocos batida no liquidificador.
 - *Como guardar:* Por causa do recheio, guarde na geladeira por até 3 dias.
 
 ---
@@ -16796,7 +16879,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 70 min (preparo 15 min, cozimento 25 min, descanso 30 min)
 - **Rende:** 16 quadrados · **16 porções** de 1 quadrado
-- **Por porção (valores aproximados):** 102 kcal · 5,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0394.json)
+- **Por porção (valores aproximados):** 101 kcal · 5,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0394.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -16806,7 +16889,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 ovos
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
 - 1 colher (chá) de essência de baunilha
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
 - 1 pitada de sal
 - 1/2 xícara (chá) de nozes picadas
 
@@ -16816,14 +16899,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 2. Derreta a manteiga em fogo baixo, desligue e misture o cacau até ficar liso. Deixe amornar. **Atenção:** Cuidado com a manteiga quente.
 3. Numa tigela, bata os ovos com o eritritol e a baunilha por 3 minutos, até clarear.
 4. Junte a mistura de cacau e mexa bem.
-5. Acrescente a farinha e o sal e mexa só até sumir a farinha. Misture as nozes.
+5. Acrescente a farinha integral e o sal e mexa só até sumir a farinha. Misture as nozes.
 6. Espalhe na forma e asse por 20 a 25 minutos, até a casquinha firmar e o centro ainda estar úmido.
 7. Espere esfriar pelo menos 30 minutos antes de cortar em 16 quadrados.
 
 **Dicas**
 
 - *Substituição:* Troque as nozes por castanha-do-pará ou tire.
-- *Substituição:* Troque a farinha de trigo por farinha de amêndoas na mesma medida.
+- *Substituição:* Troque a farinha integral por farinha de amêndoas na mesma medida.
 - *Dica:* Tire do forno quando um palito sair com migalhas úmidas: brownie seco é bolo.
 - *Como guardar:* Guarde em pote fechado por 4 dias, ou na geladeira por 1 semana.
 
@@ -16880,7 +16963,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 45 min (preparo 15 min, cozimento 12 min, descanso 15 min)
 - **Rende:** 16 cookies · **8 porções** de 2 cookies
-- **Por porção (valores aproximados):** 123 kcal · 13,5 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0396.json)
+- **Por porção (valores aproximados):** 118 kcal · 12,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0396.json)
 - **Forno:** 180 °C, 12 min, preaquecido
 
 **Ingredientes**
@@ -16888,7 +16971,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 4 colheres (sopa) de manteiga em temperatura ambiente
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
 - 1 ovo
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1/4 de xícara (chá) de cacau em pó 100%
 - 1/2 colher (chá) de fermento químico em pó
 - 1 pitada de sal
@@ -16897,14 +16980,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga.
 2. Numa tigela, misture a manteiga com o eritritol até virar um creme. Junte o ovo e misture bem.
-3. Acrescente a farinha, o cacau, o fermento e o sal e mexa até formar uma massa macia.
+3. Acrescente a farinha integral, o cacau, o fermento e o sal e mexa até formar uma massa macia.
 4. Faça 16 bolinhas e coloque na assadeira com espaço entre elas. Achate cada uma com a palma da mão.
 5. Asse por 10 a 12 minutos. Os cookies saem macios e firmam ao esfriar.
 6. Espere 15 minutos na assadeira antes de tirar.
 
 **Dicas**
 
-- *Substituição:* Troque a farinha de trigo por farinha de aveia (aveia batida no liquidificador).
+- *Substituição:* Troque a farinha integral por 1 e 1/2 xícara (chá) de aveia em flocos batida no liquidificador.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Dica:* Não deixe passar do tempo: cookie de cacau queima rápido e fica amargo.
 - *Como guardar:* Guarde em pote fechado por até 5 dias.
@@ -16920,7 +17003,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 15 min, descanso 10 min)
 - **Rende:** 16 cookies · **8 porções** de 2 cookies
-- **Por porção (valores aproximados):** 176 kcal · 9,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0397.json)
+- **Por porção (valores aproximados):** 174 kcal · 9,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0397.json)
 - **Forno:** 180 °C, 15 min, preaquecido
 
 **Ingredientes**
@@ -16929,7 +17012,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 3 colheres (sopa) de manteiga em temperatura ambiente
 - 1/3 de xícara (chá) de eritritol (ou 1/3 de xícara (chá) de xilitol)
 - 1 ovo
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
 - 1 colher (chá) de essência de baunilha
 - 1/2 colher (chá) de fermento químico em pó
 
@@ -16937,14 +17020,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga.
 2. Misture a manteiga com o eritritol até virar um creme. Junte o ovo e a baunilha.
-3. Acrescente o coco, a farinha e o fermento e misture até formar uma massa que dá liga.
+3. Acrescente o coco, a farinha integral e o fermento e misture até formar uma massa que dá liga.
 4. Com uma colher de sopa, faça montinhos na assadeira e achate de leve.
 5. Asse por 13 a 15 minutos, até dourar nas bordas.
 6. Espere esfriar na assadeira antes de tirar.
 
 **Dicas**
 
-- *Substituição:* Troque a farinha de trigo por farinha de amêndoas ou aveia batida.
+- *Substituição:* Troque a farinha integral por farinha de amêndoas ou por 3/4 de xícara (chá) de aveia batida.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Dica:* Confira no rótulo se o coco ralado é sem açúcar.
 - *Como guardar:* Guarde em pote fechado por até 5 dias.
@@ -16990,13 +17073,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0399"></a>
 ## Biscoito amanteigado
 
-*Biscoitinhos amanteigados que derretem na boca, para o café ou para dar de presente.*
+*Biscoitinhos amanteigados de farinha integral, quebradiços e macios, para o café ou para dar de presente.*
 
 `rbl-0399` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 73 min (preparo 25 min, cozimento 18 min, descanso 30 min)
 - **Rende:** 30 biscoitos · **10 porções** de 3 biscoitos
-- **Por porção (valores aproximados):** 207 kcal · 18,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0399.json)
+- **Por porção (valores aproximados):** 199 kcal · 17,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0399.json)
 - **Forno:** 180 °C, 18 min, preaquecido
 
 **Ingredientes**
@@ -17005,13 +17088,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de eritritol em pó (ou 1/2 xícara (chá) de xilitol)
 - 1 ovo
 - 1 colher (chá) de essência de baunilha
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral fina, aproximadamente
 
 **Modo de preparo**
 
 1. Numa tigela, bata a manteiga com o eritritol até virar um creme claro.
 2. Junte o ovo e a baunilha e misture bem.
-3. Acrescente a farinha aos poucos, misturando com as mãos, até a massa desgrudar das mãos.
+3. Acrescente a farinha integral aos poucos, misturando com as mãos, até a massa desgrudar das mãos. Pode não precisar de toda a farinha.
 4. Embrulhe em filme e leve à geladeira por 30 minutos.
 5. Preaqueça o forno a 180 °C. Faça bolinhas de 2 cm, coloque numa assadeira sem untar e achate com um garfo.
 6. Asse por 15 a 18 minutos, só até dourar de leve embaixo.
@@ -17020,8 +17103,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
-- *Substituição:* Troque 1/2 xícara da farinha por amido de milho para biscoitos ainda mais macios.
+- *Substituição:* Troque 1/2 xícara da farinha integral por amido de milho para biscoitos mais macios.
 - *Dica:* O eritritol em pó deixa o biscoito liso; em cristais, ele fica arenoso.
+- *Dica:* A farinha integral deixa o biscoito mais arenoso e com sabor tostado. Use a mais fina que encontrar.
 - *Como guardar:* Guarde em pote bem fechado por até 10 dias.
 
 ---
@@ -17113,7 +17197,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 72 min (preparo 30 min, cozimento 12 min, descanso 30 min)
 - **Rende:** 24 biscoitos · **8 porções** de 3 biscoitos
-- **Por porção (valores aproximados):** 162 kcal · 21,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0402.json)
+- **Por porção (valores aproximados):** 152 kcal · 19,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0402.json)
 - **Forno:** 180 °C, 12 min, preaquecido
 
 **Ingredientes**
@@ -17121,16 +17205,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 4 colheres (sopa) de manteiga em temperatura ambiente
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
 - 1 ovo
-- 1 e 3/4 de xícara (chá) de farinha de trigo
+- 1 e 3/4 de xícara (chá) de farinha de trigo integral
 - 2 colheres (chá) de gengibre em pó
 - 1 colher (chá) de canela em pó
 - 1 pitada de cravo em pó
 - 1/2 colher (chá) de fermento químico em pó
+- 1 a 2 colheres (sopa) de leite, se a massa esfarelar
 
 **Modo de preparo**
 
 1. Numa tigela, misture a manteiga com o eritritol até virar um creme. Junte o ovo.
-2. Acrescente a farinha, o gengibre, a canela, o cravo e o fermento e amasse até formar uma massa lisa.
+2. Acrescente a farinha integral, o gengibre, a canela, o cravo e o fermento e amasse até formar uma massa lisa. Se esfarelar, junte o leite aos poucos.
 3. Embrulhe em filme e leve à geladeira por 30 minutos.
 4. Preaqueça o forno a 180 °C. Abra a massa entre dois plásticos com um rolo, com 0,5 cm de espessura, e corte com forminhas.
 5. Coloque numa assadeira forrada e asse por 10 a 12 minutos, até as bordas dourarem.
@@ -17147,23 +17232,23 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0403"></a>
 ## Rosquinhas de laranja
 
-*Rosquinhas assadas de massa amanteigada com suco e raspas de laranja.*
+*Rosquinhas assadas de massa amanteigada integral, com suco e raspas de laranja.*
 
 `rbl-0403` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 60 min (preparo 30 min, cozimento 20 min)
 - **Rende:** 24 rosquinhas · **8 porções** de 3 rosquinhas
-- **Por porção (valores aproximados):** 165 kcal · 25,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0403.json)
+- **Por porção (valores aproximados):** 157 kcal · 24,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0403.json)
 - **Forno:** 180 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1/2 xícara (chá) de amido de milho
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
 - 1 ovo
 - 3 colheres (sopa) de manteiga em temperatura ambiente
-- 4 colheres (sopa) de suco de laranja
+- 5 colheres (sopa) de suco de laranja
 - 1 colher (sopa) de raspas de casca de laranja
 - 1 colher (chá) de fermento químico em pó
 
@@ -17171,7 +17256,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga.
 2. Misture a manteiga com o eritritol. Junte o ovo, o suco e as raspas de laranja.
-3. Acrescente a farinha, o amido e o fermento aos poucos e amasse até a massa ficar lisa e desgrudar das mãos.
+3. Acrescente a farinha integral, o amido e o fermento aos poucos e amasse até a massa ficar lisa e desgrudar das mãos.
 4. Faça rolinhos de 10 cm, da grossura de um dedo, e una as pontas formando rosquinhas.
 5. Arrume na assadeira e asse por 18 a 20 minutos, até dourar embaixo.
 
@@ -17192,7 +17277,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 50 min (preparo 25 min, cozimento 18 min)
 - **Rende:** 30 biscoitos · **10 porções** de 3 biscoitos
-- **Por porção (valores aproximados):** 164 kcal · 24,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0404.json)
+- **Por porção (valores aproximados):** 154 kcal · 22,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0404.json)
 - **Forno:** 180 °C, 18 min, preaquecido
 
 **Ingredientes**
@@ -17200,14 +17285,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1 caixinha de creme de leite (200 g)
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
 - 1 ovo
-- 2 e 1/2 xícaras (chá) de farinha de trigo, aproximadamente
+- 2 e 1/2 xícaras (chá) de farinha de trigo integral, aproximadamente
 - 1 colher (chá) de fermento químico em pó
 
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C e forre uma assadeira com papel-manteiga.
 2. Numa tigela, misture o creme de leite, o eritritol e o ovo.
-3. Junte a farinha aos poucos e o fermento, amassando até a massa desgrudar das mãos. Pode não precisar de toda a farinha.
+3. Junte a farinha integral aos poucos e o fermento, amassando até a massa desgrudar das mãos. Pode não precisar de toda a farinha.
 4. Faça rolinhos, corte em pedaços de 4 cm ou modele em formato de S, e arrume na assadeira.
 5. Asse por 15 a 18 minutos, até dourar de leve embaixo.
 
@@ -17215,7 +17300,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Junte raspas de 1 limão à massa para um biscoito perfumado.
-- *Dica:* A massa deve ficar macia: farinha demais deixa o biscoito duro.
+- *Dica:* A massa deve ficar macia: farinha demais deixa o biscoito duro. A integral absorve mais, então vá devagar no fim.
 - *Como guardar:* Guarde em pote fechado por até 1 semana.
 
 ---
@@ -17223,13 +17308,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0405"></a>
 ## Rosca doce de laranja
 
-*Rosca trançada de massa fofinha com suco e raspas de laranja, para o café da manhã.*
+*Rosca trançada de massa integral fofinha com suco e raspas de laranja, para o café da manhã.*
 
 `rbl-0405` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 175 min (preparo 40 min, cozimento 35 min, descanso 100 min)
+- **Tempo total:** 215 min (preparo 40 min, cozimento 35 min, descanso 140 min)
 - **Rende:** 16 fatias · **16 porções** de 1 fatia
-- **Por porção (valores aproximados):** 136 kcal · 21,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0405.json)
+- **Por porção (valores aproximados):** 129 kcal · 20,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0405.json)
 - **Forno:** 180 °C, 35 min, preaquecido
 
 **Ingredientes**
@@ -17237,9 +17322,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 3 e 1/2 xícaras (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 sachê (10 g) de fermento biológico seco
-- 1/2 xícara (chá) de leite morno
+- 2/3 de xícara (chá) de leite morno
 - 1/2 xícara (chá) de suco de laranja em temperatura ambiente
 - 1 colher (sopa) de raspas de casca de laranja
 - 1/3 de xícara (chá) de eritritol (ou 1/3 de xícara (chá) de xilitol)
@@ -17253,20 +17338,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela grande, misture a farinha, o fermento, o eritritol e as raspas de laranja.
-2. Junte o leite morno, o suco, o ovo e a manteiga e misture até a massa juntar. **Atenção:** O leite deve estar morno, não quente, para não matar o fermento.
-3. Acrescente o sal e sove numa bancada enfarinhada por 10 minutos, até a massa ficar lisa e elástica.
-4. Cubra e deixe crescer por cerca de 1 hora, até dobrar de volume.
-5. Divida em 3 partes, faça rolos de 40 cm e trance. Una as pontas formando uma rosca e coloque numa assadeira untada.
-6. Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
+1. Numa tigela grande, misture a farinha integral, o fermento, o eritritol e as raspas de laranja.
+2. Junte o leite morno, o suco, o ovo e a manteiga e misture até a massa juntar. Ela fica um pouco mais úmida que massa branca: é assim mesmo. **Atenção:** O leite deve estar morno, não quente, para não matar o fermento.
+3. Acrescente o sal e sove numa bancada polvilhada com farinha integral por 10 minutos, até a massa ficar lisa e elástica.
+4. Cubra e deixe crescer por 1 hora e 20 minutos a 1 hora e 30 minutos, até dobrar de volume.
+5. Divida em 3 partes, faça rolos de 40 cm com cuidado, sem esticar demais, e trance. Una as pontas formando uma rosca e coloque numa assadeira untada.
+6. Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
 7. Pincele o ovo batido e asse por 30 a 35 minutos, até dourar bem.
 8. Espere esfriar sobre uma grade antes de fatiar.
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha de trigo por farinha de trigo integral e junte 2 colheres (sopa) de leite.
+- *Substituição:* Troque 1/2 xícara da farinha integral por aveia em flocos: a rosca fica mais macia.
 - *Substituição:* Troque o suco de laranja por leite para uma rosca simples.
-- *Dica:* O eritritol não alimenta o fermento: é normal a massa levar 1 hora para crescer.
+- *Dica:* A farinha integral e o eritritol deixam a massa mais lenta: é normal levar até 1 hora e 30 minutos para crescer. A rosca fica um pouco mais densa que a de padaria.
 - *Como guardar:* Guarde em saco fechado por 3 dias, ou congele em fatias.
 
 ---
@@ -17274,13 +17359,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0406"></a>
 ## Rosca de canela
 
-*Caracóis de massa fofa recheados com manteiga e canela, assados juntinhos numa forma redonda.*
+*Caracóis de massa integral fofa recheados com manteiga e canela, assados juntinhos numa forma redonda.*
 
 `rbl-0406` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 175 min (preparo 45 min, cozimento 28 min, descanso 100 min)
+- **Tempo total:** 205 min (preparo 45 min, cozimento 28 min, descanso 130 min)
 - **Rende:** 12 caracóis · **12 porções** de 1 caracol
-- **Por porção (valores aproximados):** 184 kcal · 25,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0406.json)
+- **Por porção (valores aproximados):** 175 kcal · 23,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0406.json)
 - **Forno:** 180 °C, 28 min, preaquecido
 
 **Ingredientes**
@@ -17288,9 +17373,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 3 xícaras (chá) de farinha de trigo
+- 3 xícaras (chá) de farinha de trigo integral
 - 1 sachê (10 g) de fermento biológico seco
-- 3/4 de xícara (chá) de leite morno
+- 3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno
 - 1/4 de xícara (chá) de eritritol (ou 1/4 de xícara (chá) de xilitol)
 - 1 ovo
 - 3 colheres (sopa) de manteiga em temperatura ambiente
@@ -17304,14 +17389,14 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela grande, misture a farinha, o fermento e o eritritol.
-2. Junte o leite morno, o ovo e a manteiga e misture até a massa juntar. **Atenção:** O leite deve estar morno, não quente, para não matar o fermento.
+1. Numa tigela grande, misture a farinha integral, o fermento e o eritritol.
+2. Junte o leite morno, o ovo e a manteiga e misture até a massa juntar. Ela fica um pouco úmida: é assim mesmo. **Atenção:** O leite deve estar morno, não quente, para não matar o fermento.
 3. Acrescente o sal e sove por 10 minutos, até a massa ficar lisa e elástica.
-4. Cubra e deixe crescer por cerca de 1 hora, até dobrar.
+4. Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar.
 5. Recheio: misture a manteiga mole, o eritritol e a canela até virar uma pasta.
-6. Abra a massa num retângulo de 30 x 40 cm, espalhe o recheio e enrole pelo lado mais comprido.
+6. Abra a massa sobre a bancada polvilhada com farinha integral num retângulo de 30 x 40 cm, espalhe o recheio e enrole pelo lado mais comprido.
 7. Corte em 12 fatias e arrume, com o corte para cima, numa forma redonda de 26 cm untada.
-8. Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
+8. Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
 9. Asse por 25 a 28 minutos, até dourar.
 
 **Dicas**
@@ -17319,6 +17404,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Substituição:* Junte 1/2 xícara de nozes picadas ou uva-passa ao recheio.
 - *Dica:* Corte os caracóis com uma linha de costura: eles não amassam.
+- *Dica:* A massa integral cresce mais devagar e fica um pouco mais densa. Em dia frio, deixe crescer dentro do forno desligado com a luz acesa.
 - *Como guardar:* Guarde coberto por 2 dias. Aqueça 15 segundos no micro-ondas antes de comer.
 
 ---
@@ -17326,13 +17412,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0407"></a>
 ## Pão doce de coco
 
-*Pãezinhos doces de massa fofa com leite de coco, cobertos com coco ralado.*
+*Pãezinhos doces de massa integral com leite de coco, cobertos com coco ralado.*
 
 `rbl-0407` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 170 min (preparo 40 min, cozimento 25 min, descanso 100 min)
+- **Tempo total:** 200 min (preparo 40 min, cozimento 25 min, descanso 130 min)
 - **Rende:** 12 pãezinhos · **12 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 206 kcal · 28,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0407.json)
+- **Por porção (valores aproximados):** 194 kcal · 26,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0407.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -17340,10 +17426,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 3 e 1/2 xícaras (chá) de farinha de trigo
+- 3 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 sachê (10 g) de fermento biológico seco
 - 1 vidro de leite de coco (200 ml), morno
-- 1/4 de xícara (chá) de água morna
+- 100 ml de água morna (1/3 de xícara mais 1 colher de sopa)
 - 1/3 de xícara (chá) de eritritol (ou 1/3 de xícara (chá) de xilitol)
 - 1 ovo
 - 2 colheres (sopa) de manteiga em temperatura ambiente
@@ -17356,12 +17442,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Numa tigela grande, misture a farinha, o fermento e o eritritol.
-2. Junte o leite de coco, a água, o ovo e a manteiga e misture até juntar. **Atenção:** Os líquidos devem estar mornos, não quentes, para não matar o fermento.
+1. Numa tigela grande, misture a farinha integral, o fermento e o eritritol.
+2. Junte o leite de coco, a água, o ovo e a manteiga e misture até juntar. A massa fica um pouco úmida: é assim mesmo. **Atenção:** Os líquidos devem estar mornos, não quentes, para não matar o fermento.
 3. Acrescente o sal e sove por 10 minutos, até a massa ficar lisa.
-4. Cubra e deixe crescer por cerca de 1 hora, até dobrar.
+4. Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar.
 5. Divida em 12 bolinhas e arrume numa assadeira untada, com espaço entre elas.
-6. Cubra e deixe crescer mais 40 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
+6. Cubra e deixe crescer mais 50 minutos. Nos últimos 15 minutos, preaqueça o forno a 180 °C.
 7. Pincele o ovo batido, polvilhe o coco e asse por 20 a 25 minutos, até dourar.
 
 **Dicas**
@@ -17369,6 +17455,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - *Substituição:* Sem leite de coco? Use leite comum e junte 2 colheres (sopa) de coco ralado à massa.
 - *Substituição:* Troque o eritritol por xilitol na mesma medida.
 - *Dica:* Confira no rótulo se o coco ralado é sem açúcar.
+- *Dica:* A massa integral cresce mais devagar e o pão fica um pouco mais denso. Espere dobrar de volume, mesmo que passe do tempo.
 - *Como guardar:* Guarde em saco fechado por 3 dias, ou congele.
 
 ---
@@ -17382,24 +17469,24 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 35 min (preparo 10 min, cozimento 20 min)
 - **Rende:** 10 pãezinhos · **10 porções** de 1 pãozinho
-- **Por porção (valores aproximados):** 138 kcal · 20,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0408.json)
+- **Por porção (valores aproximados):** 132 kcal · 18,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0408.json)
 - **Forno:** 200 °C, 20 min, preaquecido
 
 **Ingredientes**
 
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 3 colheres (sopa) de eritritol (ou 3 colheres (sopa) de xilitol)
 - 1 colher (sopa) de fermento químico em pó
 - 1 pitada de sal
 - 1 ovo
-- 1/2 xícara (chá) de leite
+- 2/3 de xícara (chá) de leite
 - 1 colher (chá) de essência de baunilha
 - 3 colheres (sopa) de manteiga derretida
 
 **Modo de preparo**
 
 1. Preaqueça o forno a 200 °C e unte uma assadeira.
-2. Numa tigela, misture a farinha, o eritritol, o fermento e o sal.
+2. Numa tigela, misture a farinha integral, o eritritol, o fermento e o sal.
 3. Junte o ovo, o leite, a baunilha e a manteiga e mexa com uma colher até formar uma massa grudenta, sem sovar.
 4. Com uma colher, faça 10 montinhos na assadeira, com espaço entre eles.
 5. Asse por 18 a 20 minutos, até dourar por cima.
@@ -17422,17 +17509,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 50 min (preparo 15 min, cozimento 25 min)
 - **Rende:** 15 broas · **15 porções** de 1 broa
-- **Por porção (valores aproximados):** 178 kcal · 20,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0409.json)
+- **Por porção (valores aproximados):** 176 kcal · 20,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0409.json)
 - **Forno:** 180 °C, 25 min, preaquecido
 
 **Ingredientes**
 
 - 3 ovos
-- 1 xícara (chá) de leite
+- 1 xícara (chá) mais 2 colheres (sopa) de leite
 - 1/2 xícara (chá) de óleo
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
 - 2 xícaras (chá) de fubá
-- 1 xícara (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
 - 1 colher (sopa) de erva-doce
 - 1 colher (sopa) de fermento químico em pó
 
@@ -17440,7 +17527,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e unte 15 forminhas de muffin, ou use forminhas de papel.
 2. Com um batedor, misture os ovos, o leite, o óleo e o eritritol.
-3. Junte o fubá, a farinha e a erva-doce e mexa até ficar liso. Misture o fermento por último.
+3. Junte o fubá, a farinha integral e a erva-doce e mexa até ficar liso. Misture o fermento por último.
 4. Distribua nas forminhas até 3/4 da altura. Se quiser, polvilhe um pouco de fubá por cima.
 5. Asse por 20 a 25 minutos, até dourar e um palito sair limpo.
 
@@ -17461,7 +17548,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 40 min (preparo 15 min, cozimento 20 min)
 - **Rende:** 20 bolinhos · **5 porções** de 4 bolinhos
-- **Por porção (valores aproximados):** 270 kcal · 31 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0410.json)
+- **Por porção (valores aproximados):** 262 kcal · 28,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0410.json)
 - **Forno:** 180 °C, 20 min, preaquecido
 
 **Ingredientes**
@@ -17470,10 +17557,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Massa*
 
 - 2 ovos
-- 1/2 xícara (chá) de iogurte natural
+- 2/3 de xícara (chá) de iogurte natural
 - 2 colheres (sopa) de óleo
 - 1/3 de xícara (chá) de eritritol (ou 1/3 de xícara (chá) de xilitol)
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento químico em pó
 
 *Para passar*
@@ -17486,7 +17573,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Preaqueça o forno a 180 °C e unte 20 forminhas de mini muffin, ou use uma assadeira forrada.
 2. Com um batedor, misture os ovos, o iogurte, o óleo e o eritritol.
-3. Junte a farinha e o fermento e mexa até formar uma massa grossa.
+3. Junte a farinha integral e o fermento e mexa até formar uma massa grossa.
 4. Coloque 1 colher (sopa) de massa em cada forminha, ou faça montinhos na assadeira.
 5. Asse por 15 a 20 minutos, até dourar.
 6. Misture o eritritol com a canela num prato. Pincele os bolinhos ainda quentes com a manteiga e role na mistura.
@@ -17542,13 +17629,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0412"></a>
 ## Bolo de goiaba
 
-*Bolo de massa clara com pedaços de goiaba vermelha fresca, cor de rosa por dentro.*
+*Bolo de aveia e farinha integral com pedaços de goiaba vermelha fresca, cor de rosa por dentro.*
 
 `rbl-0412` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 85 min (preparo 25 min, cozimento 45 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 197 kcal · 20,3 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0412.json)
+- **Por porção (valores aproximados):** 199 kcal · 18,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0412.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -17556,19 +17643,21 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 2 goiabas vermelhas grandes (300 g)
 - 3 ovos
 - 1/2 xícara (chá) de óleo
-- 3/4 de xícara (chá) de leite
+- 1 xícara (chá) de leite
 - 3/4 de xícara (chá) de eritritol (ou 3/4 de xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 1 xícara (chá) de farinha de trigo integral
+- 1 e 1/2 xícara (chá) de aveia em flocos
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
-1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
+1. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
 2. Lave as goiabas, corte ao meio e tire as sementes com uma colher. Pique a polpa em cubinhos.
-3. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
-4. Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture o fermento.
-5. Passe a goiaba picada em 1 colher (sopa) de farinha e misture à massa com delicadeza.
-6. Despeje na forma e asse por 40 a 45 minutos, até um palito sair limpo.
+3. Bata a aveia no liquidificador até virar farinha.
+4. No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.
+5. Passe para uma tigela, junte a aveia batida e a farinha integral e mexa até ficar liso. Misture o fermento.
+6. Passe a goiaba picada em 1 colher (sopa) de farinha integral e misture à massa com delicadeza.
+7. Despeje na forma e asse por 40 a 45 minutos, até um palito sair limpo.
 
 **Dicas**
 
@@ -17582,13 +17671,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0413"></a>
 ## Bolo de ameixa-preta
 
-*Bolo úmido com ameixas-pretas picadas, adoçado em parte pela própria fruta.*
+*Bolo úmido de farinha integral com ameixas-pretas picadas, adoçado em parte pela própria fruta.*
 
 `rbl-0413` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 75 min (preparo 25 min, cozimento 40 min)
 - **Rende:** 12 fatias · **12 porções** de 1 fatia (1/12 do bolo)
-- **Por porção (valores aproximados):** 215 kcal · 26,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0413.json)
+- **Por porção (valores aproximados):** 211 kcal · 25,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0413.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -17597,17 +17686,17 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 - 1/2 xícara (chá) de água quente
 - 3 ovos
 - 1/2 xícara (chá) de óleo
-- 1/2 xícara (chá) de leite
+- 3/4 de xícara (chá) de leite
 - 1/2 xícara (chá) de eritritol (ou 1/2 xícara (chá) de xilitol)
-- 2 xícaras (chá) de farinha de trigo
+- 2 xícaras (chá) de farinha de trigo integral
 - 1 colher (sopa) de fermento químico em pó
 
 **Modo de preparo**
 
 1. Deixe as ameixas na água quente por 10 minutos, até amolecer. **Atenção:** Cuidado com a água quente.
-2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha.
+2. Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral.
 3. Separe metade das ameixas e pique. Bata a outra metade com a água, os ovos, o óleo, o leite e o eritritol por 2 minutos.
-4. Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture as ameixas picadas e o fermento.
+4. Passe para uma tigela, junte a farinha integral e mexa até ficar liso. Misture as ameixas picadas e o fermento.
 5. Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.
 
 **Dicas**
@@ -19557,13 +19646,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0463"></a>
 ## Torta de maçã
 
-*Torta de massa amanteigada com recheio de maçã e canela, coberta com tirinhas de massa.*
+*Torta de massa amanteigada integral com recheio de maçã e canela, coberta com tirinhas de massa.*
 
 `rbl-0463` · Doces e bolos · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 145 min (preparo 40 min, cozimento 45 min, descanso 60 min)
 - **Rende:** 10 fatias · **10 porções** de 1 fatia
-- **Por porção (valores aproximados):** 201 kcal · 27,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0463.json)
+- **Por porção (valores aproximados):** 195 kcal · 25,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0463.json)
 - **Forno:** 180 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -19571,12 +19660,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 1/2 xícara (chá) de aveia em flocos finos
 - 7 colheres (sopa) de manteiga gelada (100 g)
 - 1 ovo
 - 2 colheres (sopa) de eritritol
 - 1 pitada de sal
+- 1 a 2 colheres (sopa) de água gelada
 
 *Recheio*
 
@@ -19588,18 +19678,18 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Misture a farinha, a aveia, o eritritol e o sal. Junte a manteiga gelada em pedaços e esfarele com a ponta dos dedos.
-2. Junte o ovo e amasse só até a massa ficar lisa. Embrulhe em filme e leve à geladeira por 30 minutos.
+1. Misture a farinha integral, a aveia, o eritritol e o sal. Junte a manteiga gelada em pedaços e esfarele com a ponta dos dedos.
+2. Junte o ovo e amasse só até a massa ficar lisa. Se esfarelar, junte a água gelada aos poucos. Embrulhe em filme e leve à geladeira por 30 minutos.
 3. Misture as fatias de maçã com o limão, a canela, o eritritol e o amido.
 4. Preaqueça o forno a 180 °C.
-5. Abra 2/3 da massa e forre o fundo e a lateral de uma forma de 22 cm com fundo removível. Coloque o recheio.
-6. Abra o restante da massa, corte em tiras e cruze por cima do recheio.
+5. Abra 2/3 da massa entre dois plásticos e forre o fundo e a lateral de uma forma de 22 cm com fundo removível. Coloque o recheio.
+6. Abra o restante da massa entre os plásticos, corte em tiras e cruze por cima do recheio. Se as tiras quebrarem, emende com os dedos.
 7. Asse por 40 a 45 minutos, até a massa dourar e o recheio borbulhar.
 8. Deixe amornar por 30 minutos antes de desenformar e cortar.
 
 **Dicas**
 
-- *Substituição:* Troque metade da farinha de trigo por farinha de trigo integral.
+- *Substituição:* Troque a aveia por mais 1/2 xícara (chá) de farinha de trigo integral.
 - *Substituição:* Troque a maçã por pera, com o mesmo tempo de forno.
 - *Dica:* Manteiga bem gelada deixa a massa mais crocante.
 - *Como guardar:* Guarde fora da geladeira por 1 dia ou na geladeira por até 4 dias.
@@ -19725,7 +19815,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 85 min (preparo 25 min, cozimento 40 min, descanso 20 min)
 - **Rende:** 10 fatias · **10 porções** de 1 fatia
-- **Por porção (valores aproximados):** 200 kcal · 30,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0466.json)
+- **Por porção (valores aproximados):** 198 kcal · 30 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0466.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
@@ -19734,7 +19824,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Farofa*
 
 - 1 e 1/2 xícara (chá) de aveia em flocos
-- 1/2 xícara (chá) de farinha de trigo
+- 1/2 xícara (chá) de farinha de trigo integral
 - 6 colheres (sopa) de manteiga gelada
 - 3 colheres (sopa) de eritritol (ou 3 colheres (sopa) de xilitol)
 - 1 colher (chá) de canela em pó
@@ -19748,7 +19838,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Modo de preparo**
 
 1. Preaqueça o forno a 180 °C. Unte uma forma de 22 cm com manteiga.
-2. Misture a aveia, a farinha, o eritritol e a canela. Junte a manteiga em pedaços e esfarele com os dedos até virar uma farofa grossa.
+2. Misture a aveia, a farinha integral, o eritritol e a canela. Junte a manteiga em pedaços e esfarele com os dedos até virar uma farofa grossa.
 3. Misture as rodelas de banana com o suco de limão e a canela.
 4. Espalhe metade da farofa no fundo da forma, apertando. Cubra com as bananas e espalhe o restante da farofa por cima, sem apertar.
 5. Asse por 35 a 40 minutos, até a farofa dourar.
@@ -19756,7 +19846,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Troque a farinha de trigo por mais 1/2 xícara de aveia.
+- *Substituição:* Troque a farinha integral por mais 1/2 xícara (chá) de aveia.
 - *Substituição:* Troque metade das bananas por maçã em fatias finas.
 - *Dica:* Sirva morna com uma colherada de iogurte natural.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça antes de servir.
@@ -20264,7 +20354,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 1540 min (preparo 30 min, cozimento 70 min, descanso 1440 min)
 - **Rende:** 8 porções · **8 porções** de 1 prato raso
-- **Por porção (valores aproximados):** 435 kcal · 26,2 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0478.json)
+- **Por porção (valores aproximados):** 434 kcal · 26,1 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0478.json)
 - **Forno:** 200 °C, 45 min, preaquecido
 
 **Ingredientes**
@@ -20278,7 +20368,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Molho*
 
 - 2 colheres (sopa) de manteiga
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farinha de trigo integral
 - 3 xícaras (chá) de leite
 - 1 caixinha (200 g) de creme de leite
 - 1 pitada de noz-moscada
@@ -20295,7 +20385,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 2. Escorra, ferva em água por 5 minutos e escorra de novo. Tire a pele e as espinhas e separe em lascas. **Atenção:** Cuidado com a água fervente ao escorrer.
 3. Preaqueça o forno a 200 °C. Espalhe as batatas numa assadeira com 2 colheres de azeite e asse por 25 minutos, mexendo na metade, até dourarem.
 4. Numa frigideira grande, aqueça o restante do azeite e refogue a cebola por 6 a 8 minutos, até ficar macia e dourada. Junte o alho e o bacalhau e mexa por 2 minutos.
-5. Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo com um batedor, e cozinhe por 6 minutos, até engrossar.
+5. Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 2 minutos. Acrescente o leite frio aos poucos, mexendo com um batedor, e cozinhe por 6 a 7 minutos, até engrossar.
 6. Desligue, misture o creme de leite, a noz-moscada e a pimenta. Prove: o bacalhau já tem sal, então só ponha sal se precisar.
 7. Numa travessa, misture o bacalhau, as batatas e metade do molho. Cubra com o restante do molho e polvilhe o parmesão.
 8. Asse por 20 minutos, até dourar e borbulhar nas bordas. Salpique a salsinha e sirva. **Atenção:** Cuidado: a assadeira e o caldo estão muito quentes.
@@ -20304,6 +20394,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o bacalhau tipo Porto por saithe ou polaca do Alasca salgados, que custam menos. Dessalgue por 12 a 18 horas.
 - *Substituição:* Troque o creme de leite por mais 1 xícara de leite, para um molho mais leve.
+- *Substituição:* Para um molho mais claro e liso, troque a farinha integral por 1 colher (sopa) de amido de milho dissolvida no leite frio, sem refogar na manteiga.
 - *Dica:* Para saber se dessalgou, prove uma lasquinha cozida: deve ter gosto leve de sal.
 - *Como guardar:* Guarde na geladeira por até 2 dias e aqueça no forno.
 
@@ -20772,7 +20863,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - **Tempo total:** 55 min (preparo 15 min, cozimento 40 min)
 - **Rende:** 8 porções · **8 porções** de 1/8 da travessa
-- **Por porção (valores aproximados):** 179 kcal · 11 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0490.json)
+- **Por porção (valores aproximados):** 178 kcal · 10,8 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0490.json)
 - **Forno:** 200 °C, 25 min, preaquecido
 
 **Ingredientes**
@@ -20782,7 +20873,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 *Molho branco*
 
 - 2 colheres (sopa) de manteiga
-- 3 colheres (sopa) de farinha de trigo
+- 3 colheres (sopa) de farinha de trigo integral
 - 2 e 1/2 xícaras (chá) de leite
 - 1 colher (chá) de sal
 - 1 pitada de noz-moscada
@@ -20796,7 +20887,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 1. Cozinhe a couve-flor em água fervente com uma pitada de sal por 6 a 8 minutos, até ficar macia mas firme. Escorra bem. **Atenção:** Cuidado com a água fervente ao escorrer.
 2. Preaqueça o forno a 200 °C.
-3. Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto.
+3. Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 2 minutos.
 4. Acrescente o leite frio aos poucos, mexendo sem parar com um batedor, e cozinhe por 5 a 6 minutos, até engrossar. Tempere com o sal e a noz-moscada.
 5. Espalhe a couve-flor numa travessa, cubra com o molho e polvilhe a mussarela e o parmesão.
 6. Asse por 20 a 25 minutos, até o queijo dourar e borbulhar.
@@ -20804,8 +20895,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque metade da couve-flor por brócolis.
-- *Substituição:* Sem farinha de trigo? Engrosse o molho com 2 colheres (sopa) de amido de milho dissolvidas no leite frio.
+- *Substituição:* Sem farinha integral? Engrosse o molho com 1 colher (sopa) de amido de milho dissolvida no leite frio.
 - *Dica:* Escorra muito bem a couve-flor: se ficar com água, o molho fica ralo.
+- *Dica:* Com farinha integral o molho fica bege e com pontinhos escuros: o sabor é o mesmo.
 - *Como guardar:* Guarde na geladeira por até 3 dias e aqueça no forno.
 
 ---
@@ -20813,13 +20905,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0491"></a>
 ## Rabanada assada com pão de aveia
 
-*Fatias de pão de aveia caseiro molhadas em leite e ovos, assadas até dourar e passadas em canela com eritritol.*
+*Fatias de pão integral de aveia caseiro molhadas em leite e ovos, assadas até dourar e passadas em canela com eritritol.*
 
 `rbl-0491` · Ceia · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 255 min (preparo 40 min, cozimento 55 min, descanso 160 min)
+- **Tempo total:** 285 min (preparo 40 min, cozimento 55 min, descanso 190 min)
 - **Rende:** 16 rabanadas · **8 porções** de 2 rabanadas
-- **Por porção (valores aproximados):** 299 kcal · 39,9 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0491.json)
+- **Por porção (valores aproximados):** 286 kcal · 37,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0491.json)
 - **Forno:** 200 °C, 55 min, preaquecido
 
 **Ingredientes**
@@ -20827,10 +20919,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Pão de aveia*
 
-- 2 e 1/2 xícaras (chá) de farinha de trigo
+- 2 e 1/2 xícaras (chá) de farinha de trigo integral
 - 1 xícara (chá) de aveia em flocos
 - 1 sachê (10 g) de fermento biológico seco
-- 1 e 1/4 xícara (300 ml) de água morna
+- 1 e 1/3 xícara (340 ml) de água morna
 - 2 colheres (sopa) de azeite
 - 1 e 1/2 colher (chá) de sal
 
@@ -20849,10 +20941,10 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Pão: misture a farinha, a aveia e o fermento. Junte a água morna e o azeite e misture até a massa juntar.
-2. Acrescente o sal e sove numa bancada enfarinhada por 8 a 10 minutos, até a massa ficar lisa e elástica.
-3. Cubra e deixe crescer por 1 hora, até dobrar de tamanho.
-4. Modele como um rocambole, coloque numa forma de bolo inglês untada e deixe crescer mais 40 minutos, coberta.
+1. Pão: misture a farinha integral, a aveia e o fermento. Junte a água morna e o azeite e misture até a massa juntar. Ela fica úmida: é assim mesmo.
+2. Acrescente o sal e sove numa bancada polvilhada com farinha integral por 8 a 10 minutos, até a massa ficar lisa e elástica.
+3. Cubra e deixe crescer por 1 hora e 20 minutos, até dobrar de tamanho.
+4. Modele como um rocambole, coloque numa forma de bolo inglês untada e deixe crescer mais 50 minutos, coberta.
 5. Preaqueça o forno a 200 °C e asse o pão por 30 a 35 minutos, até dourar e soar oco embaixo.
 6. Desenforme e deixe esfriar por completo, pelo menos 1 hora. Corte em 16 fatias de 1,5 cm.
 7. Bata o eritritol de polvilhar no liquidificador seco por 30 segundos, até virar pó, e misture com a canela.
@@ -20863,7 +20955,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Dicas**
 
-- *Substituição:* Use o pão de aveia de forma do app ou pão francês amanhecido. Se comprar pão pronto, confira no rótulo que é sem açúcar.
+- *Substituição:* Use o pão de aveia de forma do app ou um pão 100% integral amanhecido. Se comprar pão pronto, confira no rótulo que é integral e sem açúcar.
 - *Substituição:* Troque o eritritol por xilitol na mesma quantidade.
 - *Dica:* Pão do dia anterior absorve o leite sem desmanchar. Asse o pão na véspera.
 - *Como guardar:* Guarde as rabanadas na geladeira por até 2 dias e aqueça no forno por 5 minutos.
@@ -20873,20 +20965,20 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0492"></a>
 ## Panetone caseiro de frutas secas
 
-*Panetone fofinho de massa amanteigada, com uva-passa, damasco e raspas de laranja, adoçado com eritritol.*
+*Panetone caseiro de massa integral amanteigada, com uva-passa, damasco e raspas de laranja, adoçado com eritritol.*
 
 `rbl-0492` · Ceia · Etiquetas: 0 açúcar adicionado
 
-- **Tempo total:** 310 min (preparo 40 min, cozimento 45 min, descanso 225 min)
+- **Tempo total:** 370 min (preparo 40 min, cozimento 45 min, descanso 285 min)
 - **Rende:** 2 panetones de 500 g · **16 porções** de 1 fatia (1/8 de um panetone)
-- **Por porção (valores aproximados):** 212 kcal · 31,4 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0492.json)
+- **Por porção (valores aproximados):** 202 kcal · 29,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0492.json)
 - **Forno:** 180 °C, 40 min, preaquecido
 
 **Ingredientes**
 
-- 3/4 de xícara (chá) de leite morno
+- 3/4 de xícara (chá) mais 2 colheres (sopa) de leite morno
 - 1 sachê (10 g) de fermento biológico seco
-- 4 xícaras (chá) de farinha de trigo (500 g)
+- 4 xícaras (chá) de farinha de trigo integral (480 g)
 - 1/2 xícara (chá) de eritritol
 - 3 ovos
 - 7 colheres (sopa) de manteiga em temperatura ambiente (100 g)
@@ -20902,13 +20994,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Esponja: misture o leite morno, o fermento e 1/2 xícara da farinha. Cubra e deixe 15 minutos, até espumar.
+1. Esponja: misture o leite morno, o fermento e 1/2 xícara da farinha integral. Cubra e deixe 15 minutos, até espumar.
 2. Numa tigela grande, junte a esponja, os ovos, o eritritol, a baunilha e as raspas de laranja e misture bem.
 3. Acrescente o restante da farinha e o sal aos poucos, mexendo até a massa juntar.
-4. Junte a manteiga em pedaços e sove por 10 a 12 minutos, até a massa ficar lisa, elástica e soltar das mãos. Ela é macia e um pouco pegajosa mesmo.
-5. Cubra e deixe crescer por 1 hora e 30 minutos, até dobrar.
-6. Passe a uva-passa e o damasco em 1 colher de farinha e misture na massa, apertando com as mãos até distribuir.
-7. Divida em 2 bolas, coloque em formas de panetone de 500 g e deixe crescer coberto por 1 hora e 30 minutos, até chegar perto da borda.
+4. Junte a manteiga em pedaços e sove por 10 a 12 minutos, até a massa ficar lisa e elástica. Ela é macia, úmida e um pouco pegajosa mesmo: não junte mais farinha.
+5. Cubra e deixe crescer por 1 hora e 30 minutos a 2 horas, até dobrar.
+6. Passe a uva-passa e o damasco em 1 colher de farinha integral e misture na massa, apertando com as mãos até distribuir.
+7. Divida em 2 bolas, coloque em formas de panetone de 500 g e deixe crescer coberto por 1 hora e 30 minutos a 2 horas, até chegar perto da borda.
 8. Preaqueça o forno a 180 °C. Faça um corte em cruz no topo e pincele o ovo batido.
 9. Asse por 35 a 40 minutos, até dourar e um palito sair limpo. Se dourar rápido demais, cubra com papel-alumínio.
 10. Deixe esfriar por completo antes de cortar.
@@ -20917,7 +21009,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 - *Substituição:* Troque o damasco por ameixa seca picada ou por mais uva-passa. Confira no rótulo se as frutas secas são sem açúcar.
 - *Substituição:* Para chocotone, troque as frutas secas por 1/2 xícara de nozes picadas e junte 3 colheres (sopa) de cacau em pó 100% à farinha.
-- *Dica:* A massa sem açúcar cresce um pouco mais devagar: em dia frio, deixe crescer dentro do forno desligado com a luz acesa.
+- *Dica:* A massa integral sem açúcar cresce devagar e o panetone fica mais denso que o de padaria. Em dia frio, deixe crescer dentro do forno desligado com a luz acesa.
 - *Como guardar:* Guarde embrulhado em plástico por até 4 dias ou congele fatiado por até 2 meses.
 
 ---
@@ -21036,13 +21128,13 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 <a id="rbl-0495"></a>
 ## Torta de nozes
 
-*Massa amanteigada recheada com creme de nozes, ovos e canela, assada até firmar e dourar.*
+*Massa amanteigada integral recheada com creme de nozes, ovos e canela, assada até firmar e dourar.*
 
 `rbl-0495` · Ceia · Etiquetas: 0 açúcar adicionado
 
 - **Tempo total:** 140 min (preparo 30 min, cozimento 50 min, descanso 60 min)
 - **Rende:** 10 fatias · **10 porções** de 1 fatia
-- **Por porção (valores aproximados):** 343 kcal · 18,7 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0495.json)
+- **Por porção (valores aproximados):** 337 kcal · 17,6 g de carboidratos · [cálculo](../conteudo/nutricao/rbl-0495.json)
 - **Forno:** 180 °C, 50 min, preaquecido
 
 **Ingredientes**
@@ -21050,11 +21142,12 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 *Massa*
 
-- 1 e 1/2 xícara (chá) de farinha de trigo
+- 1 e 1/2 xícara (chá) de farinha de trigo integral
 - 7 colheres (sopa) de manteiga gelada em cubos (100 g)
 - 1 ovo
 - 2 colheres (sopa) de eritritol
 - 1 pitada de sal
+- 1 a 2 colheres (sopa) de água gelada
 
 *Recheio*
 
@@ -21068,9 +21161,9 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 
 **Modo de preparo**
 
-1. Massa: misture a farinha, o eritritol e o sal. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa.
-2. Acrescente o ovo e junte a massa sem sovar. Embrulhe e leve à geladeira por 30 minutos.
-3. Preaqueça o forno a 180 °C. Abra a massa no fundo e na lateral de uma forma de fundo removível de 24 cm e fure com um garfo.
+1. Massa: misture a farinha integral, o eritritol e o sal. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa.
+2. Acrescente o ovo e junte a massa sem sovar. Se esfarelar, junte a água gelada aos poucos. Embrulhe e leve à geladeira por 30 minutos.
+3. Preaqueça o forno a 180 °C. Abra a massa com as mãos, apertando no fundo e na lateral de uma forma de fundo removível de 24 cm, e fure com um garfo.
 4. Asse a massa sozinha por 15 minutos, até ficar firme e começar a dourar.
 5. Recheio: bata com um garfo os ovos, o eritritol, o creme de leite, a manteiga, a baunilha e a canela. Misture as nozes.
 6. Despeje o recheio na massa pré-assada e asse mais 30 a 35 minutos, até firmar no centro e dourar.
@@ -21079,7 +21172,7 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque as nozes por noz-pecã ou castanha-do-pará picada.
-- *Substituição:* Troque metade da farinha de trigo por farinha de aveia, para uma massa mais rústica.
+- *Substituição:* Troque metade da farinha integral por aveia em flocos batida no liquidificador, para uma massa mais rústica.
 - *Dica:* Se a borda da massa dourar antes do recheio firmar, cubra só a borda com tiras de papel-alumínio.
 - *Como guardar:* Guarde na geladeira por até 4 dias. Fica ótima fria.
 
@@ -21298,6 +21391,6 @@ Arquivo gerado por `npm run revisao`. Não edite à mão: edite os arquivos em `
 **Dicas**
 
 - *Substituição:* Troque o presunto e a mussarela por espinafre refogado e queijo minas meia cura.
-- *Substituição:* Sem aveia? Use 1/2 xícara de farinha de rosca ou 3 colheres (sopa) de farinha de trigo.
+- *Substituição:* Sem aveia? Use 1/2 xícara (chá) de farelo de aveia ou 4 colheres (sopa) de farinha de trigo integral.
 - *Dica:* Molhe as mãos para abrir a carne: ela não gruda e fica com espessura uniforme.
 - *Como guardar:* Guarde na geladeira por até 3 dias ou congele fatiado por até 2 meses.

@@ -63,10 +63,10 @@
     },
     {
       "grupo": "Molho",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "colher_sopa",
-      "texto": "3 colheres (sopa) de farinha de trigo"
+      "texto": "3 colheres (sopa) de farinha de trigo integral"
     },
     {
       "grupo": "Molho",
@@ -130,8 +130,8 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Molho: derreta a manteiga numa panela, junte a farinha e mexa por 1 minuto. Acrescente o leite frio aos poucos, mexendo com um batedor, e cozinhe por 6 minutos, até engrossar.",
-      "temporizador_min": 7
+      "texto": "Molho: derreta a manteiga numa panela, junte a farinha integral e mexa por 2 minutos. Acrescente o leite frio aos poucos, mexendo com um batedor, e cozinhe por 6 a 7 minutos, até engrossar.",
+      "temporizador_min": 8
     },
     {
       "texto": "Desligue, misture o creme de leite, a noz-moscada e a pimenta. Prove: o bacalhau já tem sal, então só ponha sal se precisar."
@@ -160,6 +160,10 @@
       "texto": "Troque o creme de leite por mais 1 xícara de leite, para um molho mais leve."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Para um molho mais claro e liso, troque a farinha integral por 1 colher (sopa) de amido de milho dissolvida no leite frio, sem refogar na manteiga."
+    },
+    {
       "tipo": "dica",
       "texto": "Para saber se dessalgou, prove uma lasquinha cozida: deve ter gosto leve de sal."
     },
@@ -170,8 +174,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 435,
-      "carboidratos_g": 26.2
+      "kcal": 434,
+      "carboidratos_g": 26.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -204,6 +208,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral no molho branco."
   }
 }

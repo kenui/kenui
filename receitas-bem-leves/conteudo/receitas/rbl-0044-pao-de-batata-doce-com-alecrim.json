@@ -2,7 +2,7 @@
   "id": "rbl-0044",
   "slug": "pao-de-batata-doce-com-alecrim",
   "nome": "Pão de batata-doce com alecrim",
-  "descricao": "Pão de forma úmido de batata-doce, com casca dourada e perfume de alecrim.",
+  "descricao": "Pão de forma úmido de batata-doce e farinha integral, com casca dourada e perfume de alecrim.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 35,
     "cozimento_min": 60,
-    "descanso_min": 100,
-    "total_min": 195
+    "descanso_min": 125,
+    "total_min": 220
   },
   "rendimento": {
     "quantidade": 1,
@@ -33,10 +33,10 @@
       "texto": "1 batata-doce média (250 g)"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -64,9 +64,9 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 0.25,
+      "quantidade": 0.33,
       "medida": "xicara",
-      "texto": "1/4 de xícara (chá) de água morna"
+      "texto": "1/3 de xícara (chá) de água morna"
     },
     {
       "ingrediente": "alecrim-seco",
@@ -85,19 +85,19 @@
       "texto": "Numa tigela, misture o purê, o ovo, o azeite e a água morna."
     },
     {
-      "texto": "Junte o fermento, o sal, o alecrim e a farinha aos poucos, até a massa desgrudar das mãos."
+      "texto": "Junte o fermento, o sal, o alecrim e a farinha integral aos poucos, até a massa quase desgrudar das mãos. Se grudar, unte as mãos com azeite."
     },
     {
       "texto": "Sove por 8 minutos, até ficar lisa.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Modele um rolo e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 40 minutos.",
-      "temporizador_min": 40
+      "texto": "Modele um rolo e coloque numa forma de bolo inglês (25 cm) untada. Cubra e deixe crescer mais 50 minutos.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -127,12 +127,16 @@
     {
       "tipo": "conservacao",
       "texto": "Fatiado, dura 3 dias em saco fechado; congelado, até 2 meses."
+    },
+    {
+      "tipo": "dica",
+      "texto": "Com farinha integral o pão cresce menos e fica mais denso: espere esfriar bem antes de fatiar para o miolo firmar."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 175,
-      "carboidratos_g": 29.7
+      "kcal": 165,
+      "carboidratos_g": 27.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -164,6 +168,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água e tempo de crescimento ajustados."
   }
 }

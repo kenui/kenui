@@ -95,7 +95,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de trigo."
+      "texto": "Troque a aveia por 2 colheres (sopa) de farinha de trigo integral."
     },
     {
       "tipo": "substituicao",
@@ -139,6 +139,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Já usava aveia; dica de farinha de trigo trocada por farinha de trigo integral."
   }
 }

@@ -48,10 +48,10 @@
       "texto": "1 ovo"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.75,
       "medida": "xicara",
-      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo"
+      "texto": "1 e 3/4 de xícara (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "gengibre-em-po",
@@ -76,6 +76,13 @@
       "quantidade": 0.5,
       "medida": "colher_cha",
       "texto": "1/2 colher (chá) de fermento químico em pó"
+    },
+    {
+      "ingrediente": "leite-integral",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "1 a 2 colheres (sopa) de leite, se a massa esfarelar",
+      "opcional": true
     }
   ],
   "preparo": [
@@ -83,7 +90,7 @@
       "texto": "Numa tigela, misture a manteiga com o eritritol até virar um creme. Junte o ovo."
     },
     {
-      "texto": "Acrescente a farinha, o gengibre, a canela, o cravo e o fermento e amasse até formar uma massa lisa."
+      "texto": "Acrescente a farinha integral, o gengibre, a canela, o cravo e o fermento e amasse até formar uma massa lisa. Se esfarelar, junte o leite aos poucos."
     },
     {
       "texto": "Embrulhe em filme e leve à geladeira por 30 minutos.",
@@ -122,8 +129,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 162,
-      "carboidratos_g": 21.4
+      "kcal": 152,
+      "carboidratos_g": 19.7
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -155,6 +162,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite opcional para dar liga."
   }
 }

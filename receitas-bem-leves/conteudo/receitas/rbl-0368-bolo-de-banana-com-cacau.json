@@ -59,10 +59,16 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.5,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "3/4 de xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos"
     },
     {
       "ingrediente": "cacau-em-po",
@@ -79,14 +85,17 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe cacau."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
     },
     {
       "texto": "No liquidificador, bata as bananas, os ovos, o óleo, o leite e o eritritol por 2 minutos.",
       "temporizador_min": 2
     },
     {
-      "texto": "Numa tigela, misture a farinha e o cacau. Junte o creme de banana e mexa com um batedor até ficar liso."
+      "texto": "Numa tigela, misture a farinha integral, a aveia batida e o cacau. Junte o creme de banana e mexa com um batedor até ficar liso."
     },
     {
       "texto": "Misture o fermento com delicadeza e despeje na forma."
@@ -111,7 +120,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha por aveia em flocos finos."
+      "texto": "Use 1 e 1/2 xícara só de aveia em flocos batida no lugar da mistura com farinha integral."
     },
     {
       "tipo": "conservacao",
@@ -120,8 +129,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 167,
-      "carboidratos_g": 21.3
+      "kcal": 156,
+      "carboidratos_g": 18.4
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -152,6 +161,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

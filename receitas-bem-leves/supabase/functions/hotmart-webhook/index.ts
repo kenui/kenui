@@ -3,10 +3,10 @@
 // - Compra aprovada ou completa: libera o acesso (cria o usuário) e manda o e-mail de boas-vindas.
 // - Reembolso, chargeback ou cancelamento: bloqueia o acesso.
 // Variáveis (Supabase > Edge Functions > Secrets): HOTMART_HOTTOK, RESEND_API_KEY, REMETENTE,
-// URL_APP e, opcional, HOTMART_PRODUTO_ID (para ignorar avisos de outros produtos).
+// URL_APP e, opcional, HOTMART_PRODUTOS (qual produto da Hotmart libera o quê; ver regras.ts).
 // SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY já existem nas funções do Supabase.
 import { createClient } from 'npm:@supabase/supabase-js@2.118.0';
-import { decidir, emailBoasVindas, lerEvento } from './regras.ts';
+import { decidir, emailBoasVindas, lerEvento, produtosDoEvento } from './regras.ts';
 
 const supabase = createClient(Deno.env.get('SUPABASE_URL')!, Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!, {
   auth: { persistSession: false },
@@ -68,8 +68,10 @@ Deno.serve(async (req) => {
   const ev = lerEvento(corpo);
   if (!ev) { await registrarRecusa('evento sem id, tipo ou e-mail', corpo, hottok); return resposta(400, 'evento sem id, tipo ou e-mail'); }
 
-  const produtoEsperado = Deno.env.get('HOTMART_PRODUTO_ID');
-  if (produtoEsperado && ev.produto && ev.produto !== produtoEsperado) return resposta(200, 'outro produto: ignorado');
+  // Quais produtos internos este aviso libera ou bloqueia (app, caderno, cardapio12, marmitas).
+  // Segredo HOTMART_PRODUTOS: {"<id na Hotmart>": ["app"], "<id>": ["caderno"], ...}. Sem ele, tudo conta como "app".
+  const produtos = produtosDoEvento(ev.produto, Deno.env.get('HOTMART_PRODUTOS'));
+  if (!produtos.length) return resposta(200, 'produto que não é deste app: ignorado');
 
   // Idempotência: o mesmo aviso pode chegar mais de uma vez.
   const { error: erroEvento } = await supabase.from('eventos_hotmart').insert({ id: ev.id, tipo: ev.tipo, email: ev.email, transacao: ev.transacao, conteudo: corpo });
@@ -83,15 +85,25 @@ Deno.serve(async (req) => {
   if (acao === 'ignorar') return resposta(200, `evento ${ev.tipo} registrado sem ação`);
 
   const { data: anterior } = await supabase.from('compradores').select('status').eq('email', ev.email).maybeSingle();
+  const agora = new Date().toISOString();
+  const status = acao === 'liberar' ? 'ativo' : 'bloqueado';
   try {
     const userId = await acharOuCriarUsuario(ev.email, ev.nome);
+    // Registra cada produto deste aviso. A tabela pode não existir ainda (migração 0002 não rodada): não trava o app.
+    const { error: erroProdutos } = await supabase.from('produtos_comprados').upsert(
+      produtos.map((produto) => ({ email: ev.email, produto, status, transacao: ev.transacao, hotmart_produto_id: ev.produto, atualizado_em: agora })),
+    );
+    if (erroProdutos) console.error('produtos_comprados', erroProdutos.message);
+
+    if (!produtos.includes('app')) return resposta(200, `extra ${status}: ${produtos.join(', ')}`);
+
+    // O app principal: libera ou bloqueia o acesso inteiro.
+    await supabase.from('compradores').upsert({ email: ev.email, user_id: userId, nome: ev.nome, status, transacao: ev.transacao, produto: ev.produto, ultimo_evento: ev.tipo, atualizado_em: agora });
     if (acao === 'liberar') {
-      await supabase.from('compradores').upsert({ email: ev.email, user_id: userId, nome: ev.nome, status: 'ativo', transacao: ev.transacao, produto: ev.produto, ultimo_evento: ev.tipo, atualizado_em: new Date().toISOString() });
       await supabase.auth.admin.updateUserById(userId, { ban_duration: 'none' });
       if (anterior?.status !== 'ativo') await enviarBoasVindas(ev.email, ev.nome);
       return resposta(200, 'acesso liberado');
     }
-    await supabase.from('compradores').upsert({ email: ev.email, user_id: userId, nome: ev.nome, status: 'bloqueado', transacao: ev.transacao, produto: ev.produto, ultimo_evento: ev.tipo, atualizado_em: new Date().toISOString() });
     await supabase.auth.admin.updateUserById(userId, { ban_duration: BANIDO });
     return resposta(200, 'acesso bloqueado');
   } catch (e) {

@@ -89,10 +89,10 @@
   ],
   "preparo": [
     {
-      "texto": "Numa tigela, misture a farinha, o iogurte, o fermento e o sal até formar uma massa macia. Se grudar muito, junte 1 colher (sopa) de farinha."
+      "texto": "Numa tigela, misture a farinha, o iogurte, o fermento e o sal até formar uma massa macia. Se grudar muito, junte 1 colher (sopa) de farinha integral."
     },
     {
-      "texto": "Com as mãos enfarinhadas, abra a massa num disco do tamanho da frigideira."
+      "texto": "Com as mãos polvilhadas de farinha integral, abra a massa num disco do tamanho da frigideira."
     },
     {
       "texto": "Rale metade do tomate e tempere com o sal e metade do orégano. Corte a outra metade em rodelas."
@@ -114,7 +114,7 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque a farinha integral por farinha de trigo comum."
+      "texto": "Troque 1/4 de xícara da farinha integral por aveia em flocos batida: a massa fica mais macia."
     },
     {
       "tipo": "substituicao",
@@ -162,6 +162,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Dica de troca refeita com aveia; massa já era integral."
   }
 }

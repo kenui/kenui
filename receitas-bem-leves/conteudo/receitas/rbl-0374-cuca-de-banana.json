@@ -2,7 +2,7 @@
   "id": "rbl-0374",
   "slug": "cuca-de-banana",
   "nome": "Cuca de banana",
-  "descricao": "Cuca de massa macia coberta de banana e farofinha crocante de aveia e canela.",
+  "descricao": "Cuca de massa macia de farinha integral e aveia, coberta de banana e farofinha crocante de aveia e canela.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -59,10 +59,17 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.5,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "3/4 de xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 0.75,
+      "medida": "xicara",
+      "texto": "3/4 de xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -80,10 +87,10 @@
     },
     {
       "grupo": "Farofa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 4,
       "medida": "colher_sopa",
-      "texto": "4 colheres (sopa) de farinha de trigo"
+      "texto": "4 colheres (sopa) de farinha de trigo integral"
     },
     {
       "grupo": "Farofa",
@@ -119,10 +126,13 @@
       "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma retangular de 20 x 30 cm."
     },
     {
-      "texto": "Farofa: numa tigela, misture a farinha, a aveia, o eritritol e a canela. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa úmida. Leve à geladeira."
+      "texto": "Farofa: numa tigela, misture a farinha integral, a aveia, o eritritol e a canela. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa úmida. Leve à geladeira."
     },
     {
-      "texto": "Massa: com um batedor, misture os ovos, o leite, o óleo e o eritritol. Junte a farinha e mexa até ficar liso. Misture o fermento por último."
+      "texto": "Bata a aveia da massa no liquidificador seco até virar farinha."
+    },
+    {
+      "texto": "Massa: com um batedor, misture os ovos, o leite, o óleo e o eritritol. Junte a farinha integral e a aveia batida e mexa até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Espalhe a massa na forma e cubra com as rodelas de banana."
@@ -150,6 +160,10 @@
       "texto": "Troque o eritritol por xilitol na mesma medida."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Use 1 e 1/2 xícara só de farinha de trigo integral na massa, no lugar da mistura com aveia."
+    },
+    {
       "tipo": "dica",
       "texto": "Deixar a farofa na geladeira enquanto prepara a massa garante que ela fique crocante."
     },
@@ -160,8 +174,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 184,
-      "carboidratos_g": 25.2
+      "kcal": 172,
+      "carboidratos_g": 22.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -195,6 +209,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

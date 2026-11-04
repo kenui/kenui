@@ -2,7 +2,7 @@
   "id": "rbl-0495",
   "slug": "torta-de-nozes",
   "nome": "Torta de nozes",
-  "descricao": "Massa amanteigada recheada com creme de nozes, ovos e canela, assada até firmar e dourar.",
+  "descricao": "Massa amanteigada integral recheada com creme de nozes, ovos e canela, assada até firmar e dourar.",
   "categoria": "ceia",
   "destaques": [
     "doces_e_bolos"
@@ -27,10 +27,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 1.5,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo"
+      "texto": "1 e 1/2 xícara (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -59,6 +59,13 @@
       "quantidade": 1,
       "medida": "pitada",
       "texto": "1 pitada de sal"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "agua",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "1 a 2 colheres (sopa) de água gelada"
     },
     {
       "grupo": "Recheio",
@@ -112,14 +119,14 @@
   ],
   "preparo": [
     {
-      "texto": "Massa: misture a farinha, o eritritol e o sal. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa."
+      "texto": "Massa: misture a farinha integral, o eritritol e o sal. Junte a manteiga e esfregue com as pontas dos dedos até virar uma farofa."
     },
     {
-      "texto": "Acrescente o ovo e junte a massa sem sovar. Embrulhe e leve à geladeira por 30 minutos.",
+      "texto": "Acrescente o ovo e junte a massa sem sovar. Se esfarelar, junte a água gelada aos poucos. Embrulhe e leve à geladeira por 30 minutos.",
       "temporizador_min": 30
     },
     {
-      "texto": "Preaqueça o forno a 180 °C. Abra a massa no fundo e na lateral de uma forma de fundo removível de 24 cm e fure com um garfo."
+      "texto": "Preaqueça o forno a 180 °C. Abra a massa com as mãos, apertando no fundo e na lateral de uma forma de fundo removível de 24 cm, e fure com um garfo."
     },
     {
       "texto": "Asse a massa sozinha por 15 minutos, até ficar firme e começar a dourar.",
@@ -149,7 +156,7 @@
     },
     {
       "tipo": "substituicao",
-      "texto": "Troque metade da farinha de trigo por farinha de aveia, para uma massa mais rústica."
+      "texto": "Troque metade da farinha integral por aveia em flocos batida no liquidificador, para uma massa mais rústica."
     },
     {
       "tipo": "dica",
@@ -162,8 +169,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 343,
-      "carboidratos_g": 18.7
+      "kcal": 337,
+      "carboidratos_g": 17.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -196,6 +203,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; água gelada para dar liga à massa."
   }
 }

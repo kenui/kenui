@@ -2,7 +2,7 @@
   "id": "rbl-0057",
   "slug": "paozinho-de-cebola",
   "nome": "Pãozinho de cebola",
-  "descricao": "Pãozinho macio de massa batida no liquidificador com cebola e salsinha, com aroma de pão de padaria.",
+  "descricao": "Pãozinho macio de farinha integral, com cebola e salsinha batidas no liquidificador e aroma de pão caseiro.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 30,
     "cozimento_min": 25,
-    "descanso_min": 90,
-    "total_min": 145
+    "descanso_min": 115,
+    "total_min": 170
   },
   "rendimento": {
     "quantidade": 15,
@@ -34,9 +34,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de leite morno"
+      "quantidade": 270,
+      "medida": "ml",
+      "texto": "1 xícara (chá) mais 2 colheres (sopa) de leite morno (270 ml)"
     },
     {
       "ingrediente": "oleo",
@@ -57,10 +57,10 @@
       "texto": "1 colher (chá) de sal"
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 4,
       "medida": "xicara",
-      "texto": "4 xícaras (chá) de farinha de trigo"
+      "texto": "4 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -80,22 +80,22 @@
       "texto": "Pique a cebola e bata no liquidificador com o leite morno, o óleo, o ovo e o sal até ficar liso."
     },
     {
-      "texto": "Numa tigela, misture a farinha, o fermento e a salsinha."
+      "texto": "Numa tigela, misture a farinha integral, o fermento e a salsinha."
     },
     {
-      "texto": "Despeje o líquido e misture até formar uma massa. Se grudar muito, ponha mais farinha, 1 colher (sopa) por vez."
+      "texto": "Despeje o líquido e misture até formar uma massa. Ela fica um pouco grudenta: unte as mãos com óleo em vez de pôr mais farinha."
     },
     {
       "texto": "Sove por 8 minutos, até ficar lisa.",
       "temporizador_min": 8
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Divida em 15 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 30 minutos.",
-      "temporizador_min": 30
+      "texto": "Divida em 15 bolinhas e coloque numa assadeira untada. Cubra e deixe crescer mais 40 minutos.",
+      "temporizador_min": 40
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -126,8 +126,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 182,
-      "carboidratos_g": 26.8
+      "kcal": 172,
+      "carboidratos_g": 24.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -159,6 +159,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

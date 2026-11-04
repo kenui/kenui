@@ -73,10 +73,17 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 2,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "1 xícara (chá) de farinha de trigo integral"
+    },
+    {
+      "grupo": "Massa",
+      "ingrediente": "aveia-em-flocos",
+      "quantidade": 1,
+      "medida": "xicara",
+      "texto": "1 xícara (chá) de aveia em flocos"
     },
     {
       "grupo": "Massa",
@@ -109,7 +116,10 @@
   ],
   "preparo": [
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma redonda de 22 cm com furo no meio e polvilhe farinha integral."
+    },
+    {
+      "texto": "Bata a aveia no liquidificador seco até virar farinha. Reserve."
     },
     {
       "texto": "No liquidificador, bata os ovos, o óleo, o leite e o eritritol por 2 minutos.",
@@ -119,7 +129,7 @@
       "texto": "Passe para uma tigela, junte o suco de limão e as raspas e misture."
     },
     {
-      "texto": "Junte a farinha aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último."
+      "texto": "Junte a farinha integral e a aveia batida aos poucos, mexendo com um batedor até ficar liso. Misture o fermento por último."
     },
     {
       "texto": "Despeje na forma e asse por 35 a 40 minutos, até dourar e um palito sair limpo.",
@@ -148,6 +158,10 @@
       "texto": "Troque o leite da massa por iogurte natural: o bolo fica mais úmido."
     },
     {
+      "tipo": "substituicao",
+      "texto": "Use 2 xícaras só de farinha de trigo integral no lugar da mistura com aveia."
+    },
+    {
       "tipo": "dica",
       "texto": "O suco de limão é que engrossa o creme de leite. Se ficar mole, junte mais 1 colher (sopa) de suco."
     },
@@ -158,8 +172,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 222,
-      "carboidratos_g": 18.5
+      "kcal": 208,
+      "carboidratos_g": 14.6
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -168,11 +182,11 @@
   },
   "etiquetas": {
     "sem_acucar_adicionado": true,
-    "low_carb": false
+    "low_carb": true
   },
   "ilustracao": {
     "prato_base": "bolo_redondo",
-    "massa": "clara",
+    "massa": "integral",
     "cobertura": "chantilly",
     "recheio": null,
     "enfeites": [
@@ -191,6 +205,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por metade farinha de trigo integral e metade aveia batida; líquido mantido (aveia pesa menos que a farinha)."
   }
 }

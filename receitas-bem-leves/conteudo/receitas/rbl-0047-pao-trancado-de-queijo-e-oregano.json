@@ -2,7 +2,7 @@
   "id": "rbl-0047",
   "slug": "pao-trancado-de-queijo-e-oregano",
   "nome": "Pão trançado de queijo e orégano",
-  "descricao": "Pão caseiro recheado com mussarela e orégano e modelado em trança, bonito para servir à mesa.",
+  "descricao": "Pão caseiro de farinha integral recheado com mussarela e orégano e modelado em trança, bonito para servir à mesa.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -13,8 +13,8 @@
   "tempo": {
     "preparo_min": 35,
     "cozimento_min": 35,
-    "descanso_min": 100,
-    "total_min": 170
+    "descanso_min": 125,
+    "total_min": 195
   },
   "rendimento": {
     "quantidade": 1,
@@ -27,10 +27,10 @@
   "ingredientes": [
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "grupo": "Massa",
@@ -49,9 +49,9 @@
     {
       "grupo": "Massa",
       "ingrediente": "leite-integral",
-      "quantidade": 0.75,
-      "medida": "xicara",
-      "texto": "3/4 de xícara (chá) de leite morno"
+      "quantidade": 200,
+      "medida": "ml",
+      "texto": "3/4 de xícara (chá) mais 1 colher (sopa) de leite morno (200 ml)"
     },
     {
       "grupo": "Massa",
@@ -90,23 +90,23 @@
       "texto": "Junte o leite morno, o ovo e o azeite e misture até formar uma massa."
     },
     {
-      "texto": "Sove por 10 minutos, até ficar lisa e elástica.",
+      "texto": "Sove por 10 minutos, até ficar mais lisa e elástica. Se grudar, unte as mãos com azeite em vez de pôr mais farinha.",
       "temporizador_min": 10
     },
     {
-      "texto": "Cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Abra a massa num retângulo de 30 x 40 cm, espalhe a mussarela e o orégano e enrole pelo lado mais comprido, como um rocambole."
+      "texto": "Abra a massa num retângulo de 30 x 40 cm, espalhe a mussarela e o orégano e enrole pelo lado mais comprido, como um rocambole. Se a massa encolher ao abrir, espere 5 minutos e continue."
     },
     {
       "texto": "Corte o rolo ao meio no sentido do comprimento, deixando uma ponta presa, e torça as duas partes uma sobre a outra, com o recheio virado para cima.",
       "aviso": "Use uma faca bem afiada e corte com calma."
     },
     {
-      "texto": "Coloque numa assadeira untada, cubra e deixe crescer mais 40 minutos.",
-      "temporizador_min": 40
+      "texto": "Coloque numa assadeira untada, cubra e deixe crescer mais 50 minutos.",
+      "temporizador_min": 50
     },
     {
       "texto": "Preaqueça o forno a 180 °C."
@@ -133,12 +133,16 @@
     {
       "tipo": "conservacao",
       "texto": "Guarde na geladeira por até 3 dias e aqueça no forno para o queijo derreter de novo."
+    },
+    {
+      "tipo": "dica",
+      "texto": "A massa integral é menos elástica: torça a trança com calma, sem esticar, para não rasgar."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 192,
-      "carboidratos_g": 25.1
+      "kcal": 182,
+      "carboidratos_g": 23.3
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -171,6 +175,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; leite e tempo de crescimento ajustados."
   }
 }

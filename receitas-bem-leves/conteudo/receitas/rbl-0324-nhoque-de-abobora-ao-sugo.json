@@ -2,7 +2,7 @@
   "id": "rbl-0324",
   "slug": "nhoque-de-abobora-ao-sugo",
   "nome": "Nhoque de abóbora ao sugo",
-  "descricao": "Nhoque macio de abóbora cabotiá com parmesão, servido com molho caseiro de tomate e manjericão.",
+  "descricao": "Nhoque macio de abóbora cabotiá com farinha integral e parmesão, servido com molho caseiro de tomate e manjericão.",
   "categoria": "almoco_jantar",
   "destaques": [],
   "refeicoes_do_plano": [
@@ -12,7 +12,8 @@
   "tempo": {
     "preparo_min": 40,
     "cozimento_min": 35,
-    "total_min": 75
+    "total_min": 85,
+    "descanso_min": 10
   },
   "rendimento": {
     "quantidade": 4,
@@ -60,10 +61,10 @@
     },
     {
       "grupo": "Massa",
-      "ingrediente": "farinha-de-trigo",
-      "quantidade": 1.5,
+      "ingrediente": "farinha-de-trigo-integral",
+      "quantidade": 1.25,
       "medida": "xicara",
-      "texto": "1 e 1/2 xícara (chá) de farinha de trigo, mais um pouco para enfarinhar"
+      "texto": "1 e 1/4 xícara (chá) de farinha de trigo integral, mais um pouco para polvilhar a bancada"
     },
     {
       "grupo": "Molho",
@@ -117,17 +118,20 @@
       "texto": "Amasse a abóbora e leve à panela em fogo baixo por 3 minutos, mexendo, para secar. Deixe esfriar."
     },
     {
-      "texto": "Misture o ovo, o parmesão, o sal e a noz-moscada. Junte a farinha aos poucos, até a massa ficar macia e parar de grudar nas mãos."
+      "texto": "Misture o ovo, o parmesão, o sal e a noz-moscada. Junte a farinha integral aos poucos, até a massa ficar macia e parar de grudar nas mãos. Deixe descansar 10 minutos: a farinha integral absorve a umidade aos poucos."
     },
     {
-      "texto": "Em superfície enfarinhada, faça rolinhos da grossura de um dedo e corte em pedaços de 2 cm."
+      "texto": "Em superfície polvilhada com farinha integral, faça rolinhos da grossura de um dedo e corte em pedaços de 2 cm."
     },
     {
       "texto": "Molho: refogue a cebola e o alho no azeite, junte o tomate e o sal e cozinhe por 15 minutos, até encorpar. Desligue e junte o manjericão.",
       "temporizador_min": 15
     },
     {
-      "texto": "Cozinhe o nhoque aos poucos em bastante água fervente com sal. Quando subirem, espere 1 minuto e retire com escumadeira.",
+      "texto": "Ferva bastante água com sal e cozinhe 1 nhoque de teste. Se desmanchar, junte mais 2 colheres (sopa) de farinha integral à massa."
+    },
+    {
+      "texto": "Cozinhe o nhoque aos poucos nessa água fervente. Quando subirem, espere 1 minuto e retire com escumadeira.",
       "aviso": "Retire com escumadeira, sem despejar a panela de água fervente.",
       "temporizador_min": 3
     },
@@ -141,18 +145,18 @@
       "texto": "Troque a abóbora por mandioquinha ou batata, cozidas e bem secas."
     },
     {
-      "tipo": "substituicao",
-      "texto": "Use metade farinha de trigo integral."
+      "tipo": "dica",
+      "texto": "O nhoque integral fica mais escuro e um pouco mais firme. Não amasse demais para ele não endurecer."
     },
     {
       "tipo": "conservacao",
-      "texto": "Congele o nhoque cru, espalhado numa assadeira enfarinhada, e depois passe para um saco. Cozinhe direto do congelador."
+      "texto": "Congele o nhoque cru, espalhado numa assadeira polvilhada com farinha integral, e depois passe para um saco. Cozinhe direto do congelador."
     }
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 358,
-      "carboidratos_g": 55.7
+      "kcal": 317,
+      "carboidratos_g": 47.5
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -186,6 +190,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; quantidade e descanso ajustados."
   }
 }

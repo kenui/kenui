@@ -2,7 +2,7 @@
   "id": "rbl-0039",
   "slug": "pao-sirio-caseiro",
   "nome": "Pão sírio caseiro",
-  "descricao": "Pão árabe fininho que estufa no forno e forma um bolso, para rechear ou acompanhar pastas.",
+  "descricao": "Pão árabe fininho de farinha integral, que estufa no forno e forma um bolso, para rechear ou acompanhar pastas.",
   "categoria": "paes_substitutos",
   "destaques": [
     "substitutos_do_pao"
@@ -14,8 +14,8 @@
   "tempo": {
     "preparo_min": 25,
     "cozimento_min": 15,
-    "descanso_min": 70,
-    "total_min": 110
+    "descanso_min": 90,
+    "total_min": 130
   },
   "rendimento": {
     "quantidade": 8,
@@ -27,10 +27,10 @@
   },
   "ingredientes": [
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 3,
       "medida": "xicara",
-      "texto": "3 xícaras (chá) de farinha de trigo"
+      "texto": "3 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-biologico-seco",
@@ -52,9 +52,15 @@
     },
     {
       "ingrediente": "agua",
-      "quantidade": 1,
-      "medida": "xicara",
-      "texto": "1 xícara (chá) de água morna"
+      "quantidade": 250,
+      "medida": "ml",
+      "texto": "1 xícara (chá) de água morna, mais 1 colher (sopa) (250 ml)"
+    },
+    {
+      "ingrediente": "iogurte-natural",
+      "quantidade": 2,
+      "medida": "colher_sopa",
+      "texto": "2 colheres (sopa) de iogurte natural"
     }
   ],
   "preparo": [
@@ -62,25 +68,25 @@
       "texto": "Numa tigela, misture a farinha, o fermento e o sal."
     },
     {
-      "texto": "Junte o azeite e a água morna e misture até formar uma massa."
+      "texto": "Junte o azeite, o iogurte e a água morna e misture até formar uma massa. Ela fica um pouco grudenta: a farinha integral vai absorvendo a água."
     },
     {
-      "texto": "Sove por 10 minutos numa bancada, até a massa ficar lisa e elástica.",
+      "texto": "Sove por 10 minutos com as mãos untadas de azeite, até a massa ficar mais lisa e elástica.",
       "temporizador_min": 10
     },
     {
-      "texto": "Coloque numa tigela untada, cubra e deixe crescer por 1 hora, até dobrar de volume.",
-      "temporizador_min": 60
+      "texto": "Coloque numa tigela untada, cubra e deixe crescer por 1 hora a 1 hora e 15 minutos, até quase dobrar de volume.",
+      "temporizador_min": 75
     },
     {
-      "texto": "Divida em 8 bolinhas, cubra e deixe descansar 10 minutos.",
-      "temporizador_min": 10
+      "texto": "Divida em 8 bolinhas, cubra e deixe descansar 15 minutos.",
+      "temporizador_min": 15
     },
     {
       "texto": "Preaqueça o forno a 240 °C com a assadeira dentro."
     },
     {
-      "texto": "Abra cada bolinha com o rolo num disco de 15 cm e 0,5 cm de espessura."
+      "texto": "Abra cada bolinha com o rolo num disco de 15 cm, bem fino (cerca de 0,4 cm), polvilhando a bancada com farinha integral."
     },
     {
       "texto": "Coloque 3 ou 4 discos na assadeira quente e asse por 5 a 7 minutos, até estufarem e mal dourarem. Repita com o restante.",
@@ -99,11 +105,11 @@
   "dicas": [
     {
       "tipo": "substituicao",
-      "texto": "Troque 1 xícara da farinha de trigo por farinha de trigo integral."
+      "texto": "Troque 1/2 xícara da farinha integral por aveia em flocos batida: fica mais macio, mas estufa menos."
     },
     {
       "tipo": "dica",
-      "texto": "O pão só estufa se o forno e a assadeira estiverem bem quentes: preaqueça por pelo menos 15 minutos."
+      "texto": "O pão só estufa se o forno e a assadeira estiverem bem quentes: preaqueça por pelo menos 15 minutos. Com farinha integral, alguns discos podem estufar só em parte: ficam bons do mesmo jeito."
     },
     {
       "tipo": "conservacao",
@@ -112,8 +118,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 202,
-      "carboidratos_g": 35.6
+      "kcal": 188,
+      "carboidratos_g": 32.9
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -143,6 +149,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral, com um pouco de iogurte para a massa ficar macia; água e descanso ajustados."
   }
 }

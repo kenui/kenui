@@ -2,7 +2,7 @@
   "id": "rbl-0413",
   "slug": "bolo-de-ameixa-preta",
   "nome": "Bolo de ameixa-preta",
-  "descricao": "Bolo úmido com ameixas-pretas picadas, adoçado em parte pela própria fruta.",
+  "descricao": "Bolo úmido de farinha integral com ameixas-pretas picadas, adoçado em parte pela própria fruta.",
   "categoria": "doces_bolos",
   "destaques": [
     "doces_e_bolos"
@@ -51,9 +51,9 @@
     },
     {
       "ingrediente": "leite-integral",
-      "quantidade": 0.5,
+      "quantidade": 0.75,
       "medida": "xicara",
-      "texto": "1/2 xícara (chá) de leite"
+      "texto": "3/4 de xícara (chá) de leite"
     },
     {
       "ingrediente": "eritritol",
@@ -66,10 +66,10 @@
       }
     },
     {
-      "ingrediente": "farinha-de-trigo",
+      "ingrediente": "farinha-de-trigo-integral",
       "quantidade": 2,
       "medida": "xicara",
-      "texto": "2 xícaras (chá) de farinha de trigo"
+      "texto": "2 xícaras (chá) de farinha de trigo integral"
     },
     {
       "ingrediente": "fermento-quimico",
@@ -85,14 +85,14 @@
       "temporizador_min": 10
     },
     {
-      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha."
+      "texto": "Preaqueça o forno a 180 °C. Unte com óleo uma forma de bolo inglês de cerca de 25 cm e polvilhe farinha integral."
     },
     {
       "texto": "Separe metade das ameixas e pique. Bata a outra metade com a água, os ovos, o óleo, o leite e o eritritol por 2 minutos.",
       "temporizador_min": 2
     },
     {
-      "texto": "Passe para uma tigela, junte a farinha e mexa até ficar liso. Misture as ameixas picadas e o fermento."
+      "texto": "Passe para uma tigela, junte a farinha integral e mexa até ficar liso. Misture as ameixas picadas e o fermento."
     },
     {
       "texto": "Despeje na forma e asse por 35 a 40 minutos, até um palito sair limpo.",
@@ -124,8 +124,8 @@
   ],
   "nutricao": {
     "por_porcao": {
-      "kcal": 215,
-      "carboidratos_g": 26.1
+      "kcal": 211,
+      "carboidratos_g": 25.1
     },
     "calculado_com": "ingredientes principais (sem alternativas e sem opcionais)",
     "fonte": "TACO 4ª ed. (Unicamp) e USDA FoodData Central",
@@ -154,6 +154,6 @@
   },
   "revisao": {
     "status": "gerada",
-    "observacoes": ""
+    "observacoes": "Farinha de trigo trocada por farinha de trigo integral; líquido ajustado."
   }
 }
