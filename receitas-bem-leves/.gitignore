@@ -4,3 +4,4 @@ out/
 .env*.local
 .env
 public/pacote-demo.json
+.pacote/
