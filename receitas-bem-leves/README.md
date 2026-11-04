@@ -266,7 +266,7 @@ Qualquer commit na branch `main` que mexa em `receitas-bem-leves/` publica sozin
   - Depois do login, ele baixa o pacote de receitas da tabela `pacote_receitas`.
   - O banco só entrega o pacote para quem tem compra ativa (RLS).
 - **Login:**
-  - O e-mail traz um botão e um código de 6 dígitos. O código existe porque, no iPhone, o app instalado na tela inicial não recebe o login feito pelo link.
+  - O e-mail traz um botão e um código numérico. O código existe porque, no iPhone, o app instalado na tela inicial não recebe o login feito pelo link.
   - O botão abre uma página com "Entrar no app". Assim, programas que abrem links sozinhos não gastam o link.
   - Só e-mails que compraram recebem acesso.
 - **Sem internet:**

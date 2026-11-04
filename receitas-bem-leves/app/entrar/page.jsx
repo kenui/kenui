@@ -1,5 +1,5 @@
 'use client';
-// Login só com e-mail: o app manda um e-mail com um botão de entrar e um código de 6 dígitos.
+// Login só com e-mail: o app manda um e-mail com um botão de entrar e um código numérico (6 a 8 dígitos, conforme a configuração do Supabase).
 // O código existe porque, no iPhone, o app instalado na tela inicial não recebe o login feito pelo link.
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
@@ -42,7 +42,7 @@ function Entrar() {
     setEnviando(true);
     const ok = await entrarComCodigo(email, codigo);
     setEnviando(false);
-    if (!ok) { setErro('Código errado ou vencido. Confira os 6 números ou peça um novo e-mail.'); return; }
+    if (!ok) { setErro('Código errado ou vencido. Confira os números ou peça um novo e-mail.'); return; }
     await recarregar();
     router.replace(depois);
   }
@@ -71,10 +71,10 @@ function Entrar() {
           <form className="cartao-aviso" onSubmit={confirmar}>
             <h2>Confira seu e-mail</h2>
             <p>Mandamos um e-mail para <b className="selecionavel">{email}</b>. Abra e toque em <b>“Entrar no app”</b>.</p>
-            <p>Ou digite aqui o código de 6 números que veio no e-mail:</p>
+            <p>Ou digite aqui o código que veio no e-mail:</p>
             <div className="campo">
               <label htmlFor="codigo">Código</label>
-              <input id="codigo" inputMode="numeric" autoComplete="one-time-code" pattern="[0-9]*" maxLength={6} value={codigo} onChange={(e) => setCodigo(e.target.value.replace(/\D/g, ''))} style={{ fontSize: 28, letterSpacing: '.3em' }} />
+              <input id="codigo" inputMode="numeric" autoComplete="one-time-code" pattern="[0-9]*" maxLength={8} value={codigo} onChange={(e) => setCodigo(e.target.value.replace(/\D/g, ''))} style={{ fontSize: 28, letterSpacing: '.2em' }} />
             </div>
             {erro && <p className="erro" role="alert">{erro}</p>}
             <button className="btn btn-principal btn-largo btn-grande" disabled={enviando || codigo.length < 6}>{enviando ? 'Entrando…' : 'Entrar'}</button>
