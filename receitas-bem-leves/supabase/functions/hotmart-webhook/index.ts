@@ -42,16 +42,31 @@ async function enviarBoasVindas(email: string, nome?: string) {
   if (!r.ok) console.error('Falha no envio do e-mail de boas-vindas', r.status, await r.text());
 }
 
+// Guarda avisos recusados para diagnóstico, sem guardar o hottok recebido (só o tamanho e as 2 primeiras letras).
+// deno-lint-ignore no-explicit-any
+async function registrarRecusa(motivo: string, corpo: any, hottok: string) {
+  const id = `recusado-${crypto.randomUUID()}`;
+  const resumo = { motivo, evento: corpo?.event ?? null, versao: corpo?.version ?? null, hottok_recebido: hottok ? `${hottok.slice(0, 2)}… (${hottok.length} caracteres)` : 'nenhum' };
+  await supabase.from('eventos_hotmart').insert({ id, tipo: `RECUSADO: ${motivo}`, email: corpo?.data?.buyer?.email ?? null, conteudo: resumo }).then(() => {}, () => {});
+}
+
 Deno.serve(async (req) => {
   if (req.method !== 'POST') return resposta(405, 'use POST');
 
-  const hottok = req.headers.get('x-hotmart-hottok');
-  if (!hottok || hottok !== Deno.env.get('HOTMART_HOTTOK')) return resposta(401, 'hottok inválido');
-
   let corpo: unknown;
-  try { corpo = await req.json(); } catch { return resposta(400, 'corpo inválido'); }
+  try { corpo = await req.json(); } catch { corpo = null; }
+
+  // A versão 2.0.0 manda o hottok no cabeçalho; versões antigas mandam no corpo.
+  // deno-lint-ignore no-explicit-any
+  const hottok = (req.headers.get('x-hotmart-hottok') ?? (corpo as any)?.hottok ?? '').trim();
+  const esperado = (Deno.env.get('HOTMART_HOTTOK') ?? '').trim();
+  if (!esperado || hottok !== esperado) {
+    await registrarRecusa(!esperado ? 'segredo HOTMART_HOTTOK não configurado' : !hottok ? 'aviso sem hottok' : 'hottok diferente do segredo', corpo, hottok);
+    return resposta(401, 'hottok inválido');
+  }
+  if (!corpo) { await registrarRecusa('corpo inválido', corpo, hottok); return resposta(400, 'corpo inválido'); }
   const ev = lerEvento(corpo);
-  if (!ev) return resposta(400, 'evento sem id, tipo ou e-mail');
+  if (!ev) { await registrarRecusa('evento sem id, tipo ou e-mail', corpo, hottok); return resposta(400, 'evento sem id, tipo ou e-mail'); }
 
   const produtoEsperado = Deno.env.get('HOTMART_PRODUTO_ID');
   if (produtoEsperado && ev.produto && ev.produto !== produtoEsperado) return resposta(200, 'outro produto: ignorado');
