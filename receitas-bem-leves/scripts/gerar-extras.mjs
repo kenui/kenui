@@ -20,7 +20,8 @@ const normal = receitas.filter((r) => r.categoria !== 'ceia');
 // Primeiro as 6 da página de vendas; depois, por categoria, as mais simples (menos ingredientes e menos tempo).
 const COTAS = { paes_substitutos: 20, cafe_da_manha: 15, lanches: 15, almoco_jantar: 25, doces_bolos: 20, ceia: 5 };
 const simplicidade = (r) => r.ingredientes.filter((i) => !i.opcional).length * 10 + r.tempo.total_min / 6;
-const escolhidas = receitas.filter((r) => r.foto).map((r) => r.id);
+const PAGINA_DE_VENDAS = ['rbl-0001', 'rbl-0002', 'rbl-0005', 'rbl-0011', 'rbl-0015', 'rbl-0016'];
+const escolhidas = [...PAGINA_DE_VENDAS];
 for (const [cat, cota] of Object.entries(COTAS)) {
   const ja = escolhidas.filter((id) => porId[id].categoria === cat).length;
   const candidatas = receitas.filter((r) => r.categoria === cat && !escolhidas.includes(r.id) && !ehAcompanhamento(r))

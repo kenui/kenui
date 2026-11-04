@@ -53,7 +53,7 @@ function Receita() {
 
   return (
     <>
-      <ImagemReceita receita={r} comFoto />
+      <ImagemReceita receita={r} grande />
       <div className="receita-cabecalho"><h2>{r.nome}</h2><p>{r.descricao}</p></div>
       <div className="fatos">
         <div className="fato"><small>Tempo</small><b>{t.total_min >= 120 ? `${Math.floor(t.total_min / 60)} h ${t.total_min % 60 ? `${t.total_min % 60} min` : ''}` : `${t.total_min} min`}</b></div>

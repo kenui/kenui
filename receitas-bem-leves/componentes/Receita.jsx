@@ -15,19 +15,23 @@ export function Etiquetas({ receita }) {
   );
 }
 
-// Na lista sempre a ilustração. Na página da receita, a foto quando existir.
-export function ImagemReceita({ receita, comFoto = false }) {
+// Foto da receita na lista e na página; a ilustração fica de reserva quando a foto não existe ou não carrega
+// (por exemplo, sem internet, numa receita que ainda não foi aberta).
+export function ImagemReceita({ receita, grande = false }) {
   const { pacote } = useApp();
   const [fotoFalhou, setFotoFalhou] = useState(false);
-  const usarFoto = comFoto && receita.foto && !fotoFalhou;
+  const usarFoto = receita.foto && !fotoFalhou;
   return (
-    <div className={`imagem${comFoto ? ' imagem-grande' : ''}`}>
-      {usarFoto
-        // eslint-disable-next-line @next/next/no-img-element
-        ? <img src={`/${receita.foto}`} alt={receita.nome} onError={() => setFotoFalhou(true)} />
-        : <Ilustracao receita={receita} ingredientes={pacote.ingredientes} />}
-      <Etiquetas receita={receita} />
-    </div>
+    <>
+      <div className={`imagem${grande ? ' imagem-grande' : ''}`}>
+        {usarFoto
+          // eslint-disable-next-line @next/next/no-img-element
+          ? <img src={`/${receita.foto}`} alt={receita.nome} loading="lazy" decoding="async" onError={() => setFotoFalhou(true)} />
+          : <Ilustracao receita={receita} ingredientes={pacote.ingredientes} />}
+        <Etiquetas receita={receita} />
+      </div>
+      {grande && usarFoto && <p className="legenda-foto">Imagem ilustrativa</p>}
+    </>
   );
 }
 
