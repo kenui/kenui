@@ -40,7 +40,12 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // Dados das telas (.txt, pedidos com ?_rsc=) e arquivos versionados: o parâmetro de busca não muda o arquivo.
-  const semBusca = url.pathname.startsWith('/_next/static/') || url.pathname.endsWith('.txt');
-  e.respondWith(caches.match(req, { ignoreSearch: semBusca }).then((achado) => achado || fetch(req)));
+  // Dados das telas (.txt, pedidos com ?_rsc=): internet primeiro, para nunca abrir uma tela de versão antiga;
+  // sem internet, usa a cópia guardada.
+  if (url.pathname.endsWith('.txt')) {
+    e.respondWith(fetch(req).catch(async () => (await caches.match(req, { ignoreSearch: true })) || Response.error()));
+    return;
+  }
+  // Arquivos versionados (_next/static): o nome muda a cada versão, então a cópia guardada sempre serve.
+  e.respondWith(caches.match(req, { ignoreSearch: url.pathname.startsWith('/_next/static/') }).then((achado) => achado || fetch(req)));
 });

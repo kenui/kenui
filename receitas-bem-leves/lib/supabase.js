@@ -35,9 +35,12 @@ export async function pedirAcesso(email) {
   return { ok: false, motivo: 'erro' };
 }
 
+// Devolve '' quando entrou, ou a mensagem do Supabase (mostrada pequena na tela para diagnóstico).
 export async function entrarComCodigo(email, codigo) {
-  const { error } = await supabase().auth.verifyOtp({ email, token: codigo.trim(), type: 'email' });
-  return !error;
+  const token = codigo.replace(/\D/g, '');
+  let { error } = await supabase().auth.verifyOtp({ email, token, type: 'email' });
+  if (error) ({ error } = await supabase().auth.verifyOtp({ email, token, type: 'magiclink' }));
+  return error ? String(error.message || error.code || 'erro') : '';
 }
 
 export async function entrarComLink(tokenHash) {

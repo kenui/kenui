@@ -40,9 +40,9 @@ function Entrar() {
     e.preventDefault();
     setErro('');
     setEnviando(true);
-    const ok = await entrarComCodigo(email, codigo);
+    const falha = await entrarComCodigo(email, codigo);
     setEnviando(false);
-    if (!ok) { setErro('Código errado ou vencido. Confira os números ou peça um novo e-mail.'); return; }
+    if (falha) { setErro(`Código errado ou vencido. Use o código do e-mail mais recente ou peça um novo. (detalhe: ${falha})`); return; }
     await recarregar();
     router.replace(depois);
   }
