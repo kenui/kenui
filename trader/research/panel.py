@@ -22,17 +22,11 @@ PANEL = HERE.parent / "data" / "panel"
 UNIVERSE = json.loads((HERE / "universe.json").read_text())
 
 
-def build(u: dict) -> str:
-    out = PANEL / f"{u['fut']}.parquet"
-    if out.exists():
-        return f"{u['fut']} cached"
-    s = v.fetch("spot", "klines", u["spot"], START, END, "5m")
-    f = v.fetch("futures/um", "klines", u["fut"], START, END, "5m")
-    p = v.fetch("futures/um", "premiumIndexKlines", u["fut"], START, END, "5m")
-    fr = v.fetch("futures/um", "fundingRate", u["fut"], START, END)
-    m = v.fetch("futures/um", "metrics", u["fut"], START, END)
+def merge(u: dict, s, f, p, fr, m, funding_time_col: bool = False):
+    """Join raw spot/futures/premium/funding/metrics frames into the 5-minute panel format.
+    Used by both the historical panel and the live bot, so both see identical columns."""
     if s.empty or f.empty:
-        return f"{u['fut']} EMPTY"
+        return None
     idx = pd.date_range(s.index[0], s.index[-1], freq="5min")
     df = pd.DataFrame(index=idx)
     df.index.name = "time"
@@ -74,6 +68,21 @@ def build(u: dict) -> str:
         df["oi"] = df["oi"] / k
     df = df.astype({c: "float32" for c in df.columns if c not in ("traded", "open", "high", "low", "close",
                                                                  "f_open", "f_high", "f_low", "f_close")})
+    return df
+
+
+def build(u: dict) -> str:
+    out = PANEL / f"{u['fut']}.parquet"
+    if out.exists():
+        return f"{u['fut']} cached"
+    s = v.fetch("spot", "klines", u["spot"], START, END, "5m")
+    f = v.fetch("futures/um", "klines", u["fut"], START, END, "5m")
+    p = v.fetch("futures/um", "premiumIndexKlines", u["fut"], START, END, "5m")
+    fr = v.fetch("futures/um", "fundingRate", u["fut"], START, END)
+    m = v.fetch("futures/um", "metrics", u["fut"], START, END)
+    df = merge(u, s, f, p, fr, m)
+    if df is None:
+        return f"{u['fut']} EMPTY"
     PANEL.mkdir(parents=True, exist_ok=True)
     df.to_parquet(out)
     return f"{u['fut']} {len(df)} rows {df.index[0]:%Y-%m-%d}->{df.index[-1]:%Y-%m-%d} oi_nan={df['oi'].isna().mean():.3f} prem_nan={df['prem'].isna().mean():.3f}"

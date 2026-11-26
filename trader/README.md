@@ -39,6 +39,10 @@ Custos usados: spot com taxa em BNB, 0,075% + 0,03% de spread por lado (0,21% id
 | ML só nos momentos extremos (previsão de 1h acima de +0,5%) | Candidato. Pesquisa: +18,8% em 12 meses, 406 operações, pior queda -18%. Prova final trancada: +8,8% em 5 meses (mercado -7,5%), 87 operações em 16 dias, média +0,49% por operação já com custos, t=2,4. Amostra pequena. |
 | Vender (short) moedas recém-listadas 24h após a listagem, 7 dias, stop de 30% | +7% por operação depois de custos e funding, 190 casos desde 2023, t=3,7. Exige futuros ou margem (não é spot) e não é day trade. |
 | Comprar listagens novas | Perde: em média -7% contra o BTC na primeira semana. |
+| Mesmo sinal com ordem limite em pares FDUSD (taxa zero de maker) | Piora: a ordem só executa quando o preço continua caindo, e os pares são pouco líquidos. Fica ordem a mercado no par USDT. |
+| Regra simples de repique pós-liquidação (queda forte + volume + funding/open interest) | Inconsistente: perde na pesquisa, só as versões mais extremas ficam positivas. O ML faz uma versão mais afiada disso. |
+| Rompimento da faixa de abertura de Nova York | Perde: -0,22% por operação na pesquisa e -0,39% no período trancado (t = -5,9 e -5,1). |
+| Cash-and-carry, funding negativo, arbitragem entre corretoras | Não testável na conta atual: a Binance não oferece futuros a residentes no Brasil. |
 
 Como reproduzir:
 
@@ -51,7 +55,20 @@ python -m research.rules                                     # operações e cus
 python -m research.ml holdout                                # prova final (não reutilizar para ajustar nada)
 ```
 
+## Passo 3: robô de papel (`paper_bot.py`)
+
+Roda o candidato do passo 2 ao vivo com dinheiro fictício: a cada 5 minutos baixa dados públicos, calcula os mesmos sinais (teste `tests/test_live_parity.py` garante que batem com a pesquisa), e simula compra/venda no preço real de compra/venda com taxa de 0,075% por lado. Sem chave de API, sem ordens reais.
+
+Instalar num servidor Ubuntu fora dos EUA (como root):
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/kenui/kenui/master/trader/deploy/install.sh | bash
+```
+
+O robô roda com usuário próprio, sem abrir portas, limitado a meia CPU e 1,5 GB de RAM. Usa cerca de 0,65 GB e 5 segundos de CPU a cada 5 minutos. Ver o resultado: `sudo -u kenuibot /opt/kenui-trader/trader/.venv/bin/python /opt/kenui-trader/trader/paper_bot.py --report`. Remover tudo: `bash /opt/kenui-trader/trader/deploy/uninstall.sh`.
+
+Ensaio sem rede: `python -m research.replay` confere que a previsão do robô é idêntica à da pesquisa e que a contabilidade bate com o backtest.
+
 ## Próximos passos
 
-3. Bot 24h com dinheiro fictício no servidor.
 4. Dinheiro real com travas de risco e chave de API sem permissão de saque.
