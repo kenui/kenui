@@ -39,12 +39,12 @@ def as_days(r: np.ndarray, unit: float) -> Trades:
 
 def controller(name: str, design: np.ndarray) -> Controller:
     """Policy solved on `design` (never the data it is judged on)."""
-    vals, probs = bbc.outcome_distribution(design, bin_r=0.25)
-    kw = dict(trades_per_day=1.0, discount=0.9995, actions=VOL_MENU)
+    vals, probs = bbc.outcome_distribution(np.clip(design, -4, 4), bin_r=0.5)
+    kw = dict(trades_per_day=1.0, discount=0.999, actions=VOL_MENU, sweeps=1200, tol=1e-5)
     barrier = {0: bbc.solve_evaluation(vals, probs, Q.phase1_target, **kw),
                1: bbc.solve_evaluation(vals, probs, Q.phase2_target, **kw)}
     return Controller(name, 0.0, "bellman", daily_kill=Q.hard_daily_kill, cap_to_kill=True, funded="harvest",
-                      payout="trigger", barrier=barrier, harvest=dbs.solve_funded(vals, probs, actions=FUNDED_MENU))
+                      payout="trigger", barrier=barrier, harvest=dbs.solve_funded(vals, probs, actions=FUNDED_MENU, sweeps=4000, tol=1e-7))
 
 
 def journey(name: str, days: Trades, design: np.ndarray, paths: int) -> dict:
@@ -72,11 +72,14 @@ def main(paths: int = Q.mc_paths) -> pd.DataFrame:
     pd.set_option("display.width", 250)
     rng = np.random.default_rng(Q.seed)
     rows = []
-    for s in (0.0, 0.5, 1.0, 1.5, 2.0, 3.0):
+    for s in (0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0):
         mu = s / np.sqrt(365)
-        design = rng.standard_t(5, 4000) / np.sqrt(5 / 3) + mu * 0.5         # designed for half the Sharpe
-        days = as_days(rng.standard_t(5, 3000) / np.sqrt(5 / 3) + mu, 1.0)
+        x = rng.standard_t(5, 4000)
+        design = (x - x.mean()) / x.std() + mu * 0.5              # designed for half the Sharpe
+        x = rng.standard_t(5, 3000)
+        days = as_days((x - x.mean()) / x.std() + mu, 1.0)     # exactly the stated Sharpe, fat tails
         rows.append({"sharpe_anual": s, **journey(f"sintetica, Sharpe {s:.1f}", days, design, paths)})
+        print(rows[-1], flush=True)
     for name, (ins, oos) in candidates().items():
         unit = float(ins.std())
         rows.append({"sharpe_anual": round(T.sharpe(oos), 2), **journey(name, as_days(oos.to_numpy(), unit), ins.to_numpy() / unit, paths),
