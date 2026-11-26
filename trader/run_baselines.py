@@ -30,12 +30,19 @@ def main():
         print("Most volatile liquid USDT pairs right now (24h):\n", ranked.to_string(), "\n")
         hv = data.historical_volatility(list(ranked["symbol"]), "1h", 90)
         print("Realized volatility, last 90 days:\n", hv.to_string(), "\n")
-        symbols = list(hv["symbol"].head(a.top))
+        symbols = list(hv["symbol"])  # walk down the list until `top` coins have enough history
 
-    rows = []
+    rows, used = [], []
     for sym in symbols:
+        if len(used) >= a.top:
+            break
         df = data.load(sym, a.interval, a.days)
         print(f"{sym}: {len(df)} candles {df.index[0]} -> {df.index[-1]}")
+        expected = a.days * pd.Timedelta(days=1) / pd.Timedelta(a.interval.replace("m", "min"))
+        if len(df) < 0.8 * expected:
+            print(f"  skipping {sym}: only {len(df)} of ~{int(expected)} candles (listed too recently)")
+            continue
+        used.append(sym)
         for name, (fn, g) in BASELINES.items():
             wf = walk_forward(df, fn, g, n_splits=4, capital=a.capital)
             if wf.empty:

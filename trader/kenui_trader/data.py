@@ -138,7 +138,8 @@ def top_volatile(n: int = 15, quote: str = "USDT", min_quote_volume: float = 20e
     tick = pd.DataFrame(_rest_get("/api/v3/ticker/24hr"))
     tick = tick[tick["symbol"].str.endswith(quote)]
     # skip stablecoin and leveraged-token pairs
-    bad = ("USDCUSDT", "FDUSDUSDT", "TUSDUSDT", "USDPUSDT", "DAIUSDT", "EURUSDT")
+    bad = ("USDCUSDT", "FDUSDUSDT", "TUSDUSDT", "USDPUSDT", "DAIUSDT", "EURUSDT",
+           "USD1USDT", "RLUSDUSDT", "UUSDT", "PAXGUSDT", "XAUTUSDT", "WBTCUSDT")
     tick = tick[~tick["symbol"].isin(bad) & ~tick["symbol"].str.contains("UP|DOWN|BULL|BEAR")]
     for c in ["highPrice", "lowPrice", "quoteVolume", "priceChangePercent", "count"]:
         tick[c] = pd.to_numeric(tick[c])
