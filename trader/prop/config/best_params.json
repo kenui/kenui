@@ -1,0 +1,92 @@
+{
+ "EURUSD": {
+  "breakout": {
+   "tf": "1h",
+   "params": {
+    "channel": 20,
+    "squeeze_q": 0.2,
+    "vol_mult": 1.5,
+    "atr_k": 1.5,
+    "rr": 3.0
+   },
+   "in_sample_t": 0.82,
+   "tried": 96
+  },
+  "reversion": {
+   "tf": "1h",
+   "params": {
+    "bb_n": 40,
+    "bb_k": 2.0,
+    "rsi_low": 35.0,
+    "atr_k": 3.0,
+    "max_bars": 24
+   },
+   "in_sample_t": 2.74,
+   "tried": 96
+  },
+  "regime": {
+   "adx_trend": 30.0,
+   "adx_range": 25.0
+  }
+ },
+ "XAUUSD": {
+  "breakout": {
+   "tf": "1h",
+   "params": {
+    "channel": 48,
+    "squeeze_q": 0.2,
+    "vol_mult": 1.0,
+    "atr_k": 2.5,
+    "rr": 1.5
+   },
+   "in_sample_t": 1.73,
+   "tried": 96
+  },
+  "reversion": {
+   "tf": "1h",
+   "params": {
+    "bb_n": 40,
+    "bb_k": 2.5,
+    "rsi_low": 35.0,
+    "atr_k": 1.5,
+    "max_bars": 8
+   },
+   "in_sample_t": 1.05,
+   "tried": 96
+  },
+  "regime": {
+   "adx_trend": 20.0,
+   "adx_range": 15.0
+  }
+ },
+ "BTCUSD": {
+  "breakout": {
+   "tf": "4h",
+   "params": {
+    "channel": 48,
+    "squeeze_q": 0.2,
+    "vol_mult": 1.5,
+    "atr_k": 1.5,
+    "rr": 1.5
+   },
+   "in_sample_t": 0.95,
+   "tried": 96
+  },
+  "reversion": {
+   "tf": "4h",
+   "params": {
+    "bb_n": 20,
+    "bb_k": 2.5,
+    "rsi_low": 35.0,
+    "atr_k": 1.5,
+    "max_bars": 24
+   },
+   "in_sample_t": 0.16,
+   "tried": 96
+  },
+  "regime": {
+   "adx_trend": 20.0,
+   "adx_range": 20.0
+  }
+ }
+}
