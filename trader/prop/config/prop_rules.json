@@ -63,5 +63,18 @@
     "dias_minimos": 0,
     "conferido_no_site": "2026-11-26",
     "observacao": "Melhor relacao perda/meta (8 para 8). Teto de 2% de lucro por dia e so metade do lucro pode ser sacada. O robo ainda nao trata meta_fase2 igual a zero."
+  },
+  "cryptofundtrader": {
+    "nome": "Crypto Fund Trader, 2 fases, pela Bybit",
+    "meta_fase1": 0.08,
+    "meta_fase2": 0.05,
+    "perda_diaria": 0.05,
+    "perda_total": 0.1,
+    "divisao_lucro": 0.8,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "UTC",
+    "dias_minimos": 5,
+    "conferido_no_site": "2026-11-26",
+    "observacao": "Robo permitido (menos alta frequencia, tick scalping e arbitragem). So contratos USDT, nada de spot. Perdas medidas pelo patrimonio; o dia vira 00:05 UTC. Sem prazo e sem regra de inatividade publicada. Proibido posicao oposta na mesma moeda em menos de 24 h. Lucro maximo de US$ 10 mil por dia ou por operacao."
   }
 }
