@@ -40,7 +40,7 @@ def _kl(rows) -> pd.DataFrame:
     if not rows:
         return pd.DataFrame(columns=KEEP)
     df = pd.DataFrame(rows).iloc[:, :12].set_axis(KC, axis=1)
-    df.index = pd.to_datetime(pd.to_numeric(df["open_time"]), unit="ms", utc=True)
+    df.index = pd.DatetimeIndex(pd.to_datetime(pd.to_numeric(df["open_time"]), unit="ms", utc=True))
     df.index.name = "time"
     return df[KEEP].apply(pd.to_numeric, errors="coerce")
 
@@ -70,7 +70,7 @@ def funding(sym, limit=200):
     df = pd.DataFrame(rows)
     if df.empty:
         return pd.DataFrame(columns=["funding_interval_hours", "last_funding_rate"])
-    df.index = pd.to_datetime(pd.to_numeric(df["fundingTime"]), unit="ms", utc=True).floor("min")
+    df.index = pd.DatetimeIndex(pd.to_datetime(pd.to_numeric(df["fundingTime"]), unit="ms", utc=True)).floor("min")
     df.index.name = "time"
     return pd.DataFrame({"funding_interval_hours": np.nan,
                          "last_funding_rate": pd.to_numeric(df["fundingRate"])}, index=df.index)
@@ -91,7 +91,7 @@ def metrics(sym, limit=30, start=None):
         df = pd.DataFrame(rows)
         if df.empty:
             continue
-        df.index = pd.to_datetime(pd.to_numeric(df["timestamp"]), unit="ms", utc=True).floor("5min")
+        df.index = pd.DatetimeIndex(pd.to_datetime(pd.to_numeric(df["timestamp"]), unit="ms", utc=True)).floor("5min")
         for a, b in cols.items():
             out[b] = pd.to_numeric(df[a])
     m = pd.DataFrame(out)
