@@ -72,3 +72,34 @@ Ensaio sem rede: `python -m research.replay` confere que a previsão do robô é
 ## Próximos passos
 
 4. Dinheiro real com travas de risco e chave de API sem permissão de saque.
+
+## Concentrated liquidity research (`defi/`) — 2026-11-26
+
+Question: with US$ 60, do pool fees beat impermanent loss + gas + rebalancing costs
+when a volatility forecast sets the range? Read-only research, no wallet.
+
+Data: exact on-chain history from Base (archive RPC `mainnet.base.org`, one Multicall per
+snapshot: `slot0`, `liquidity`, `feeGrowthGlobal0/1X128`), 370 days, 10-20 minute bars.
+`feeGrowthGlobal` is the real fee paid per unit of in-range liquidity, so no volume/TVL guessing.
+
+Key test (independent of range width): fees earned by one unit of in-range liquidity vs its
+loss against simply holding the coins (`(Δ√p)²/√p`, i.e. about `return²/8`).
+
+| pool | fee/loss 12 months | fee/loss holdout (Aug 25 - Nov 26) |
+|---|---|---|
+| Uniswap v3 Base WETH/USDC 0.05% | 0.92 | 0.81 |
+| Uniswap v3 Base WETH/USDC 0.30% | 1.15 | 1.06 |
+| Uniswap v3 Base cbBTC/USDC 0.05% | 0.84 | 0.77 |
+| Aerodrome WETH/USDC, staked (AERO rewards / loss, Jul-Nov 2026 only) | 0.54 old pool, 1.07 new pool | - |
+| Orca SOL/USDC 0.04% (approximation from DefiLlama fees, validated on Base: 0.89 vs exact 0.92) | ~0.9 | - |
+
+Findings:
+- Fees and loss are almost equal everywhere: the market prices liquidity efficiently.
+- Next-4h volatility (corr 0.54-0.85) and fees (0.62-0.89) are both predictable out of sample,
+  but they move together, so the fee/loss ratio is not: no quintile of "predicted good hours" is reliably above 1.
+- Narrow or frequently re-centred ranges lose heavily (each exit locks in the loss); the least bad
+  choice is a wide passive range, which ends within a few % of holding 50/50.
+- Gas on Base is ~US$ 0.01 per transaction and is not the problem.
+
+Run: `python -m defi.download`, `python -m defi.research <pool> [--holdout]`, `python -m defi.solana_proxy`.
+The holdout has been looked at once; do not tune on it.
