@@ -140,3 +140,41 @@ Resultado da versão 1 (fora da amostra, set/2025 a nov/2026, conta com os 3 mer
 - Régua: operações de cara ou coroa sem custo passam a fase 1 em 50% das vezes. Perder 0,05 do risco por operação derruba para 28%; ganhar 0,10 sobe para 89%. A trava total de 6% reduz a chance de passar, porque encerra tentativas que ainda poderiam se recuperar.
 
 Candidato da pesquisa anterior nas regras da mesa (`prop/candidates/listing_short.py`): vender o contrato perpétuo 24 h após a listagem na Binance, segurar 7 dias, stop de 30%. Com 1% de risco: 190 operações, +0,28 do risco por operação (t = 4,2), pior queda de -8,9%. Começando o desafio em cada dia real desde 2023, passou a fase 1 em 83% dos inícios e as duas fases em 80%, mediana de 143 dias, sem nenhuma reprovação (o resto não bateu a meta em um ano). Ressalvas: a regra foi escolhida olhando esse mesmo histórico, o funding não está incluído, e ela exige uma mesa de cripto com contratos perpétuos e API.
+
+## Quant V5, versão final (pasta `prop/`) — 2026-11-26
+
+Tudo roda com um comando (precisa de `pip install -r requirements-quant.txt`):
+
+```bash
+python -m prop.quant_main              # relatório completo e painel em prop/output/
+python -m prop.quant_main --rebuild    # reajusta todos os modelos (cerca de 25 minutos, mais 40 do CPCV)
+python -m prop.live.rehearsal          # ensaia o robô de listagem no histórico real
+python -m prop.live.listing_paper      # robô de listagem com dinheiro de mentira
+```
+
+Peças:
+
+- `prop/features/`, `prop/models/`, `prop/labeling/`: features estacionárias, microestrutura (Amihud, VPIN), diferenciação fracionária, Hurst, meia-vida OU, HMM de 3 regimes com probabilidades filtradas (sem olhar o futuro), rótulos de tripla barreira com limite de calor (MAE), ensemble XGBoost + regressão logística + extra trees com intervalo conformal.
+- `prop/extensions/atemporal_aci.py`: assinaturas de caminho de ordem 3 (41 features) e o controlador conformal adaptativo (ACI). O ACI aprende com todo sinal cujo resultado já é conhecido, operado ou não.
+- `prop/risk/`: controlador de Bellman para as fases do desafio, solver de saques para a conta financiada, CUSUM de deriva, trava diária de 3,2%.
+- `prop/backtest/walk_forward.py`: treina em 6 meses, testa no mês seguinte, com purga e embargo. `prop/validation/`: CPCV, Deflated Sharpe e PBO.
+- `prop/backtest/monte_carlo_prop.py`: 10.000 contas pela jornada inteira (Fase 1, Fase 2, 12 meses financiada), com bootstrap em blocos.
+- `prop/persistence/state_store.py` (SQLite em modo WAL), `prop/execution/mt5_socket_bridge.py` e `prop/mql5/PropGuardV5_Executor.mq5`: ponte e robô executor para MetaTrader 5. O EA ainda não foi compilado nem testado num MetaTrader.
+- `prop/live/listing_paper.py`: teste ao vivo com dinheiro de mentira do único alfa com vantagem medida, numa conta de desafio simulada.
+
+Resultado (jan/2023 a nov/2026, 39 meses fora da amostra, EUR/USD, ouro e BTC por substitutos da Binance):
+
+| Versão | Trades | Resultado médio por trade (em risco) | Aprovação nas 2 fases | Valor esperado por tentativa de US$ 50 |
+|---|---|---|---|---|
+| V1 sinais primários | 1.597 | -0,08 | 4% | -US$ 40 |
+| V2 HMM + meta | 387 | -0,09 | 4% | -US$ 40 |
+| V3 calibrado + fases | 44 | -0,05 | 9% | -US$ 38 |
+| V4 conformal + Bellman | 465 | -0,09 | 1% | -US$ 48 |
+| V5 base | 56 | +0,02 | 14% (em 7 anos) | -US$ 38 |
+| V5 + assinaturas e ACI | 13 | -0,10 | não opera o suficiente | -US$ 50 |
+| V5 + alfa de listagem | 190 | +0,24 | 99% (87% com metade da vantagem) | cerca de +US$ 1.100 (teórico) |
+
+- Os sinais de rompimento e reversão em euro, ouro e BTC não têm vantagem depois dos custos, e nenhum filtro de aprendizado de máquina criou uma. Deflated Sharpe de todas as versões: 0. No CPCV, o V5 base perdeu nos 5 caminhos; com assinaturas e ACI, 2 de 5 positivos e média negativa.
+- O ACI fez o que deve: percebeu que as probabilidades do modelo não se confirmavam e fechou a porta (13 operações em 3 anos).
+- O controlador V5 funciona quando recebe um alfa de verdade. Com o short de listagem (custos e funding incluídos), começando um desafio em cada listagem real: 83% chegaram à conta financiada, nenhuma reprovação, 17% ficaram sem histórico suficiente, mediana de 124 dias. Com risco fixo de 1%: 78%.
+- Ressalvas do alfa de listagem: regra escolhida entre 36 variantes no mesmo histórico (Deflated Sharpe 0,90, PBO 0,29, todas as 36 positivas); 2024 e 2026 foram fracos (+0,09 e +0,07 por trade); cerca de 50 operações por ano; exige mesa de cripto com contratos perpétuos, não serve para MetaTrader com euro e ouro.
