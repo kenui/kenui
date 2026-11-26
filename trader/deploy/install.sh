@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# Installs the PAPER (fake money) trading bot as a 24/7 service on Ubuntu.
+# Installs the two PAPER (fake money) bots as 24/7 services on Ubuntu:
+#   kenui-paper    the machine-learning dip buyer
+#   kenui-listing  the listing short on a simulated prop-firm challenge
 # No API keys, no real orders: it only reads public market data.
 #
 # Safe to run next to other software on the same server:
@@ -69,10 +71,40 @@ PrivateTmp=true
 WantedBy=multi-user.target
 UNIT
 
+cat > /etc/systemd/system/kenui-listing.service <<UNIT
+[Unit]
+Description=Kenui listing-short paper bot (fake money, public data only, simulated prop challenge)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=$BOTUSER
+WorkingDirectory=$DIR/trader
+ExecStart=$DIR/trader/.venv/bin/python -m prop.live.listing_paper
+Restart=always
+RestartSec=60
+CPUQuota=25%
+MemoryMax=400M
+Nice=15
+IOSchedulingClass=idle
+Environment=OMP_NUM_THREADS=1
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=$DIR/trader/data
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
+UNIT
+
 systemctl daemon-reload
-systemctl enable kenui-paper.service
-systemctl restart kenui-paper.service
+systemctl enable kenui-paper.service kenui-listing.service
+systemctl restart kenui-paper.service kenui-listing.service
 echo "== started. First cycle takes 3-6 minutes (downloads 41 days of history). Showing the log: =="
 sleep 330
 journalctl -u kenui-paper.service --no-pager -n 400 --since "-6min" | grep -E "failed|cycle|PAPER|stale|Traceback|Error" | tail -n 15 || true
+echo "== Listing bot (second service): =="
+journalctl -u kenui-listing.service --no-pager -n 20 | tail -n 6 || true
+echo "== Listing report:  sudo -u $BOTUSER bash -c 'cd $DIR/trader && .venv/bin/python -m prop.live.listing_paper --report' =="
 echo "== Report any time with:  sudo -u $BOTUSER $DIR/trader/.venv/bin/python $DIR/trader/paper_bot.py --report =="
