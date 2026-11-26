@@ -6,6 +6,7 @@ are judged only on these never-seen-before predictions.
 """
 from __future__ import annotations
 
+import gc
 import sys
 
 import lightgbm as lgb
@@ -41,7 +42,12 @@ def run(first_test="2025-07-01", last_test="2026-06-30", tag="research", train_s
             y = tr[tgt].astype("float64")
             scale = y.std()
             y = (y / scale).clip(-5, 5)                                           # tame crazy candles
-            model = lgb.train(PARAMS, lgb.Dataset(tr[feats], y), ROUNDS)
+            ds = lgb.Dataset(tr[feats].to_numpy(dtype="float32"), y.to_numpy(), feature_name=feats)
+            ds.construct()
+            del tr, y
+            gc.collect()
+            model = lgb.train(PARAMS, ds, ROUNDS)
+            del ds
             res["pred_" + tgt[4:]] = model.predict(test[feats]) * scale
             imp += pd.Series(model.feature_importance("gain"), index=feats)
         ic = {t: res[f"pred_{t[4:]}"].corr(res[t], method="spearman") for t in TARGETS}
@@ -67,7 +73,7 @@ def report(tag="research"):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "holdout":
-        run("2026-07-01", "2026-11-24", "holdout")
+        run("2026-07-01", "2026-11-24", "holdout", train_step=4)
         report("holdout")
     else:
         run()
