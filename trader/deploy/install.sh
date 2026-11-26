@@ -28,7 +28,7 @@ fi
 id "$BOTUSER" >/dev/null 2>&1 || useradd --system --home-dir "$DIR" --shell /usr/sbin/nologin "$BOTUSER"
 git ls-remote --exit-code --heads https://github.com/kenui/kenui.git "$BRANCH" >/dev/null 2>&1 || BRANCH=master
 if [ -d "$DIR/.git" ]; then
-  git -C "$DIR" fetch --depth 1 origin "$BRANCH" && git -C "$DIR" checkout -q -B "$BRANCH" FETCH_HEAD
+  git -c safe.directory="$DIR" -C "$DIR" fetch --depth 1 origin "$BRANCH" && git -c safe.directory="$DIR" -C "$DIR" checkout -q -f -B "$BRANCH" FETCH_HEAD
 else
   git clone -q --branch "$BRANCH" --depth 1 https://github.com/kenui/kenui.git "$DIR"
 fi
@@ -70,8 +70,9 @@ WantedBy=multi-user.target
 UNIT
 
 systemctl daemon-reload
-systemctl enable --now kenui-paper.service
+systemctl enable kenui-paper.service
+systemctl restart kenui-paper.service
 echo "== started. First cycle takes 3-6 minutes (downloads 41 days of history). Showing the log: =="
-sleep 240
-journalctl -u kenui-paper.service --no-pager -n 12 || true
+sleep 330
+journalctl -u kenui-paper.service --no-pager -n 400 --since "-6min" | grep -E "failed|cycle|PAPER|stale|Traceback|Error" | tail -n 15 || true
 echo "== Report any time with:  sudo -u $BOTUSER $DIR/trader/.venv/bin/python $DIR/trader/paper_bot.py --report =="
