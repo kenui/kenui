@@ -1,51 +1,67 @@
 {
-  "_aviso": "Regras resumidas de desafios de 2 fases. As mesas mudam as regras com frequencia: confira no site da mesa antes de usar e ajuste aqui.",
+  "_aviso": "Regras resumidas, lidas nos sites das mesas em 26/11/2026. As mesas mudam as regras com frequencia: confira de novo antes de pagar um desafio.",
   "padrao": {
     "nome": "Desafio generico de 2 fases",
     "meta_fase1": 0.08,
     "meta_fase2": 0.05,
     "perda_diaria": 0.05,
-    "perda_total": 0.10,
-    "divisao_lucro": 0.80,
+    "perda_total": 0.1,
+    "divisao_lucro": 0.8,
     "gatilho_saque": 0.045,
     "fuso_do_dia": "Europe/Prague",
     "dias_minimos": 0,
     "conferido_no_site": false
   },
   "ftmo": {
-    "nome": "FTMO, desafio de 2 fases",
-    "meta_fase1": 0.10,
+    "nome": "FTMO, desafio de 2 fases, conta tipo Swing",
+    "meta_fase1": 0.1,
     "meta_fase2": 0.05,
     "perda_diaria": 0.05,
-    "perda_total": 0.10,
-    "divisao_lucro": 0.80,
+    "perda_total": 0.1,
+    "divisao_lucro": 0.8,
     "gatilho_saque": 0.045,
     "fuso_do_dia": "Europe/Prague",
     "dias_minimos": 4,
-    "conferido_no_site": false
+    "conferido_no_site": "2026-11-26",
+    "observacao": "Unica em que um robo lento fica livre ate a fase financiada: fim de semana e noticias liberados no tipo Swing. Taxa de 89 euros na conta de 10 mil, devolvida ao aprovar."
   },
   "the5ers": {
-    "nome": "The5ers, High Stakes de 2 fases",
-    "meta_fase1": 0.08,
+    "nome": "The5ers, High Stakes de 2 fases (contas de 2,5 a 25 mil)",
+    "meta_fase1": 0.1,
     "meta_fase2": 0.05,
     "perda_diaria": 0.05,
-    "perda_total": 0.10,
-    "divisao_lucro": 0.80,
+    "perda_total": 0.1,
+    "divisao_lucro": 0.8,
     "gatilho_saque": 0.045,
     "fuso_do_dia": "Etc/GMT-2",
     "dias_minimos": 3,
-    "conferido_no_site": false
+    "conferido_no_site": "2026-11-26",
+    "observacao": "Exige 3 dias lucrativos de 0,5% por fase, aprovacao previa do robo por escrito e nada de execucao a 2 minutos de noticias."
   },
   "fundednext": {
     "nome": "FundedNext, Stellar de 2 fases",
     "meta_fase1": 0.08,
     "meta_fase2": 0.05,
     "perda_diaria": 0.05,
-    "perda_total": 0.10,
-    "divisao_lucro": 0.80,
+    "perda_total": 0.1,
+    "divisao_lucro": 0.8,
     "gatilho_saque": 0.045,
     "fuso_do_dia": "Etc/GMT-2",
     "dias_minimos": 5,
-    "conferido_no_site": false
+    "conferido_no_site": "2026-11-26",
+    "observacao": "Robo e um adicional pago e so em contas abaixo de 50 mil. Financiada: risco aberto maximo de 3%. Inatividade de 60 dias."
+  },
+  "e8_pro": {
+    "nome": "E8 Pro, 1 fase",
+    "meta_fase1": 0.08,
+    "meta_fase2": 0.0,
+    "perda_diaria": 0.025,
+    "perda_total": 0.08,
+    "divisao_lucro": 0.8,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "Etc/GMT-2",
+    "dias_minimos": 0,
+    "conferido_no_site": "2026-11-26",
+    "observacao": "Melhor relacao perda/meta (8 para 8). Teto de 2% de lucro por dia e so metade do lucro pode ser sacada. O robo ainda nao trata meta_fase2 igual a zero."
   }
 }

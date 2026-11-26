@@ -37,7 +37,7 @@ def test_rebalance_band():
 
 
 def test_rules_file_has_every_firm():
-    for firm in ("padrao", "ftmo", "the5ers", "fundednext"):
+    for firm in ("padrao", "ftmo", "the5ers", "fundednext"):  # e8_pro has a single phase
         r = M.load_rules(firm)
         assert 0 < r["meta_fase2"] < r["meta_fase1"] <= 0.10 and r["perda_diaria"] < r["perda_total"]
 
