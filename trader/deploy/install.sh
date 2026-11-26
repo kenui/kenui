@@ -8,6 +8,7 @@ BRANCH="${BRANCH:-claude/project-thread-yf5ysa}"
 DIR=/opt/kenui-trader
 
 apt-get update -y && apt-get install -y git python3-venv python3-pip libgomp1
+git ls-remote --exit-code --heads https://github.com/kenui/kenui.git "$BRANCH" >/dev/null 2>&1 || BRANCH=master   # branch merged and deleted -> use master
 if [ -d "$DIR/.git" ]; then
   git -C "$DIR" fetch origin "$BRANCH" && git -C "$DIR" checkout -B "$BRANCH" FETCH_HEAD
 else
