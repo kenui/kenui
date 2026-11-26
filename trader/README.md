@@ -103,3 +103,40 @@ Findings:
 
 Run: `python -m defi.download`, `python -m defi.research <pool> [--holdout]`, `python -m defi.solana_proxy`.
 The holdout has been looked at once; do not tune on it.
+
+## Mesa proprietária (pasta `prop/`) — 2026-11-26
+
+Objetivo: um robô que passe num desafio de mesa proprietária de 2 fases (meta de 8% e depois 5%, perda diária máxima de 5%, perda total máxima de 10%) e depois renda na conta financiada.
+
+Estrutura:
+
+- `prop/config/settings.py`: mercados, custos simulados, regras da mesa e limites de risco.
+- `prop/data/data_loader.py`: velas de 15 minutos de jan/2023 a nov/2026. A nuvem só alcança a Binance, então cada mercado usa um substituto: EURUSDT para EUR/USD, PAXGUSDT (ouro tokenizado, correlação de 0,98 com o contrato de ouro) para XAU/USD e BTCUSDT. Fins de semana são removidos de euro e ouro.
+- `prop/strategies/`: detector de regime (ADX, ATR, largura de Bollinger), Motor 1 (rompimento após compressão, Londres e Nova York), Motor 2 (reversão à média na sessão asiática) e o controlador híbrido. Cada motor pode rodar em 15 min, 1 h ou 4 h, com as ordens sempre simuladas nas velas de 15 min.
+- `prop/risk/risk_manager.py`: risco fixo por operação, trava diária de 3%, trava total de 6%, metade do risco após 2 stops no dia, bloqueio em horário de notícia e após vela muito larga.
+- `prop/backtest/engine.py`: simulação da conta vela a vela, compra e venda, com custo, swap, stop antes do alvo e pior caso dentro da vela para os limites da mesa.
+- `prop/backtest/montecarlo.py`: desafio simulado milhares de vezes (fase 1, fase 2 e 6 meses de conta financiada).
+- `prop/main.py`: ajusta parâmetros só nos primeiros 70% do histórico e julga nos 30% finais.
+
+```bash
+python -m prop.main --optimize     # reajusta os parâmetros (cerca de 6 minutos)
+python -m prop.main                # usa prop/config/best_params.json
+python -m prop.robustness          # mede o quanto o ajuste "decorou o passado"
+python -m prop.candidates.listing_short
+```
+
+Resultado da versão 1 (fora da amostra, set/2025 a nov/2026, conta com os 3 mercados):
+
+| Simulação | Trades | Retorno | Pior queda | Profit factor | Mesa |
+|---|---|---|---|---|---|
+| 1 Rompimento | 129 | -24,5% | -27,2% | 0,70 | reprovou |
+| 2 Reversão | 186 | -24,2% | -25,7% | 0,75 | reprovou |
+| 3 Híbrido | 46 | +1,9% | -5,7% | 1,08 | não bateu a meta |
+| 4 Híbrido + travas | 45 | +0,9% | -4,0% | 1,07 | não bateu a meta |
+
+- Em velas de 15 minutos o custo consome de 0,15 a 0,25 do risco de cada operação, e tudo perde. Em 1 h e 4 h o custo cai para poucos centésimos.
+- O ajuste decorou o passado: das 576 configurações, o ranking de dentro da amostra quase não prevê o de fora (correlação de 0,19), e só 44% das lucrativas dentro continuaram lucrativas fora.
+- Monte Carlo com as operações de fora da amostra: 19% de chance de passar a fase 1 em um ano e 8% de chegar à conta financiada. Valor esperado por tentativa: cerca de -US$ 47 para uma taxa de US$ 60.
+- Régua: operações de cara ou coroa sem custo passam a fase 1 em 50% das vezes. Perder 0,05 do risco por operação derruba para 28%; ganhar 0,10 sobe para 89%. A trava total de 6% reduz a chance de passar, porque encerra tentativas que ainda poderiam se recuperar.
+
+Candidato da pesquisa anterior nas regras da mesa (`prop/candidates/listing_short.py`): vender o contrato perpétuo 24 h após a listagem na Binance, segurar 7 dias, stop de 30%. Com 1% de risco: 190 operações, +0,28 do risco por operação (t = 4,2), pior queda de -8,9%. Começando o desafio em cada dia real desde 2023, passou a fase 1 em 83% dos inícios e as duas fases em 80%, mediana de 143 dias, sem nenhuma reprovação (o resto não bateu a meta em um ano). Ressalvas: a regra foi escolhida olhando esse mesmo histórico, o funding não está incluído, e ela exige uma mesa de cripto com contratos perpétuos e API.
