@@ -1,0 +1,242 @@
+[
+ {
+  "fut": "BTCUSDT",
+  "spot": "BTCUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 671800072318.6042
+ },
+ {
+  "fut": "ETHUSDT",
+  "spot": "ETHUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 404078270626.8137
+ },
+ {
+  "fut": "XRPUSDT",
+  "spot": "XRPUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 170014017980.25174
+ },
+ {
+  "fut": "DOGEUSDT",
+  "spot": "DOGEUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 110072581734.38489
+ },
+ {
+  "fut": "SOLUSDT",
+  "spot": "SOLUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 109211283396.51399
+ },
+ {
+  "fut": "1000PEPEUSDT",
+  "spot": "PEPEUSDT",
+  "mult": 1000,
+  "dec24_quote_vol": 66393307593.25529
+ },
+ {
+  "fut": "SUIUSDT",
+  "spot": "SUIUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 36819660477.19899
+ },
+ {
+  "fut": "BNBUSDT",
+  "spot": "BNBUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 31804606299.453598
+ },
+ {
+  "fut": "ADAUSDT",
+  "spot": "ADAUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 29687128034.721607
+ },
+ {
+  "fut": "LINKUSDT",
+  "spot": "LINKUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 27937862834.884174
+ },
+ {
+  "fut": "HBARUSDT",
+  "spot": "HBARUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 26267434138.657383
+ },
+ {
+  "fut": "PNUTUSDT",
+  "spot": "PNUTUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 24768196849.442146
+ },
+ {
+  "fut": "WIFUSDT",
+  "spot": "WIFUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 20737597181.03081
+ },
+ {
+  "fut": "ENAUSDT",
+  "spot": "ENAUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 20596490957.443108
+ },
+ {
+  "fut": "1000SHIBUSDT",
+  "spot": "SHIBUSDT",
+  "mult": 1000,
+  "dec24_quote_vol": 20245685069.805378
+ },
+ {
+  "fut": "NEIROUSDT",
+  "spot": "NEIROUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 18951744055.362118
+ },
+ {
+  "fut": "AVAXUSDT",
+  "spot": "AVAXUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 18622555025.374
+ },
+ {
+  "fut": "LTCUSDT",
+  "spot": "LTCUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 17511113047.31377
+ },
+ {
+  "fut": "WLDUSDT",
+  "spot": "WLDUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 17341554783.4342
+ },
+ {
+  "fut": "1MBABYDOGEUSDT",
+  "spot": "1MBABYDOGEUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 16998168912.504524
+ },
+ {
+  "fut": "MOVEUSDT",
+  "spot": "MOVEUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 16733413918.6823
+ },
+ {
+  "fut": "AAVEUSDT",
+  "spot": "AAVEUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 16643701291.787998
+ },
+ {
+  "fut": "TRXUSDT",
+  "spot": "TRXUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 16061196921.48416
+ },
+ {
+  "fut": "XLMUSDT",
+  "spot": "XLMUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 15314045303.858154
+ },
+ {
+  "fut": "CRVUSDT",
+  "spot": "CRVUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 13879318523.105001
+ },
+ {
+  "fut": "USUALUSDT",
+  "spot": "USUALUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 13799842618.4218
+ },
+ {
+  "fut": "DOTUSDT",
+  "spot": "DOTUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 13246151186.8221
+ },
+ {
+  "fut": "FILUSDT",
+  "spot": "FILUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 12143131560.648197
+ },
+ {
+  "fut": "SANDUSDT",
+  "spot": "SANDUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 11972436512.783012
+ },
+ {
+  "fut": "UNIUSDT",
+  "spot": "UNIUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 11712611148.723999
+ },
+ {
+  "fut": "ONDOUSDT",
+  "spot": "ONDOUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 11585792130.35072
+ },
+ {
+  "fut": "ENSUSDT",
+  "spot": "ENSUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 11067524241.904203
+ },
+ {
+  "fut": "ORDIUSDT",
+  "spot": "ORDIUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 10034549049.249903
+ },
+ {
+  "fut": "ACTUSDT",
+  "spot": "ACTUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 10025476839.62792
+ },
+ {
+  "fut": "FTMUSDT",
+  "spot": "FTMUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 10019025229.662699
+ },
+ {
+  "fut": "APTUSDT",
+  "spot": "APTUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 9926608645.483795
+ },
+ {
+  "fut": "1000BONKUSDT",
+  "spot": "BONKUSDT",
+  "mult": 1000,
+  "dec24_quote_vol": 9440402404.491196
+ },
+ {
+  "fut": "BCHUSDT",
+  "spot": "BCHUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 9383887262.65038
+ },
+ {
+  "fut": "TIAUSDT",
+  "spot": "TIAUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 9277702034.329
+ },
+ {
+  "fut": "NEARUSDT",
+  "spot": "NEARUSDT",
+  "mult": 1,
+  "dec24_quote_vol": 9273399203.094
+ }
+]
