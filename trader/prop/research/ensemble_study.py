@@ -207,7 +207,13 @@ def main() -> None:
     pd.set_option("display.max_rows", 500)
     folder = Path(sys.argv[1] if len(sys.argv) > 1 else "data/mt5")
     m = S.Market(folder)
+    files = sorted(f.name for f in folder.glob("*.csv.gz"))
+    print(f"pasta {folder.resolve()}: {len(files)} arquivos de barras, pandas {pd.__version__}", flush=True)
+    if not files:
+        raise SystemExit("nenhum arquivo <SIMBOLO>_<TF>.csv.gz nesta pasta: confira o caminho")
     v = all_variants(m)
+    if not v:
+        raise SystemExit(f"nenhuma variante com historico suficiente. Exemplos de arquivos: {files[:8]}")
     x = streams(v)
     print(f"{len(v)} variantes em {x.shape[1]} fluxos (cada fluxo = media de todas as suas variantes, sem escolher parametro)")
     new = [k for k in v if k.split("|")[0] in ("momento_intradia", "noite", "virada_do_mes", "reversao_diaria", "ultima_meia_hora", "reversao_fim_de_mes")]
