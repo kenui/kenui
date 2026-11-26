@@ -62,10 +62,12 @@ Roda o candidato do passo 2 ao vivo com dinheiro fictício: a cada 5 minutos bai
 Instalar num servidor Ubuntu fora dos EUA (como root):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kenui/kenui/claude/project-thread-yf5ysa/trader/deploy/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/kenui/kenui/master/trader/deploy/install.sh | bash
 ```
 
-Ver o resultado: `cd /opt/kenui-trader/trader && .venv/bin/python paper_bot.py --report`
+O robô roda com usuário próprio, sem abrir portas, limitado a meia CPU e 1,5 GB de RAM. Usa cerca de 0,65 GB e 5 segundos de CPU a cada 5 minutos. Ver o resultado: `sudo -u kenuibot /opt/kenui-trader/trader/.venv/bin/python /opt/kenui-trader/trader/paper_bot.py --report`. Remover tudo: `bash /opt/kenui-trader/trader/deploy/uninstall.sh`.
+
+Ensaio sem rede: `python -m research.replay` confere que a previsão do robô é idêntica à da pesquisa e que a contabilidade bate com o backtest.
 
 ## Próximos passos
 
