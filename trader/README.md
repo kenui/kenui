@@ -214,3 +214,23 @@ Proteções: sem `--live` nenhuma ordem sai; conta que não é demo é recusada 
 perda diária da mesa fecha tudo e trava o dia; cada posição leva stop no servidor; nada de ordens na virada do
 dia nem com spread anormal; estado em SQLite (WAL). As regras das mesas no JSON são um resumo e precisam ser
 conferidas no site de cada mesa.
+
+## Short de listagens na Bybit, para mesa de cripto (`prop/live/listing_bybit.py`) — 2026-11-26
+
+A única vantagem medida acima de 90% de aprovação é o short de moedas recém-listadas. Ela foi refeita com os
+preços, as taxas e o financiamento da própria Bybit (`python -m prop.research.bybit_check`, que precisa rodar
+de uma conexão de casa porque a Bybit bloqueia servidores de nuvem): 163 das 190 operações existiam na Bybit,
+média de +0,287R (t = 4,3), positivo em 2023, 2024, 2025 e 2026, cerca de 3,8 operações por mês.
+
+O robô segue as regras da Crypto Fund Trader (2 fases, 8% + 5%, perda de 5% no dia e 10% no total):
+
+```
+python -m prop.live.listing_bybit --check          # testa as conexões, não envia nada
+python -m prop.live.listing_bybit                  # só mostra o plano
+python -m prop.live.listing_bybit --live --loop    # conta DEMO da Bybit, fica rodando
+python -m prop.live.listing_bybit --report
+```
+
+A chave de API vem das variáveis de ambiente `BYBIT_API_KEY` e `BYBIT_API_SECRET` (chave da conta demo, sem
+permissão de saque). Nunca coloque a chave em arquivo do repositório. Sem `--conta-real` o robô só fala com a
+API de demonstração.
