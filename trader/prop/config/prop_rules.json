@@ -1,0 +1,51 @@
+{
+  "_aviso": "Regras resumidas de desafios de 2 fases. As mesas mudam as regras com frequencia: confira no site da mesa antes de usar e ajuste aqui.",
+  "padrao": {
+    "nome": "Desafio generico de 2 fases",
+    "meta_fase1": 0.08,
+    "meta_fase2": 0.05,
+    "perda_diaria": 0.05,
+    "perda_total": 0.10,
+    "divisao_lucro": 0.80,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "Europe/Prague",
+    "dias_minimos": 0,
+    "conferido_no_site": false
+  },
+  "ftmo": {
+    "nome": "FTMO, desafio de 2 fases",
+    "meta_fase1": 0.10,
+    "meta_fase2": 0.05,
+    "perda_diaria": 0.05,
+    "perda_total": 0.10,
+    "divisao_lucro": 0.80,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "Europe/Prague",
+    "dias_minimos": 4,
+    "conferido_no_site": false
+  },
+  "the5ers": {
+    "nome": "The5ers, High Stakes de 2 fases",
+    "meta_fase1": 0.08,
+    "meta_fase2": 0.05,
+    "perda_diaria": 0.05,
+    "perda_total": 0.10,
+    "divisao_lucro": 0.80,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "Etc/GMT-2",
+    "dias_minimos": 3,
+    "conferido_no_site": false
+  },
+  "fundednext": {
+    "nome": "FundedNext, Stellar de 2 fases",
+    "meta_fase1": 0.08,
+    "meta_fase2": 0.05,
+    "perda_diaria": 0.05,
+    "perda_total": 0.10,
+    "divisao_lucro": 0.80,
+    "gatilho_saque": 0.045,
+    "fuso_do_dia": "Etc/GMT-2",
+    "dias_minimos": 5,
+    "conferido_no_site": false
+  }
+}

@@ -178,3 +178,39 @@ Resultado (jan/2023 a nov/2026, 39 meses fora da amostra, EUR/USD, ouro e BTC po
 - O ACI fez o que deve: percebeu que as probabilidades do modelo não se confirmavam e fechou a porta (13 operações em 3 anos).
 - O controlador V5 funciona quando recebe um alfa de verdade. Com o short de listagem (custos e funding incluídos), começando um desafio em cada listagem real: 83% chegaram à conta financiada, nenhuma reprovação, 17% ficaram sem histórico suficiente, mediana de 124 dias. Com risco fixo de 1%: 78%.
 - Ressalvas do alfa de listagem: regra escolhida entre 36 variantes no mesmo histórico (Deflated Sharpe 0,90, PBO 0,29, todas as 36 positivas); 2024 e 2026 foram fracos (+0,09 e +0,07 por trade); cerca de 50 operações por ano; exige mesa de cripto com contratos perpétuos, não serve para MetaTrader com euro e ouro.
+
+## MetaTrader 5 com dados reais (pasta `prop/research/` e `prop/live/mt5_trend.py`) — 2026-11-26
+
+Pergunta: dá para chegar a 90% a 96% de aprovação em mesa usando forex, ouro e índices no MetaTrader 5?
+Resposta medida: não. O melhor resultado honesto ficou em cerca de 65%.
+
+Como foi medido (`python -m prop.research.mt5_study <pasta com os CSV do MT5>`): 83 variantes de 5 famílias,
+com spread, comissão e swap reais da corretora. Cada regra é escolhida só com dados antes de 2019 e julgada
+de 2019 a 2026.
+
+| Família | Sharpe antes de 2019 | Sharpe 2019 a 2026 | Aprova as 2 fases | Em até 12 meses |
+|---|---|---|---|---|
+| Tendência em ouro e prata, só compra (médias 50/200) | 0,56 | 0,59 | 65,5% | 45% |
+| Reversão de movimento extremo em índices | 0,58 | 0,09 | 56,9% | 53% |
+| Tendência em forex | 0,55 | -0,63 | 2,7% | 0,7% |
+| Pares com filtro de Kalman (núcleo A da "V8") | negativo | negativo | | |
+| Horário da semana | negativo | negativo | | |
+
+O mapa de aprovação (`python -m prop.research.approval_map`) mostra o que seria preciso: Sharpe 1,5 para 95%.
+Uma estratégia sem vantagem nenhuma já passa em cerca de um terço das tentativas, então parte dos números
+acima é sorte. Os saques simulados supõem que a mesa sempre paga.
+
+Robô para o MetaTrader 5 (roda no Windows, com o terminal aberto e logado; nunca vê a senha):
+
+```
+python -m prop.live.mt5_trend --solve C:\caminho\mt5data   # uma vez: política de tamanho com dados antes de 2019
+python -m prop.live.mt5_trend                              # só mostra o plano
+python -m prop.live.mt5_trend --live --reset               # começa a Fase 1 e envia ordens (conta demo)
+python -m prop.live.mt5_trend --live --loop                # fica rodando
+python -m prop.live.mt5_trend --mesa ftmo                  # regras em prop/config/prop_rules.json
+```
+
+Proteções: sem `--live` nenhuma ordem sai; conta que não é demo é recusada sem `--conta-real`; freio em 60% da
+perda diária da mesa fecha tudo e trava o dia; cada posição leva stop no servidor; nada de ordens na virada do
+dia nem com spread anormal; estado em SQLite (WAL). As regras das mesas no JSON são um resumo e precisam ser
+conferidas no site de cada mesa.
