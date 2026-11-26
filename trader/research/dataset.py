@@ -16,6 +16,24 @@ MKT_COLS = ["ret_5m", "ret_15m", "ret_1h", "ret_4h", "ret_24h", "flow_s_1h", "fl
             "doi_1h", "doi_24h", "liq_long", "liq_short", "liq_long_1h", "vol_surge", "vol_ratio"]
 
 
+def add_context(Xs: dict, idx) -> dict:
+    """Add market-wide averages and cross-sectional ranks to each coin's feature table (in place)."""
+    mkt = {c: pd.DataFrame({s: Xs[s][c].reindex(idx) for s in Xs}) for c in set(XS_COLS) | set(MKT_COLS)}
+    mkt_mean = {c: mkt[c].mean(axis=1) for c in MKT_COLS}
+    breadth = (mkt["ret_1h"] > 0).mean(axis=1)
+    disp = mkt["ret_1h"].std(axis=1)
+    ranks = {c: mkt[c].rank(axis=1, pct=True) for c in XS_COLS}
+    for s in Xs:
+        X = Xs[s]
+        for c in MKT_COLS:
+            X[f"mkt_{c}"] = mkt_mean[c].reindex(X.index).astype("float32")
+        X["mkt_breadth"] = breadth.reindex(X.index).astype("float32")
+        X["mkt_disp"] = disp.reindex(X.index).astype("float32")
+        for c in XS_COLS:
+            X[f"xs_{c}"] = ranks[c][s].reindex(X.index).astype("float32")
+    return Xs
+
+
 def build(step: int = 1) -> pd.DataFrame:
     data = P.load_all()
     btc = data["BTCUSDT"]
@@ -30,21 +48,10 @@ def build(step: int = 1) -> pd.DataFrame:
         X["ok"] = ok.astype("float32")
         X["open_next"] = df["open"].shift(-1).astype("float64")
         Xs[s], Ys[s] = X, Y
-    # market-wide and cross-sectional context
-    idx = btc.index
-    mkt = {c: pd.DataFrame({s: Xs[s][c].reindex(idx) for s in Xs}) for c in set(XS_COLS) | set(MKT_COLS)}
-    mkt_mean = {c: mkt[c].mean(axis=1) for c in MKT_COLS}
-    breadth = (mkt["ret_1h"] > 0).mean(axis=1)
-    disp = mkt["ret_1h"].std(axis=1)
+    add_context(Xs, btc.index)
     frames = []
     for s in Xs:
         X = Xs[s]
-        for c in MKT_COLS:
-            X[f"mkt_{c}"] = mkt_mean[c].reindex(X.index).astype("float32")
-        X["mkt_breadth"] = breadth.reindex(X.index).astype("float32")
-        X["mkt_disp"] = disp.reindex(X.index).astype("float32")
-        for c in XS_COLS:
-            X[f"xs_{c}"] = (mkt[c].rank(axis=1, pct=True)[s]).reindex(X.index).astype("float32")
         Z = pd.concat([X, Ys[s]], axis=1).iloc[::step]
         Z = Z.loc["2025-01-01":]
         Z = Z[Z["ok"] > 0].drop(columns="ok")
