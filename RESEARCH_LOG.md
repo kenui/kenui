@@ -16,6 +16,8 @@ Como reproduzir (a partir de `trader/`, com a pasta de dados exportada do MT5):
     python -m prop.research.nucleo_a <pasta> --seletivo # experimento 2
     python -m prop.research.stage2 <pasta>              # marco do Estágio 2 e Hipótese 1
     python -m prop.research.hypotheses <pasta>          # Hipóteses 2, 3 e 4 (precisa de lightgbm)
+    python -m prop.research.new_engines <pasta>         # busca de outro motor
+    python -m prop.fronts.portfolio <pasta>             # V9: Frentes 2 e 3 e o portão do portfólio
 
 ---
 
@@ -243,3 +245,139 @@ de dimensionar melhor a posição, e ele é de 1 a 3 pontos. A distância até 8
 blindagem nem de filtro: pela relação medida em 26/11 entre Sharpe e aprovação, ela pede um motor
 com Sharpe perto de 1,5, e o melhor motor comprovado nestes mercados tem 0,6. Insistir em mais
 variantes sobre os mesmos sete anos de teste passaria a ajustar o método ao período de teste.
+
+---
+
+## Busca de outro motor em MT5: famílias ainda não testadas (28/11/2026)
+
+**O que foi testado.** 16 variantes novas, em barras diárias, com o mesmo protocolo (decisão no
+fechamento, execução na abertura seguinte, custos da corretora, escolha antes de 2019).
+- *Momento relativo:* comprado no terço mais forte e vendido no terço mais fraco de um grupo
+  (8 índices; 7 moedas contra o dólar), janelas de 60/126/252 e 20/60/126 dias.
+- *Reversão relativa:* o contrário, em 1, 3 e 5 dias.
+- *Prêmio:* exposição comprada com alvo de volatilidade, sem sinal (US500; índices dos EUA; todos
+  os índices; ouro).
+Carry de moedas ficou de fora de propósito: os arquivos só têm as taxas de swap de hoje, e
+ordenar o passado por elas usaria informação do futuro.
+
+| Família | Melhor antes de 2019 | Sharpe antes | Sharpe 2019-26 |
+|---|---|---|---|
+| Momento relativo, índices | 126 dias | -0,21 | -0,94 |
+| Momento relativo, moedas | 60 dias | -0,20 | -0,71 |
+| Reversão relativa, índices | 1 dia | -1,37 | -1,65 |
+| Reversão relativa, moedas | 5 dias | -0,24 | -0,49 |
+| Prêmio, US500 | sem parâmetro | 0,28 | 0,46 |
+| Prêmio, índices dos EUA | sem parâmetro | 0,25 | 0,27 |
+| Prêmio, todos os índices | sem parâmetro | -0,09 | 0,35 |
+| Prêmio, ouro | sem parâmetro | 0,36 | 0,88 |
+
+**Leitura.** Momento e reversão relativos perdem nos dois períodos: o que existe de efeito é menor
+que o giro que ele exige. O prêmio de ações é positivo nos dois períodos, mas pequeno depois do
+financiamento do CFD (cerca de 6% ao ano embutidos no swap). Juntar o prêmio do US500 à tendência
+dos metais não melhorou o conjunto antes de 2019 de forma confiável e, na jornada, baixou a
+aprovação (55,1% contra 62,9% da base na mesma medição), porque aumenta a queda máxima. O prêmio
+do ouro tem correlação 0,81 com a Frente 1, então não é uma frente nova.
+
+**Decisão: nenhuma das 16 variantes aprovada.** Somando os estudos anteriores, são 198 variantes
+testadas nestes mercados.
+
+---
+
+# V9: portfólio de várias frentes (28/11/2026)
+
+Estrutura no repositório: `prop/fronts/` tem um módulo por frente (`asia.py`, `ny_open.py`), o
+custo por barra em `common.py` e, em `portfolio.py`, o portão de entrada e a divisão de risco.
+Regra do portão, aplicada só com dados anteriores a 2019: uma frente entra se (a) o Sharpe líquido
+dela é positivo, (b) a correlação diária com cada frente já ativa é menor que 0,25 e (c) o Sharpe
+do conjunto sobe. O risco entre as frentes aprovadas é dividido por paridade de risco hierárquica
+(HRP). A Frente 1 (tendência de ouro e prata com volatilidade de queda) é a âncora e foi levada ao
+robô `prop/live/mt5_trend.py`.
+
+## Frente 2: reversão calma na sessão asiática
+
+**O que foi testado.** EURGBP, USDCAD e AUDNZD (montado com AUDUSD e NZDUSD, pagando dois spreads),
+barras de 1 hora desde 2010. O preço é comparado com o próprio nível móvel (média exponencial de
+12, 24 ou 48 horas, que é o filtro de Kalman em regime estacionário de um modelo de nível local):
+`z = (preço - nível) / desvio do resíduo`. Entra contra o desvio com `|z|` > 1,5 ou 2,0 entre 01:00
+e 06:00 do servidor, sai quando `z` volta a zero, no stop (`|z|` > entrada + 2,5) ou, de qualquer
+forma, na abertura da barra das 09:00, uma hora antes de Londres. Nada dorme aberto, então não há
+swap nem janela de rollover.
+
+| Variante | Sharpe antes de 2019 | Sharpe 2019-26 | Trades/mês | Acerto líquido | Profit factor | Dias positivos |
+|---|---|---|---|---|---|---|
+| nível 12h, z 1,5 | -4,06 | -2,83 | 13,2 | 38,6% | 0,45 | 18,1% |
+| nível 12h, z 2,0 | -3,23 | -2,16 | 6,4 | 35,3% | 0,40 | 8,5% |
+| nível 24h, z 1,5 | -3,63 | -2,27 | 12,9 | 38,6% | 0,49 | 18,1% |
+| nível 24h, z 2,0 | -2,52 | -1,98 | 5,6 | 37,2% | 0,42 | 8,4% |
+| nível 48h, z 1,5 | -2,91 | -2,19 | 13,2 | 40,6% | 0,53 | 19,5% |
+| nível 48h, z 2,0 (melhor antes de 2019) | -1,64 | -1,39 | 5,6 | 40,7% | 0,55 | 8,7% |
+
+**Por que falhou.** Sem custo nenhum o resultado já é zero (Sharpe entre -0,8 e +0,1, acerto de
+49% a 52%): nesses pares, um desvio de 2 sigmas durante a madrugada não volta mais do que continua.
+Com custo fica muito negativo, porque o movimento típico da sessão asiática é da ordem do próprio
+spread. A sessão é calma, mas calma não é o mesmo que previsível.
+
+**Decisão: descartada. Não entra no portfólio.**
+
+## Frente 3: rompimento da faixa de abertura de Nova York
+
+**O que foi testado.** US500, US30, USTEC (só tem dados desde 2022) e XAUUSD. O servidor está em
+Nova York + 7 horas, então a abertura das 09:30 cai na barra das 16:00. Com barras de 1 hora não dá
+para cortar 90 minutos exatos: a faixa é a máxima e a mínima da barra das 16:00 (ou das 16:00 e
+17:00). Depois dela, até as 21:00, há uma ordem stop em cada lado da faixa; a primeira tocada é o
+trade, o outro lado é o stop-loss físico e o que estiver aberto fecha na abertura das 22:00, antes
+do rollover. Barra que toca os dois lados conta como stop. Variante com Hurst de 250 dias > 0,5.
+
+| Variante | Sharpe antes de 2019 | Sharpe 2019-26 | Trades/mês | Acerto líquido | Profit factor | Dias positivos |
+|---|---|---|---|---|---|---|
+| faixa de 1h, sem filtro | -0,47 | 0,00 | 52,1 | 43,4% | 0,97 | 43,8% |
+| faixa de 1h, com Hurst | -0,07 | 0,10 | 10,2 | 43,6% | 1,00 | 43,5% |
+| faixa de 2h, sem filtro | -0,25 | -0,71 | 44,8 | 44,8% | 0,92 | 43,2% |
+| faixa de 2h, com Hurst (melhor antes de 2019) | -0,03 | -0,27 | 8,7 | 44,4% | 0,97 | 43,6% |
+
+**Sensibilidade ao custo (faixa de 1h, sem filtro, Sharpe antes / depois de 2019).**
+
+| Custo por lado | US500 | US30 | XAUUSD | USTEC (só depois) |
+|---|---|---|---|---|
+| zero | 1,18 / 0,82 | 0,62 / 0,28 | 1,19 / 0,83 | 1,45 |
+| só meio spread gravado | 0,74 / 0,59 | 0,39 / 0,16 | 0,36 / 0,66 | 1,34 |
+| spread gravado + 25% de deslize, sem piso nem comissão | 0,25 / 0,22 | 0,18 / 0,07 | -0,17 / 0,53 | 1,15 |
+| protocolo deste diário (piso de 1 ponto-base, deslize, comissão) | -0,32 / -0,04 | -0,49 / -0,45 | -0,46 / -0,02 | 0,88 |
+
+**Leitura.** Aqui existe um efeito bruto de verdade: o rompimento da abertura rende de 1 a 3
+pontos-base por trade antes do custo, nos dois períodos. O problema é que o custo de ida e volta
+no protocolo é de cerca de 2 pontos-base, do mesmo tamanho. A frente vive ou morre pela qualidade
+da execução, e ordens stop em rompimento costumam ser executadas pior que a média, não melhor. O
+histórico não resolve essa dúvida, porque não tem ticks. O USTEC parece bom, mas só tem dados de
+2022 em diante, sem período de escolha, então não pode ser aprovado pelo protocolo. O filtro de
+Hurst reduz os trades a um quinto e não muda o resultado.
+
+**Decisão: não aprovada no protocolo. Fica como a única candidata que merece medição ao vivo:
+rodar em conta demo sem dinheiro por algumas semanas mede o custo real de execução, que é
+exatamente a variável que decide.**
+
+## Portão do portfólio e resultado do V9
+
+| Frente candidata | Sharpe próprio antes de 2019 | Sharpe próprio 2019-26 | Maior correlação com as ativas | Decisão |
+|---|---|---|---|---|
+| Frente 2 (Ásia), nível 48h, z 2,0 | -1,64 | -1,39 | 0,10 | fica fora |
+| Frente 3 (abertura NY), faixa de 2h com Hurst | -0,03 | -0,27 | 0,03 | fica fora |
+
+As duas têm correlação baixa com a Frente 1, mas correlação baixa só ajuda quando a frente ganha
+dinheiro. Somar uma frente de resultado zero ou negativo dilui a âncora.
+
+| | Aprovação 8%+5% | Aprovação FTMO | Trades/mês | Dias até a meta da Fase 1 (8% / 10%) |
+|---|---|---|---|---|
+| Frente 1 isolada | 66,8% | 64,5% | 0,15 | 231 / 294 |
+| Portfólio multi-motor (Frentes 1 + 2 + 3 + orquestrador) | 66,8% | 64,5% | 0,15 | 231 / 294 |
+
+O portfólio é igual à Frente 1 porque nenhuma outra frente passou no portão. O orquestrador
+(HRP) está implementado e testado, mas com uma frente só ele não tem o que dividir. Meta-labeling
+conformal não foi reaplicado: na Hipótese 2 ele piorou a Frente 1, e as Frentes 2 e 3 não têm
+vantagem líquida para ele filtrar.
+
+**Situação.** A ideia de somar frentes descorrelacionadas é correta em princípio: duas frentes
+independentes de Sharpe 0,6 dariam cerca de 0,85 juntas. O que falta não é o orquestrador, é uma
+segunda frente com vantagem líquida, e 220 variantes testadas nestes mercados ainda não produziram
+uma. Os dois caminhos com chance real são a Frente 4 (listagens em cripto, +0,29R por trade e
+correlação naturalmente baixa com metais) e a medição ao vivo do custo da Frente 3.
