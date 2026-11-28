@@ -381,3 +381,64 @@ independentes de Sharpe 0,6 dariam cerca de 0,85 juntas. O que falta não é o o
 segunda frente com vantagem líquida, e 220 variantes testadas nestes mercados ainda não produziram
 uma. Os dois caminhos com chance real são a Frente 4 (listagens em cripto, +0,29R por trade e
 correlação naturalmente baixa com metais) e a medição ao vivo do custo da Frente 3.
+
+---
+
+# Ciclo 1 de medição ao vivo: custo real da Frente 3 (registrado em 28/11/2026, antes de qualquer dado)
+
+**Por que este teste.** A Frente 3 (rompimento da abertura de Nova York) foi a única com efeito
+bruto nos dois períodos, e foi reprovada só pelo custo. O histórico tem um spread por barra de 1
+hora e nenhum tick, então o custo de verdade é desconhecido. Quem perde do outro lado, se o efeito
+for real: quem fornece liquidez na primeira hora do pregão e é atropelado quando o fluxo do dia
+toma direção. Isso só vira lucro se a execução custar menos que o efeito.
+
+**Regra congelada (não muda depois de ver resultado).** Símbolos US500 e XAUUSD. Faixa = máxima e
+mínima do bid das 09:00 às 10:00 de Nova York (é a barra das 16:00 do servidor usada no backtest
+"faixa de 1h, sem filtro"). Das 10:00 às 15:00, o primeiro lado que o bid tocar é o trade (compra
+no topo, venda no fundo), o outro lado é o stop, e o que estiver aberto fecha às 15:00. Um trade
+por símbolo por dia. Sem filtro de Hurst, de notícia ou de spread. Lote mínimo, só em conta demo.
+Código: `trader/prop/live/ny_open_demo.py`.
+
+**O que é medido.** Para cada lado do trade, custo = diferença entre o preço executado e o preço
+que o backtest assume (o nível da faixa na entrada e no stop, o bid às 15:00 na saída por hora),
+em pontos-base. Onde o servidor não deixa negociar o símbolo, o trade é simulado na cotação ao
+vivo (compra no ask, venda no bid) e marcado como simulado. O robô também grava bid e ask de
+US500, XAUUSD, US30, USTEC e XAGUSD.
+
+**Limite conhecido.** A cotação da demo é real, mas a execução da demo é melhor que a de uma conta
+de verdade. Por isso o custo usado na decisão soma uma folga: custo por lado = média medida + 25%
+do spread medido + comissão do protocolo (0,3 ponto-base).
+
+**Critério de aprovação, fixado antes.** Backtest da mesma regra com custo fixo por lado (Sharpe
+antes de 2019 / 2019-2026):
+
+| Custo por lado (pb) | US500 | XAUUSD |
+|---|---|---|
+| 0,00 | 1,18 / 0,82 | 1,19 / 0,83 |
+| 0,25 | 0,94 / 0,65 | 1,00 / 0,64 |
+| 0,50 | 0,70 / 0,49 | 0,80 / 0,44 |
+| 0,75 | 0,46 / 0,32 | 0,61 / 0,25 |
+| 1,00 | 0,22 / 0,15 | 0,42 / 0,05 |
+| 1,50 | -0,26 / -0,18 | 0,03 / -0,34 |
+
+Um símbolo segue para o portão de soma (correlação com a Frente 1 abaixo de 0,25 e aprovação do
+conjunto maior) somente se, com o custo por lado definido acima, o backtest der Sharpe de pelo
+menos 0,5 antes de 2019 e acima de zero em 2019-2026. Na prática isso exige custo por lado de até
+cerca de 0,70 pb no US500 e 0,90 pb no ouro. Também são exigidos pelo menos 30 trades ao vivo por
+símbolo, e o resultado líquido ao vivo é comparado com a tabela fixa do protocolo.
+
+**Parada antecipada.** Depois de 10 pregões, se o custo por lado medido (já com a folga) estiver
+acima de 1,5 pb em um símbolo, ele é encerrado, porque nesse custo o backtest é negativo nos dois
+períodos.
+
+**Ressalvas registradas.** Aplicar o custo de hoje a todo o histórico supõe que o custo antigo era
+parecido, o que favorece a frente. Se ela passar, o passo seguinte é continuar na demo dentro do
+portfólio, não ir para um desafio. Este é o pivô 0 da hipótese; nenhum parâmetro foi escolhido
+olhando dados de 2019 em diante além do que já está na seção "Frente 3".
+
+**Prazo.** A regra dá cerca de 0,8 trade por pregão no US500 e 1 no ouro. Primeira leitura de
+custo depois de 10 pregões (por volta de 11/12/2026). Conclusão com 30 trades por símbolo, cerca
+de 8 semanas (fim de janeiro de 2027, por causa dos feriados).
+
+Reprodução: `python -m prop.live.ny_open_demo --live --loop` (coleta) e
+`python -m prop.live.ny_open_demo --report` (leitura).
