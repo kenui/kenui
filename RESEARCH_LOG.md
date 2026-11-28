@@ -627,3 +627,28 @@ Etapas e metas recalibradas:
 
 A meta de 80% em 30 dias fica registrada como o alvo do Kenui, com a observação de que nenhuma
 etapa acima chega nela: ela depende de achar motores bem mais fortes que 0,5.
+
+# Ciclo 3: fluxo de fim de mês em moedas (registrado em 28/11/2026, antes de rodar)
+
+As três últimas reprovações (Frente 3, hipóteses 5 e 6) morreram da mesma causa: o custo do
+contrato de índice é do tamanho do efeito. Pela regra do protocolo, a próxima hipótese muda de
+mercado em vez de trocar filtro: moedas principais, onde o custo por lado é perto de 0,5 ponto-base.
+
+**Hipótese 7, ajuste de proteção cambial no fim do mês.** Quem está do outro lado: fundos de
+fora dos EUA que têm ações americanas e protegem o câmbio com uma proporção fixa. Quando as ações
+dos EUA sobem no mês, a proteção fica pequena e eles precisam vender mais dólar antes da taxa de
+referência das 16h de Londres do último dia útil. Quando caem, compram dólar. Por que persiste:
+é uma obrigação de mandato, não uma aposta, e o tamanho do fluxo é conhecido só por eles.
+
+Regra: nos últimos N dias úteis do mês, posição nas moedas contra o dólar com o sinal do retorno
+do US500 no mês até o fechamento anterior à entrada (US500 subiu: comprado nas moedas, vendido em
+dólar). Sai na abertura do primeiro dia útil do mês seguinte. Risco de 1% de volatilidade diária
+dividido entre as moedas. Custos: spread, comissão e swap.
+
+Variantes (12): N em 1, 2 e 3 dias; sinal pelo US500 sozinho ou pelo US500 menos a média de quatro
+índices europeus (DE40, IT40, NETH25, SWI20); cesta de 7 moedas contra o dólar ou só EUR, GBP e CHF.
+
+Critério, igual ao dos outros motores: a variante é escolhida pelo Sharpe antes de 2019, que
+precisa ser de pelo menos 0,5; depois de 2019 precisa de Sharpe de pelo menos 0,5, 30 operações
+ou mais, estatística t das operações de pelo menos 2 e correlação com a Frente 1 abaixo de 0,25.
+Qualquer falha reprova. Sem segunda rodada de variantes.
