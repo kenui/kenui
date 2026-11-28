@@ -296,6 +296,7 @@ def run_once(t: Terminal, st: State, rules: dict, pol: Policy, live: bool) -> No
         t.flatten()
         return
     if live and (st.get("rebalanced") == st.get("day") or in_rollover(now)):
+        print("  " + ("virada do dia do mercado, nao opero agora" if in_rollover(now) else "posicoes de hoje ja conferidas, so vigio o freio"))
         return                                                # one rebalance per day, never in the rollover
     done = True
     for sym in SYMBOLS:
@@ -325,6 +326,10 @@ def run_once(t: Terminal, st: State, rules: dict, pol: Policy, live: bool) -> No
             res = t.buy(sym, round(tgt - cur, 8), tick.bid * (1 - STOP_SIGMAS * daily_vol(d)))
         else:
             res = t.reduce(sym, round(cur - tgt, 8))
+        if "10018" in res:                                    # market closed (weekend, holiday): wait without filling the log
+            print(line + ", mercado fechado, tento de novo depois")
+            done = False
+            continue
         print(line + f", {'compra' if tgt > cur else 'venda'} de {abs(tgt - cur):.2f}: {res}")
         st.log(f"{sym} {'compra' if tgt > cur else 'venda'} {abs(tgt - cur):.2f}: {res}")
         done = done and res == "ok"
@@ -350,6 +355,7 @@ def main() -> None:
     if a.live and not t.is_demo() and not a.conta_real:
         raise SystemExit("esta conta nao e demo. Nao envio ordens sem --conta-real.")
     st = State()
+    st.set(rebalanced=None)                                   # a restart always reads every symbol again (orders only cover a difference)
     if a.reset:
         st.set(phase=0, phase_start=t.equity(), rebalanced=None)
     if a.flatten:
