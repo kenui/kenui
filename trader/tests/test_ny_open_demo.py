@@ -86,3 +86,19 @@ def test_a_real_account_is_only_simulated_and_the_trade_is_journaled(tmp_path, m
     assert abs(t["custo_entrada_pb"][0] - 1e4 * 0.7 / 102.0) < 0.01 and t["custo_saida_pb"][0] == 0.0
     assert "US500" in N.report(tmp_path)
     assert N.Robot(tmp_path, live=False).days["US500"]["estado"] == "fim"       # the state survives a restart
+
+
+def test_replay_of_one_session_on_ticks():
+    import numpy as np
+    hours = np.concatenate([np.linspace(9.0, 9.99, 200), np.linspace(10.0, 14.99, 500), np.linspace(15.0, 15.1, 10)])
+    bid = np.full(len(hours), 100.0)
+    bid[50], bid[120] = 101.0, 99.0                              # the range: 99 to 101
+    bid[300:] = 101.5                                           # breaks the top after 10:00 and stays there
+    bid[-10:] = 103.0
+    r = N.replay_day("2026-11-27", "US500", hours, bid, bid + 0.2)
+    assert (r["lado"], r["motivo_saida"], r["ref_entrada"], r["preco_entrada"]) == (1, "hora", 101.0, 101.7)
+    assert r["preco_saida"] == 103.0 and r["custo_saida_pb"] == 0.0 and r["custo_entrada_pb"] > 0
+    bid[400:] = 98.5                                            # comes back through the bottom: stopped
+    s = N.replay_day("2026-11-27", "US500", hours, bid, bid + 0.2)
+    assert s["motivo_saida"] == "stop" and s["ref_saida"] == 99.0 and s["liquido_pb"] < 0
+    assert N.replay_day("2026-11-27", "US500", hours, np.full(len(hours), 100.0), np.full(len(hours), 100.2)) is None

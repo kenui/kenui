@@ -472,3 +472,19 @@ não é defeito do robô, é o preço de arriscar pouco por dia.
 
 **Decisão.** Não existe versão de prazo curto aprovada. As mesas do arquivo de regras não impõem
 prazo máximo no desafio, então o prazo curto é preferência, não regra.
+
+---
+
+# Mudança da fonte de medição da Frente 3 (28/11/2026, antes de qualquer dado)
+
+O Kenui decidiu deixar o teste ao vivo para o fim do projeto. A regra, a definição de custo e o
+critério do "Ciclo 1 de medição ao vivo" continuam os mesmos. Muda só a fonte: em vez de esperar
+semanas de pregão, o comando `python -m prop.live.ny_open_demo --replay 500` pede ao terminal os
+ticks que o servidor da demo guarda dos últimos pregões e aplica a regra neles. A execução é
+simulada no tick seguinte ao gatilho (compra no ask, venda no bid).
+
+O que isso mede e o que não mede: o spread real no instante do rompimento e o quanto o preço
+escapa do nível, sim; a qualidade de execução de uma conta de verdade, não. A folga do critério
+(25% do spread e 0,3 pb de comissão por lado) continua valendo. Não se sabe quantos pregões de
+ticks o servidor guarda; o resultado só conta com 30 trades por símbolo. Os trades do replay são
+um período recente dentro de 2019-2026, então servem para medir custo, não para escolher regra.
