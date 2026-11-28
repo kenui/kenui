@@ -488,3 +488,41 @@ escapa do nível, sim; a qualidade de execução de uma conta de verdade, não. 
 (25% do spread e 0,3 pb de comissão por lado) continua valendo. Não se sabe quantos pregões de
 ticks o servidor guarda; o resultado só conta com 30 trades por símbolo. Os trades do replay são
 um período recente dentro de 2019-2026, então servem para medir custo, não para escolher regra.
+
+## Resultado da medição nos ticks do servidor (28/11/2026)
+
+Rodado no PC do Kenui com `--replay 500`. Arquivo: `mt5data\ny_open\replay_trades.csv`.
+
+| | US500 | XAUUSD |
+|---|---|---|
+| Período com ticks | 30/12/2024 a 25/11/2026 | 27/05/2025 a 25/11/2026 |
+| Pregões / trades | 458 / 436 | 391 / 364 |
+| Trades por mês | cerca de 19 | cerca de 20 |
+| Saídas por stop | 39% | 29% |
+| Spread na entrada (pb, média / mediana) | 0,53 / 0,45 | 0,56 / 0,42 |
+| Custo de ida e volta medido (pb, média / mediana / 90%) | 1,16 / 0,74 / 2,58 | 1,45 / 0,95 / 3,16 |
+| Bruto por trade (pb) e estatística t | +3,35 (t 1,19) | -0,19 (t -0,06) |
+| Líquido por trade (pb) e estatística t | +2,18 (t 0,78) | -1,63 (t -0,52) |
+| Líquido com a folga e a comissão do critério (pb) | +1,32 (t 0,47) | -2,52 (t -0,81) |
+| Acerto líquido | 45,4% | 43,4% |
+| Líquido 1ª metade / 2ª metade (pb) | +3,15 / +1,22 | +3,61 / -6,88 |
+| Sharpe anual líquido / com folga | 0,58 / 0,35 | -0,42 / -0,65 |
+| **Custo por lado pelo critério (medido + 25% do spread + 0,3 pb)** | **1,01 pb** | **1,17 pb** |
+| Limite fixado antes | 0,70 pb | 0,90 pb |
+| Decisão | reprovado | reprovado |
+
+**Por que falhou.** O spread em si é baixo (meio ponto-base), mas o preço escapa do nível no
+instante do rompimento: a entrada custa em média 0,73 pb no US500 e 0,94 pb no ouro, e 10% dos
+trades custam mais de 2,6 a 3,2 pb na ida e volta. É o padrão clássico de ordem stop em
+rompimento. Mesmo numa mesa sem comissão em índice, o custo por lado do US500 seria 0,71 pb, em
+cima do limite. No ouro o efeito bruto nem apareceu neste período (o backtest de 1 hora no mesmo
+intervalo também dá Sharpe zero), o que mostra que o 0,83 de 2019-2026 não é estável.
+
+**O que o US500 mostrou de bom, sem mudar a decisão.** Líquido positivo nos dois anos e Sharpe
+0,58 antes da folga. Mas com 436 trades a estatística t é 0,78: não dá para distinguir de sorte.
+Seriam precisos vários anos de ticks para afirmar algo, e o servidor guarda menos de dois.
+
+**Decisão.** Frente 3 encerrada pelo critério registrado. Não foi feita a soma com a Frente 1,
+porque o portão só recebe frente aprovada. Pivôs usados nesta hipótese: 0 de 5; não vou gastar os
+outros ajustando filtro em cima de 22 meses de dados, que seria procurar sorte. O portfólio
+continua sendo a Frente 1 sozinha (66,8% / 64,5%).
