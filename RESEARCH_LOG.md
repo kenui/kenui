@@ -741,3 +741,60 @@ que sobrevive continua sendo a tendência de ouro e prata. Duas lições para a 
 simples e públicas de preço diário estão esgotadas nos mercados que temos; (2) ativos calmos só
 funcionam onde não se paga financiamento, o que aponta para mesas de futuros de verdade, que não
 cobram juro por noite, como alternativa de lugar e não só de estratégia.
+
+# Ciclo 5: posição dos grandes especuladores (registrado em 28/11/2026, antes de baixar os dados)
+
+Mudança de fonte de dado, não de filtro: pela primeira vez o sinal não vem do preço. A CFTC publica
+toda sexta-feira a posição dos grandes especuladores nos futuros, medida na terça anterior.
+
+**Hipótese 9, posição dos especuladores em metais e moedas.** Quem está do outro lado: fundos
+que seguem tendência e ficam todos do mesmo lado; quando a posição chega ao extremo, não sobra
+comprador e o preço devolve. A leitura contrária também existe (seguir o fluxo enquanto ele
+cresce), por isso as duas entram como variantes e a escolha é feita antes de 2019.
+
+Dado: relatório tradicional, só futuros. Medida: posição líquida dos não comerciais dividida pelos
+contratos em aberto. O sinal vale a partir do fechamento da sexta em que o relatório sai e a
+ordem entra na abertura de segunda. Custos da corretora (spread, comissão, swap).
+
+Variantes (4 por cesta, 8 no total):
+- contrária no extremo: nota z da medida em 52 ou 156 semanas; vendido se z > 1,5, comprado se
+  z < -1,5, sai quando |z| < 0,5;
+- segue o fluxo: sinal da variação da medida em 4 ou 13 semanas.
+Cestas: metais (XAUUSD, XAGUSD) e moedas (EUR, GBP, JPY, AUD, CAD, CHF, NZD contra o dólar).
+
+Critério: escolha pelo Sharpe antes de 2019 (mínimo 0,5); depois de 2019, Sharpe de pelo menos
+0,5, 30 operações ou mais, t de pelo menos 2,3 (duas cestas) e correlação com a Frente 1 abaixo de
+0,25. Sem segunda rodada.
+
+## Resultado do ciclo 5 (28/11/2026)
+
+Dados baixados da interface pública da CFTC (relatório tradicional, só futuros), usados a partir
+de 1993, quando a divulgação passou a ser semanal às sextas. `python -m prop.research.cycle5`:
+
+| Cesta | Regra | Sharpe antes / depois de 2019 | t depois | Operações por mês |
+|---|---|---|---|---|
+| Metais | contrária, 52 semanas | 0,10 / -0,17 | -0,50 | 0,34 |
+| Metais | contrária, 156 semanas | 0,08 / -0,59 | -1,68 | 0,11 |
+| Metais | fluxo, 4 semanas | -0,42 / -0,21 | -0,60 | 1,94 |
+| Metais | fluxo, 13 semanas | -0,54 / -0,60 | -1,71 | 1,27 |
+| Moedas | contrária, 52 semanas | -0,35 / -0,02 | -0,06 | 0,99 |
+| Moedas | contrária, 156 semanas | -0,25 / 0,25 | 0,71 | 0,54 |
+| Moedas | fluxo, 4 semanas | -0,34 / -0,50 | -1,44 | 6,55 |
+| Moedas | fluxo, 13 semanas | -0,12 / -0,79 | -2,26 | 3,55 |
+
+**Hipótese 9, reprovada nas duas cestas.** Nenhuma variante chega a 0,5 antes de 2019 (melhor:
+0,10). Autópsia: a posição dos especuladores chega com três dias de atraso e, nesse prazo, não
+antecipa o preço nem a favor nem contra. Não é problema de custo. Total de variantes testadas:
+cerca de 302.
+
+## Nota sobre mesas de futuros (28/11/2026)
+
+Conferência da ideia levantada no ciclo 4 (operar onde não há juro por noite). Quase todas as
+mesas de futuros exigem zerar a posição todo dia antes do fechamento (Topstep 15h10 de Chicago,
+Apex 16h59 de Nova York, e também Bulenox, MyFundedFutures, Tradeify, FundedNext Futures, Take
+Profit Trader, Earn2Trade). Isso impede tendência de vários dias, que é o único motor que temos.
+Exceções encontradas em comparativos de setembro a novembro de 2026, ainda sem conferência direta
+nas regras das mesas: Phidias Premium (noite e fim de semana), Elite Trader Funding nos planos
+Diamond Hands e Direct to Funded, e The5ers Swing (posição pequena, sem fim de semana).
+Fontes: help.topstep.com, helloweekends.com, quantvps.com. Fica como alternativa de lugar para a
+Frente 1, a conferir preço, regras e se aceitam robô antes de qualquer recomendação.
