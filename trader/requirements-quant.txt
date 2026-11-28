@@ -6,3 +6,4 @@ hmmlearn==0.3.3
 scikit-learn==1.9.1
 scipy==1.18.1
 statsmodels==0.15.0
+lightgbm
