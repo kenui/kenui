@@ -677,3 +677,67 @@ problema de custo das operações curtas. Total de variantes testadas: cerca de 
 **Leitura.** Os dados que já tínhamos (10 pares principais, índices, ouro e prata) estão
 esgotados para motores diários simples. O próximo passo depende dos mercados novos: fundos de
 bolsa de petróleo, gás, juros e bitcoin, metais novos e moedas emergentes.
+
+# Ciclo 4: tendência diária em mercados novos (registrado em 28/11/2026, antes de receber os dados)
+
+Mudança de fonte, como pede o protocolo depois de três reprovações com a mesma causa: em vez de
+novos filtros nos mesmos mercados, a mesma família que já funcionou (tendência diária, a da Frente 1)
+aplicada a mercados que o servidor só oferece como fundos de bolsa. Os dados ainda estão sendo
+exportados no PC do Kenui no momento deste registro.
+
+**Hipótese 8, tendência diária por grupo de mercado.** Quem está do outro lado: produtores e
+consumidores que fazem proteção e bancos centrais que mexem nos juros devagar. Por que persiste:
+é o mesmo prêmio que os fundos de tendência colhem há décadas (Sharpe de 0,4 a 0,6 no índice SG).
+
+Regra: as mesmas regras de tendência de `prop.research.trend.RULES`, sem parâmetro novo, comprado
+e vendido, peso igual dentro do grupo, decisão no fechamento e execução na abertura seguinte.
+Custo: spread mediano do arquivo com piso de 2 pontos-base por lado, comissão de 0,003% e
+financiamento de 0,016% por noite (o de índice), porque fundo de bolsa em conta de varejo paga juros.
+
+Grupos, fixados agora:
+- energia: USO, BNO, UNG
+- juros e crédito: TLT, IEF, TIP, LQD, HYG, EMB
+- matérias-primas: DBC, DBA, CPER, PPLT
+- moedas: UUP, FXE, FXY
+- países: EFA, EEM, EWJ, EWZ, FXI, INDA, EWG, EWU
+- cripto: IBIT, BITO, ETHA (histórico curto: só entra como informação, não pode ser aprovado aqui)
+Setores dos EUA e os fundos que repetem ouro, prata e índices americanos ficam de fora, porque
+repetem mercados já testados.
+
+Critério por grupo: a regra é escolhida pelo Sharpe antes de 2019, que precisa ser de pelo menos
+0,5; depois de 2019 precisa de Sharpe de pelo menos 0,5, 30 operações ou mais, t de pelo menos 2
+e correlação com a Frente 1 abaixo de 0,25. Como são 5 grupos testados de uma vez, o t exigido
+sobe para 2,6 (correção para 5 tentativas). Um grupo aprovado ainda precisa de um segundo passo
+antes de virar motor: confirmar que a mesa oferece o mercado (petróleo, juros) como contrato
+próprio e refazer a conta com o custo desse contrato.
+
+## Resultado do ciclo 4 (28/11/2026)
+
+Dados recebidos: 41 fundos. Faltaram UNG, HYG, DBA e EWZ (sem histórico no servidor) e UUP veio
+com só 551 dias, então ficou fora pelo mínimo de 1.500 dias. Limpeza decidida antes de rodar: o
+histórico do servidor não ajusta desdobramentos (USO, EWJ, EWU, EFA, EEM, FXI, BNO, PPLT), então
+todo salto de mais de 40% entre o fechamento e a abertura seguinte foi tratado como desdobramento.
+Cripto não tem dados antes de 2019 e não pôde ser escolhida.
+
+`python -m prop.research.cycle4`, 45 variantes. Regra escolhida antes de 2019 em cada grupo:
+
+| Grupo | Fundos usados | Regra | Sharpe antes / depois de 2019 | t depois | Operações por mês | Correlação com a Frente 1 |
+|---|---|---|---|---|---|---|
+| Energia | USO, BNO | retorno de 90 dias | 0,62 / -0,48 | -1,34 | 2,48 | 0,05 |
+| Juros e crédito | TLT, IEF, TIP, LQD, EMB | canal de 20 dias | -0,66 / -0,51 | -1,44 | 3,38 | 0,00 |
+| Matérias-primas | DBC, CPER, PPLT | retorno de 30 dias | 0,08 / -0,02 | -0,06 | 5,67 | 0,09 |
+| Moedas | FXE, FXY | canal de 100 dias | 0,00 / -0,69 | -1,93 | 0,35 | 0,07 |
+| Países | EFA, EEM, EWJ, FXI, INDA, EWG, EWU | médias 20 e 100 | 0,02 / -0,45 | -1,26 | 2,02 | 0,09 |
+
+**Hipótese 8, reprovada nos cinco grupos.** Só energia passa do mínimo antes de 2019, e fica
+negativa depois. Diagnóstico feito depois da decisão, sem valor de aprovação: tirando todo o
+financiamento, o melhor grupo depois de 2019 é juros e crédito com Sharpe entre 0,0 e 0,4, e a
+carteira dos cinco grupos juntos fica entre -0,23 e 0,09. Ou seja, o financiamento explica a
+reprovação de juros (ativo calmo exige posição grande, e posição grande paga muito juro), mas nos
+outros grupos a tendência simplesmente não rendeu de 2019 para cá nestes fundos.
+
+**Leitura.** Total de variantes testadas: cerca de 294. Depois de quatro ciclos, a única família
+que sobrevive continua sendo a tendência de ouro e prata. Duas lições para a busca: (1) regras
+simples e públicas de preço diário estão esgotadas nos mercados que temos; (2) ativos calmos só
+funcionam onde não se paga financiamento, o que aponta para mesas de futuros de verdade, que não
+cobram juro por noite, como alternativa de lugar e não só de estratégia.
