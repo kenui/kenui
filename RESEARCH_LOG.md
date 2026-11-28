@@ -786,3 +786,15 @@ de 1993, quando a divulgação passou a ser semanal às sextas. `python -m prop.
 0,10). Autópsia: a posição dos especuladores chega com três dias de atraso e, nesse prazo, não
 antecipa o preço nem a favor nem contra. Não é problema de custo. Total de variantes testadas:
 cerca de 302.
+
+## Nota sobre mesas de futuros (28/11/2026)
+
+Conferência da ideia levantada no ciclo 4 (operar onde não há juro por noite). Quase todas as
+mesas de futuros exigem zerar a posição todo dia antes do fechamento (Topstep 15h10 de Chicago,
+Apex 16h59 de Nova York, e também Bulenox, MyFundedFutures, Tradeify, FundedNext Futures, Take
+Profit Trader, Earn2Trade). Isso impede tendência de vários dias, que é o único motor que temos.
+Exceções encontradas em comparativos de setembro a novembro de 2026, ainda sem conferência direta
+nas regras das mesas: Phidias Premium (noite e fim de semana), Elite Trader Funding nos planos
+Diamond Hands e Direct to Funded, e The5ers Swing (posição pequena, sem fim de semana).
+Fontes: help.topstep.com, helloweekends.com, quantvps.com. Fica como alternativa de lugar para a
+Frente 1, a conferir preço, regras e se aceitam robô antes de qualquer recomendação.
