@@ -652,3 +652,28 @@ Critério, igual ao dos outros motores: a variante é escolhida pelo Sharpe ante
 precisa ser de pelo menos 0,5; depois de 2019 precisa de Sharpe de pelo menos 0,5, 30 operações
 ou mais, estatística t das operações de pelo menos 2 e correlação com a Frente 1 abaixo de 0,25.
 Qualquer falha reprova. Sem segunda rodada de variantes.
+
+## Resultado do ciclo 3 (28/11/2026)
+
+`python -m prop.research.cycle3`, 12 variantes, Sharpe antes de 2019 / 2019-2026, 96 operações
+depois de 2019 (1 por mês):
+
+| Fim de mês em moedas | 1 dia | 2 dias | 3 dias |
+|---|---|---|---|
+| 7 moedas, sinal US500 | 0,08 / -0,34 | 0,21 / -0,12 | 0,23 / -0,10 |
+| 7 moedas, sinal US500 menos Europa | -0,09 / -0,08 | 0,03 / -0,16 | 0,02 / -0,17 |
+| EUR, GBP e CHF, sinal US500 | 0,33 / -0,36 | 0,36 / -0,10 | 0,39 / -0,09 |
+| EUR, GBP e CHF, sinal US500 menos Europa | -0,04 / -0,22 | 0,04 / -0,15 | -0,02 / -0,29 |
+
+**Hipótese 7, reprovada.** A melhor variante antes de 2019 tem Sharpe 0,39 (mínimo 0,5) e todas
+as 12 são negativas depois de 2019 (melhor t das operações: -0,23). Correlação com a Frente 1 perto
+de zero, mas sem ganho não serve. Observação: o Sharpe antes de 2019 está diluído porque a série
+de moedas começa antes da do US500; isso não muda a decisão, já que o período de prova é negativo
+em todas. Autópsia: desta vez a causa não é custo (o custo aqui é pequeno). O efeito descrito na
+literatura é concentrado nas horas antes das 16h de Londres e se desfaz depois; segurar da abertura
+do dia até a abertura seguinte pega a ida e a volta. Uma versão intradiária cairia de novo no
+problema de custo das operações curtas. Total de variantes testadas: cerca de 249.
+
+**Leitura.** Os dados que já tínhamos (10 pares principais, índices, ouro e prata) estão
+esgotados para motores diários simples. O próximo passo depende dos mercados novos: fundos de
+bolsa de petróleo, gás, juros e bitcoin, metais novos e moedas emergentes.
