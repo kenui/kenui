@@ -677,3 +677,36 @@ problema de custo das operações curtas. Total de variantes testadas: cerca de 
 **Leitura.** Os dados que já tínhamos (10 pares principais, índices, ouro e prata) estão
 esgotados para motores diários simples. O próximo passo depende dos mercados novos: fundos de
 bolsa de petróleo, gás, juros e bitcoin, metais novos e moedas emergentes.
+
+# Ciclo 4: tendência diária em mercados novos (registrado em 28/11/2026, antes de receber os dados)
+
+Mudança de fonte, como pede o protocolo depois de três reprovações com a mesma causa: em vez de
+novos filtros nos mesmos mercados, a mesma família que já funcionou (tendência diária, a da Frente 1)
+aplicada a mercados que o servidor só oferece como fundos de bolsa. Os dados ainda estão sendo
+exportados no PC do Kenui no momento deste registro.
+
+**Hipótese 8, tendência diária por grupo de mercado.** Quem está do outro lado: produtores e
+consumidores que fazem proteção e bancos centrais que mexem nos juros devagar. Por que persiste:
+é o mesmo prêmio que os fundos de tendência colhem há décadas (Sharpe de 0,4 a 0,6 no índice SG).
+
+Regra: as mesmas regras de tendência de `prop.research.trend.RULES`, sem parâmetro novo, comprado
+e vendido, peso igual dentro do grupo, decisão no fechamento e execução na abertura seguinte.
+Custo: spread mediano do arquivo com piso de 2 pontos-base por lado, comissão de 0,003% e
+financiamento de 0,016% por noite (o de índice), porque fundo de bolsa em conta de varejo paga juros.
+
+Grupos, fixados agora:
+- energia: USO, BNO, UNG
+- juros e crédito: TLT, IEF, TIP, LQD, HYG, EMB
+- matérias-primas: DBC, DBA, CPER, PPLT
+- moedas: UUP, FXE, FXY
+- países: EFA, EEM, EWJ, EWZ, FXI, INDA, EWG, EWU
+- cripto: IBIT, BITO, ETHA (histórico curto: só entra como informação, não pode ser aprovado aqui)
+Setores dos EUA e os fundos que repetem ouro, prata e índices americanos ficam de fora, porque
+repetem mercados já testados.
+
+Critério por grupo: a regra é escolhida pelo Sharpe antes de 2019, que precisa ser de pelo menos
+0,5; depois de 2019 precisa de Sharpe de pelo menos 0,5, 30 operações ou mais, t de pelo menos 2
+e correlação com a Frente 1 abaixo de 0,25. Como são 5 grupos testados de uma vez, o t exigido
+sobe para 2,6 (correção para 5 tentativas). Um grupo aprovado ainda precisa de um segundo passo
+antes de virar motor: confirmar que a mesa oferece o mercado (petróleo, juros) como contrato
+próprio e refazer a conta com o custo desse contrato.
