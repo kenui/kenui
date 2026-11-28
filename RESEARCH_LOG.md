@@ -627,3 +627,53 @@ Etapas e metas recalibradas:
 
 A meta de 80% em 30 dias fica registrada como o alvo do Kenui, com a observação de que nenhuma
 etapa acima chega nela: ela depende de achar motores bem mais fortes que 0,5.
+
+# Ciclo 3: fluxo de fim de mês em moedas (registrado em 28/11/2026, antes de rodar)
+
+As três últimas reprovações (Frente 3, hipóteses 5 e 6) morreram da mesma causa: o custo do
+contrato de índice é do tamanho do efeito. Pela regra do protocolo, a próxima hipótese muda de
+mercado em vez de trocar filtro: moedas principais, onde o custo por lado é perto de 0,5 ponto-base.
+
+**Hipótese 7, ajuste de proteção cambial no fim do mês.** Quem está do outro lado: fundos de
+fora dos EUA que têm ações americanas e protegem o câmbio com uma proporção fixa. Quando as ações
+dos EUA sobem no mês, a proteção fica pequena e eles precisam vender mais dólar antes da taxa de
+referência das 16h de Londres do último dia útil. Quando caem, compram dólar. Por que persiste:
+é uma obrigação de mandato, não uma aposta, e o tamanho do fluxo é conhecido só por eles.
+
+Regra: nos últimos N dias úteis do mês, posição nas moedas contra o dólar com o sinal do retorno
+do US500 no mês até o fechamento anterior à entrada (US500 subiu: comprado nas moedas, vendido em
+dólar). Sai na abertura do primeiro dia útil do mês seguinte. Risco de 1% de volatilidade diária
+dividido entre as moedas. Custos: spread, comissão e swap.
+
+Variantes (12): N em 1, 2 e 3 dias; sinal pelo US500 sozinho ou pelo US500 menos a média de quatro
+índices europeus (DE40, IT40, NETH25, SWI20); cesta de 7 moedas contra o dólar ou só EUR, GBP e CHF.
+
+Critério, igual ao dos outros motores: a variante é escolhida pelo Sharpe antes de 2019, que
+precisa ser de pelo menos 0,5; depois de 2019 precisa de Sharpe de pelo menos 0,5, 30 operações
+ou mais, estatística t das operações de pelo menos 2 e correlação com a Frente 1 abaixo de 0,25.
+Qualquer falha reprova. Sem segunda rodada de variantes.
+
+## Resultado do ciclo 3 (28/11/2026)
+
+`python -m prop.research.cycle3`, 12 variantes, Sharpe antes de 2019 / 2019-2026, 96 operações
+depois de 2019 (1 por mês):
+
+| Fim de mês em moedas | 1 dia | 2 dias | 3 dias |
+|---|---|---|---|
+| 7 moedas, sinal US500 | 0,08 / -0,34 | 0,21 / -0,12 | 0,23 / -0,10 |
+| 7 moedas, sinal US500 menos Europa | -0,09 / -0,08 | 0,03 / -0,16 | 0,02 / -0,17 |
+| EUR, GBP e CHF, sinal US500 | 0,33 / -0,36 | 0,36 / -0,10 | 0,39 / -0,09 |
+| EUR, GBP e CHF, sinal US500 menos Europa | -0,04 / -0,22 | 0,04 / -0,15 | -0,02 / -0,29 |
+
+**Hipótese 7, reprovada.** A melhor variante antes de 2019 tem Sharpe 0,39 (mínimo 0,5) e todas
+as 12 são negativas depois de 2019 (melhor t das operações: -0,23). Correlação com a Frente 1 perto
+de zero, mas sem ganho não serve. Observação: o Sharpe antes de 2019 está diluído porque a série
+de moedas começa antes da do US500; isso não muda a decisão, já que o período de prova é negativo
+em todas. Autópsia: desta vez a causa não é custo (o custo aqui é pequeno). O efeito descrito na
+literatura é concentrado nas horas antes das 16h de Londres e se desfaz depois; segurar da abertura
+do dia até a abertura seguinte pega a ida e a volta. Uma versão intradiária cairia de novo no
+problema de custo das operações curtas. Total de variantes testadas: cerca de 249.
+
+**Leitura.** Os dados que já tínhamos (10 pares principais, índices, ouro e prata) estão
+esgotados para motores diários simples. O próximo passo depende dos mercados novos: fundos de
+bolsa de petróleo, gás, juros e bitcoin, metais novos e moedas emergentes.
