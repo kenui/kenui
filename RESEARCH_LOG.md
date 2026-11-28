@@ -765,3 +765,24 @@ Cestas: metais (XAUUSD, XAGUSD) e moedas (EUR, GBP, JPY, AUD, CAD, CHF, NZD cont
 Critério: escolha pelo Sharpe antes de 2019 (mínimo 0,5); depois de 2019, Sharpe de pelo menos
 0,5, 30 operações ou mais, t de pelo menos 2,3 (duas cestas) e correlação com a Frente 1 abaixo de
 0,25. Sem segunda rodada.
+
+## Resultado do ciclo 5 (28/11/2026)
+
+Dados baixados da interface pública da CFTC (relatório tradicional, só futuros), usados a partir
+de 1993, quando a divulgação passou a ser semanal às sextas. `python -m prop.research.cycle5`:
+
+| Cesta | Regra | Sharpe antes / depois de 2019 | t depois | Operações por mês |
+|---|---|---|---|---|
+| Metais | contrária, 52 semanas | 0,10 / -0,17 | -0,50 | 0,34 |
+| Metais | contrária, 156 semanas | 0,08 / -0,59 | -1,68 | 0,11 |
+| Metais | fluxo, 4 semanas | -0,42 / -0,21 | -0,60 | 1,94 |
+| Metais | fluxo, 13 semanas | -0,54 / -0,60 | -1,71 | 1,27 |
+| Moedas | contrária, 52 semanas | -0,35 / -0,02 | -0,06 | 0,99 |
+| Moedas | contrária, 156 semanas | -0,25 / 0,25 | 0,71 | 0,54 |
+| Moedas | fluxo, 4 semanas | -0,34 / -0,50 | -1,44 | 6,55 |
+| Moedas | fluxo, 13 semanas | -0,12 / -0,79 | -2,26 | 3,55 |
+
+**Hipótese 9, reprovada nas duas cestas.** Nenhuma variante chega a 0,5 antes de 2019 (melhor:
+0,10). Autópsia: a posição dos especuladores chega com três dias de atraso e, nesse prazo, não
+antecipa o preço nem a favor nem contra. Não é problema de custo. Total de variantes testadas:
+cerca de 302.
