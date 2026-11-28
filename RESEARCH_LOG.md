@@ -442,3 +442,33 @@ de 8 semanas (fim de janeiro de 2027, por causa dos feriados).
 
 Reprodução: `python -m prop.live.ny_open_demo --live --loop` (coleta) e
 `python -m prop.live.ny_open_demo --report` (leitura).
+
+---
+
+# Janela curta: aprovação da Frente 1 com prazo (28/11/2026)
+
+**Pergunta do Kenui.** Quanto dá para aprovar em 30 a 60 dias, e não em 8 a 10 meses.
+
+**O que foi medido.** Dias de 2019-2026 da Frente 1 (tamanho pela volatilidade de queda), sorteados
+em blocos de 10 dias, 20.000 contas, meta de 8% e depois 5%, perda total de 10%, dia encerrado em
+-3% quando o pior ponto do dia chega lá. Tamanho fixo, escolhido o melhor de oito para cada prazo
+(isso favorece o resultado). "Sorte" é a mesma série com média zero. Medição simples, menos
+detalhada que a jornada completa do Estágio 2.
+
+| Prazo para as duas fases | Melhor tamanho (vol. diária da conta) | Aprova | Reprova | Sorte aprova |
+|---|---|---|---|---|
+| 30 dias | 3,0% | 24,3% | 33,5% | 19,8% |
+| 60 dias | 3,0% | 37,7% | 50,2% | 29,4% |
+| 90 dias | 3,0% | 42,2% | 54,4% | 32,5% |
+| 6 meses | 1,5% | 49,2% | 44,6% | 35,8% |
+
+Referência teórica, retornos normais sem saltos: Sharpe 1,5 aprova cerca de 36% em 30 dias e 53%
+em 60; Sharpe 3,0 aprova cerca de 52% e 72%.
+
+**Leitura.** Ganhar 13% em 30 a 60 dias com perda máxima de 10% exige risco alto por dia. Com a
+vantagem que temos (Sharpe 0,6), prazo curto é quase só aposta: a diferença para a sorte é de 5 a 8
+pontos. Nem uma vantagem de Sharpe 3, que não temos, garantiria aprovação em 30 dias. O prazo longo
+não é defeito do robô, é o preço de arriscar pouco por dia.
+
+**Decisão.** Não existe versão de prazo curto aprovada. As mesas do arquivo de regras não impõem
+prazo máximo no desafio, então o prazo curto é preferência, não regra.
