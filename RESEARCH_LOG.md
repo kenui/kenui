@@ -526,3 +526,104 @@ Seriam precisos vários anos de ticks para afirmar algo, e o servidor guarda men
 porque o portão só recebe frente aprovada. Pivôs usados nesta hipótese: 0 de 5; não vou gastar os
 outros ajustando filtro em cima de 22 meses de dados, que seria procurar sorte. O portfólio
 continua sendo a Frente 1 sozinha (66,8% / 64,5%).
+
+---
+
+# Ciclo 2: fontes de vantagem fora do preço puro (registrado em 28/11/2026, antes de rodar)
+
+**Contexto.** Cerca de 220 variantes de indicadores nos preços de 1 hora e diários foram esgotadas,
+e a Frente 3 morreu no custo. O Kenui quer aprovação com meta batida em semanas. A conta da seção
+"Janela curta" diz o tamanho do desafio: isso pede Sharpe perto de 3. Este ciclo troca a pergunta
+"qual fórmula" por "qual fluxo obrigatório": operações em que alguém compra ou vende por regra,
+sem olhar preço.
+
+**Hipótese 5, virada de mês em índices.** Quem está do outro lado: fundos de pensão e aportes
+mensais compram ações nos últimos e primeiros dias do mês, por calendário. Regra: comprado no
+índice só nos pregões da janela, tamanho 1% / volatilidade diária (teto 3), decisão no fechamento
+e execução na abertura seguinte, com spread, comissão e swap do protocolo. Variantes (9): janelas
+{último dia + 3 primeiros; último + 1 primeiro; 3 últimos + 3 primeiros} × grupos {US500; US500,
+US30 e US2000; os 8 índices com histórico longo}. O calendário de pregões é público, então saber
+que amanhã é o último pregão do mês não usa informação do futuro.
+
+**Hipótese 6, retorno da madrugada nos índices dos EUA.** Quem está do outro lado: quem zera
+posição no fechamento e recompra na abertura, deixando o prêmio para quem carrega a noite. Regra:
+comprado da abertura da barra das 22:00 ou 23:00 do servidor (15:00 ou 16:00 de Nova York) até a
+abertura da barra das 16:00 ou 17:00 do dia seguinte, todo dia, mesmo tamanho, com o custo por
+barra da Frente 3 nos dois lados e swap por noite (triplo no dia do símbolo). Variantes (8):
+2 entradas × 2 saídas × {US500; US500, US30 e US2000}.
+
+**Critério, igual ao do diário.** Escolha da melhor variante de cada hipótese só com dados antes
+de 2019. Passa se o Sharpe antes de 2019 for pelo menos 0,5 e o de 2019-2026 for positivo. Quem
+passa vai ao portão: correlação diária com a Frente 1 abaixo de 0,25 e aprovação do conjunto maior
+que 66,8%. Com 17 variantes novas, o total testado passa de 235, e isso entra na leitura: Sharpe
+abaixo de 1 escolhido entre tantas não é prova. Tabela fixa com trades por mês e dias até a meta.
+
+**Fora deste ciclo, por falta de dado aqui.** Deriva antes das decisões do banco central americano
+e operações em torno de notícias (precisam de calendário confiável de datas), e mercados que
+ainda não foram exportados da demo (cripto, petróleo e outros). Para esses será criado um
+exportador.
+
+## Resultado do ciclo 2 (28/11/2026)
+
+Sharpe antes de 2019 / 2019-2026, já com custos:
+
+| Virada de mês | US500 | Índices dos EUA | 8 índices |
+|---|---|---|---|
+| último dia + 3 primeiros | -0,21 / 0,38 | -0,31 / 0,31 | -0,25 / 0,62 |
+| último + 1 primeiro | 0,20 / 0,27 | 0,11 / 0,12 | 0,28 / 0,27 |
+| 3 últimos + 3 primeiros | -0,04 / 0,23 | -0,14 / 0,22 | -0,23 / 0,46 |
+
+| Madrugada (dados de 1 hora desde 2016) | US500 | Índices dos EUA |
+|---|---|---|
+| 22h a 16h | -1,40 / -0,75 | -0,77 / -0,86 |
+| 22h a 17h | -0,95 / -0,26 | -0,31 / -0,55 |
+| 23h a 16h | -1,34 / -0,63 | -0,59 / -0,66 |
+| 23h a 17h | -0,83 / -0,26 | -0,10 / -0,46 |
+
+**Hipótese 5, reprovada.** A melhor variante antes de 2019 (8 índices, último + 1 primeiro) tem
+Sharpe 0,28, abaixo do mínimo de 0,5. O efeito é positivo depois de 2019 em todas as variantes, mas
+antes de 2019 é zero ou negativo, então pelo protocolo não dá para escolher nenhuma. Autópsia: o
+fluxo de virada de mês existe, mas rende poucos pontos-base por mês e o swap e o spread do contrato
+levam quase tudo.
+
+**Hipótese 6, reprovada.** Negativa nos dois períodos em todas as variantes. Autópsia: o prêmio
+da madrugada dos índices é de poucos pontos-base por noite, e o contrato cobra financiamento de
+cerca de 1,6 ponto-base por noite mais dois spreads por dia. Quem captura esse prêmio usa futuros,
+sem esse custo.
+
+**Leitura.** Duas hipóteses seguidas com fluxo real e a mesma causa de morte: o custo do contrato
+de varejo é do tamanho do efeito. Total de variantes testadas: cerca de 237.
+
+# Replanejamento em etapas e conta das metas (28/11/2026)
+
+O Kenui pediu etapas com metas proporcionais ao resultado final. Antes de fixar as metas, a conta
+do que cada nível de qualidade entrega. Simulação com retornos normais, perda total de 10%, dia
+encerrado quando toca -3%, melhor tamanho de risco para cada caso, 40.000 contas:
+
+| Sharpe do conjunto | Fase 1 em 30 dias | Fase 1 em 45 dias | Fase 1 em 60 dias | Duas fases em 60 dias | Duas fases em 90 dias |
+|---|---|---|---|---|---|
+| 0 (sorte) | 39% | 46% | 50% | 28% | 32% |
+| 0,6 (hoje) | 45% | 53% | 57% | 35% | 41% |
+| 1,0 | 49% | 58% | 62% | 40% | 47% |
+| 1,5 | 54% | 64% | 68% | 47% | 54% |
+| 2,0 | 58% | 69% | 73% | 54% | 61% |
+| 3,0 | 68% | 78% | 82% | 67% | 76% |
+| 4,0 | 77% | 86% | 90% | 78% | 87% |
+| 5,0 | 83% | 91% | 95% | 86% | 94% |
+
+Duas consequências. Primeira: 80% de aprovação da Fase 1 em 30 dias pede Sharpe perto de 4,5, não
+2. Segunda: motores independentes somam pela raiz quadrada, então quatro motores de Sharpe 0,5 dão
+1,0 juntos, e para chegar a 2,0 seriam precisos dezesseis.
+
+Etapas e metas recalibradas:
+
+| Etapa | O que precisa existir | Meta para avançar | Situação |
+|---|---|---|---|
+| 1. Motores | 4 motores independentes, cada um com líquido positivo fora da amostra, Sharpe de pelo menos 0,5, 30 trades e estatística t de pelo menos 2 | 4 de 4 | 1 de 4 (tendência de ouro e prata) |
+| 2. Soma | correlação abaixo de 0,25 entre eles | Sharpe do conjunto de pelo menos 1,0; Fase 1 em 60 dias acima de 60% | não iniciada |
+| 3. Orquestrador | pesos por risco, filtro só se ajudar fora da amostra | Sharpe de pelo menos 1,5; Fase 1 em 60 dias perto de 68% | não iniciada |
+| 4. Risco para meta curta | tamanho por degraus com o corte diário | Fase 1 em 45 dias acima de 65% | não iniciada |
+| 5. Auditoria e teste ao vivo | período guardado nunca olhado, demo | confirmar os números | não iniciada |
+
+A meta de 80% em 30 dias fica registrada como o alvo do Kenui, com a observação de que nenhuma
+etapa acima chega nela: ela depende de achar motores bem mais fortes que 0,5.
