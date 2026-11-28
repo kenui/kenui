@@ -116,3 +116,25 @@ def test_a_symbol_without_data_keeps_the_day_open_for_a_retry(tmp_path, monkeypa
     st2 = M.State(tmp_path / "b.db")
     M.run_once(_Terminal(missing=""), st2, rules, pol, live=True)
     assert st2.get("rebalanced") == st2.get("day")
+
+
+def test_a_checked_day_says_so_and_a_closed_market_waits(tmp_path, monkeypatch, capsys):
+    monkeypatch.setattr(M, "in_rollover", lambda now: False)
+    rules, pol = M.load_rules("padrao"), M.Policy()
+    st = M.State(tmp_path / "a.db")
+    M.run_once(_Terminal(missing=""), st, rules, pol, live=True)
+    M.run_once(_Terminal(missing=""), st, rules, pol, live=True)
+    assert "ja conferidas" in capsys.readouterr().out          # the second pass explains why it shows no symbol
+
+    class Closed(_Terminal):
+        def bars(self, sym):
+            return bars(0.003).assign(spread=10)              # uptrend: the robot wants to buy
+
+        def buy(self, sym, lots, sl):
+            return "ERRO 10018 Market closed"
+
+    st2 = M.State(tmp_path / "b.db")
+    M.run_once(Closed(missing=""), st2, rules, pol, live=True)
+    assert "mercado fechado" in capsys.readouterr().out
+    assert st2.get("rebalanced") != st2.get("day")
+    assert st2.db.execute("SELECT count(*) FROM log WHERE event LIKE '%compra%'").fetchone()[0] == 0
