@@ -18,6 +18,11 @@ an account that is not DEMO. It uses its own magic number and does not touch the
     python -m prop.live.ny_open_demo --live --loop      # records and trades (demo)
     python -m prop.live.ny_open_demo --loop             # records and simulates, no order
     python -m prop.live.ny_open_demo --report           # what was measured so far
+    python -m prop.live.ny_open_demo --replay 500       # same rule on the tick history kept by the server
+
+The replay needs nothing running for weeks: it asks the terminal for the stored ticks of the last
+sessions, applies the same rule and writes the same journal (replay_trades.csv). Fills use the tick
+after the trigger. Server time is taken as New York + 7 hours, as in the hourly files.
 """
 from __future__ import annotations
 
@@ -100,9 +105,72 @@ def close_row(d: dict, reason: str, ref: float, fill: float, spread: float, when
     return row
 
 
-def report(folder: Path) -> str:
+def replay_day(date: str, sym: str, hours, bid, ask) -> dict | None:
+    """One session on stored ticks (New York hour of the day as a float, bid, ask). Journal row or None."""
+    import numpy as np
+    h = lambda t: t.hour + t.minute / 60  # noqa: E731
+    rng = (hours >= h(RANGE_START)) & (hours < h(RANGE_END))
+    if rng.sum() < 100:
+        return None
+    top, bottom = float(bid[rng].max()), float(bid[rng].min())
+    after = np.flatnonzero((hours >= h(RANGE_END)) & (hours < h(EXIT)))
+    late = np.flatnonzero(hours >= h(EXIT))
+    if top <= bottom or len(after) < 2 or not len(late):
+        return None
+    hit = np.flatnonzero((bid[after] >= top) | (bid[after] <= bottom))
+    if not len(hit) or hit[0] + 1 >= len(after):
+        return None
+    i = after[hit[0]]
+    side = 1 if bid[i] >= top else -1
+    clock_of = lambda k: f"{int(hours[k]):02d}:{int(hours[k] * 60) % 60:02d}:{int(hours[k] * 3600) % 60:02d}"  # noqa: E731
+    d = {"data": date, "simbolo": sym, "simulado": 1, "lado": side, "topo": top, "fundo": bottom, "hora_entrada": clock_of(i + 1),
+         "ref_entrada": top if side == 1 else bottom, "preco_entrada": float(ask[i + 1] if side == 1 else bid[i + 1]),
+         "spread_entrada": round(float(ask[i + 1] - bid[i + 1]), 6)}
+    rest = after[after > i + 1]
+    stop = np.flatnonzero(bid[rest] <= bottom) if side == 1 else np.flatnonzero(bid[rest] >= top)
+    if len(stop):
+        j = min(rest[stop[0]] + 1, len(bid) - 1)
+        reason, ref = "stop", bottom if side == 1 else top
+    else:
+        j = late[0]
+        reason, ref = "hora", float(bid[j])
+    return close_row(d, reason, ref, float(bid[j] if side == 1 else ask[j]), round(float(ask[j] - bid[j]), 6), clock_of(j))
+
+
+def replay(folder: Path, sessions: int) -> None:
+    import MetaTrader5 as mt5
+    import numpy as np
+    if not mt5.initialize():
+        raise SystemExit(f"nao consegui falar com o MetaTrader 5 (abra o terminal e entre na conta): {mt5.last_error()}")
+    folder.mkdir(parents=True, exist_ok=True)
+    out = folder / "replay_trades.csv"
+    days = [d for d in (datetime.now(timezone.utc).date() - timedelta(days=k) for k in range(1, 2 * sessions)) if d.weekday() < 5][:sessions]
+    with out.open("w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=FIELDS)
+        w.writeheader()
+        for sym in SYMBOLS:
+            mt5.symbol_select(sym, True)
+            got = n = 0
+            for day in reversed(days):
+                a = datetime(day.year, day.month, day.day, RANGE_START.hour + 7, tzinfo=timezone.utc)   # server = New York + 7 h
+                t = mt5.copy_ticks_range(sym, a, a + timedelta(hours=6, minutes=10), mt5.COPY_TICKS_INFO)
+                if t is None or len(t) < 200:
+                    continue
+                t = t[(t["bid"] > 0) & (t["ask"] > 0)]
+                hours = (t["time_msc"] / 1000.0 - a.timestamp()) / 3600.0 + RANGE_START.hour
+                got += 1
+                row = replay_day(str(day), sym, hours, t["bid"].astype(float), t["ask"].astype(float))
+                if row:
+                    w.writerow(row)
+                    n += 1
+            print(f"{sym}: {got} pregoes com ticks no servidor, {n} trades", flush=True)
+    print(report(folder, "replay_trades.csv"))
+    print(f"arquivo: {out}")
+
+
+def report(folder: Path, name: str = "trades.csv") -> str:
     import pandas as pd
-    f = folder / "trades.csv"
+    f = folder / name
     if not f.exists():
         return "ainda nao ha trades gravados"
     t = pd.read_csv(f)
@@ -288,11 +356,14 @@ def main() -> None:
     ap.add_argument("--live", action="store_true", help="envia ordens de lote minimo (so em conta demo)")
     ap.add_argument("--loop", action="store_true", help="continua rodando")
     ap.add_argument("--report", action="store_true", help="mostra o que foi medido ate agora")
+    ap.add_argument("--replay", type=int, nargs="?", const=500, metavar="PREGOES", help="aplica a regra nos ticks guardados pelo servidor")
     ap.add_argument("--pasta", default=None, help="onde gravar (padrao: mt5data\\ny_open)")
     a = ap.parse_args()
     folder = Path(a.pasta) if a.pasta else default_folder()
     if a.report:
         return print(report(folder))
+    if a.replay:
+        return replay(folder, a.replay)
     r = Robot(folder, a.live)
     while True:
         r.step()
