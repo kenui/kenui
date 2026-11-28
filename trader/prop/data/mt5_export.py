@@ -3,6 +3,7 @@
     python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data            # everything except single stocks
     python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data --lista    # only writes the list of symbols
     python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data --fundos   # the exchange-traded funds in FUNDS
+    python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data --so USDZAR,XPTUSD   # only these symbols
 
 Writes <SYMBOL>_D1.csv.gz and <SYMBOL>_H1.csv.gz in the format mt5_study reads, adds the new symbols to
 symbols.json and writes servidor_simbolos.csv with every symbol of the server (name, group path,
@@ -35,7 +36,7 @@ def wanted(path: str, everything: bool) -> bool:
 
 def main() -> None:
     import MetaTrader5 as mt5
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    args = [a for i, a in enumerate(sys.argv[1:], 1) if not a.startswith("--") and sys.argv[i - 1] != "--so"]
     folder = Path(args[0]) if args else Path("data/mt5")
     folder.mkdir(parents=True, exist_ok=True)
     if not mt5.initialize():
@@ -48,7 +49,10 @@ def main() -> None:
         return
     spec_file = folder / "symbols.json"
     spec = json.loads(spec_file.read_text()) if spec_file.exists() else {}
-    if "--fundos" in sys.argv:
+    if "--so" in sys.argv:
+        only = sys.argv[sys.argv.index("--so") + 1].upper().split(",")
+        new = [s for s in syms if s.name.upper() in only and not (folder / f"{s.name}_D1.csv.gz").exists()]
+    elif "--fundos" in sys.argv:
         new = [s for s in syms if s.name in FUNDS and not (folder / f"{s.name}_D1.csv.gz").exists()]
     else:
         new = [s for s in syms if wanted(s.path, "--tudo" in sys.argv) and not (folder / f"{s.name}_D1.csv.gz").exists()][:MAX_NEW]
