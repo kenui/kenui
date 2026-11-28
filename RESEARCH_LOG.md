@@ -526,3 +526,39 @@ Seriam precisos vários anos de ticks para afirmar algo, e o servidor guarda men
 porque o portão só recebe frente aprovada. Pivôs usados nesta hipótese: 0 de 5; não vou gastar os
 outros ajustando filtro em cima de 22 meses de dados, que seria procurar sorte. O portfólio
 continua sendo a Frente 1 sozinha (66,8% / 64,5%).
+
+---
+
+# Ciclo 2: fontes de vantagem fora do preço puro (registrado em 28/11/2026, antes de rodar)
+
+**Contexto.** Cerca de 220 variantes de indicadores nos preços de 1 hora e diários foram esgotadas,
+e a Frente 3 morreu no custo. O Kenui quer aprovação com meta batida em semanas. A conta da seção
+"Janela curta" diz o tamanho do desafio: isso pede Sharpe perto de 3. Este ciclo troca a pergunta
+"qual fórmula" por "qual fluxo obrigatório": operações em que alguém compra ou vende por regra,
+sem olhar preço.
+
+**Hipótese 5, virada de mês em índices.** Quem está do outro lado: fundos de pensão e aportes
+mensais compram ações nos últimos e primeiros dias do mês, por calendário. Regra: comprado no
+índice só nos pregões da janela, tamanho 1% / volatilidade diária (teto 3), decisão no fechamento
+e execução na abertura seguinte, com spread, comissão e swap do protocolo. Variantes (9): janelas
+{último dia + 3 primeiros; último + 1 primeiro; 3 últimos + 3 primeiros} × grupos {US500; US500,
+US30 e US2000; os 8 índices com histórico longo}. O calendário de pregões é público, então saber
+que amanhã é o último pregão do mês não usa informação do futuro.
+
+**Hipótese 6, retorno da madrugada nos índices dos EUA.** Quem está do outro lado: quem zera
+posição no fechamento e recompra na abertura, deixando o prêmio para quem carrega a noite. Regra:
+comprado da abertura da barra das 22:00 ou 23:00 do servidor (15:00 ou 16:00 de Nova York) até a
+abertura da barra das 16:00 ou 17:00 do dia seguinte, todo dia, mesmo tamanho, com o custo por
+barra da Frente 3 nos dois lados e swap por noite (triplo no dia do símbolo). Variantes (8):
+2 entradas × 2 saídas × {US500; US500, US30 e US2000}.
+
+**Critério, igual ao do diário.** Escolha da melhor variante de cada hipótese só com dados antes
+de 2019. Passa se o Sharpe antes de 2019 for pelo menos 0,5 e o de 2019-2026 for positivo. Quem
+passa vai ao portão: correlação diária com a Frente 1 abaixo de 0,25 e aprovação do conjunto maior
+que 66,8%. Com 17 variantes novas, o total testado passa de 235, e isso entra na leitura: Sharpe
+abaixo de 1 escolhido entre tantas não é prova. Tabela fixa com trades por mês e dias até a meta.
+
+**Fora deste ciclo, por falta de dado aqui.** Deriva antes das decisões do banco central americano
+e operações em torno de notícias (precisam de calendário confiável de datas), e mercados que
+ainda não foram exportados da demo (cripto, petróleo e outros). Para esses será criado um
+exportador.
