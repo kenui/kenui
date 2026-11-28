@@ -17,7 +17,7 @@ def bars(drift: float, n: int = 400) -> pd.DataFrame:
 def test_weight_follows_the_trend_and_the_volatility():
     assert M.weight(bars(-0.003)) == 0.0
     w = M.weight(bars(0.003))
-    assert 0.8 < w < 1.25                       # 1% budget / about 1% daily volatility
+    assert 1.0 < w < 1.8                        # 1% budget / downside volatility, which is below 1% in a rising series
     assert M.weight(bars(0.003, 100)) == 0.0    # not enough history
 
 

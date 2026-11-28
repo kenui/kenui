@@ -58,12 +58,15 @@ def policy_file(firm: str) -> Path:
 
 def weight(d: pd.DataFrame) -> float:
     """Notional of one asset as a multiple of the account for a 1% daily move budget:
-    0 when the 50-day average is below the 200-day one, else 1% / daily volatility (max 3)."""
+    0 when the 50-day average is below the 200-day one, else 1% / downside volatility (max 3).
+    Downside volatility looks only at the falling days (RESEARCH_LOG.md, Hipotese 3): strong rises
+    do not shrink the position, strong falls do."""
     c = d["close"]
     if len(c) < SLOW:
         return 0.0
     up = c.ewm(span=FAST).mean().iloc[-1] > c.ewm(span=SLOW).mean().iloc[-1]
-    vol = float(np.log(c).diff().ewm(span=VOL_SPAN, min_periods=VOL_SPAN).std().iloc[-1])
+    down = np.log(c).diff().clip(upper=0.0) ** 2
+    vol = float(np.sqrt(2.0 * down.ewm(span=2 * VOL_SPAN, min_periods=VOL_SPAN).mean().iloc[-1]))
     return float(min(0.01 / vol, 3.0)) if up and vol > 0 else 0.0
 
 
