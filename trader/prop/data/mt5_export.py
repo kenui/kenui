@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 from pathlib import Path
 
 import pandas as pd
@@ -52,8 +53,14 @@ def main() -> None:
     else:
         new = [s for s in syms if wanted(s.path, "--tudo" in sys.argv) and not (folder / f"{s.name}_D1.csv.gz").exists()][:MAX_NEW]
     done = 0
+    print(f"{len(new)} mercados para exportar; os que ainda nao estao no terminal levam alguns segundos cada", flush=True)
     for s in new:
         mt5.symbol_select(s.name, True)
+        for _ in range(20):                                       # a newly selected symbol downloads its history in the background
+            r = mt5.copy_rates_from_pos(s.name, mt5.TIMEFRAME_D1, 0, 400)
+            if r is not None and len(r) > 300:
+                break
+            time.sleep(0.5)
         got = {}
         for tf, code in (("D1", mt5.TIMEFRAME_D1), ("H1", mt5.TIMEFRAME_H1)):
             r = None
@@ -64,12 +71,13 @@ def main() -> None:
             if r is not None and len(r) > 300:
                 got[tf] = pd.DataFrame(r)
         if "D1" not in got:
-            print(f"  {s.name}: sem historico suficiente")
+            print(f"  {s.name}: sem historico suficiente", flush=True)
             continue
         for tf, df in got.items():
             df.to_csv(folder / f"{s.name}_{tf}.csv.gz", index=False, compression="gzip")
         info = mt5.symbol_info(s.name)
         spec[s.name] = {k: getattr(info, k) for k in SPEC if hasattr(info, k)}
+        spec_file.write_text(json.dumps(spec))                    # saved at each market, so stopping midway loses nothing
         done += 1
         print(f"  {s.name}: {len(got['D1'])} dias" + (f", {len(got['H1'])} horas" if "H1" in got else ""), flush=True)
     spec_file.write_text(json.dumps(spec))
