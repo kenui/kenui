@@ -50,8 +50,11 @@ def hurst(logp: pd.Series, window: int = 250, lags: tuple[int, ...] = (1, 2, 4, 
     return (y.sub(y.mean(axis=1), axis=0) * x).sum(axis=1) / (x @ x)
 
 
-def engine(m: S.Market, sym: str, h_min: float | None, vol_max: float | None, safe_fill: bool) -> pd.DataFrame:
-    """Per day: net return of the account and its worst point inside the day, for one asset."""
+def engine(m: S.Market, sym: str, h_min: float | None, vol_max: float | None, safe_fill: bool,
+           scale: pd.Series | None = None, downside: bool = False) -> pd.DataFrame:
+    """Per day: net return of the account and its worst point inside the day, for one asset.
+    `scale` multiplies the position decided at each close (0 = stay out); `downside` sizes by the
+    volatility of the falling days only."""
     d, h = m.bars(sym, "D1"), m.bars(sym, "H1")
     c = d["close"]
     lr = np.log(c).diff()
@@ -62,7 +65,12 @@ def engine(m: S.Market, sym: str, h_min: float | None, vol_max: float | None, sa
     if vol_max is not None:
         short = lr.rolling(20).std()
         on &= short.rolling(500, min_periods=250).rank(pct=True) < vol_max
-    w = (on * (0.01 / vol).clip(upper=3.0)).shift(1).fillna(0.0)             # decided at yesterday's close
+    if downside:
+        vol = (lr.clip(upper=0.0) ** 2).ewm(span=2 * VOL_SPAN, min_periods=VOL_SPAN).mean().pow(0.5) * np.sqrt(2.0)
+    size = on * (0.01 / vol).clip(upper=3.0)
+    if scale is not None:
+        size = size * scale.reindex(d.index).fillna(1.0)
+    w = size.shift(1).fillna(0.0)                                         # decided at yesterday's close
     spec = m.spec.get(sym, {})
     point = float(spec.get("point") or 0.0)
     side, default_swap = m.cost(sym)
@@ -87,8 +95,9 @@ def engine(m: S.Market, sym: str, h_min: float | None, vol_max: float | None, sa
     return pd.DataFrame({"net": net, "worst": np.minimum(worst, 0.0), "w": w}).dropna()
 
 
-def portfolio(m: S.Market, h_min: float | None = None, vol_max: float | None = None, safe_fill: bool = True) -> pd.DataFrame:
-    parts = [engine(m, s, h_min, vol_max, safe_fill) for s in SYMS]
+def portfolio(m: S.Market, h_min: float | None = None, vol_max: float | None = None, safe_fill: bool = True,
+              scale: dict[str, pd.Series] | None = None, downside: bool = False) -> pd.DataFrame:
+    parts = [engine(m, s, h_min, vol_max, safe_fill, (scale or {}).get(s), downside) for s in SYMS]
     col = lambda k: pd.DataFrame({i: p[k] for i, p in enumerate(parts)}).mean(axis=1)   # noqa: E731  (whatever exists that day, as in mt5_study)
     out = pd.DataFrame({"net": col("net"), "worst": col("worst"), "ativo": pd.DataFrame({i: (p["w"] > 0).astype(float) for i, p in enumerate(parts)}).mean(axis=1)}).dropna()
     out.attrs["parts"] = parts
@@ -105,7 +114,8 @@ def episodes(p: pd.DataFrame, start: pd.Timestamp) -> dict:
         first = part.index.to_series()[held].groupby(run).first()
         res += list(g.sum()[first >= start])
     r = np.array(res)
-    return {"trades": len(r), "acerto liquido %": round(100 * float((r > 0).mean()), 1) if len(r) else np.nan,
+    months = max((p.index[-1] - max(start, p.index[0])).days / 30.44, 1e-9)
+    return {"trades": len(r), "trades por mes": round(len(r) / months, 2), "acerto liquido %": round(100 * float((r > 0).mean()), 1) if len(r) else np.nan,
             "profit factor": round(float(r[r > 0].sum() / -r[r <= 0].sum()), 2) if (r <= 0).any() and (r > 0).any() else np.nan}
 
 
@@ -118,17 +128,21 @@ def to_trades(p: pd.DataFrame, unit: float, measured: bool) -> Trades:
                   gap, (z[:, 0] > 0).astype(int), np.arange(n), pd.DataFrame())
 
 
-def journey(name: str, days: Trades, design: np.ndarray, t1: float, t2: float, kill: float, paths: int = 10_000) -> dict:
+def journey(name: str, days: Trades, design: np.ndarray, t1: float, t2: float, kill: float, paths: int = 10_000,
+            menu: np.ndarray = VOL_MENU, discount: float = 0.999, fixed: float | None = None) -> dict:
     """Policy solved on `design` (before 2019), account replayed on `days` (2019-2026) under one firm's targets."""
     q = dataclasses.replace(Q, phase1_target=t1, phase2_target=t2, hard_daily_kill=kill)
     old = mcp.Q
     mcp.Q = q
     try:
-        vals, probs = bbc.outcome_distribution(np.clip(design, -4, 4), bin_r=0.5)
-        kw = dict(trades_per_day=1.0, discount=0.999, actions=VOL_MENU, sweeps=1200, tol=1e-5, daily_kill=kill)
-        barrier = {0: bbc.solve_evaluation(vals, probs, t1, **kw), 1: bbc.solve_evaluation(vals, probs, t2, **kw)}
-        cfg = Controller(name, 0.0, "bellman", daily_kill=kill, cap_to_kill=True, funded="harvest", payout="trigger", barrier=barrier,
-                         harvest=dbs.solve_funded(vals, probs, actions=FUNDED_MENU, sweeps=4000, tol=1e-7))
+        if fixed is not None:                                             # the same share of the account every day
+            cfg = Controller(name, 0.0, "fixed", risk_hi=fixed, daily_kill=kill, cap_to_kill=True, funded="fixed", funded_risk=fixed, payout="trigger")
+        else:
+            vals, probs = bbc.outcome_distribution(np.clip(design, -4, 4), bin_r=0.5)
+            kw = dict(trades_per_day=1.0, discount=discount, actions=menu, sweeps=1200, tol=1e-5, daily_kill=kill)
+            barrier = {0: bbc.solve_evaluation(vals, probs, t1, **kw), 1: bbc.solve_evaluation(vals, probs, t2, **kw)}
+            cfg = Controller(name, 0.0, "bellman", daily_kill=kill, cap_to_kill=True, funded="harvest", payout="trigger", barrier=barrier,
+                             harvest=dbs.solve_funded(vals, probs, actions=FUNDED_MENU, sweeps=4000, tol=1e-7))
         st, out = mcp.monte_carlo(days, cfg, paths)
     finally:
         mcp.Q = old
@@ -136,6 +150,8 @@ def journey(name: str, days: Trades, design: np.ndarray, t1: float, t2: float, k
     return {"aprovacao F1+F2 %": r["passa_F1+F2_%"], "aprovado em 12 meses %": r["aprovado_em_12m_%"],
             "reprova por perda diaria %": r["viola_diario_%"], "reprova por perda total %": r["viola_total_%"],
             "sem decisao %": r["indefinido_%"], "dias corridos (mediana)": r["dias_corridos"],
+            "dias ate a meta da Fase 1 (media)": round(float(np.nanmean(out["p1_cal"])), 0) if np.isfinite(out["p1_cal"]).any() else np.nan,
+            "dias ate aprovar F1+F2 (media)": round(float(np.nanmean(out["app_cal"])), 0) if np.isfinite(out["app_cal"]).any() else np.nan,
             "sobrevive 12 meses %": r["sobrevive_12m_%"], "saques 12 meses US$": r["saques_12m_usd"], "EV US$": r["EV_usd"]}
 
 

@@ -15,6 +15,7 @@ Como reproduzir (a partir de `trader/`, com a pasta de dados exportada do MT5):
     python -m prop.research.nucleo_a <pasta>            # experimento 1
     python -m prop.research.nucleo_a <pasta> --seletivo # experimento 2
     python -m prop.research.stage2 <pasta>              # marco do Estágio 2 e Hipótese 1
+    python -m prop.research.hypotheses <pasta>          # Hipóteses 2, 3 e 4 (precisa de lightgbm)
 
 ---
 
@@ -94,6 +95,10 @@ hipóteses é contra a linha C.
 | **C. B + corte a 60% da perda diária** | 8% + 5% | **65,1%** | 40,3% | 0,0% | 33,5% | 289 | US$ 362 |
 | **C. idem** | FTMO / The5ers | **62,7%** | 33,6% | 0,0% | 34,9% | 341 | US$ 346 |
 
+**Frequência e tempo (linha C).** 0,15 trade por mês (14 entradas completas em quase 8 anos; o
+lote é reajustado em cerca de 11% dos dias). Tempo médio até a meta da Fase 1: 234 dias na regra
+de 8% e 292 dias na de 10%. Tempo médio até aprovar nas duas fases: 369 e 422 dias.
+
 **Leitura.** As guardas não custaram aprovação e as reprovações por perda diária ficaram em zero.
 Sem o corte, o pior dia de 2019 a 2026 no maior tamanho da política teria sido -7,2%, acima do
 limite de 5%, então o corte é necessário. O que reprova é a perda total de 10%: com Sharpe perto
@@ -132,3 +137,109 @@ movimento a favor e multiplica as entradas e saídas (61 trades contra 14), paga
 Os filtros de Hurst sobem o acerto por trade, mas com 5 a 16 trades isso não tem significância.
 
 **Decisão: descartada.** A linha C continua sendo a base.
+
+---
+
+As três hipóteses abaixo mudam uma coisa de cada vez sobre a linha C e passam pela mesma jornada.
+Colunas de tempo em dias de calendário, média das contas que chegaram lá. "Sem decisão" são as
+contas que em 4 anos simulados não aprovaram nem reprovaram.
+
+## Hipótese 2: meta-labeling com predição conformal (28/11/2026)
+
+**O que foi testado.** Para cada dia em que o motor está comprado em um metal, um LightGBM raso
+(200 árvores, profundidade 3, 50 amostras por folha, regularização L2 = 5) estima
+`p = P(retorno dos próximos 5 dias > 0)` a partir de 11 variáveis conhecidas no fechamento
+(distância entre as médias, retornos de 20/60/120 dias em unidades de volatilidade, razão de
+volatilidade, Hurst, distância da máxima de 50 dias, razão ouro/prata, tendência do outro metal,
+esticamento sobre a média, dia da semana). Walk-forward anual desde 2010: o modelo de cada ano só
+vê rótulos já encerrados. Predição conformal por divisão: os 25% finais do treino calibram o
+escore `1 - p(classe verdadeira)`; com cobertura de 80% sai um conjunto de classes possíveis.
+"Estrito" fica comprado só se o conjunto é {ganho}; "leve" sai só se o conjunto é {perda}.
+
+| Caso | Sharpe 2010-18 (walk-forward) | Sharpe 2019-26 | Trades/mês | Acerto | Profit factor | Aprovação 8%+5% | Aprovação FTMO | Dias até meta F1 (8% / 10%) | Sem decisão |
+|---|---|---|---|---|---|---|---|---|---|
+| base (linha C) | 0,51 | 0,58 | 0,15 | 28,6% | 2,70 | 65,1% | 62,7% | 234 / 292 | 1,4% |
+| H2 estrito | 0,55 | 0,47 | 1,37 | 56,9% | 1,75 | 47,9% | 38,9% | 660 / 763 | 50,3% |
+| H2 leve | 0,53 | 0,39 | 1,58 | 59,3% | 1,41 | 57,3% | 53,4% | 339 / 417 | 9,0% |
+
+**Por que falhou.** O filtro dobra o acerto por trade (de 29% para 57-59%), mas faz isso cortando
+uma tendência longa em 130 a 150 pedaços curtos: os ganhos grandes, que pagam a estratégia de
+tendência, desaparecem (profit factor cai de 2,70 para 1,41-1,75) e o custo de entrar e sair é
+pago dez vezes mais. Antes de 2019 o filtro parecia ajudar um pouco (0,55 contra 0,51) e teria
+sido escolhido; depois de 2019 ele piorou. É o padrão de sobreajuste que a validação cega existe
+para pegar. Taxa de acerto alta não é o mesmo que taxa de aprovação alta.
+
+**Decisão: descartada.**
+
+## Hipótese 3: tamanho de posição (28/11/2026)
+
+**O que foi testado.**
+- *Volatilidade de queda:* posição = 1% / `sqrt(2 · média móvel de min(r, 0)²)`, isto é, o tamanho
+  é medido só pelos dias de queda. Altas fortes não encolhem a posição; quedas fortes encolhem.
+- *Política paciente:* a mesma programação dinâmica (Bellman) com menu de risco mais fino
+  (0,05% a 0,6% ao dia) e desconto 0,9997 no lugar de 0,999, ou seja, menos pressa.
+- *Tamanho fixo:* 0,2%, 0,3% e 0,4% da conta por dia, sem política, como referência.
+
+| Caso | Sharpe 2019-26 | Aprovação 8%+5% | Aprovação FTMO | Em 12 meses (8%+5%) | Reprova perda total | Sem decisão | Dias até meta F1 (8% / 10%) | Dias até aprovar | Saques 12 meses |
+|---|---|---|---|---|---|---|---|---|---|
+| base (linha C) | 0,58 | 65,1% | 62,7% | 40,3% | 33,5% | 1,4% | 234 / 292 | 369 | US$ 362 |
+| volatilidade de queda | 0,60 | **66,8%** | **64,5%** | 41,1% | 31,8% | 1,4% | 231 / 294 | 370 | US$ 399 |
+| política paciente | 0,58 | **68,1%** | **64,6%** | 30,9% | 11,3% | 20,6% | 331 / 383 | 511 | US$ 362 |
+| fixo 0,2% | 0,58 | 40,3% | 30,0% | 0,8% | 4,8% | 54,9% | 718 / 833 | 970 | US$ 79 |
+| fixo 0,3% | 0,58 | 62,5% | 55,6% | 8,0% | 18,3% | 19,2% | 521 / 622 | 756 | US$ 234 |
+| fixo 0,4% | 0,58 | 64,9% | 61,3% | 20,5% | 31,2% | 3,9% | 372 / 463 | 569 | US$ 359 |
+
+Trades por mês: 0,15 em todos (o tamanho não muda as entradas). Reprovação por perda diária: 0,0%
+em todos.
+
+**Leitura.**
+- A volatilidade de queda ganha 1,7 ponto nas duas mesas, reduz a maior queda (47,5 contra 51,8
+  dias normais) e não custa tempo. O ganho é pequeno: o erro da simulação é de cerca de 0,5 ponto
+  e o período de teste é um só, então ele é real na medição mas não é uma certeza.
+- A política paciente troca reprovação por espera: a perda total cai de 33,5% para 11,3%, mas
+  20,6% das contas ainda estão sem decisão depois de 4 anos, a aprovação em 12 meses cai de 40,3%
+  para 30,9% e a meta da Fase 1 demora 331 dias em vez de 234. A aprovação de 68,1% é um piso (parte
+  das contas sem decisão ainda aprovaria), mas o preço é tempo.
+- O tamanho fixo perde para a política de Bellman em tudo: a política rende mais porque arrisca
+  mais longe dos limites e menos perto deles.
+
+**Decisão: volatilidade de queda aprovada (nova base: 66,8% / 64,5%). Política paciente fica como
+opção para quem aceita esperar mais; não é ganho de graça.**
+
+## Hipótese 4: ouro e prata lidos juntos (28/11/2026)
+
+**O que foi testado.** Duas ideias da estrutura própria dos dois metais. *Confirmação:* metade do
+tamanho quando só um dos dois está em tendência de alta (alta de um metal sem o outro costuma ser
+mais frágil). *Esticado:* metade do tamanho quando o preço está mais de 2 desvios acima da média
+de 50 dias, `(P / EMA50 - 1) / (vol · sqrt(50)) > 2`, uma saída parcial adaptativa.
+
+| Caso | Sharpe antes de 2019 | Sharpe 2019-26 | Aprovação 8%+5% | Aprovação FTMO |
+|---|---|---|---|---|
+| base (linha C) | 0,51 | 0,58 | 65,1% | 62,7% |
+| confirmação ouro/prata | 0,51 | 0,50 | 60,1% | 57,9% |
+| esticado acima da média | 0,50 | 0,59 | 64,8% | 62,7% |
+| confirmação + esticado | 0,51 | 0,51 | 60,4% | 58,0% |
+
+**Por que falhou.** De 2019 a 2026 o ouro subiu muito mais e por mais tempo que a prata; exigir
+confirmação da prata cortou pela metade a posição justamente nas altas do ouro. Reduzir quando
+está esticado não muda nada de mensurável: tendências fortes ficam esticadas por muito tempo e
+a redução devolve o que economiza.
+
+**Decisão: descartada.**
+
+---
+
+## Situação depois de quatro hipóteses (28/11/2026)
+
+| | Aprovação 8%+5% | Aprovação FTMO |
+|---|---|---|
+| Marco (linha C) | 65,1% | 62,7% |
+| Melhor resultado mantido (volatilidade de queda) | 66,8% | 64,5% |
+| Meta do Estágio 3 | 85% a 90% | 85% a 90% |
+
+Nenhuma técnica de filtro (Hurst, volatilidade, meta-labeling conformal, leitura cruzada dos
+metais) aumentou a vantagem do motor fora da amostra; três delas a reduziram. O único ganho veio
+de dimensionar melhor a posição, e ele é de 1 a 3 pontos. A distância até 85-90% não é de
+blindagem nem de filtro: pela relação medida em 26/11 entre Sharpe e aprovação, ela pede um motor
+com Sharpe perto de 1,5, e o melhor motor comprovado nestes mercados tem 0,6. Insistir em mais
+variantes sobre os mesmos sete anos de teste passaria a ajustar o método ao período de teste.
