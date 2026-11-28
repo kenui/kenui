@@ -2,6 +2,7 @@
 
     python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data            # everything except single stocks
     python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data --lista    # only writes the list of symbols
+    python -m prop.data.mt5_export C:\\Users\\kenui\\Projetos\\mt5data --fundos   # the exchange-traded funds in FUNDS
 
 Writes <SYMBOL>_D1.csv.gz and <SYMBOL>_H1.csv.gz in the format mt5_study reads, adds the new symbols to
 symbols.json and writes servidor_simbolos.csv with every symbol of the server (name, group path,
@@ -19,6 +20,12 @@ SKIP = ("stock", "share", "equit", "etf", "acoes")          # group paths left o
 SPEC = ["path", "digits", "point", "spread", "trade_contract_size", "trade_tick_size", "trade_tick_value", "volume_min",
         "volume_step", "swap_long", "swap_short", "swap_mode", "swap_rollover3days", "trade_mode", "bid", "ask"]
 MAX_NEW = 200
+# Exchange-traded funds that stand for markets the server has no contract for: oil, gas, bonds, broad commodities,
+# volatility, bitcoin, countries and US sectors. Daily history of these is the closest thing to those markets here.
+FUNDS = ["USO", "BNO", "UNG", "DBC", "DBA", "CPER", "GLD", "SLV", "PPLT", "TLT", "IEF", "SHY", "TIP", "LQD", "HYG", "EMB",
+         "UUP", "FXE", "FXY", "SPY", "QQQ", "IWM", "DIA", "EFA", "EEM", "EWJ", "EWZ", "FXI", "INDA", "EWG", "EWU", "VNQ",
+         "XLE", "XLF", "XLK", "XLV", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC", "VIXY", "SVXY", "IBIT", "BITO", "ETHA",
+         "GDX", "KRE", "SMH", "XBI", "ARKK"]
 
 
 def wanted(path: str, everything: bool) -> bool:
@@ -40,7 +47,10 @@ def main() -> None:
         return
     spec_file = folder / "symbols.json"
     spec = json.loads(spec_file.read_text()) if spec_file.exists() else {}
-    new = [s for s in syms if wanted(s.path, "--tudo" in sys.argv) and not (folder / f"{s.name}_D1.csv.gz").exists()][:MAX_NEW]
+    if "--fundos" in sys.argv:
+        new = [s for s in syms if s.name in FUNDS and not (folder / f"{s.name}_D1.csv.gz").exists()]
+    else:
+        new = [s for s in syms if wanted(s.path, "--tudo" in sys.argv) and not (folder / f"{s.name}_D1.csv.gz").exists()][:MAX_NEW]
     done = 0
     for s in new:
         mt5.symbol_select(s.name, True)
