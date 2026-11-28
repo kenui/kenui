@@ -741,3 +741,27 @@ que sobrevive continua sendo a tendência de ouro e prata. Duas lições para a 
 simples e públicas de preço diário estão esgotadas nos mercados que temos; (2) ativos calmos só
 funcionam onde não se paga financiamento, o que aponta para mesas de futuros de verdade, que não
 cobram juro por noite, como alternativa de lugar e não só de estratégia.
+
+# Ciclo 5: posição dos grandes especuladores (registrado em 28/11/2026, antes de baixar os dados)
+
+Mudança de fonte de dado, não de filtro: pela primeira vez o sinal não vem do preço. A CFTC publica
+toda sexta-feira a posição dos grandes especuladores nos futuros, medida na terça anterior.
+
+**Hipótese 9, posição dos especuladores em metais e moedas.** Quem está do outro lado: fundos
+que seguem tendência e ficam todos do mesmo lado; quando a posição chega ao extremo, não sobra
+comprador e o preço devolve. A leitura contrária também existe (seguir o fluxo enquanto ele
+cresce), por isso as duas entram como variantes e a escolha é feita antes de 2019.
+
+Dado: relatório tradicional, só futuros. Medida: posição líquida dos não comerciais dividida pelos
+contratos em aberto. O sinal vale a partir do fechamento da sexta em que o relatório sai e a
+ordem entra na abertura de segunda. Custos da corretora (spread, comissão, swap).
+
+Variantes (4 por cesta, 8 no total):
+- contrária no extremo: nota z da medida em 52 ou 156 semanas; vendido se z > 1,5, comprado se
+  z < -1,5, sai quando |z| < 0,5;
+- segue o fluxo: sinal da variação da medida em 4 ou 13 semanas.
+Cestas: metais (XAUUSD, XAGUSD) e moedas (EUR, GBP, JPY, AUD, CAD, CHF, NZD contra o dólar).
+
+Critério: escolha pelo Sharpe antes de 2019 (mínimo 0,5); depois de 2019, Sharpe de pelo menos
+0,5, 30 operações ou mais, t de pelo menos 2,3 (duas cestas) e correlação com a Frente 1 abaixo de
+0,25. Sem segunda rodada.
