@@ -76,3 +76,43 @@ def test_policy_default_and_tables():
 
 def test_rollover_window():
     assert M.in_rollover(NOW.replace(hour=22)) and not M.in_rollover(NOW)
+
+
+class _Mt5:
+    SYMBOL_TRADE_MODE_FULL = 4
+
+    def __init__(self, missing: str) -> None:
+        self.missing = missing
+
+    def symbol_info(self, sym):
+        from types import SimpleNamespace
+        return SimpleNamespace(trade_contract_size=100.0, volume_step=0.01, volume_min=0.01, volume_max=100.0, spread=10, trade_mode=4)
+
+    def symbol_info_tick(self, sym):
+        from types import SimpleNamespace
+        return None if sym == self.missing else SimpleNamespace(ask=2000.0, bid=1999.5)
+
+
+class _Terminal:
+    def __init__(self, missing: str) -> None:
+        self.mt5 = _Mt5(missing)
+
+    def equity(self) -> float:
+        return 100_000.0
+
+    def bars(self, sym: str) -> pd.DataFrame:
+        return bars(-0.003).assign(spread=10)
+
+    def held(self, sym: str):
+        return 0.0, []
+
+
+def test_a_symbol_without_data_keeps_the_day_open_for_a_retry(tmp_path, monkeypatch):
+    monkeypatch.setattr(M, "in_rollover", lambda now: False)
+    rules, pol = M.load_rules("padrao"), M.Policy()
+    st = M.State(tmp_path / "a.db")
+    M.run_once(_Terminal(missing="XAGUSD"), st, rules, pol, live=True)
+    assert st.get("rebalanced") != st.get("day")              # silver was not read: try again on the next pass
+    st2 = M.State(tmp_path / "b.db")
+    M.run_once(_Terminal(missing=""), st2, rules, pol, live=True)
+    assert st2.get("rebalanced") == st2.get("day")
