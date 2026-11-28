@@ -798,3 +798,33 @@ nas regras das mesas: Phidias Premium (noite e fim de semana), Elite Trader Fund
 Diamond Hands e Direct to Funded, e The5ers Swing (posição pequena, sem fim de semana).
 Fontes: help.topstep.com, helloweekends.com, quantvps.com. Fica como alternativa de lugar para a
 Frente 1, a conferir preço, regras e se aceitam robô antes de qualquer recomendação.
+
+# Ciclo 6: moedas novas e metais novos (registrado em 28/11/2026, antes de receber os dados)
+
+A exportação dos pares novos ainda está rodando no PC do Kenui; nenhum arquivo novo de moeda foi
+aberto até este registro.
+
+**Hipótese 10, tendência diária em mercados de câmbio e metais ainda não testados.** Mesmas
+regras de `trend.RULES`, sem parâmetro novo, comprado e vendido, peso igual no grupo. Grupos:
+- emergentes contra o dólar: USDMXN, USDZAR, USDTRY, USDBRL, USDCNH, USDPLN, USDHUF, USDCZK,
+  USDSGD, USDTHB, USDILS, USDCLP, USDCOP, USDNOK, USDSEK (os que existirem; ficam de fora rublo e
+  peso argentino, que não são negociáveis na prática, e as moedas presas ao dólar ou ao euro);
+- cruzamentos das moedas principais: EURAUD, EURCAD, EURCHF, EURNZD, GBPAUD, GBPCAD, GBPCHF,
+  GBPNZD, AUDCAD, AUDCHF, AUDJPY, AUDNZD, CADCHF, CADJPY, CHFJPY, NZDCAD, NZDCHF, NZDJPY;
+- metais novos: platina, paládio, níquel e chumbo, com os nomes que o servidor usar.
+
+**Hipótese 11, prêmio de juro em moedas de juro alto.** Quem está do outro lado: quem precisa
+de proteção contra a queda dessas moedas e paga por ela. Regra: vendido em dólar contra MXN, ZAR,
+TRY, BRL, HUF, PLN, COP e CLP (lista fixa, de países com juro acima do americano há décadas),
+risco de 1% de volatilidade dividido entre elas. Duas variantes: sempre posicionado; ou só quando
+o retorno de 180 dias da moeda não é negativo. Limite conhecido: os arquivos só têm o swap de
+hoje, usado como constante em todo o passado. Por isso uma aprovação aqui vale só como candidata
+e exigiria confirmar o juro histórico antes de virar motor.
+
+Só entram símbolos com pelo menos 1.500 dias. Custo: metade do spread mediano mais comissão por
+lado, e o swap da corretora lido do arquivo (cada lado com o seu sinal na hipótese 11; a média
+paga dos dois lados na hipótese 10).
+
+Critério: escolha pelo Sharpe antes de 2019 (mínimo 0,5); depois de 2019, Sharpe de pelo menos
+0,5, 30 operações ou mais, t de pelo menos 2,5 (quatro grupos) e correlação com a Frente 1 abaixo
+de 0,25. Sem segunda rodada.
