@@ -232,6 +232,11 @@ class Terminal:
     def bars(self, sym: str, n: int = 700) -> pd.DataFrame:
         self.mt5.symbol_select(sym, True)
         r = self.mt5.copy_rates_from_pos(sym, self.mt5.TIMEFRAME_D1, 0, n)
+        for _ in range(3):                                    # a symbol just added to Market Watch loads its history late
+            if r is not None and len(r) >= SLOW:
+                break
+            time.sleep(2)
+            r = self.mt5.copy_rates_from_pos(sym, self.mt5.TIMEFRAME_D1, 0, n)
         if r is None or len(r) < SLOW:
             return pd.DataFrame(columns=["close"])
         df = pd.DataFrame(r)
@@ -296,7 +301,9 @@ def run_once(t: Terminal, st: State, rules: dict, pol: Policy, live: bool) -> No
     for sym in SYMBOLS:
         d, info, tick = t.bars(sym), t.mt5.symbol_info(sym), t.mt5.symbol_info_tick(sym)
         if info is None or tick is None or d.empty or tick.ask <= 0:
-            print(f"  {sym}: sem dados neste servidor")
+            why = "simbolo nao existe neste servidor" if info is None else ("historico ainda nao carregou" if d.empty else "sem cotacao agora")
+            print(f"  {sym}: {why}, tento de novo na proxima volta")
+            done = False                                      # the day is not closed until every symbol was read
             continue
         w = weight(d)
         tgt = target_lots(w, budget, pol.unit, len(SYMBOLS), equity, tick.ask, info.trade_contract_size, info.volume_step,
